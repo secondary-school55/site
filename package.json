@@ -1,0 +1,45 @@
+{
+  "name": "site-next",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export && node scripts",
+    "fix": "eslint --fix .",
+    "start": "next build && next start"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^1.6.18",
+    "@next/mdx": "^9.5.3",
+    "disqus-react": "^1.0.10",
+    "flickity": "^2.2.1",
+    "glob": "^7.1.6",
+    "next": "^9.5.3",
+    "next-plugin-yaml": "^1.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-icons": "^3.11.0",
+    "react-intersection-observer": "^8.28.5",
+    "react-markdown": "^4.3.1",
+    "react-sortable-tree": "^2.8.0",
+    "react-table": "^6.11.5",
+    "rehype-raw": "^4.0.2",
+    "rehype-react": "^6.1.0",
+    "remark-frontmatter": "^2.0.0",
+    "remark-parse": "^8.0.3",
+    "remark-rehype": "^7.0.0",
+    "styled-components": "^5.2.0",
+    "styled-css-grid": "^1.2.1",
+    "swr": "^0.3.2",
+    "unified": "^9.2.0",
+    "xlsx": "^0.14.5"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.11.1",
+    "eslint": "^7.9.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.2",
+    "eslint-plugin-simple-import-sort": "^5.0.3",
+    "prettier": "^2.1.2"
+  }
+}

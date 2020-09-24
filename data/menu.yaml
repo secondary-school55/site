@@ -1,0 +1,173 @@
+- title: Головна
+  route: /
+  items:
+    - title: Дистанційне навчання
+      route: /distance-learning
+      
+    - title: Фотоальбом
+      route: https://album.school55.pp.ua/photo
+
+    - title: Карта сайту
+      route: /map
+
+- title: Про школу
+  items:
+    - title: Візитка
+      route: /school/about
+
+    - title: Історична довідка
+      route: /school/history
+
+    - title: Відомі випускники
+      route: /school/graduates
+
+    - title: Грані вдосконалення закладу
+      route: /school/improvements
+
+    - title: Ми у пресі
+      route: https://www.youtube.com/playlist?list=PLRRIw-HYRJOqvwF8B4qVAviOnmN5iY3Xn
+
+    - title: Благодійні внески платежного сервісу EDUPAY
+      route: /school/edupay
+
+- title: Інформаційно-звітній дайджест
+  items:
+    - title: Новини
+      route: /posts?kind=news
+      posts: news
+
+    - title: Оголошення
+      route: /posts?kind=announcements
+      posts: announcements
+
+    - title: Корисна та актуальна інформація
+      route: /posts?kind=useful
+      posts: useful
+
+    - title: ЗНО
+      route: /posts?kind=zno
+      posts: zno
+
+    - title: ДПА
+      route: /posts?kind=dpa
+      posts: dpa
+
+    - title: Табір "Веселка"
+      route: /posts?kind=camp
+      posts: camp
+
+    - title: Л. Гриневич про школу
+      route: https://www.youtube.com/playlist?list=PLRRIw-HYRJOr2XVPRWJTTHpGPV_C4pwiv
+
+    - title: Уроки Авраменка
+      route: https://www.youtube.com/playlist?list=PLEoEWGEBriPCTBIOQbXIIDzFFakriePu-
+
+    - title: Сторінками дитячої творчості
+      route: https://www.youtube.com/playlist?list=PLRRIw-HYRJOpzrWlpb8GywybT26k1kMLR
+
+    - title: Орієнтовний перелік потреб навчального закладу
+      route: /digest/needs
+
+    - title: Листи-інформатори
+      route: /digest/letters
+
+    - title: Інформаційні бюлетені МОН України
+      route: /digest/mon
+
+- title: Публічна інформація
+  route: /public-info
+  items:
+    - title: Структура та органи управління
+      route: /public-info/structure-and-organization
+
+    - title: Територія обслуговування
+      route: /public-info/territory-of-service
+
+    - title: Ліцензований обсяг та фактична кількість осіб, які навчаються у закладі освіти
+      route: /public-info/license
+
+    - title: Вакансії
+      route: /public-info/vacancy
+
+    - title: Умови прийому
+      route: /public-info/rules-of-admission
+
+    - title: Умови доступності закладу освіти для навчання осіб з особливими освітніми потребами
+      route: /public-info/conditions-of-availability
+
+    - title: Перелік додаткових освітніх та інших послуг
+      route: /public-info/additional-services
+
+- title: Фінансово-господарська діяльність закладу
+  route: /finance
+
+- title: Ліцензування
+  items:
+    - title: Інформаційна довідка про заклад
+      route: /license/information-about-school.pdf
+
+    - title: Статут КЗШ 55
+      route: https://drive.google.com/open?id=1xl8bUSU9XcB6i3aWb66PB9GdtE1dze9I
+
+    - title: Кількісні та якісні показники кадрового забезпечення
+      route: /public-info/cadre.pdf
+
+    - title: Матеріально технічне забезпечення
+      route: /public-info/material-and-technical-support.pdf
+
+    - title: Навчально методичне програмне забезпечення
+      route: /public-info/educational-and-methodical-support.pdf
+
+- title: Управління
+  items:
+    - title: Нормативні документи
+      route: /control/normative
+
+    - title: Адміністрація
+      route: /control/administration
+
+    - title: Педагогічні працівники
+      route: /control/teachers
+
+    - title: Педагогічні ради
+      route: /control/pedagogical-council
+
+    - title: Наради при директорові
+      route: /control/meetings-at-director
+
+    - title: Методичні й організаційні наради при ЗДНВР
+      route: /control/methodological-organizational-meetings
+
+    - title: Програма розвитку школи
+      route: /control/development-program
+
+    - title: Засідання батьківського комітету
+      route: /control/parent-committee
+
+    - title: Орган громадського самоврядування
+      route: /control/local-authorities
+
+- title: Наші досягнення
+  items:
+    - title: Досягнення учнів
+      route: /achievements/pupils
+
+    - title: Досягнення вчителів
+      route: /achievements/teachers
+
+    - title: Досягнення закладу
+      route: /achievements/school
+
+    - title: Гордість школи
+      route: /achievements/pride
+
+- title: Контакти
+  items:
+    - title: Гостьова книга
+      route: /contacts/guestbook
+
+    - title: Голосування
+      route: /contacts/vote
+
+    - title: Зворотній зв'язок
+      route: /contacts/feedback

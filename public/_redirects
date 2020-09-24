@@ -1,0 +1,6 @@
+/news          /posts?kind=news
+/announcements /posts?kind=announcements
+/useful        /posts?kind=useful
+/zno           /posts?kind=zno
+/dpa           /posts?kind=dpa
+/camp          /posts?kind=camp

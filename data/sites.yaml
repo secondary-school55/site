@@ -1,0 +1,64 @@
+
+- url: "http://mon.gov.ua/"
+  thumbnail: "mon.gov.ua"
+  title: "Міністерство освіти і науки України"
+
+- url: "https://adm.dp.gov.ua/ua/dniprooda/pro-oda/departamenti-ta-upravlinnya/departament-osviti-i-nauki"
+  thumbnail: "department.osvita-dnepr"
+  title: "Департамент освіти і науки Дніпропетровської ОДА"
+
+- url: "http://dneprtest.dp.ua/cms/index.php"
+  thumbnail: "dneprtest.dp.ua"
+  title: "Дніпропетровський регіональний центр оцінювання якості освіти"
+
+- url: "http://kr.gov.ua/"
+  thumbnail: "kr.gov.ua"
+  title: "Офіційний сайт виконкому Криворізької міської ради"
+
+- url: "http://uokr.dnepredu.com/uk/site/index.html"
+  thumbnail: "uokr.dnepredu.com"
+  title: "Департамент освіти і науки виконкому Криворізької міської ради"
+
+- url: "http://kzimc.at.ua/"
+  thumbnail: "kzimc.at.ua"
+  title: "КЗ \"Інноваційно-методичний центр\""
+
+- url: "http://www.doippo.dp.ua/"
+  thumbnail: "www.doippo.dp.ua"
+  title: "Дніпропетровський обласний інститут післядипломної педагогічної освіти"
+
+- url: "https://sites.google.com/site/ternvokrivojrog/"
+  thumbnail: "ternvokrivojrog"
+  title: "Відділ освіти виконкому Тернівської районної у місті ради"
+
+- url: "http://pedpresa.ua/"
+  thumbnail: "pedpresa.ua"
+  title: "Освітній портал \"Педагогічна преса\""
+
+- url: "https://krmisto.gov.ua/ua/index.html"
+  thumbnail: "krogerc.info"
+  title: "Криворізький ресурсний центр"
+
+- url: "http://trnvk.gov.ua/"
+  thumbnail: "trnvk.gov.ua"
+  title: "Виконавчий комітет Тернівської районної у місті ради"
+
+- url: "http://osvita.ua/"
+  thumbnail: "osvita.ua"
+  title: "Освіта в Україні та за кордоном"
+
+- url: "http://disted.edu.vn.ua/media/bp/html/etusivu.htm"
+  thumbnail: "disted.edu.vn.ua"
+  title: "On-ландія - безпечна веб-країна"
+
+- url: "http://children.kmu.gov.ua/"
+  thumbnail: "children.kmu.gov.ua"
+  title: "Урядовий сайт для юних громадян"
+
+- url: "https://edupay.com.ua/#/pay/5?institutionId=323"
+  thumbnail: "edupay.com.ua"
+  title: "EDUPAY"
+
+- url: "http://sqe.gov.ua"
+  thumbnail: "sqe.gov.ua"
+  title: "Державна служба якості освіти"

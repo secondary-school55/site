@@ -1,0 +1,1 @@
+require("./generate-album-index");
