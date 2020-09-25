@@ -29,6 +29,8 @@ export default function PublicInfo() {
    - [2016-2017 н.р.](/public-info/annual-report/2016-2017.pdf) ([презентація](https://drive.google.com/open?id=156j7FFLHIt0v_8QEbIx97DufTQfX7jjj))
    - [2015-2016 н.р.](/public-info/annual-report/2015-2016.pdf) ([презентація](https://drive.google.com/open?id=1R9010IqeDb0-PFTMnNTpZzymrg4-UYJ_))
    - [2014-2015 н.р.](/public-info/annual-report/2014-2015.pdf)
+1. Благоустрій та ремонт школи:
+   - [2019-2020 н.р.](https://youtu.be/aiY5HHIYowU)
 1. [Правила прийому](/public-info/rules-of-admission)
 1. [Умови доступності закладу освіти для навчання осіб з особливими освітніми потребами](/public-info/conditions-of-availability)
 1. [Перелік додаткових освітніх та інших послуг](/public-info/additional-services)
