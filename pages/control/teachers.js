@@ -7,7 +7,7 @@ export default function Teachers() {
   return (
     <Grid columns="1fr 1fr">
       <Cell width={2}>
-        <All src="/teachers/all.webp" />
+        <All src="/teachers/all.jpg" />
         <Text>
           Школа будує кадрову політику таким чином, щоб кожен учасник
           навчального процесу відчував себе дієвою частиною спільної справи. Для
