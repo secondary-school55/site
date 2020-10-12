@@ -4,6 +4,7 @@ import { useYouTube } from "lib/youtube";
 import React from "react";
 import styled, { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 
 export default function Posts({ data: posts, kind, youtube, filter }) {
   if (youtube !== undefined) {
@@ -57,7 +58,7 @@ function render(posts) {
   );
 }
 
-const Thumbnail = styled.img`
+const Thumbnail = styled(LazyLoadImage)`
   width: 100%;
   display: block;
 `;

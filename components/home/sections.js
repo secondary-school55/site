@@ -3,6 +3,7 @@ import sections from "data/external.yaml";
 import teachers from "data/teachers.yaml";
 import styled, { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 
 export default function Sections() {
   return (
@@ -44,7 +45,7 @@ function renderMenuItems(items, teachers) {
   ));
 }
 
-const Bg = styled.img`
+const Bg = styled(LazyLoadImage)`
   width: 100%;
   display: block;
 `;

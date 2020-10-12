@@ -2,6 +2,7 @@ import Link from "components/link";
 import React from "react";
 import styled, { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 
 export default function DistanceLearning() {
   return (
@@ -49,7 +50,7 @@ export default function DistanceLearning() {
   );
 }
 
-const Bg = styled.img`
+const Bg = styled(LazyLoadImage)`
   width: 100%;
   display: block;
 `;
