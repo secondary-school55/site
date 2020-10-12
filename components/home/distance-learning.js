@@ -1,8 +1,8 @@
 import Link from "components/link";
 import React from "react";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 import styled, { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
-import { LazyLoadImage } from "react-lazy-load-image-component";
 
 export default function DistanceLearning() {
   return (

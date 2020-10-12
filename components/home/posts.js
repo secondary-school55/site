@@ -2,9 +2,9 @@ import Link from "components/link";
 import { filterByKind } from "lib/posts/utils";
 import { useYouTube } from "lib/youtube";
 import React from "react";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 import styled, { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
-import { LazyLoadImage } from "react-lazy-load-image-component";
 
 export default function Posts({ data: posts, kind, youtube, filter }) {
   if (youtube !== undefined) {

@@ -1,9 +1,9 @@
 import Link from "components/link";
 import sections from "data/external.yaml";
 import teachers from "data/teachers.yaml";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 import styled, { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
-import { LazyLoadImage } from "react-lazy-load-image-component";
 
 export default function Sections() {
   return (
