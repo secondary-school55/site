@@ -1,20 +1,21 @@
 const fs = require("fs");
 const glob = require("glob");
+const path = require("path");
 
 const album = glob
-  .sync("public/posts/news/*.md", { cwd: "." })
-  .map((file) => ({ path: file, data: fs.readFileSync(file, "utf-8") }))
+  .sync("public/posts/news/**/*.md", { cwd: "." })
+  .map((file) => ({ filepath: file, data: fs.readFileSync(file, "utf-8") }))
   .map(extractMdData)
   .filter((item) => item.slideshows.length > 0);
 
 fs.writeFileSync("out/album.json", JSON.stringify(album));
 
-function extractMdData({ path, data }) {
+function extractMdData({ filepath, data }) {
   const reTitle = /title: (.*)/;
   const reSlideshow = /<slideshow( id="(.*)")*>/g;
 
   const title = reTitle.exec(data)[1];
-  const filename = path.split("/").slice(-1)[0].split(".")[0];
+  const filename = path.dirname(filepath).split("/").slice(-1)[0].split(".")[0];
 
   const id = "news-" + filename;
   const date = parseDate(filename);
