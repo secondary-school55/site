@@ -2,6 +2,7 @@ import Link from "components/link";
 import sites from "data/sites.yaml";
 import styled from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 
 export default function Sites() {
   return (
@@ -18,7 +19,7 @@ export default function Sites() {
   );
 }
 
-const Thumbnail = styled.img`
+const Thumbnail = styled(LazyLoadImage)`
   width: 100%;
 `;
 
