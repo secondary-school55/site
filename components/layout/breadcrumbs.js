@@ -12,7 +12,7 @@ export default function Breadcrumbs({ height, posts }) {
   const router = useRouter();
   const data = flatPages().withPosts(posts);
   const breadcrumbs = mapBreadcrumbs(router, data);
-  return <div id="SCROLL">{render(breadcrumbs, height)}</div>;
+  return render(breadcrumbs, height);
 }
 
 function flatPages() {
@@ -86,6 +86,7 @@ function render(breadcrumbs, height) {
       <Head>
         <title>{windowTitle}</title>
       </Head>
+      <div id="SCROLL" />
       <Root height={height}>
         {breadcrumbs.map(({ title, route }, index) => {
           return (
