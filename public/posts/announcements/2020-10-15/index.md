@@ -10,4 +10,3 @@ title: Захист дітей від шантажу в цифровому пр�
 
 <youtube id="5ZWG-12vp6A"></youtube>
 <youtube id="zxzlpigC6gU"></youtube>
-<youtube id="S9NNm71ln0Q"></youtube>
