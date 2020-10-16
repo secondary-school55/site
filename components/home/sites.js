@@ -2,7 +2,7 @@ import Link from "components/link";
 import sites from "data/sites.yaml";
 import styled from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
-import { LazyLoadImage } from "react-lazy-load-image-component";
+import ImgLazy from "components/img-lazy";
 
 export default function Sites() {
   return (
@@ -10,7 +10,11 @@ export default function Sites() {
       {sites.map((site) => (
         <Site key={site.title}>
           <Link to={site.url}>
-            <Thumbnail src={`/sites/${site.thumbnail}.webp`} />
+            <ImgLazy
+              src={`/sites/${site.thumbnail}.webp`}
+              width="100%"
+              aspectRatio="640:400"
+            />
           </Link>
           <Title>{site.title}</Title>
         </Site>
@@ -18,10 +22,6 @@ export default function Sites() {
     </Grid>
   );
 }
-
-const Thumbnail = styled(LazyLoadImage)`
-  width: 100%;
-`;
 
 const Title = styled.div`
   display: flex;

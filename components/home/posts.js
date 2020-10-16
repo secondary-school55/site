@@ -2,9 +2,9 @@ import Link from "components/link";
 import { filterByKind } from "lib/posts/utils";
 import { useYouTube } from "lib/youtube";
 import React from "react";
-import { LazyLoadImage } from "react-lazy-load-image-component";
 import styled, { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
+import ImgLazy from "components/img-lazy";
 
 export default function Posts({ data: posts, kind, youtube, filter }) {
   if (youtube !== undefined) {
@@ -44,7 +44,7 @@ function render(posts) {
         return (
           <Cell key={i}>
             <Block>
-              <Thumbnail src={thumbnail} />
+              <ImgLazy src={thumbnail} width="100%" aspectRatio="4:3" />
               <Date>{`${day}.${month}.${year}`}</Date>
               <Link to={path} color="white">
                 <View>Переглянути</View>
@@ -57,11 +57,6 @@ function render(posts) {
     </Grid>
   );
 }
-
-const Thumbnail = styled(LazyLoadImage)`
-  width: 100%;
-  display: block;
-`;
 
 const Title = styled.div`
   text-align: center;

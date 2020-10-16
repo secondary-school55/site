@@ -1,9 +1,9 @@
 import Link from "components/link";
 import sections from "data/external.yaml";
 import teachers from "data/teachers.yaml";
-import { LazyLoadImage } from "react-lazy-load-image-component";
 import styled, { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
+import ImgLazy from "components/img-lazy";
 
 export default function Sections() {
   return (
@@ -15,7 +15,7 @@ export default function Sections() {
     >
       {sections.map((section) => (
         <Section key={section.title}>
-          <Bg src={`/sections/${section.image}.webp`} />
+          <ImgLazy src={`/sections/${section.image}.webp`} width="100%" />
           <Title>{section.title}</Title>
           <MenuContainer>
             <Menu>{renderMenuItems(section.items, teachers)}</Menu>
@@ -44,11 +44,6 @@ function renderMenuItems(items, teachers) {
     </MenuItem>
   ));
 }
-
-const Bg = styled(LazyLoadImage)`
-  width: 100%;
-  display: block;
-`;
 
 const Title = styled.div`
   position: absolute;

@@ -1,8 +1,8 @@
 import Link from "components/link";
 import React from "react";
-import { LazyLoadImage } from "react-lazy-load-image-component";
 import styled, { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
+import ImgLazy from "components/img-lazy";
 
 export default function DistanceLearning() {
   return (
@@ -14,7 +14,7 @@ export default function DistanceLearning() {
     >
       {items.map((item) => (
         <Section key={item.image}>
-          <Bg src={`/distance-learning/${item.image}.jpg`} />
+          <ImgLazy src={`/distance-learning/${item.image}.jpg`} width="100%" />
           <MenuContainer>
             <Menu>
               <MenuItem>
@@ -49,11 +49,6 @@ export default function DistanceLearning() {
     </Grid>
   );
 }
-
-const Bg = styled(LazyLoadImage)`
-  width: 100%;
-  display: block;
-`;
 
 const MenuItem = styled.li`
   text-align: left;
