@@ -120,8 +120,9 @@ export default function History() {
           justify-content: center;
         `}
       >
-        <YouTube id="x9X9whPeA1k" width="35" />
-        <YouTube id="GrxCNk1VGjk" width="35" />
+        <YouTube id="x9X9whPeA1k" width="33" />
+        <YouTube id="GrxCNk1VGjk" width="33" />
+        <YouTube id="3ls-DAH20Yo" width="33" />
       </div>
     </>
   );
