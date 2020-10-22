@@ -12,7 +12,40 @@ export default function Breadcrumbs({ height, posts }) {
   const router = useRouter();
   const data = flatPages().withPosts(posts);
   const breadcrumbs = mapBreadcrumbs(router, data);
-  return render(breadcrumbs, height);
+
+  const last = breadcrumbs.length - 1;
+  const windowTitle = `${breadcrumbs[last].title} - ${schoolTitle}`;
+
+  return (
+    <>
+      <Head>
+        <title>{windowTitle}</title>
+      </Head>
+      <div id="SCROLL" />
+      <Root height={height}>
+        {breadcrumbs.map(({ title, route }, index) => {
+          return (
+            <Route key={route} isLast={index === last}>
+              {index < last ? (
+                <div
+                  css={css`
+                    position: relative;
+                  `}
+                >
+                  <Link to={route === "/" ? route : route.slice(0, -1)}>
+                    {title}
+                  </Link>
+                  <Arrow />
+                </div>
+              ) : (
+                title
+              )}
+            </Route>
+          );
+        })}
+      </Root>
+    </>
+  );
 }
 
 function flatPages() {
@@ -75,42 +108,6 @@ function mapBreadcrumbs(router, data) {
   return splitPath(router)
     .map((part) => data.find((item) => item.route === part))
     .filter((b) => b);
-}
-
-function render(breadcrumbs, height) {
-  const last = breadcrumbs.length - 1;
-  const windowTitle = `${breadcrumbs[last].title} - ${schoolTitle}`;
-
-  return (
-    <>
-      <Head>
-        <title>{windowTitle}</title>
-      </Head>
-      <div id="SCROLL" />
-      <Root height={height}>
-        {breadcrumbs.map(({ title, route }, index) => {
-          return (
-            <Route key={route} isLast={index === last}>
-              {index < last ? (
-                <div
-                  css={css`
-                    position: relative;
-                  `}
-                >
-                  <Link to={route === "/" ? route : route.slice(0, -1)}>
-                    {title}
-                  </Link>
-                  <Arrow />
-                </div>
-              ) : (
-                title
-              )}
-            </Route>
-          );
-        })}
-      </Root>
-    </>
-  );
 }
 
 const Root = styled.ul`
