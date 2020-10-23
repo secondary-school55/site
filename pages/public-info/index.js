@@ -11,6 +11,7 @@ export default function PublicInfo() {
 1. Кадровий склад
    - [на момент ліцензування](/public-info/cadre.pdf)
 1. Освітні програми
+   - [освітня програма школи на 2020-2021 н. р.](/public-info/educational-program/2020-2021.pdf)
    - [освітня програма школи на 2019-2020 н. р.](/public-info/educational-program/2019-2020.pdf)
    - [освітня програма школи на 2018-2019 н. р.](/public-info/educational-program/2018-2019.pdf)
    - [відомості про навчально-методичне та інформаційне забезпечення освітньої діяльності](/public-info/educational-and-methodical-support.pdf)
