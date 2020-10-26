@@ -1,10 +1,10 @@
+import ImgLazy from "components/img-lazy";
 import Link from "components/link";
 import { filterByKind } from "lib/posts/utils";
 import { useYouTube } from "lib/youtube";
 import React from "react";
 import styled, { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
-import ImgLazy from "components/img-lazy";
 
 export default function Posts({ data: posts, kind, youtube, filter }) {
   if (youtube !== undefined) {

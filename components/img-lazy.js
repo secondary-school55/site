@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import styled from "styled-components";
 import { useInView } from "react-intersection-observer";
+import styled from "styled-components";
 
 export default function ImgLazy(props) {
   const [ref, inView] = useInView({
@@ -18,7 +18,7 @@ export default function ImgLazy(props) {
   const [show, setShow] = useState(false);
 
   useEffect(() => {
-    if (inView) setTimeout(() => setShow(true), 10);
+    if (inView) setTimeout(() => setShow(true), 50);
   }, [inView]);
 
   return (
