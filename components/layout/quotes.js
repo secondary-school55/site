@@ -5,21 +5,19 @@ import styled from "styled-components";
 export default function Quotes() {
   const [current, setCurrent] = useState(0);
 
-  const nextQuote = () => {
-    // eslint-disable-next-line no-constant-condition
-    while (true) {
-      let next = Math.floor(Math.random() * quotes.length);
-      if (next !== current) {
-        setCurrent(next);
-        break;
-      }
-    }
-  };
-
   useEffect(() => {
-    const id = setInterval(nextQuote, 4000);
+    const id = setInterval(() => {
+      // eslint-disable-next-line no-constant-condition
+      while (true) {
+        let next = Math.floor(Math.random() * quotes.length);
+        if (next !== current) {
+          setCurrent(next);
+          break;
+        }
+      }
+    }, 4000);
     return () => clearInterval(id);
-  }, []);
+  }, [current]);
 
   const { text, author } = quotes[current];
 

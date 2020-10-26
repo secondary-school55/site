@@ -14,7 +14,7 @@ export default function Slideshow(props) {
       if (data.error) console.log(data.error);
       else setPhotos(data);
     });
-  }, []);
+  }, [props.id, router.query]);
 
   useEffect(() => {
     if (el.current === null) return;

@@ -7,7 +7,7 @@ export default function ImagePost(props) {
   const { src } = props;
   const [link, setLink] = useState(src);
   const relative = useRelative(src);
-  useEffect(() => setLink(getLink(src, relative)), []);
+  useEffect(() => setLink(getLink(src, relative)), [relative, src]);
 
   return <Image src={link} />;
 }

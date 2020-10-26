@@ -7,8 +7,9 @@ import styled, { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
 
 export default function Posts({ data: posts, kind, youtube, filter }) {
+  let videos = useYouTube(youtube);
+
   if (youtube !== undefined) {
-    let videos = useYouTube(youtube);
     if (filter) videos = videos.filter((video) => video.title.includes(filter));
 
     return render(
