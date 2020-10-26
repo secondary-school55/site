@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import styled from "styled-components";
 import { useInView } from "react-intersection-observer";
 
@@ -14,10 +15,16 @@ export default function ImgLazy(props) {
   delete imgProps.aspectRatio;
   delete imgProps.width;
 
+  const [show, setShow] = useState(false);
+
+  useEffect(() => {
+    if (inView) setTimeout(() => setShow(true), 10);
+  }, [inView]);
+
   return (
     <Wrapper width={width} ref={ref}>
       <Wrapper2 height={height}>
-        {inView && <Img {...imgProps} loading="lazy" />}
+        {inView && <Img {...imgProps} show={show} loading="lazy" />}
       </Wrapper2>
     </Wrapper>
   );
@@ -42,4 +49,6 @@ const Img = styled.img`
   width: 100%;
   height: 100%;
   display: block;
+  transition: opacity 0.5s ease-in-out;
+  opacity: ${({ show }) => (show ? "1" : "0")};
 `;

@@ -1,5 +1,5 @@
 {
-  "name": "site-next",
+  "name": "site",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export && node scripts",
