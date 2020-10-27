@@ -1,4 +1,5 @@
 import Link from "components/link";
+import { useEffect } from "react";
 import { useInView } from "react-intersection-observer";
 import styled, { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
@@ -113,17 +114,16 @@ export default function Header() {
 function Video() {
   const [ref, inView] = useInView();
 
-  if (ref.current) {
-    if (inView) ref.current.play().catch(() => {});
-    else ref.current.pause();
-  }
+  useEffect(() => {
+    if (ref.current) {
+      if (inView) ref.current.play().catch(() => {});
+      else ref.current.pause();
+    }
+  }, [inView, ref]);
 
   return (
     <video
-      ref={(node) => {
-        ref(node);
-        ref.current = node;
-      }}
+      ref={ref}
       src="/video.mp4"
       type="video/mp4"
       autoPlay
