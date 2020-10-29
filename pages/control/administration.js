@@ -51,7 +51,7 @@ export default function Administration() {
 const Person = (props) => (
   <>
     <Root>
-      <Photo src={`/teachers/${props.photo}.webp`} />
+      <Photo src={`/teachers/${props.photo}.jpg`} />
       <Name>{props.name}</Name>
       {props.exp && <Exp>{props.exp}</Exp>}
       <Email>e-mail:</Email>

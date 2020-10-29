@@ -25,7 +25,7 @@ export default function About() {
 `}</Md>
         </Cell>
         <Cell center>
-          <img src="/teachers/gorevich_l_v.webp" width="35%" />
+          <img src="/teachers/gorevich_l_v.jpg" width="35%" />
           <p>
             Горевич Людмила Володимирівна
             <br />

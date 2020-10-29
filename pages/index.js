@@ -12,7 +12,7 @@ export default function Main({ posts }) {
       <Grid columns="20vw 1fr">
         <Cell center>
           <img
-            src="/teachers/gorevich_l_v_2.webp"
+            src="/teachers/gorevich_l_v_2.jpg"
             css={css`
               width: 50%;
             `}

@@ -18,7 +18,7 @@ export default function Teachers() {
       </Cell>
       {teachers.map((node) => (
         <Teacher key={node.name}>
-          <Photo src={`/teachers/${node.shrt}.webp`} />
+          <Photo src={`/teachers/${node.shrt}.jpg`} />
           <Name>{node.name}</Name>
           <Post>{node.post}</Post>
           <Rank>{node.rank}</Rank>

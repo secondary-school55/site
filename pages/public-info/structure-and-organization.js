@@ -497,7 +497,7 @@ const Person = (props) => {
     <Root>
       <Grid columns="15vw 1fr">
         <Cell>
-          <Photo src={`/teachers/${props.photo}.webp`} />
+          <Photo src={`/teachers/${props.photo}.jpg`} />
         </Cell>
         <Cell>
           <Post>{props.post}</Post>
