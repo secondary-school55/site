@@ -25,7 +25,7 @@ export default function Breadcrumbs({ height, posts }) {
       <Root height={height}>
         {breadcrumbs.map(({ title, route }, index) => {
           return (
-            <Route key={route} isLast={index === last}>
+            <Route key={index} isLast={index === last}>
               {index < last ? (
                 <div
                   css={css`

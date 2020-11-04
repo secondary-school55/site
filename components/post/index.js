@@ -1,9 +1,9 @@
+import Embed from "components/embed";
 import Gallery from "components/gallery";
 import Link from "components/link";
 import ThumbnailFallback from "components/posts/thumbnail";
 import Slideshow from "components/slideshow";
 import YouTube from "components/you-tube";
-import Embed from "components/embed";
 import { markdownToReact } from "lib/posts/md";
 import React from "react";
 import { FaFacebookF } from "react-icons/fa";
