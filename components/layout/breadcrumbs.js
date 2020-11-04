@@ -138,14 +138,17 @@ const routeOverflow = css`
 `;
 
 const Route = styled.li`
-  margin-left: 1.5vw;
+  &:first-of-type {
+    margin-left: 1.5vw;
+  }
   ${(props) => props.isLast && routeOverflow}
 `;
 
 const Arrow = styled(IoIosArrowForward)`
-  position: absolute;
-  left: 100%;
+  position: relative;
+  left: 0;
   top: 0;
-  transform: translateX(32%) translateY(25%);
+  transform: translateX(23%) translateY(18%);
   font-size: 0.9vw;
+  padding-right: 0.6vw;
 `;
