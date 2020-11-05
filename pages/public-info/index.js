@@ -22,7 +22,10 @@ export default function PublicInfo() {
    - початкові класи - 7 год.
    - вихователь ГПД  - 0,5 ст.
 1. [Матеріально-технічне забезпечення закладу освіти](/public-info/material-and-technical-support.pdf)
-1. [Результати моніторингу якості освіти](/public-info/monitoring-the-quality-of-education.pdf)
+1. Результати моніторингу якості освіти:
+   - [2019-2020 н.р.](/public-info/monitoring-the-quality-of-education/2019-2020.pdf)
+   - [2018-2019 н.р.](/public-info/monitoring-the-quality-of-education/2018-2019.pdf)
+   - [2017-2018 н.р.](/public-info/monitoring-the-quality-of-education/2017-2018.pdf)
 1. Річний звіт про діяльність закладу освіти:
    - [2019-2020 н.р.](/public-info/annual-report/2019-2020.pdf) ([презентація](https://www.slideshare.net/kzhkzh/20192020-237362489))
    - [2018-2019 н.р.](/public-info/annual-report/2018-2019.pdf) ([презентація](https://drive.google.com/open?id=1vTFjujO0svPmltoqXhvGsqBtLBnXD5H6))
