@@ -6,7 +6,7 @@ import "react-table/react-table.css";
 import Layout from "components/layout";
 import { useRouterScroll } from "lib/scroll";
 
-function MyApp({ Component, pageProps }) {
+export default function App({ Component, pageProps }) {
   useRouterScroll();
   return (
     <Layout posts={pageProps.posts}>
@@ -14,5 +14,3 @@ function MyApp({ Component, pageProps }) {
     </Layout>
   );
 }
-
-export default MyApp;

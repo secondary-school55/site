@@ -5,7 +5,7 @@
       route: /distance-learning
       
     - title: Фотоальбом
-      route: https://album.school55.pp.ua/photo
+      route: https://album.school55.pp.ua
 
     - title: Карта сайту
       route: /map
