@@ -1,5 +1,5 @@
 ---
-title: "ІІ Спортивні ігри #ATLETIK START: спорт для всіх"
+title: ІІ Спортивні ігри #ATLETIK START - спорт для всіх
 tags: [edu]
 ---
 
