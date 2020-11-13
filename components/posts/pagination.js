@@ -39,9 +39,12 @@ function buildChunks(page, count, totalPages) {
 function buildLink(page, router) {
   const href = {
     pathname: router.pathname,
-    query: { kind: router.query.kind },
+    query: { ...router.query },
   };
-  if (page === 1) return href;
+  if (page === 1) {
+    delete href.query.page;
+    return href;
+  }
 
   href.query.page = page;
 

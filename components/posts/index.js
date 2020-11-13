@@ -12,42 +12,54 @@ const POSTS_PER_PAGE = 10;
 export default function Posts({ data }) {
   const router = useRouter();
 
-  let { page, year } = router.query;
+  let { page, search = "" } = router.query;
 
   page = page === undefined ? 1 : parseInt(page);
 
+  const posts = filterPosts(data, page, POSTS_PER_PAGE, router.query);
+
+  const handleSearch = (ev) => {
+    const query = { kind: router.query.kind };
+
+    if (ev.target.value.length > 0) query.search = ev.target.value;
+
+    router.replace({ query }, undefined, { shallow: true });
+  };
+
   const RenderPagination = () => (
-    <Pagination
-      page={page}
-      count={POSTS_PER_PAGE}
-      total={year ? 1 : data.length}
-    />
+    <Pagination page={page} count={POSTS_PER_PAGE} total={posts.length} />
   );
 
   return (
     <>
+      <Search
+        type="text"
+        placeholder="Пошук"
+        value={search}
+        onChange={handleSearch}
+      />
       <RenderPagination />
       <Grid columns="1fr 18vw" gap="1.5vw" style={{ margin: "15px 0" }}>
         <Cell>
-          {filterPosts(data, page, POSTS_PER_PAGE, router.query).map((node) => (
+          {posts.posts.map((post) => (
             <Post
               columns="10vw 1fr"
               rows={(10 / 4) * 3 + "vw"}
               gap="1vw"
-              key={node.route}
+              key={post.route}
             >
               <Cell>
-                <Thumbnail src={node.thumbnail} />
+                <Thumbnail src={post.thumbnail} />
               </Cell>
               <Cell
                 css={css`
                   position: relative;
                 `}
               >
-                <Title>{node.title}</Title>
-                <Date>{formatDate(node.date)}</Date>
+                <Title dangerouslySetInnerHTML={{ __html: post.title }} />
+                <Date>{formatDate(post.date)}</Date>
                 <Detail>
-                  <Link to={node.route} noDecoration>
+                  <Link to={post.route} noDecoration>
                     Детальніше
                   </Link>
                 </Detail>
@@ -64,16 +76,37 @@ export default function Posts({ data }) {
   );
 }
 
-function filterPosts(posts, page, per, { year, month }) {
+function filterPosts(posts, page, per, { year, month, search }) {
   const from = (page - 1) * POSTS_PER_PAGE;
+  let src = posts;
 
   if (year !== undefined)
-    return posts.filter(
+    src = src.filter(
       ({ date: { year: yearPost, month: monthPost } }) =>
         yearPost === year && monthPost === month
     );
 
-  return posts.slice(from, from + POSTS_PER_PAGE);
+  if (search !== undefined) {
+    const searchLower = search.toLowerCase();
+
+    src = src
+      .filter((item) => item.titleLower.includes(searchLower))
+      .map((item) => {
+        if (searchLower.length === 0) return item;
+        const pos = item.titleLower.indexOf(searchLower);
+
+        const begin = item.title.slice(0, pos);
+        const middle = item.title.slice(pos, pos + searchLower.length);
+        const end = item.title.slice(pos + searchLower.length);
+
+        return {
+          ...item,
+          title: `${begin}<span class="highlight">${middle}</span>${end}`,
+        };
+      });
+  }
+
+  return { posts: src.slice(from, from + POSTS_PER_PAGE), length: src.length };
 }
 
 function formatDate({ year, month, day }) {
@@ -82,6 +115,11 @@ function formatDate({ year, month, day }) {
 
 const borderColor = "#d3d3d3";
 const backgroundColor = "#fafafa";
+
+const Search = styled.input`
+  width: 100%;
+  font-family: inherit;
+`;
 
 const Post = styled(Grid)`
   border: 1px solid ${borderColor};
@@ -104,7 +142,11 @@ const Thumbnail = styled(ThumbnailFallback)`
   border: 1px solid ${borderColor};
 `;
 
-const Title = styled.div``;
+const Title = styled.div`
+  & > .highlight {
+    background-color: yellow;
+  }
+`;
 
 const Date = styled.div`
   color: blue;

@@ -16,7 +16,10 @@ export async function getStaticProps() {
 
   return {
     props: {
-      posts: getPosts(),
+      posts: getPosts().map((item) => ({
+        ...item,
+        titleLower: item.title.toLowerCase(),
+      })),
     },
   };
 }
