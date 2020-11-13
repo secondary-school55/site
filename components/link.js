@@ -24,7 +24,7 @@ const Link = (props) => {
 
     default:
       render = (
-        <NextLink href={to} scroll={false}>
+        <NextLink href={to} scroll={false} shallow={true}>
           <a className={className}>{children}</a>
         </NextLink>
       );

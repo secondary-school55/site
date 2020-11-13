@@ -56,9 +56,8 @@ export default function Archive({ posts }) {
 }
 
 function buildLink(kind, year, month, router, isCurrent) {
-  if (isCurrent) return { pathname: router.pathname, query: { kind } };
+  if (isCurrent) return { query: { kind } };
   return {
-    pathname: router.pathname,
     query: {
       year,
       month,
