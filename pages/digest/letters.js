@@ -20,7 +20,7 @@ export default function Letters() {
   return (
     <Grid columns="50% 50%">
       <Cell>{renderLetters(letters.ternvo, "Відділ освіти")}</Cell>
-      <Cell>{renderLetters(letters.imc, "ІМЦ")}</Cell>
+      <Cell>{renderLetters(letters.imc, "КЗ ЦПРПП")}</Cell>
     </Grid>
   );
 }
