@@ -7,6 +7,7 @@ import YouTube from "components/you-tube";
 import { markdownToReact } from "lib/posts/md";
 import React from "react";
 import { FaFacebookF } from "react-icons/fa";
+import Loader from "react-loader-spinner";
 import styled from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
 import useSWR from "swr";
@@ -36,7 +37,7 @@ export default function Post({ data: post }) {
     },
   };
 
-  if (!content) return null;
+  if (!content) return <Loading />;
 
   return (
     <>
@@ -82,6 +83,25 @@ function shareFacebook() {
   return `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
     document.URL
   )}&t=${encodeURIComponent(document.URL)}`;
+}
+
+function Loading() {
+  return (
+    <>
+      <div>
+        <Loader type="ThreeDots" color="#00BFFF" height={100} width={100} />
+      </div>
+      <style jsx>{`
+        div {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+          height: 100vh;
+        }
+      `}</style>
+    </>
+  );
 }
 
 const Thumbnail = styled(ThumbnailFallback)`
