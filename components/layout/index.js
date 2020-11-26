@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import { MdPrint } from "react-icons/md";
 import styled from "styled-components";
 

@@ -30,14 +30,14 @@ export default function Slideshow(props) {
 
   if (!photos) return <Loader />;
 
-  const cloudinaryUrl = `https://cloudinary.com/console/c-81b9425168b20591f37bcd71187ea1/media_library/folders/${getId(
-    props.id,
-    router.query
-  )}`;
+  // const cloudinaryUrl = `https://cloudinary.com/console/c-81b9425168b20591f37bcd71187ea1/media_library/folders/${getId(
+  //   props.id,
+  //   router.query
+  // )}`;
 
   return (
     <>
-      <Cloudinary onClick={() => window.open(cloudinaryUrl, "_blank")} />
+      {/* <Cloudinary onClick={() => window.open(cloudinaryUrl, "_blank")} /> */}
       <Root ref={el}>
         {photos.map((photo) => (
           <Content
@@ -73,13 +73,13 @@ function getId(id, query) {
   return `${postType}-${postDate}`;
 }
 
-const Cloudinary = styled.img.attrs({ src: "/cloudinary.png" })`
-  cursor: pointer;
-  width: 4vw;
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-`;
+// const Cloudinary = styled.img.attrs({ src: "/cloudinary.png" })`
+//   cursor: pointer;
+//   width: 4vw;
+//   position: relative;
+//   left: 50%;
+//   transform: translateX(-50%);
+// `;
 
 const Root = styled.div`
   margin-bottom: 55px;
