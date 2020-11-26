@@ -1,20 +1,15 @@
 import { useRouter } from "next/router";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef } from "react";
 import styled from "styled-components";
+import useSWR from "swr";
+import Loader from "components/loader";
 
 export default function Slideshow(props) {
-  const [photos, setPhotos] = useState([]);
   const el = useRef(null);
   const router = useRouter();
-
-  useEffect(() => {
-    const id = getId(props.id, router.query);
-
-    getPhotos(id).then((data) => {
-      if (data.error) console.log(data.error);
-      else setPhotos(data);
-    });
-  }, [props.id, router.query]);
+  const { data: photos } = useSWR(
+    `https://api.school55.pp.ua/api/albums/${getId(props.id, router.query)}`
+  );
 
   useEffect(() => {
     if (el.current === null) return;
@@ -31,7 +26,9 @@ export default function Slideshow(props) {
     return () => {
       if (flickity) flickity.destroy();
     };
-  });
+  }, [photos?.length]);
+
+  if (!photos) return <Loader />;
 
   return (
     <Root ref={el}>
@@ -66,14 +63,6 @@ function getId(id, query) {
   }
 
   return `${postType}-${postDate}`;
-}
-
-async function getPhotos(folderId) {
-  const photos = await fetch(
-    `https://api.school55.pp.ua/api/albums/${folderId}`
-  ).then((r) => r.json());
-
-  return photos;
 }
 
 const Root = styled.div`
