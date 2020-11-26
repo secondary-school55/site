@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { MdPrint } from "react-icons/md";
 import styled from "styled-components";
 
@@ -21,22 +21,20 @@ export default function Layout({ children, posts }) {
 
   return (
     <>
-      {printMode ? (
-        children
-      ) : (
+      {!printMode && (
         <>
           <Menu height={height} />
           <Header />
           <Breadcrumbs height={height} posts={posts} />
-          <Content>
-            <Widgets>
-              <MdPrint size={32} onClick={() => setPrintMode(true)} />
-            </Widgets>
-            {children}
-          </Content>
-          <Footer />
         </>
       )}
+      <Content>
+        <Widgets>
+          <MdPrint size={32} onClick={() => setPrintMode(true)} />
+        </Widgets>
+        {children}
+      </Content>
+      {!printMode && <Footer />}
     </>
   );
 }
