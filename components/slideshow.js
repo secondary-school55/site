@@ -1,8 +1,8 @@
+import Loader from "components/loader";
 import { useRouter } from "next/router";
 import { useEffect, useRef } from "react";
 import styled from "styled-components";
 import useSWR from "swr";
-import Loader from "components/loader";
 
 export default function Slideshow(props) {
   const el = useRef(null);
