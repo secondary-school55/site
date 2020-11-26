@@ -30,21 +30,29 @@ export default function Slideshow(props) {
 
   if (!photos) return <Loader />;
 
+  const cloudinaryUrl = `https://cloudinary.com/console/c-81b9425168b20591f37bcd71187ea1/media_library/folders/${getId(
+    props.id,
+    router.query
+  )}`;
+
   return (
-    <Root ref={el}>
-      {photos.map((photo) => (
-        <Content
-          key={photo.url}
-          height={props.contentHeight}
-          aspectRatio={photo.width / photo.height}
-        >
-          <Img data-flickity-lazyload={photo.preview_url} />
-          {!props.disableDownload && (
-            <Icon onClick={() => window.open(photo.download_url, "_blank")} />
-          )}
-        </Content>
-      ))}
-    </Root>
+    <>
+      <Cloudinary onClick={() => window.open(cloudinaryUrl, "_blank")} />
+      <Root ref={el}>
+        {photos.map((photo) => (
+          <Content
+            key={photo.url}
+            height={props.contentHeight}
+            aspectRatio={photo.width / photo.height}
+          >
+            <Img data-flickity-lazyload={photo.preview_url} />
+            {!props.disableDownload && (
+              <Icon onClick={() => window.open(photo.download_url, "_blank")} />
+            )}
+          </Content>
+        ))}
+      </Root>
+    </>
   );
 }
 
@@ -64,6 +72,14 @@ function getId(id, query) {
 
   return `${postType}-${postDate}`;
 }
+
+const Cloudinary = styled.img.attrs({ src: "/cloudinary.png" })`
+  cursor: pointer;
+  width: 4vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+`;
 
 const Root = styled.div`
   margin-bottom: 55px;

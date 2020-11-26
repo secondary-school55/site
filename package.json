@@ -2,7 +2,7 @@
   "name": "site",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && node scripts",
+    "build": "next build --profile && next export && node scripts",
     "lint": "eslint .",
     "fix": "eslint --fix .",
     "start": "next build && next start"
