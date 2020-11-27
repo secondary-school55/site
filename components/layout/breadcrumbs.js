@@ -1,5 +1,6 @@
 import Link, { isExternalLink } from "components/link";
 import pages from "data/menu.yaml";
+import usePosts from "lib/posts/use";
 import Head from "next/head";
 import { useRouter } from "next/router";
 import path from "path";
@@ -8,7 +9,8 @@ import styled, { css } from "styled-components";
 
 const schoolTitle = "КЗШ І-ІІІ ст. №55";
 
-export default function Breadcrumbs({ height, posts }) {
+export default function Breadcrumbs({ height }) {
+  const posts = usePosts();
   const router = useRouter();
   const data = flatPages().withPosts(posts);
   const breadcrumbs = mapBreadcrumbs(router, data);

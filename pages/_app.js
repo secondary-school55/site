@@ -5,6 +5,7 @@ import "react-table/react-table.css";
 
 import Layout from "components/layout";
 import { useRouterScroll } from "lib/scroll";
+import { RecoilRoot } from "recoil";
 import { SWRConfig } from "swr";
 
 export default function App({ Component, pageProps }) {
@@ -15,9 +16,11 @@ export default function App({ Component, pageProps }) {
         fetcher: (...a) => fetch(...a).then((r) => r.json()),
       }}
     >
-      <Layout posts={pageProps.posts}>
-        <Component {...pageProps} />
-      </Layout>
+      <RecoilRoot>
+        <Layout>
+          <Component {...pageProps} />
+        </Layout>
+      </RecoilRoot>
     </SWRConfig>
   );
 }

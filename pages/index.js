@@ -3,10 +3,13 @@ import Posts from "components/home/posts";
 import Sections from "components/home/sections";
 import Sites from "components/home/sites";
 import Link from "components/link";
+import usePosts from "lib/posts/use";
 import { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
 
-export default function Main({ posts }) {
+export default function Main() {
+  const posts = usePosts();
+
   return (
     <>
       <Grid columns="20vw 1fr">
@@ -131,16 +134,6 @@ export default function Main({ posts }) {
       <Sites />
     </>
   );
-}
-
-export async function getStaticProps() {
-  const { getPosts } = await import("lib/posts");
-
-  return {
-    props: {
-      posts: getPosts(),
-    },
-  };
 }
 
 const Header = (props) => (

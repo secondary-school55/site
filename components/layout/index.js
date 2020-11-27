@@ -9,7 +9,7 @@ import Menu from "./menu";
 
 const height = 50;
 
-export default function Layout({ children, posts }) {
+export default function Layout({ children }) {
   const [printMode, setPrintMode] = useState(false);
 
   useEffect(() => {
@@ -25,7 +25,7 @@ export default function Layout({ children, posts }) {
         <>
           <Menu height={height} />
           <Header />
-          <Breadcrumbs height={height} posts={posts} />
+          <Breadcrumbs height={height} />
         </>
       )}
       <Content>
