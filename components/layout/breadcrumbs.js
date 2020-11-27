@@ -10,8 +10,8 @@ import styled, { css } from "styled-components";
 const schoolTitle = "КЗШ І-ІІІ ст. №55";
 
 export default function Breadcrumbs({ height }) {
-  const posts = usePosts();
   const router = useRouter();
+  const posts = usePosts(() => router.asPath.startsWith("/posts"));
   const data = flatPages().withPosts(posts);
   const breadcrumbs = mapBreadcrumbs(router, data);
 
