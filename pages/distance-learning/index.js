@@ -64,6 +64,14 @@ export default function DistanceLearning() {
           </Tab>
           <Tab title="1-В">
             <Md>{`
+** Мистецтво **  
+**03.12** [Тема: Святкові перетворення. Малювання композиції «Сніговик».](https://drive.google.com/file/d/1rlUqnf0AgrfiqQwAQPdXXIJ3NZeyQoPc/view?usp=sharing)
+
+** Фізична культура **  
+**03.12** [Тема: Вправи для опанування навичок пересувань](https://drive.google.com/file/d/1tJ12GuU1ETqGGV3dHiag95-YTGcWnvkT/view?usp=sharing)
+
+** Я досліджую світ **  
+**03.12** [Тема: Досліджуємо властивості води](https://drive.google.com/file/d/1zSrcxlsg-qgp2oEBI4mKsxRWZ8TGzIxn/view?usp=sharing)
 `}</Md>
           </Tab>
         </Tabs>
@@ -139,12 +147,18 @@ export default function DistanceLearning() {
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
 **03.12** [Інструкційна картка: Виготовлення ялинкової прикраси «Ялинка»](https://drive.google.com/file/d/1VbeV1DMe1MoR72-cbMHZVGjvG8fhxlXJ/view?usp=sharing)  
 **03.12** [Інструкційна картка: Виготовлення ялинкової прикраси «Різдвяна зірка»](https://drive.google.com/file/d/1AsMT40FxyVqGHoI16liGMkmSY3w7pzxj/view?usp=sharing)  
+
+** Інформатика **  
+**03.12** [Тема: Середовище описання і виконання алгоритмів](https://drive.google.com/file/d/1v4UkLcIBNjYTNAmYwho0KhV6vbkT7CCs/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="6 клас">
         <Md>{`
 ** Українська література **  
 **03.12** [Тема: Образ мужньої, сильної духом дівчинки, її життєрадісний погляд на світ, вільнолюбство, впевненість, розвинена уява у вірші «Як дитиною бувало…»](https://drive.google.com/file/d/19t3ni434ZVtcao03dVgQwqiPwhptSfah/view?usp=sharing)
+
+** Інформатика **  
+**03.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/14u2a-Fbfs2UVhKlYPdZQYEyak9uKZs1T/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="7 клас">
