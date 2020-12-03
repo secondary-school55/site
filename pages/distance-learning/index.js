@@ -39,10 +39,27 @@ export default function DistanceLearning() {
           </Tab>
           <Tab title="1-А">
             <Md>{`
+** ЯДС **  
+**03.12** [Тема: Вода та її властивості. Демонстрація властивостей води](https://drive.google.com/file/d/1koK1E1cpGKmCrjKFO1RHf4_HVJOPHgsO/view?usp=sharing)
+
+** Математика **  
+**03.12** [Тема: Переставний закон додавання](https://drive.google.com/file/d/1BLi2UtjK2pNwLTdsbZBZQpQnam1ixVsV/view?usp=sharing)
+
+** Читання **  
+**03.12** [Тема: Переглянути відео](https://drive.google.com/file/d/1D2aar6UzW4Tfu4bdRX5yZWNcV_PluYtf/view?usp=sharing)
+
 `}</Md>
           </Tab>
           <Tab title="1-Б">
             <Md>{`
+** Математика **  
+**03.12** [Тема: Досліджуємо таблиці додавання і віднімання числа 1](https://drive.google.com/file/d/1GMRjfOoX8kQHz1CnDqad7zKREO7hd8iM/view?usp=sharing)
+
+** Письмо **  
+**03.12** [Тема: Написання рядкової букви "т" (те), складів, слів з нею](https://drive.google.com/file/d/1gsIdnoi5dQYR7EUT3bzl3PpepuFbdQXk/view?usp=sharing)
+
+** Фізична культура **  
+**03.12** [Тема: Постава як основа здоров’я. Танцювальеі кроки.](https://drive.google.com/file/d/1YmlLjjEr2r51vorkocbZ1-mCm6zB9eKs/view?usp=sharing)
 `}</Md>
           </Tab>
           <Tab title="1-В">
@@ -115,14 +132,19 @@ export default function DistanceLearning() {
 
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
+**03.12** [5-А. Тема: Есе (розмірковування в довільній формі) про красу й молозвучність української мови](https://drive.google.com/file/d/1_iDvQLwccro5qew0XzXPU9S6B_Sr_o5T/view?usp=sharing) 
 **03.12** [5-Б. Тема: Приголосні тверді, м’які (повторення). Співвідношення звуків і букв. Звукове значення букв я, ю, є, ї .](https://drive.google.com/file/d/14VBVYgk0nTv9ga2twnBFYXtfg_bGpaCL/view?usp=sharing)
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
+**03.12** [Інструкційна картка: Виготовлення ялинкової прикраси «Ялинка»](https://drive.google.com/file/d/1VbeV1DMe1MoR72-cbMHZVGjvG8fhxlXJ/view?usp=sharing)  
+**03.12** [Інструкційна картка: Виготовлення ялинкової прикраси «Різдвяна зірка»](https://drive.google.com/file/d/1AsMT40FxyVqGHoI16liGMkmSY3w7pzxj/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="6 клас">
         <Md>{`
+** Українська література **  
+**03.12** [Тема: Образ мужньої, сильної духом дівчинки, її життєрадісний погляд на світ, вільнолюбство, впевненість, розвинена уява у вірші «Як дитиною бувало…»](https://drive.google.com/file/d/19t3ni434ZVtcao03dVgQwqiPwhptSfah/view?usp=sharing)
 `}</Md>
       </Tab>
       <Tab title="7 клас">
@@ -166,6 +188,13 @@ export default function DistanceLearning() {
 
 ** Правознавство **  
 **03.12** [Тема: Конституційні права і свободи людини і громадянина](https://drive.google.com/file/d/15aef0Tzl_ip_KxMQal1xDjVIK8mWwNyg/view?usp=sharing)
+
+** Трудове навчання **  
+**03.12** [Тема: Технологічний процес виготовлення обраного об’єкта проєктування. Самоконтроль якості виконання технологічних операцій](https://drive.google.com/file/d/1qgNcVbtUgtnpbvFGkulfNExXQBMM8zsC/view?usp=sharing)  
+**03.12** [Презентація: Вироби в етнічному стилі](https://drive.google.com/file/d/1FJS9VMTsfPY1UJL0EZaSOYGiBlLzxwUs/view?usp=sharing)
+
+** Історія України. Всесвітня історія **  
+**03.12** [Тема: Повсякденне життя та побут українців у 19 ст.](https://drive.google.com/file/d/1I_2vKC2eCScwYuNW-zNiV13rTHkryuUI/view?usp=sharing)
 `}</Md>
       </Tab>
       <Tab title="10 клас">
