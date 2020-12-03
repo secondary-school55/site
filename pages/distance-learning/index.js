@@ -285,13 +285,20 @@ export default function DistanceLearning() {
 
 ** Фізика **  
 **03.12** [Тема: Механічна робота. Потужність. Кінетична енергія.](https://drive.google.com/file/d/13ktDbpkU-YGMFOs3KRcYIqKot5LfswUQ/view?usp=sharing)
+
+** Інформатика **  
+**03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)
 `}</Md>
       </Tab>
       <Tab title="11 клас">
         <Md>{`
 ** Українська література **  
 **03.12** [Тема: «Патетична соната» - драматична опозиція високої мрії і потворної дійсності](https://drive.google.com/file/d/1-l7D_zFg1QA_-aGbH1lADDCULEBgChgc/view?usp=sharing)  
-**03.12** [Тема: Микола Гурович Куліш](https://drive.google.com/file/d/1FMV2UWTFbPSAjYr4Gwhv4lIHsEnHucaA/view?usp=sharing)`}</Md>
+**03.12** [Тема: Микола Гурович Куліш](https://drive.google.com/file/d/1FMV2UWTFbPSAjYr4Gwhv4lIHsEnHucaA/view?usp=sharing)
+
+** Інформатика **  
+**03.12** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)
+`}</Md>
       </Tab>
       <Tab title="Онлайн уроки">
         <Md>{`
