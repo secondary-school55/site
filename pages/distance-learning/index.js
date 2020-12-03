@@ -47,6 +47,8 @@ export default function DistanceLearning() {
       </Tab>
       <Tab title="4 клас">
         <Md>{`
+** Музичне мистецтво **  
+1.  **03.12** [Тема: «Мистецтво крізь віки»](https://drive.google.com/file/d/1YubWV5rzabVC6jdwvG8rPKUiyjm-OUkj/view?usp=sharing)
 `}</Md>
       </Tab>
       <Tab title="5 клас">
@@ -63,6 +65,9 @@ export default function DistanceLearning() {
         <Md>{`
 ** Фізика **  
 1.  **03.12** [Тема: Коливальний рух. Амплітуда коливань. Період і частота коливань. Маятники.](https://drive.google.com/file/d/1qvwaKnFReAwoJV2QDkk4CS5k-MpwJtrd/view?usp=sharing)
+
+** Музичне мистецтво **  
+1.  **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)
 `}</Md>
       </Tab>
       <Tab title="8 клас">
@@ -78,6 +83,9 @@ export default function DistanceLearning() {
         <Md>{`
 ** Географія **  
 1.  **03.12** [Тема: Видобування металічних руд](https://drive.google.com/file/d/1nLsYYlfSAhh_c-YzVUL8iJaKDekY1NXc/view?usp=sharing)
+
+** Хімія **  
+1.  **03.12** [Тема: Реакції оборотні й необоротні](https://drive.google.com/file/d/1J2DYha0BrqewRn0sm7Yn2UbvM5hr7tu0/view?usp=sharing)
 `}</Md>
       </Tab>
       <Tab title="10 клас">
