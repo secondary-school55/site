@@ -84,6 +84,20 @@ export default function DistanceLearning() {
           </Tab>
           <Tab title="2-А">
             <Md>{`
+** Українська мова **  
+**03.12** [Тема: Ознайомлення з походженням деяких жіночих і чоловічих імен та прізвищ](https://drive.google.com/file/d/1cdMTQM2Iac_prYeaQwbhpST7qVUtsrm-/view?usp=sharing)  
+
+** Образотворче мистецтво **  
+**03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
+
+** Фізична культура **  
+**03.12** [Тема: Організовуючі вправи. Загальнорозвивальні вправи для формування правильної постави. Підтягування у висі тта увисі лежачи (хлопці). Танцювальні кроки. Рухлива гра](https://drive.google.com/file/d/1rKgpV07GqvgZd17tYjA0P9Ayeami6TO8/view?usp=sharing)
+
+** Читання **  
+**03.12** [Тема: Досліджуємо текст. Василь Чухліб «Зимова казка» Зачарувала все зима...](https://drive.google.com/file/d/1lO76PM1u99sp3Ey7vKjtOBd5_zP2NEEX/view?usp=sharing)
+
+** Я досліджую світ **  
+**03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)
 `}</Md>
           </Tab>
           <Tab title="2-Б">
@@ -120,6 +134,14 @@ export default function DistanceLearning() {
           </Tab>
           <Tab title="4-А">
             <Md>{`
+** Математика **  
+**03.12** [Презентація](https://drive.google.com/file/d/1BKMnkoHMcau09nXlsOo9ppuFX_jwqs7R/view?usp=sharing)
+
+** Основи здоров’я **  
+**03.12** [Тема: Профілактика порушень зору, слуху, опорно-рухового апарату у школярів. Вправи для профілактики плоскостопості](https://drive.google.com/file/d/1qcNOK9BdFA-j7Fyo2JrNI_GEvJJfZ-46/view?usp=sharing)
+
+** Українська мова **  
+**03.12** [Тема: Спостереження за вживанням прикметників у текстах різних стилів: науковому і художньому](https://drive.google.com/file/d/1zxmnnFCg8sk7b3GKFYGAdGdevlCnU8Ph/view?usp=sharing)
 `}</Md>
           </Tab>
           <Tab title="4-Б">
@@ -172,6 +194,9 @@ export default function DistanceLearning() {
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Походи вікінгів та їх завоювання](https://drive.google.com/file/d/10SKWwFRat3yT2mp-XidaaXIqylc7hV62/view?usp=sharing)
 
+** Геометрія **  
+**03.12** [Тема: Кути, утворені при перетині двох паралельних прямих січною. Властивості кутів, утворених при перетині паралельних прямих січною.](https://drive.google.com/file/d/1fFJnhdfAIKT66YiMKbNvDSv4onIhFgb3/view?usp=sharing)  
+**03.12** [Презентація: Кути при січній](https://drive.google.com/file/d/14HC1AtZFrH7uzWDvLnEClidQ-lvEiuWB/view?usp=sharing)
 `}</Md>
       </Tab>
       <Tab title="8 клас">
@@ -190,6 +215,10 @@ export default function DistanceLearning() {
 
 ** Англійська мова **  
 **03.12** [Тема: Музика в нашому житті. Відомі українські виконавці.](https://drive.google.com/file/d/1vZrqAEL9AOaGZyKMNjDM_F2so579-b7m/view?usp=sharing)
+
+** Алгебра **  
+**03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)
+
 `}</Md>
       </Tab>
       <Tab title="9 клас">
@@ -209,6 +238,10 @@ export default function DistanceLearning() {
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Повсякденне життя та побут українців у 19 ст.](https://drive.google.com/file/d/1I_2vKC2eCScwYuNW-zNiV13rTHkryuUI/view?usp=sharing)
+
+** Геометрія **  
+**03.12** [9-Б. Тема: Вектори. Розв’язування задач](https://drive.google.com/file/d/1ykrS5YhJf-ggic_8ad1LHgVjfAVZtKBF/view?usp=sharing)  
+**03.12** [9-Б. Тема: Вектори на площині](https://drive.google.com/file/d/1RjV9PuGkr7pomGzkRf1IxFZqe38f5fHj/view?usp=sharing)
 `}</Md>
       </Tab>
       <Tab title="10 клас">
