@@ -33,6 +33,10 @@ export default function DistanceLearning() {
       </Tab>
       <Tab title="1 клас">
         <Tabs>
+          <Tab title="1 клас">
+            <Md>{`
+`}</Md>
+          </Tab>
           <Tab title="1-А">
             <Md>{`
 `}</Md>
@@ -49,6 +53,10 @@ export default function DistanceLearning() {
       </Tab>
       <Tab title="2 клас">
         <Tabs>
+          <Tab title="2 клас">
+            <Md>{`
+`}</Md>
+          </Tab>
           <Tab title="2-А">
             <Md>{`
 `}</Md>
@@ -60,26 +68,57 @@ export default function DistanceLearning() {
         </Tabs>
       </Tab>
       <Tab title="3 клас">
-        <Md>{`
+        <Tabs>
+          <Tab title="3 клас">
+            <Md>{`
 ** Музичне мистецтво **  
 **03.12** [Тема: Найдорожча у світі](https://drive.google.com/file/d/1i1gUjCiN0vKPL8XrNsCkVmbBWdbUVxog/view?usp=sharing)
 `}</Md>
+          </Tab>
+          <Tab title="3-А">
+            <Md>{`
+`}</Md>
+          </Tab>
+          <Tab title="3-Б">
+            <Md>{`
+`}</Md>
+          </Tab>
+        </Tabs>
       </Tab>
       <Tab title="4 клас">
-        <Md>{`
+        <Tabs>
+          <Tab title="4 клас">
+            <Md>{`
 ** Музичне мистецтво **  
 **03.12** [Тема: «Мистецтво крізь віки»](https://drive.google.com/file/d/1YubWV5rzabVC6jdwvG8rPKUiyjm-OUkj/view?usp=sharing)
 `}</Md>
+          </Tab>
+          <Tab title="4-А">
+            <Md>{`
+`}</Md>
+          </Tab>
+          <Tab title="4-Б">
+            <Md>{`
+** Математика **  
+**03.12** [Тема: Круглі числа.Складання виразів за задачами з буквеними даними.Периметр прямокутної ділянки.](https://drive.google.com/file/d/1z_JEo9XL_hgqyII0JYc9G2B0n2ui4m9z/view?usp=sharing)
+
+** Природознавство **  
+**03.12** [Тема: Рослинний і тваринний світ Євразії](https://drive.google.com/file/d/19B5F0TdlKF4LUvAQpcxKbDVSHyyTeqsP/view?usp=sharing)
+`}</Md>
+          </Tab>
+        </Tabs>
       </Tab>
       <Tab title="5 клас">
         <Md>{`
-** Фізика **  
-**03.12** [Тема: Поняття про сузір’я. Зорі.](https://drive.google.com/file/d/1R7UCQIPSK5QBTiTtfQ6qKkuGD4RD3D5G/view?usp=sharing)
+** Природознавство **  
+**03.12** [5-Б. Тема: Поняття про сузір’я. Зорі.](https://drive.google.com/file/d/1R7UCQIPSK5QBTiTtfQ6qKkuGD4RD3D5G/view?usp=sharing)
 
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
 **03.12** [5-Б. Тема: Приголосні тверді, м’які (повторення). Співвідношення звуків і букв. Звукове значення букв я, ю, є, ї .](https://drive.google.com/file/d/14VBVYgk0nTv9ga2twnBFYXtfg_bGpaCL/view?usp=sharing)
 
+** Трудове навчання **  
+**03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="6 клас">
@@ -112,6 +151,9 @@ export default function DistanceLearning() {
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Абсолютизм і громадянські війни у Франції](https://drive.google.com/file/d/1LjHnyvIvkFpsROshHXQx8bzKyHRS6yRz/view?usp=sharing)
+
+** Англійська мова **  
+**03.12** [Тема: Музика в нашому житті. Відомі українські виконавці.](https://drive.google.com/file/d/1vZrqAEL9AOaGZyKMNjDM_F2so579-b7m/view?usp=sharing)
 `}</Md>
       </Tab>
       <Tab title="9 клас">
