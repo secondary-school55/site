@@ -163,6 +163,15 @@ const items = [
     image: "contacts",
   },
   {
+    image: "archive",
+    items: [
+      {
+        text: "2019-2020 н.р.",
+        url: "/distance-learning/2019-2020",
+      },
+    ],
+  },
+  {
     url: "http://kreducloud.com/",
     image: "kreducloud",
   },
