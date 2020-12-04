@@ -5,7 +5,7 @@ const withXlsx = require("./plugins/next-plugin-xlsx");
 module.exports = withYaml(
   withMdx(
     withXlsx({
-      pageExtensions: ["js", "md"],
+      pageExtensions: ["js", "mdx"],
       webpack: (config) => {
         config.module.rules.push({
           test: require.resolve(`${__dirname}/lib/posts`),

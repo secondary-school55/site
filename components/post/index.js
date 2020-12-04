@@ -16,6 +16,7 @@ import Image from "./image";
 import LinkPost from "./link";
 import Pre from "./pre";
 import Quote from "./quote";
+import Paragraph from "./paragraph";
 
 export default function Post({ data: post }) {
   const { data: content } = useSWR(post.md, (...args) =>
@@ -58,22 +59,6 @@ export default function Post({ data: post }) {
         </Link>
       </WidgetsShare>
     </>
-  );
-}
-
-function Paragraph({ children }) {
-  return (
-    <div
-      style={{
-        display: "block",
-        marginTop: "1em",
-        marginBottom: "1em",
-        marginLeft: 0,
-        marginRight: 0,
-      }}
-    >
-      {children}
-    </div>
   );
 }
 
