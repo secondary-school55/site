@@ -14,9 +14,9 @@ import useSWR from "swr";
 
 import Image from "./image";
 import LinkPost from "./link";
+import Paragraph from "./paragraph";
 import Pre from "./pre";
 import Quote from "./quote";
-import Paragraph from "./paragraph";
 
 export default function Post({ data: post }) {
   const { data: content } = useSWR(post.md, (...args) =>

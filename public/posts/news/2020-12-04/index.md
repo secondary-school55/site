@@ -3,5 +3,3 @@ title: Мистецький онлайн-фестиваль "Пишаюсь пр
 ---
 
 <youtube id="jp36eSP2MEo"></youtube>
-
-<slideshow></slideshow>
