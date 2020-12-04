@@ -8,8 +8,6 @@
     "start": "next build && next start"
   },
   "dependencies": {
-    "@mdx-js/loader": "^1.6.18",
-    "@next/mdx": "^9.5.3",
     "disqus-react": "^1.0.10",
     "flickity": "^2.2.1",
     "glob": "^7.1.6",
