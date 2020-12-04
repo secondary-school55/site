@@ -42,10 +42,12 @@ export default function DistanceLearning() {
           <Tab title="1-А">
             <Md>{`
 ** Я досліджую світ **  
-**03.12** [Тема: Вода та її властивості. Демонстрація властивостей води](https://drive.google.com/file/d/1koK1E1cpGKmCrjKFO1RHf4_HVJOPHgsO/view?usp=sharing)
+**03.12** [Тема: Вода та її властивості. Демонстрація властивостей води](https://drive.google.com/file/d/1koK1E1cpGKmCrjKFO1RHf4_HVJOPHgsO/view?usp=sharing)  
+**04.12** [Тема: Властивості грунту](https://drive.google.com/file/d/1R4YdWalufPdylwvMLfy2LqOxv5eHkW8T/view?usp=sharing)  
 
 ** Математика **  
-**03.12** [Тема: Переставний закон додавання](https://drive.google.com/file/d/1BLi2UtjK2pNwLTdsbZBZQpQnam1ixVsV/view?usp=sharing)
+**03.12** [Тема: Переставний закон додавання](https://drive.google.com/file/d/1BLi2UtjK2pNwLTdsbZBZQpQnam1ixVsV/view?usp=sharing)  
+**04.12** [Тема: Вимірювання довжини відрізків. Сантиметр](https://drive.google.com/file/d/1ybdLJpQ2ujp_B50mgaW0wNd3j-Ya3-jd/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Переглянути відео](https://drive.google.com/file/d/1D2aar6UzW4Tfu4bdRX5yZWNcV_PluYtf/view?usp=sharing)
@@ -187,16 +189,24 @@ export default function DistanceLearning() {
           <Tab title="4-А">
             <Md>{`
 ** Математика **  
-**03.12** [Презентація](https://drive.google.com/file/d/1BKMnkoHMcau09nXlsOo9ppuFX_jwqs7R/view?usp=sharing)
+**03.12** [Презентація](https://drive.google.com/file/d/1BKMnkoHMcau09nXlsOo9ppuFX_jwqs7R/view?usp=sharing)  
+**04.12** [Тема: Додавання і віднімання іменованих чисел. Розв'язування задач](https://drive.google.com/file/d/1bbD5QaCFp7DONB11hI3Jb2U2ZNXcgxZQ/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **03.12** [Тема: Профілактика порушень зору, слуху, опорно-рухового апарату у школярів. Вправи для профілактики плоскостопості](https://drive.google.com/file/d/1qcNOK9BdFA-j7Fyo2JrNI_GEvJJfZ-46/view?usp=sharing)
 
 ** Українська мова **  
-**03.12** [Тема: Спостереження за вживанням прикметників у текстах різних стилів: науковому і художньому](https://drive.google.com/file/d/1zxmnnFCg8sk7b3GKFYGAdGdevlCnU8Ph/view?usp=sharing)
+**03.12** [Тема: Спостереження за вживанням прикметників у текстах різних стилів: науковому і художньому](https://drive.google.com/file/d/1zxmnnFCg8sk7b3GKFYGAdGdevlCnU8Ph/view?usp=sharing)  
+**04.12** [Тема: Змінювання прикметників за родами та числами у сполученні з іменниками. Родові закінчення прикметників](https://drive.google.com/file/d/1HylTHma9uCpPG01X7M4w3scD7l2NZg1v/view?usp=sharing)  
 
 ** Англійська мова **  
-**03.12** [Тема: Покупки](https://drive.google.com/file/d/1lhOUMYkO4FOvR9kvfydfM19Z81zXLVs1/view?usp=sharing)
+**03.12** [Тема: Покупки](https://drive.google.com/file/d/1lhOUMYkO4FOvR9kvfydfM19Z81zXLVs1/view?usp=sharing)  
+
+** Фізична культура **  
+**04.12** [Завдання](https://drive.google.com/file/d/13py1-ZctKCGOs4nnf8wgTevIB_Fvh90v/view?usp=sharing)  
+
+** Я у світі **  
+**04.12** [Тема: Культура поведінки учня](https://drive.google.com/file/d/1VflWdiAssdcz5PqI46YjcYwF-ewod2FQ/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="4-Б">
@@ -237,9 +247,13 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **03.12** [Тема: Середовище описання і виконання алгоритмів](https://drive.google.com/file/d/1v4UkLcIBNjYTNAmYwho0KhV6vbkT7CCs/view?usp=sharing)  
+**04.12** [Тема: Середовище описання і виконання алгоритмів](https://drive.google.com/file/d/1q0xiG0DzjVzhH_uJxaHAUIu8-fawm6LK/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
+
+** Математика **  
+**04.12** [Тема: Аналіз контрольної роботи. Види кутів. Вимірювання кутів](https://drive.google.com/file/d/1d8YTI_NUHB38Jtw7fLmJ7ZvtROh6ltEi/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="6 клас">
@@ -249,9 +263,17 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **03.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/14u2a-Fbfs2UVhKlYPdZQYEyak9uKZs1T/view?usp=sharing)  
+**04.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/16uK94BEboljVzcud-sfI-BgczQk6SqYY/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
+
+** Математика **  
+**04.12** [Тема: Пряма та обернена пропорційна залежність](https://drive.google.com/file/d/1wvfb4nJOgeV9QnldpeYtGn2_kDzpbtmu/view?usp=sharing)  
+**04.12** [Тема: Обернена пропорційна залежність](https://drive.google.com/file/d/1wHUa4yGSdK192MjZ5YKUIWoZcVUin7AV/view?usp=sharing)  
+
+** Українська мова **  
+**04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)
 `}</Md>
       </Tab>
       <Tab title="7 клас">
@@ -264,7 +286,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1VUTZhWnbIARa3D69NKg3qvHvC8ygPxq3/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
-**03.12** [Тема: Походи вікінгів та їх завоювання](https://drive.google.com/file/d/10SKWwFRat3yT2mp-XidaaXIqylc7hV62/view?usp=sharing)
+**03.12** [Тема: Походи вікінгів та їх завоювання](https://drive.google.com/file/d/10SKWwFRat3yT2mp-XidaaXIqylc7hV62/view?usp=sharing)  
 
 ** Геометрія **  
 **03.12** [Тема: Кути, утворені при перетині двох паралельних прямих січною. Властивості кутів, утворених при перетині паралельних прямих січною.](https://drive.google.com/file/d/1fFJnhdfAIKT66YiMKbNvDSv4onIhFgb3/view?usp=sharing)  
@@ -272,21 +294,30 @@ export default function DistanceLearning() {
 
 ** Англійська мова **  
 **03.12** [Тема: Страви](https://drive.google.com/file/d/1yC2uOR3TM0u3iNRhyux5e6-eVAAwOQei/view?usp=sharing)
+
+** Інформатика **  
+**04.12** [Тема: Створення моделей для розв’язування задач](https://drive.google.com/file/d/129xZiYVeZFgltMSzdCWdQEco6wnXtbuw/view?usp=drive_web)  
+
+** Біологія **  
+**04.12** [Тема: Різноманітність птахів, їх роль у природі та значення в житті людини](https://drive.google.com/file/d/1yE8Ay4YmvkBD_Dh23t4NCf8q2Jox4_Ou/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="8 клас">
         <Md>{`
 ** Українська мова **  
-**03.12** [Тема: Односкладні прості речення з одним головним членом підметом. Називні речення](https://drive.google.com/file/d/1VuUQRDDL4JHv2u27c3eGMZbOwm5faErV/view?usp=sharing)
+**03.12** [Тема: Односкладні прості речення з одним головним членом підметом. Називні речення](https://drive.google.com/file/d/1VuUQRDDL4JHv2u27c3eGMZbOwm5faErV/view?usp=sharing)  
+**04.12** [Тема: Односкладне речення як частина складного речення](https://drive.google.com/file/d/1VyJSxhNK75LaOybr6mJM4lCo-yHHyHQw/view?usp=sharing)  
 
 ** Українська література **  
-**03.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1Q8mIXGFf9Qrm1fqus0UoNSE-0gA4qN9q/view?usp=sharing)
+**03.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1Q8mIXGFf9Qrm1fqus0UoNSE-0gA4qN9q/view?usp=sharing)  
+**04.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1zwbcYCFqTCQ_VpTTmIfyBXEmkuzFEkTq/view?usp=sharing)
 
 ** Хімія **  
 **03.12** [Тема: Кількість речовини. Моль – одиниця кількості речовини. Число Авогадро.](https://drive.google.com/file/d/1Xza-GsZgxJa88JxRQB42fENhbGkA2hPj/view?usp=sharing)
 
 ** Історія України. Всесвітня історія **  
-**03.12** [Тема: Абсолютизм і громадянські війни у Франції](https://drive.google.com/file/d/1LjHnyvIvkFpsROshHXQx8bzKyHRS6yRz/view?usp=sharing)
+**03.12** [Тема: Абсолютизм і громадянські війни у Франції](https://drive.google.com/file/d/1LjHnyvIvkFpsROshHXQx8bzKyHRS6yRz/view?usp=sharing)  
+**04.12** [Тема: Англія в 16 ст.](https://drive.google.com/file/d/18cLnwgnsymixuJAGVpq_VXA4NuAMLyXL/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Музика в нашому житті. Відомі українські виконавці.](https://drive.google.com/file/d/1vZrqAEL9AOaGZyKMNjDM_F2so579-b7m/view?usp=sharing)
@@ -299,6 +330,9 @@ export default function DistanceLearning() {
 
 ** Фізична культура **  
 **04.12** [Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1_7s0JREx_prAAOorgG0U9tFW_D6w5mlE/view?usp=sharing)
+
+** Біологія **  
+**04.12** [Тема: Значення дихання. Будови і функції органів дихання](https://drive.google.com/file/d/1h8oxnpA9mSto58NfYV2yjRUNRFcB1z3B/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="9 клас">
@@ -332,6 +366,12 @@ export default function DistanceLearning() {
 
 ** Фізична культура **  
 **04.12** [Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/10ODZR-UG7C9YAJv3bPb-eKqe7kwsjJA4/view?usp=sharing)
+
+** Інформатика **  
+**04.12** [Тема: Розроблення програми. Виконання арифметичних обчислень. Уведення, виконання й налагодження програм](https://drive.google.com/file/d/1dpekkJgkf59EosU2y6jtD_cr9PnqzdpZ/view?usp=drive_web)
+
+** Біологія **  
+**04.12** [Тема: Фотосинтез: світлова та темнова фази](https://drive.google.com/file/d/1AP4SBbE-Wl8PoIH4LiQXBqO2b-ri70gl/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="10 клас">
@@ -339,6 +379,7 @@ export default function DistanceLearning() {
 ** Українська мова **  
 **03.12** [Тема: Лексичні норми української мови](https://drive.google.com/file/d/1XT-saYAg8GwSe8t6S7x7aldPogbaVAMc/view?usp=sharing)  
 **04.12** [Тема: Мовна надмірність, уникнення тавтології, плеоназму та мовної недостатності](https://drive.google.com/file/d/1hrAqRLD8lJfa4tLUULSvdeHLwtmxaVu2/view?usp=sharing)  
+**04.12** [Тема: Розмовна, просторічна, емоційно забарвлена лексика. Сленг. Екзотизми. Пуризми. Стилістичні можливості розмовної, просторічної лексики](https://drive.google.com/file/d/1EQAzk0Jp_hxAi9YKNzo5NfBpEXW5Ga_Z/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
@@ -352,6 +393,9 @@ export default function DistanceLearning() {
 
 ** Фізична культура **  
 **04.12** [Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1SBvvvI6L7-usEP0lkbxvVs85UtZqhjpJ/view?usp=sharing)
+
+** Історія України. Всесвітня історія **  
+**04.12** [Тема: Західноукраїнська Народна Республіка.](https://drive.google.com/file/d/1UX5pzPnYGVUlJs01kyXsn3UxARYrvB_5/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="11 клас">
@@ -363,6 +407,9 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **03.12** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)
+
+** Історія України. Всесвітня історія **  
+**04.12** [Тема: Опозиційний рух в Україні 60-80-х рр. ХХ ст.](https://drive.google.com/file/d/1BRFbeZezM4EQBXfjdEyCgfPXCTltDMaR/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="Онлайн уроки">
