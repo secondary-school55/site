@@ -334,8 +334,8 @@ export default function DistanceLearning() {
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
 **03.12** [5-А. Тема: Есе (розмірковування в довільній формі) про красу й молозвучність української мови](https://drive.google.com/file/d/1_iDvQLwccro5qew0XzXPU9S6B_Sr_o5T/view?usp=sharing)  
-**03.12** [5-Б. Тема: Приголосні тверді, м’які (повторення). Співвідношення звуків і букв. Звукове значення букв я, ю, є, ї .](https://drive.google.com/file/d/14VBVYgk0nTv9ga2twnBFYXtfg_bGpaCL/view?usp=sharing)
-**08.12** [5-Б. Тема: Позначення звуків мовлення на письмі](https://drive.google.com/file/d/1vM1_QZpP-S97Il4twyMPXw-4JFLgMgbT/view?usp=sharing)
+**03.12** [5-Б. Тема: Приголосні тверді, м’які (повторення). Співвідношення звуків і букв. Звукове значення букв я, ю, є, ї .](https://drive.google.com/file/d/14VBVYgk0nTv9ga2twnBFYXtfg_bGpaCL/view?usp=sharing)  
+**08.12** [5-Б. Тема: Позначення звуків мовлення на письмі](https://drive.google.com/file/d/1vM1_QZpP-S97Il4twyMPXw-4JFLgMgbT/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -446,8 +446,8 @@ export default function DistanceLearning() {
 
 ** Українська література **  
 **03.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1Q8mIXGFf9Qrm1fqus0UoNSE-0gA4qN9q/view?usp=sharing)  
-**04.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1zwbcYCFqTCQ_VpTTmIfyBXEmkuzFEkTq/view?usp=sharing)
-**08.12** [Тема: В. Голобородько. Самобутня постать поета в українській літературі. Вірш «з дитинства: дощ» («я вплетений ...»). Вільний вірш](https://drive.google.com/file/d/1kH8xW5IXr5JrcJe5ABKwdTlprQCsOWxf/view?usp=sharing)
+**04.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1zwbcYCFqTCQ_VpTTmIfyBXEmkuzFEkTq/view?usp=sharing)  
+**08.12** [Тема: В. Голобородько. Самобутня постать поета в українській літературі. Вірш «з дитинства: дощ» («я вплетений ...»). Вільний вірш](https://drive.google.com/file/d/1kH8xW5IXr5JrcJe5ABKwdTlprQCsOWxf/view?usp=sharing)  
 
 ** Хімія **  
 **03.12** [Тема: Кількість речовини. Моль – одиниця кількості речовини. Число Авогадро.](https://drive.google.com/file/d/1Xza-GsZgxJa88JxRQB42fENhbGkA2hPj/view?usp=sharing)  
