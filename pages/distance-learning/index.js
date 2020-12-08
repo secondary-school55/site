@@ -189,7 +189,10 @@ export default function DistanceLearning() {
 **08.12** [Тема: Порівняння способів додавання круглих трицифрових чисел](https://drive.google.com/file/d/1llI5Tp_nB7ogU7BPV0qtPGootAEvYHsu/view?usp=sharing)  
 
 ** Фізична культура **  
-**08.12** [Тема: Вправи з великим м'ячем (елементи баскетболу)](https://drive.google.com/file/d/1oZVaXtm8nClPDCbJ1AsjSdLWt-eN31qK/view?usp=sharing)
+**08.12** [Тема: Вправи з великим м'ячем (елементи баскетболу)](https://drive.google.com/file/d/1oZVaXtm8nClPDCbJ1AsjSdLWt-eN31qK/view?usp=sharing)  
+
+** Інформатика **  
+**08.12** [Тема: Середовище програмування для дітей](https://drive.google.com/file/d/1uWRppF2xxQ-fRm8eOpPrtzKZjXKt3q5k/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="3-А">
@@ -346,6 +349,9 @@ export default function DistanceLearning() {
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
+
+** Астрономія **  
+**08.12** [5-А. Тема: Астрономія як наука](https://drive.google.com/file/d/17ou9n3HZoSLpPQGQzsl4kZLQpwa_3ZRx/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="6 клас">
@@ -404,6 +410,7 @@ export default function DistanceLearning() {
 
 ** Біологія **  
 **04.12** [Тема: Різноманітність птахів, їх роль у природі та значення в житті людини](https://drive.google.com/file/d/1yE8Ay4YmvkBD_Dh23t4NCf8q2Jox4_Ou/view?usp=sharing)  
+**08.12** [Тема: Ссавці. Особливості будови, способу життя](https://drive.google.com/file/d/1rOLn1IUWVoWF-pVz3KegQbQu8D3hsJ6C/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **04.12** [Тема: Показники фізичного розвитку підлітків. Способи покращення фізичної форми](https://drive.google.com/file/d/1RLib8JRvGgB4ChCpFRIzK3r3e9lClYCL/view?usp=sharing)  
@@ -443,6 +450,7 @@ export default function DistanceLearning() {
 ** Англійська мова **  
 **03.12** [Тема: Музика в нашому житті. Відомі українські виконавці.](https://drive.google.com/file/d/1vZrqAEL9AOaGZyKMNjDM_F2so579-b7m/view?usp=sharing)  
 **07.12** [Тема: Музичні стилі](https://drive.google.com/file/d/1E29fXAu4YeuLL9SJEhFSQpTMnBPpl6eR/view?usp=sharing)  
+**08.12** [Тема: Контроль письма](https://drive.google.com/file/d/1Mtr3VOv_jK9HV4uAjHEkvRY5IKCnIiBM/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -506,6 +514,7 @@ export default function DistanceLearning() {
 
 ** Біологія **  
 **04.12** [Тема: Фотосинтез: світлова та темнова фази](https://drive.google.com/file/d/1AP4SBbE-Wl8PoIH4LiQXBqO2b-ri70gl/view?usp=sharing)  
+**08.12** [Тема: Фотосинтез: світлова та темнова фази](https://drive.google.com/file/d/1S6_jcCPsO5FX4L2cLg4SQky7qNgKGoY5/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Усний твір-роздум у публіцистичному стилі мовлення на суспільну тему](https://drive.google.com/file/d/1B1Pj9K4LkO41bylzM2_PTvUpGMqRtovG/view?usp=sharing)  
@@ -513,6 +522,8 @@ export default function DistanceLearning() {
 
 ** Фізика **  
 **04.12** [Тема: Механічні хвилі](https://drive.google.com/file/d/1gFUenJvZoiJfbG2dXxl35x6LtqAUs2RB/view?usp=sharing)  
+**08.12** [Тема: Електромагнітне поле](https://drive.google.com/file/d/1EfXMUGu05I7gJxeY_VOnUyFSvDNKXFWi/view?usp=sharing)  
+**08.12** [Тема: Звукові хвилі](https://drive.google.com/file/d/126g0uZowIP3iR08iTKfkKfQ_HqjU3VHf/view?usp=sharing)  
 
 `}</Md>
       </Tab>
@@ -531,7 +542,9 @@ export default function DistanceLearning() {
 **08.12** [Тема: Іван Франко – поет, прозаїк, драматург, громадський діяч, перекладач, літературний критик і перший галицький учений](https://drive.google.com/file/d/1oFaxSgiWeTF2tujmFmmQXHikcq8JnCLA/view?usp=sharing)  
 
 ** Фізика **  
-**03.12** [Тема: Механічна робота. Потужність. Кінетична енергія.](https://drive.google.com/file/d/13ktDbpkU-YGMFOs3KRcYIqKot5LfswUQ/view?usp=sharing)
+**03.12** [Тема: Механічна робота. Потужність. Кінетична енергія.](https://drive.google.com/file/d/13ktDbpkU-YGMFOs3KRcYIqKot5LfswUQ/view?usp=sharing)  
+**08.12** [Тема: Закон збереження енергії](https://drive.google.com/file/d/1XmDNvbUoT_A-Kxyv3hLzAEV86kFrSjHR/view?usp=sharing)  
+**08.12** [Тема: Імпульс.Реактивний рух](https://drive.google.com/file/d/1c_MGIN_B14rayQ-AG2VHjGcWjTZaSSNg/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)
@@ -567,7 +580,8 @@ export default function DistanceLearning() {
 **04.12** [Тема: Опозиційний рух в Україні 60-80-х рр. ХХ ст.](https://drive.google.com/file/d/1BRFbeZezM4EQBXfjdEyCgfPXCTltDMaR/view?usp=sharing)  
 
 ** Англійська мова **  
-**04.12** [Тема: Reading](https://drive.google.com/file/d/1clNCU8I-QMXLumrUeVrrPFrlUHCobR-z/view?usp=sharing)
+**04.12** [Тема: Reading](https://drive.google.com/file/d/1clNCU8I-QMXLumrUeVrrPFrlUHCobR-z/view?usp=sharing)  
+**08.12** [Тема: Writing](https://drive.google.com/file/d/1c275FUb4T5R-xkotqqn08tbq5HkvdXX-/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Есе «Що робить мене щасливим (щасливою)»](https://drive.google.com/file/d/1xZaYEjnfrn1_BhqFqRKVKQHtugYFExs6/view?usp=sharing)  
