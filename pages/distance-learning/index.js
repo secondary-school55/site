@@ -36,7 +36,10 @@ export default function DistanceLearning() {
           <Tab title="1 клас">
             <Md>{`
 ** Англійська мова **  
-**04.12** [Тема: Школа](https://drive.google.com/file/d/1dVzlit8c58ztKuqNk70e7sNuMCzAQzqZ/view?usp=sharing)
+**04.12** [Тема: Школа](https://drive.google.com/file/d/1dVzlit8c58ztKuqNk70e7sNuMCzAQzqZ/view?usp=sharing)  
+
+** Музичне мистецтво **  
+**08.12** [Тема: Казкові пригоди](https://drive.google.com/file/d/1MdrGUQErQR9z4-v2mhl98pkNzoyjjcTv/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="1-А">
@@ -66,21 +69,27 @@ export default function DistanceLearning() {
 ** Математика **  
 **03.12** [Тема: Досліджуємо таблиці додавання і віднімання числа 1](https://drive.google.com/file/d/1GMRjfOoX8kQHz1CnDqad7zKREO7hd8iM/view?usp=sharing)  
 **04.12** [Тема: Переставна властивість додавання](https://drive.google.com/file/d/13-xyT94x5uFpIGxJcmwHee3b_0Y5-J1F/view?usp=sharing)  
-**07.12** [Тема: Вимірюємо довжини  відрізків](https://drive.google.com/file/d/1OV81adXAyqBvgktML8N-lac3hQK9xlCc/view?usp=sharing)  
+**07.12** [Тема: Вимірюємо довжини відрізків](https://drive.google.com/file/d/1OV81adXAyqBvgktML8N-lac3hQK9xlCc/view?usp=sharing)  
+**08.12** [Тема: Досліджуємо взаємозв’язок додавання і віднімання](https://drive.google.com/file/d/1v__wqM9AjuRO1SQlpZQC_2E377hLHblN/view?usp=sharing)  
 
 ** Письмо **  
 **03.12** [Тема: Написання рядкової букви "т" (те), складів, слів з нею](https://drive.google.com/file/d/1gsIdnoi5dQYR7EUT3bzl3PpepuFbdQXk/view?usp=sharing)  
 **07.12** [Тема: Написання великої букви т](https://drive.google.com/file/d/1uAGCYvyMSTRVlXw8drZ8RAerh1UesUdL/view?usp=sharing)  
+**08.12** [Тема: Написання малої букви д, складів, слів і речень з вивченими буквами](https://drive.google.com/file/d/1Q1xk7FNj-EbjL_uWfY5gBlXKRTbAQGa4/view?usp=sharing)  
 
 ** Фізична культура **  
 **03.12** [Тема: Постава як основа здоров’я. Танцювальеі кроки.](https://drive.google.com/file/d/1YmlLjjEr2r51vorkocbZ1-mCm6zB9eKs/view?usp=sharing)  
 **07.12** [Тема: Зарядка](https://drive.google.com/file/d/1lMcr7-6BkyTXHrHSHyRy59NDZesMKr3j/view?usp=sharing)  
 
 ** Читання **  
-**04.12** [Тема: Велика буква т. Читання слів, речень і тексту з вивченими літерами](https://drive.google.com/file/d/1-j7zPCcPLUsNpLGKPI9Z91e5oTld9ob8/view?usp=sharing)
+**04.12** [Тема: Велика буква т. Читання слів, речень і тексту з вивченими літерами](https://drive.google.com/file/d/1-j7zPCcPLUsNpLGKPI9Z91e5oTld9ob8/view?usp=sharing)  
+**08.12** [Тема: Звуки [д], [д']. мала буква д. Читання складів, слів, речень і тексту з вивченими літерами](https://drive.google.com/file/d/1Kt1cTsouFGQBsrP_vPr9GJPx1B2SWC_m/view?usp=sharing)  
 
 ** Праця **  
 **07.12** [Тема: Зимова мозаїка. «Сипле,сипле сніг…»](https://drive.google.com/file/d/1AERA7DfM5Lc708yBsknO2y1BMta2evIW/view?usp=sharing)  
+
+** Я досліджую світ **  
+**08.12** [Тема: Властивості грунту](https://drive.google.com/file/d/1Xl5mQJ5IJvUtov2BDrAGZ1jhm2OaDm3k/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="1-В">
@@ -121,6 +130,9 @@ export default function DistanceLearning() {
             <Md>{`
 ** Інформатика **  
 **07.12** [Тема: Об'єднання предметів у групи за певними заданими ознаками](https://drive.google.com/file/d/1hPMEftUxG-fvOsntosBqqromIb1i4J6E/view?usp=sharing)  
+
+** Музичне мистецтво **  
+**08.12** [Тема: Подорожі із маршем](https://drive.google.com/file/d/1tCfYmFlsRDZ5Mlz1JXjzM1K9QWUg3VVR/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="2-А">
@@ -172,6 +184,12 @@ export default function DistanceLearning() {
 
 ** Англійська мова **  
 **04.12** [Тема: Контроль читання](https://drive.google.com/file/d/1BWaOtRFsi4XEkt7bSQcm16ChwMRt0qs1/view?usp=sharing)
+
+** Математика **  
+**08.12** [Тема: Порівняння способів додавання круглих трицифрових чисел](https://drive.google.com/file/d/1llI5Tp_nB7ogU7BPV0qtPGootAEvYHsu/view?usp=sharing)  
+
+** Фізична культура **  
+**08.12** [Тема: Вправи з великим м'ячем (елементи баскетболу)](https://drive.google.com/file/d/1oZVaXtm8nClPDCbJ1AsjSdLWt-eN31qK/view?usp=sharing)
 `}</Md>
           </Tab>
           <Tab title="3-А">
@@ -196,6 +214,7 @@ export default function DistanceLearning() {
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
 **07.12** [Тема: Робота з дитячою книжкою. Григорій Фалькович Щедрий комар](https://drive.google.com/file/d/1FlnlvXHTd676ksklKfJcIybvINZ-VVAI/view?usp=sharing)  
+**08.12** [Тема: Святкові запахи. Робота з картиною художниці Світлани Косенко "Святвечір". Як "прочитати" картину? Настрій. Кольори. Композиція. Розповідь про враження від побаченого. (с.75)](https://drive.google.com/file/d/1v9rZGVdqcx8QjOlkHnz_aq6TO4BEDrOs/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)
@@ -222,6 +241,7 @@ export default function DistanceLearning() {
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
 **07.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження)](https://drive.google.com/file/d/1bPvztu-Na0eZkYCKqXfPHqowqZ_5Vj8e/view?usp=sharing)  
+**08.12** [Тема: Робота з дитячою книжкою. Григорій Фалькович Щедрий комар](https://drive.google.com/file/d/12XfDi8NrKlTWoyvenOm9zGeNjAIZy4Mr/view?usp=sharing)  
 `}</Md>
           </Tab>
         </Tabs>
@@ -252,6 +272,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Спостереження за вживанням прикметників у текстах різних стилів: науковому і художньому](https://drive.google.com/file/d/1zxmnnFCg8sk7b3GKFYGAdGdevlCnU8Ph/view?usp=sharing)  
 **04.12** [Тема: Змінювання прикметників за родами та числами у сполученні з іменниками. Родові закінчення прикметників](https://drive.google.com/file/d/1HylTHma9uCpPG01X7M4w3scD7l2NZg1v/view?usp=sharing)  
 **07.12** [Тема: Вiдмiнювання прикметникiв у сполученнi з iменниками в однинi та множинi](https://drive.google.com/file/d/1ikqCNKAa13tzSpHz2mHTK32XN_cRgUcA/view?usp=sharing)  
+**08.12** [Тема: Зіставлення закінчень прикметників з основою на твердий та м’який приголосний в однині і множині](https://drive.google.com/file/d/1cVNaVJgTH328DxQd2XE-6f03MqZZ1OHm/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Завдання](https://drive.google.com/file/d/13py1-ZctKCGOs4nnf8wgTevIB_Fvh90v/view?usp=sharing)  
@@ -259,8 +280,12 @@ export default function DistanceLearning() {
 ** Я у світі **  
 **04.12** [Тема: Культура поведінки учня](https://drive.google.com/file/d/1VflWdiAssdcz5PqI46YjcYwF-ewod2FQ/view?usp=sharing)  
 
-** Читання **  
+** Літературне читання **  
 **07.12** [Тема: Марко Вовчок «Літній ранок», Михайло Коцюбинський «Літній день»](https://drive.google.com/file/d/1Hcug_znkMSO2DtbPp1V1SVFXCAeuL6PJ/view?usp=sharing)  
+**08.12** [Тема: Г. Тютюнник Ласочка](https://drive.google.com/file/d/1Gq1aM952H2hFwxYpQWESf9wuZVwo-v3I/view?usp=sharing)  
+
+** Природознавство **  
+**08.12** [Тема: Рослинний та тваринний світ Євразії](https://drive.google.com/file/d/12dq2cy7xWbmzcqgIBieKcuquvoJs3jDe/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="4-Б">
@@ -268,18 +293,26 @@ export default function DistanceLearning() {
 ** Математика **  
 **03.12** [Тема: Круглі числа.Складання виразів за задачами з буквеними даними.Периметр прямокутної ділянки.](https://drive.google.com/file/d/1z_JEo9XL_hgqyII0JYc9G2B0n2ui4m9z/view?usp=sharing)  
 **04.12** [Тема: Додавання і віднімання іменованих чисел. Розв'язування задач](https://drive.google.com/file/d/1p6NmCkJs7I06ZFszWV09CTa43lTQjayZ/view?usp=sharing)  
+**08.12** [Тема: Дії з іменованими числами. Розв'язування задач на визначення тривалості подій](https://drive.google.com/file/d/1mAA0ZPexYqipo6qwLHmKryPYK9ENwrhq/view?usp=sharing)  
 
 ** Природознавство **  
-**03.12** [Тема: Рослинний і тваринний світ Євразії](https://drive.google.com/file/d/19B5F0TdlKF4LUvAQpcxKbDVSHyyTeqsP/view?usp=sharing)
+**03.12** [Тема: Рослинний і тваринний світ Євразії](https://drive.google.com/file/d/19B5F0TdlKF4LUvAQpcxKbDVSHyyTeqsP/view?usp=sharing)  
+**08.12** [Тема: Найбільші країни Євразії. Діяльність людей і охорона природи](https://drive.google.com/file/d/1-ZbQm2ELGZLCuiCAegkDazL-kYFKc3FL/view?usp=sharing)  
 
 ** Українська мова **  
-**04.12** [Тема: Змінювання прикметників за родами та числами у сполученні з іменниками. Родові закінчення прикметників](https://drive.google.com/file/d/1k2OS5tmdSqS9U0ESF0N_D7h9kb-thQbt/view?usp=sharing)
+**04.12** [Тема: Змінювання прикметників за родами та числами у сполученні з іменниками. Родові закінчення прикметників](https://drive.google.com/file/d/1k2OS5tmdSqS9U0ESF0N_D7h9kb-thQbt/view?usp=sharing)  
+**07.12** [Тема: Відмінювання прикметників у сполученні з іменниками в олнині та множині](https://drive.google.com/file/d/1EuPEWhVuPf8n8BGEe1ILALq1uzZm8W81/view?usp=sharing)  
+**08.12** [Тема: Зіставлення закінчень прикметників з основою на твердий та м'який приголосний в однині і множині](https://drive.google.com/file/d/1fxO-bXRnNAx7on3XH9tJs3pXCu3VvgLM/view?usp=sharing)  
 
 ** Я у світі **  
 **04.12** [Тема: Культура поведінки учня](https://drive.google.com/file/d/1uW5654jU6K1rkEnbTDFy_8sCJ2kafQLS/view?usp=sharing)
 
 ** Англійська мова **  
 **03.12** [Тема: Покупки](https://drive.google.com/file/d/1vJe5h3cSMsODOLKX_hlLazFw6AvQAr-L/view?usp=sharing)
+
+** Літературне читання **  
+**07.12** [Тема: Марко Вовчок «Літній ранок», Михайло Коцюбинський «Літній день»](https://drive.google.com/file/d/1XgJrjALeSBPNQ_Qy5nIsx0yLyZXI39WL/view?usp=sharing)  
+**08.12** [Тема: Григір Тютюнник «Ласочка»](https://drive.google.com/file/d/1FfR9kqe3b1y5wSfqJ84ugJLaPfL0Pjgw/view?usp=sharing)  
 `}</Md>
           </Tab>
         </Tabs>
@@ -332,6 +365,8 @@ export default function DistanceLearning() {
 **04.12** [Тема: Пряма та обернена пропорційна залежність](https://drive.google.com/file/d/1wvfb4nJOgeV9QnldpeYtGn2_kDzpbtmu/view?usp=sharing)  
 **04.12** [Тема: Обернена пропорційна залежність](https://drive.google.com/file/d/1wHUa4yGSdK192MjZ5YKUIWoZcVUin7AV/view?usp=sharing)  
 **07.12** [Тема: Відсоткове відношення двох чисел](https://drive.google.com/file/d/1iYwL_pzThDE3eDVWtiq4tqNG4VfV6I4Q/view?usp=sharing)  
+**07.12** [Тема: Коло і круг](https://drive.google.com/file/d/11XLOszKBM3EPjpsUE9-kjuBm-VknuNNh/view?usp=sharing)  
+**08.12** [Тема: Кругові діаграми](https://drive.google.com/file/d/19LSENrV3FXVR2jmo-d-1vpJw-wMGGJ-B/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
@@ -379,6 +414,10 @@ export default function DistanceLearning() {
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
+
+** Алгебра **  
+**07.12** [Тема: Формули квадрата двочлена, різниці квадратів, суми і різниці кубів](https://drive.google.com/file/d/1rZfpPfzYKlR_3eqiRpZImyPSKsHghooO/view?usp=sharing)  
+**08.12** [7-Б. Тема: Формули суми і різниці кубів](https://drive.google.com/file/d/1Oy_lN7IVHkAP8efaDlTwDTtYg4lRSczR/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="8 клас">
@@ -406,7 +445,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Музичні стилі](https://drive.google.com/file/d/1E29fXAu4YeuLL9SJEhFSQpTMnBPpl6eR/view?usp=sharing)  
 
 ** Алгебра **  
-**03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)
+**03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
 
 ** Географія **  
 **04.12** [Тема: Вплив погодно-кліматичних умов на здоров'я і господарську діяльність людини. Охорона атмосферного повітря. Кліматичні особливості своєї місцевості](https://drive.google.com/file/d/1vYAwfOrYGHF59NtP26e4W9X-6BdlSoxY/view?usp=sharing)
@@ -420,6 +459,9 @@ export default function DistanceLearning() {
 
 ** Основи здоров’я **  
 **07.12** [Тема: Становлення особистості](https://drive.google.com/file/d/1XiqqH2rvbGD9PSbehbUFOjgN9d6ssUI8/view?usp=sharing)  
+
+** Геометрія **  
+**08.12** [Тема: Подібність прямокутних трикутників. Властивість бісектриси. Метричні співвідношення](https://drive.google.com/file/d/1P4n2CeJ0hOGemlmT2Z8di8FAmWrYIIhI/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="9 клас">
@@ -430,6 +472,7 @@ export default function DistanceLearning() {
 ** Хімія **  
 **03.12** [Тема: Реакції оборотні й необоротні](https://drive.google.com/file/d/1J2DYha0BrqewRn0sm7Yn2UbvM5hr7tu0/view?usp=sharing)  
 **07.12** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1nZmcjJQ_nrd_c52_FH-uuyn8NjG5mwVq/view?usp=sharing)  
+**08.12** [Тема: Класифікація хімічних реакцій .Реакції сполучення, розкладу, заміщення, обміну]()  
 
 ** Правознавство **  
 **03.12** [Тема: Конституційні права і свободи людини і громадянина](https://drive.google.com/file/d/15aef0Tzl_ip_KxMQal1xDjVIK8mWwNyg/view?usp=sharing)
@@ -452,6 +495,7 @@ export default function DistanceLearning() {
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
+**08.12** [Тема: Утілення морального й естетичного ідеалів в образі головної героїні твору «Маруся» Григорія Квітки-Основ’яненка](https://drive.google.com/file/d/1R5BQK_Ak3rXkgxnO5eNc1QfvOqFMB6zF/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/10ODZR-UG7C9YAJv3bPb-eKqe7kwsjJA4/view?usp=sharing)  
@@ -478,11 +522,13 @@ export default function DistanceLearning() {
 **03.12** [Тема: Лексичні норми української мови](https://drive.google.com/file/d/1XT-saYAg8GwSe8t6S7x7aldPogbaVAMc/view?usp=sharing)  
 **04.12** [Тема: Мовна надмірність, уникнення тавтології, плеоназму та мовної недостатності](https://drive.google.com/file/d/1hrAqRLD8lJfa4tLUULSvdeHLwtmxaVu2/view?usp=sharing)  
 **04.12** [Тема: Розмовна, просторічна, емоційно забарвлена лексика. Сленг. Екзотизми. Пуризми. Стилістичні можливості розмовної, просторічної лексики](https://drive.google.com/file/d/1EQAzk0Jp_hxAi9YKNzo5NfBpEXW5Ga_Z/view?usp=sharing)  
+**08.12** [Тема: Лексика української мови за походженням](https://drive.google.com/file/d/1O0Ba-JtVOJVgg2QA_yQnJqK5hJr7Ut2h/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
 **04.12** [Тема: Комедія «Мартин Боруля». Психологічна переконливість і трагікомічне звучання образу Мартина Борулі. Інші образи у творі. Значення творчості І. Тобілевича для української драматургії](https://drive.google.com/file/d/1egMwZ_m44RercI_fJaz74USyVzLiUEDJ/view?usp=sharing)  
 **07.12** [Тема: Урок виразного читання .І.Я Франко - розум і серце українського народу](https://drive.google.com/file/d/1mZUh-mMlj84-ySBLKaVOKjicN2-T0-vK/view?usp=sharing)  
+**08.12** [Тема: Іван Франко – поет, прозаїк, драматург, громадський діяч, перекладач, літературний критик і перший галицький учений](https://drive.google.com/file/d/1oFaxSgiWeTF2tujmFmmQXHikcq8JnCLA/view?usp=sharing)  
 
 ** Фізика **  
 **03.12** [Тема: Механічна робота. Потужність. Кінетична енергія.](https://drive.google.com/file/d/13ktDbpkU-YGMFOs3KRcYIqKot5LfswUQ/view?usp=sharing)
@@ -525,9 +571,13 @@ export default function DistanceLearning() {
 
 ** Українська мова **  
 **07.12** [Тема: Есе «Що робить мене щасливим (щасливою)»](https://drive.google.com/file/d/1xZaYEjnfrn1_BhqFqRKVKQHtugYFExs6/view?usp=sharing)  
+**08.12** [Тема: Розділові знаки в простому ускладненому реченні](https://drive.google.com/file/d/1Y4mGclReJDaXcHw6xqFtGXOIANhIcrdP/view?usp=sharing)  
 
 ** Фізика **  
 **07.12** [Тема: Досліди М.Фарадея. Електромагнітна індукція. Закон електромагнітної індукції. Правило Ленца](https://drive.google.com/file/d/1sj3YVP7d9jBZHf15nSJBU6EKpNTATAIe/view?usp=sharing)  
+
+** Хімія **  
+**08.12** [Тема: Поняття про гальванічний елемент як хімічне джерело електричного струму](https://drive.google.com/file/d/1-18C_qtNZmcyKNShpSVNgHdP_43NAkoS/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="Онлайн уроки">
