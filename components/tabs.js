@@ -33,7 +33,7 @@ export const Tabs = (props) => {
         ))}
       </Titles>
       <Content key={keyId++} vertical={props.vertical}>
-        {content(props, index)}
+        {content(props, index, setIndex)}
       </Content>
     </Grid>
   );
@@ -41,8 +41,13 @@ export const Tabs = (props) => {
 
 export const Tab = (props) => <div>{props.children}</div>;
 
-function content(props, index) {
-  return props.children[index].props.children;
+function content(props, index, setIndex) {
+  const childs = props.children[index];
+  if (childs === undefined) {
+    setIndex(0);
+    return null;
+  }
+  return childs.props.children;
 }
 
 const Title = styled.div`
