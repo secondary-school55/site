@@ -25,7 +25,7 @@
       route: /school/improvements
 
     - title: Ми у пресі
-      route: https://www.youtube.com/playlist?list=PLRRIw-HYRJOqvwF8B4qVAviOnmN5iY3Xn
+      route: /school/press
 
     - title: Благодійні внески платежного сервісу EDUPAY
       route: /school/edupay
@@ -60,10 +60,10 @@
       route: https://www.youtube.com/playlist?list=PLRRIw-HYRJOr2XVPRWJTTHpGPV_C4pwiv
 
     - title: Уроки Авраменка
-      route: https://www.youtube.com/playlist?list=PLEoEWGEBriPCTBIOQbXIIDzFFakriePu-
+      route: /digest/avramenko
 
     - title: Сторінками дитячої творчості
-      route: https://www.youtube.com/playlist?list=PLRRIw-HYRJOpzrWlpb8GywybT26k1kMLR
+      route: /digest/creativity
 
     - title: Орієнтовний перелік потреб навчального закладу
       route: /digest/needs
