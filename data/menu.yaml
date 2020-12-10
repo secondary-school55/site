@@ -57,7 +57,7 @@
       posts: camp
 
     - title: Л. Гриневич про школу
-      route: https://www.youtube.com/playlist?list=PLRRIw-HYRJOr2XVPRWJTTHpGPV_C4pwiv
+      route: /digest/grinevich
 
     - title: Уроки Авраменка
       route: /digest/avramenko
