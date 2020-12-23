@@ -42,12 +42,12 @@ function renderLetters(data, title) {
       // eslint-disable-next-line react/display-name
       accessor: (d) => (
         <>
-          <Link to={`https://api.school55.pp.ua/api/letters/open/${d.main}`}>
+          <Link to={`https://api.school55.pp.ua/api/box/open/${d.main}`}>
             <FaExternalLinkAlt />
           </Link>
           /
           <Link
-            to={`https://api.school55.pp.ua/api/letters/download/${d.main}`}
+            to={`https://api.school55.pp.ua/api/box/download/${d.main}`}
           >
             <FaDownload />
           </Link>
@@ -61,7 +61,7 @@ function renderLetters(data, title) {
       accessor: (d) =>
         d.apps ? (
           <Link
-            to={`https://api.school55.pp.ua/api/letters/download/${d.apps}`}
+            to={`https://api.school55.pp.ua/api/box/download/${d.apps}`}
           >
             <FaDownload />
           </Link>
