@@ -245,6 +245,12 @@ export default function Normative() {
 1. [КЗШ №55. Про припинення освітнього процесу у КЗШ № 55 КМР ДО](https://drive.google.com/open?id=1nk_UyMHAUVHDpVSqhI_n3zfRGP3-WBF7)
 1. [КЗШ №55. Щодо організації освітнього процесу в закладі освіти під час карантину](https://drive.google.com/open?id=1P4sQSohSlPALa6_sUXeCeM_P302JA4Xc)
 1. [КЗШ №55. Щодо організації дистанційного навчання в освітньому закладі під час карантину](https://drive.google.com/open?id=16ff8k1lHQ-MKmHbyOv07o5cbyZaOa3FD)
+1. [Лист МОН України від 02.11.2020 №1/9-609 «Щодо організації дистанційного навчання»](https://drive.google.com/file/d/1ei69FDSF89YL5R2KP5bLrtJLVhR_-nLP/view?usp=sharing)
+1. [Положення про дистанційну форму здобуття повної загальної середньої освіти, затверджено наказом Міністерства освіти і науки України 08 вересня 2020 року №1115](https://drive.google.com/file/d/1SLtfII6MvdD4a4HW6LT0EbbwmFTw2H49/view?usp=sharing)
+1. [Лист МОН України №1/9-420 від 05.08.2020 "Про організацію роботи закладів загальної середньої освіти у 2020-2021 навчальному році"](https://drive.google.com/file/d/1mveToIsMmbbCMJqua-lxHCpAWTVi0_Yz/view?usp=sharing)
+1. [Лист МОН України №1/9-419 від 04.08.2020 "Щодо необхідності створення безпечних умов для організованого початку 2020-2021 навчального року"](https://drive.google.com/file/d/1YhU2uM4yKSmlNK3Cd_5yzw0mugp2_-Iz/view?usp=sharing)
+1. [Лист МОН України №1/9-406 від 29.07.2020 "Про підготовку закладів освіти до нового навч.року та опалювального сезону в умовах карантину"](https://drive.google.com/file/d/1TRH9iGDMxTknSX2ptYRJd6DJANPEi6EA/view?usp=sharing)
+1. [Деякі питання захисту дітей в умовах боротьби з наслідками гострої респіраторної хвороби COVID-19, спричиненої коронавірусом SARS-CoV-2 (Постанова КМУ 01.06.2020 №586)](https://drive.google.com/file/d/1LVkOHVXFNITVfURxOEm9cqCm6Pwy7hLB/view?usp=sharing)
 `}</Md>
       </Tab>
     </Tabs>
