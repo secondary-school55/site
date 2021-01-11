@@ -438,6 +438,10 @@ export default function DistanceLearning() {
 
 ** Образотворче мистецтво **  
 **11.01** [Тема: Скульптура космонавт](https://drive.google.com/file/d/1mvaqrrkGEY-U7MTH9WrLW-q_fnGKRq6A/view?usp=sharing)  
+
+** Основи здоров’я **  
+**11.01** [Тема: Попередження травм під час рухливих ігор. Правила безпечної поведінки в басейні та на льоду](https://drive.google.com/file/d/1dAALP8mt62Hpr92U2kwKr2iAXyzH5xqa/view?usp=sharing)  
+
 `}</Md>
       </Tab>
       <Tab title="6 клас">
@@ -661,6 +665,12 @@ export default function DistanceLearning() {
 
 ** Мистецтво **  
 **04.12** [Тема: Сюрреалізм](https://drive.google.com/file/d/1NifrDQX_ktjFsE6qmEyUdO5CkcjpReOn/view?usp=sharing)  
+
+** Алгебра **  
+**11.01** [Тема: Квадратні нерівності](https://drive.google.com/file/d/19Gm5ymTCuqJGr9_ikFVp8-WzoFccQtwD/view?usp=sharing)  
+
+** Основи здоров'я **  
+**11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="10 клас">
@@ -710,6 +720,12 @@ export default function DistanceLearning() {
 
 ** Захист України **  
 **11.01** [Тема: Вогнева підготовка](https://drive.google.com/file/d/190Hpb8Hc2f1DXFKG1XJdIfRWQKXTefWM/view?usp=sharing)  
+
+** Алгебра **  
+**11.01** [Тема: Радіанне вимірювання кутів](https://drive.google.com/file/d/19KcVgym3kZyvIV-SMlDCUuvdZCjmINU4/view?usp=sharing)  
+
+** Основи здоров'я **  
+**11.01** [Тема: Потенційно небезпечні місця. Вибухонебезпечні предмети](https://drive.google.com/file/d/1onH0OCXfhI6qW2YA2RZo6xsNgkVifZKR/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="11 клас">
@@ -741,6 +757,12 @@ export default function DistanceLearning() {
 
 ** Хімія **  
 **08.12** [Тема: Поняття про гальванічний елемент як хімічне джерело електричного струму](https://drive.google.com/file/d/1-18C_qtNZmcyKNShpSVNgHdP_43NAkoS/view?usp=sharing)  
+
+** Алгебра **  
+**11.01** [Тема: Первісна та її властивості](https://drive.google.com/file/d/1L324DYGv9LNfmQRPdS-EqyuIWCETnm6O/view?usp=sharing)  
+
+** Основи здоров'я **  
+**11.01** [Тема: Повний огляд пораненого, зупинка всіх інших видів кровотеч](https://drive.google.com/file/d/1vGeJ4yYdwbxW2fG2x-JbPlzplwwwZNlL/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="Онлайн уроки">
