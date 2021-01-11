@@ -55,6 +55,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Вода та її властивості. Демонстрація властивостей води](https://drive.google.com/file/d/1koK1E1cpGKmCrjKFO1RHf4_HVJOPHgsO/view?usp=sharing)  
 **04.12** [Тема: Властивості грунту](https://drive.google.com/file/d/1R4YdWalufPdylwvMLfy2LqOxv5eHkW8T/view?usp=sharing)  
 **07.12** [Тема: Значення грунту для живоi природи](https://drive.google.com/file/d/1fgUN4HIFVeZ2t7ohdyHD2MQTEpaGvGk_/view?usp=sharing)  
+**11.01** [Тема: Різноманітність рослин. Їх будова](https://drive.google.com/file/d/1kHLkzM1v4EWkM66jIAf06hNIviTqWQ3o/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Переставний закон додавання](https://drive.google.com/file/d/1BLi2UtjK2pNwLTdsbZBZQpQnam1ixVsV/view?usp=sharing)  
@@ -62,6 +63,7 @@ export default function DistanceLearning() {
 
 ** Читання **  
 **03.12** [Тема: Переглянути відео](https://drive.google.com/file/d/1D2aar6UzW4Tfu4bdRX5yZWNcV_PluYtf/view?usp=sharing)  
+**11.01** [Тема: Ознайомлення з 2 частиною букваря. Закріплення звукових значень вивчених букв](https://drive.google.com/file/d/1M42xbopBlUqfoF7kDyyt2uig0oJKtekH/view?usp=sharing)  
 
 ** Англійська мова **  
 **07.12** [Тема: Моя родина](https://drive.google.com/file/d/1tHi4PcA9O7IS2KKBnV2xnGPoD9KJ7ESr/view?usp=sharing)  
@@ -69,6 +71,7 @@ export default function DistanceLearning() {
 ** Навчання грамоти **  
 **04.12** [Тема: Звуки д, д’, позначення їх буквою «де». Практичне засвоєння дзвін-кої вимови звуків у кінці складів і слів. Словниково-логічні вправи](https://drive.google.com/file/d/1ZAOClYQ8HSOzVHbQ4qSlFuvsrc27sgkS/view?usp=sharing)  
 **07.12** [Тема: Письмо великої букви Т («те»)](https://drive.google.com/file/d/18W00N1ReiIh331-RUeCaRTs0nlzzX2Gg/view?usp=sharing)  
+**11.01** [Тема: Закріплення знань писати вивчені букви, слова і речення з ними](https://drive.google.com/file/d/1VwaqVEl9dT-ePiBA7Ng6bUPaKXT4kWCU/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="1-Б">
@@ -78,6 +81,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Переставна властивість додавання](https://drive.google.com/file/d/13-xyT94x5uFpIGxJcmwHee3b_0Y5-J1F/view?usp=sharing)  
 **07.12** [Тема: Вимірюємо довжини відрізків](https://drive.google.com/file/d/1OV81adXAyqBvgktML8N-lac3hQK9xlCc/view?usp=sharing)  
 **08.12** [Тема: Досліджуємо взаємозв’язок додавання і віднімання](https://drive.google.com/file/d/1v__wqM9AjuRO1SQlpZQC_2E377hLHblN/view?usp=sharing)  
+**11.01** [Тема: Відкриваємо правило знаходження невідомого доданка](https://drive.google.com/file/d/1TXTvGC1zLdt6rbB0GeJbz6mjqsEvOQU2/view?usp=sharing)  
 
 ** Письмо **  
 **03.12** [Тема: Написання рядкової букви "т" (те), складів, слів з нею](https://drive.google.com/file/d/1gsIdnoi5dQYR7EUT3bzl3PpepuFbdQXk/view?usp=sharing)  
@@ -91,12 +95,17 @@ export default function DistanceLearning() {
 ** Читання **  
 **04.12** [Тема: Велика буква т. Читання слів, речень і тексту з вивченими літерами](https://drive.google.com/file/d/1-j7zPCcPLUsNpLGKPI9Z91e5oTld9ob8/view?usp=sharing)  
 **08.12** [Тема: Звуки [д], [д']. мала буква д. Читання складів, слів, речень і тексту з вивченими літерами](https://drive.google.com/file/d/1Kt1cTsouFGQBsrP_vPr9GJPx1B2SWC_m/view?usp=sharing)  
+**11.01** [Тема: Читаю і розповідаю. Закріплення звукових значень вивчених букв. Читання складів, слів. Опрацювання тексту](https://drive.google.com/file/d/1Zb7pRHOpoOoEPtpGHAOk8OLZRXSUG4mY/view?usp=sharing)  
 
 ** Праця **  
 **07.12** [Тема: Зимова мозаїка. «Сипле,сипле сніг…»](https://drive.google.com/file/d/1AERA7DfM5Lc708yBsknO2y1BMta2evIW/view?usp=sharing)  
+**11.01** [Тема: Розумна сова. Робота з пластиліном. Виготовлення із пластиліну плоских зображень. Ліплення сови за зразком](https://drive.google.com/file/d/1gGmVSNx13vkIb_HuIgeGzgX226uj706_/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **08.12** [Тема: Властивості грунту](https://drive.google.com/file/d/1Xl5mQJ5IJvUtov2BDrAGZ1jhm2OaDm3k/view?usp=sharing)  
+
+** Фізична культура **  
+**11.01** [Тема: Перегляд відео](https://drive.google.com/file/d/1B2Wpovo6YBxECDsKgjZmw8b9dJMWldZt/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="1-В">
@@ -292,6 +301,9 @@ export default function DistanceLearning() {
 ** Англійська мова **  
 **03.12** [Тема: Покупки](https://drive.google.com/file/d/1lhOUMYkO4FOvR9kvfydfM19Z81zXLVs1/view?usp=sharing)  
 **08.12** [Тема: Новий Рік](https://drive.google.com/file/d/1-ldhQ9GyILrJ4HyNQL74GXcXklK6a7-J/view?usp=sharing)  
+
+** Літературне читання **  
+**11.01** [Тема: Вступ до розділу . Т.Шевченко. Про себе](https://drive.google.com/file/d/1ynrFswe54lYcRsH9nMvz-b87wrJMlCJf/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="4-А">
