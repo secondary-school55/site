@@ -207,12 +207,25 @@ export default function DistanceLearning() {
 
 ** Математика **  
 **08.12** [Тема: Порівняння способів додавання круглих трицифрових чисел](https://drive.google.com/file/d/1llI5Tp_nB7ogU7BPV0qtPGootAEvYHsu/view?usp=sharing)  
+**11.01** [Тема: Додавання та вiднiмання трицифрових чисел](https://drive.google.com/file/d/1h0Y6jxmWCCyUvcoEgOxFrg-_AuV000SP/view?usp=sharing)  
 
 ** Фізична культура **  
 **08.12** [Тема: Вправи з великим м'ячем (елементи баскетболу)](https://drive.google.com/file/d/1oZVaXtm8nClPDCbJ1AsjSdLWt-eN31qK/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Середовище програмування для дітей](https://drive.google.com/file/d/1uWRppF2xxQ-fRm8eOpPrtzKZjXKt3q5k/view?usp=sharing)  
+
+** Літературне читання **  
+**11.01** [Тема: Робота з рiзними джерелами iнформацii](https://drive.google.com/file/d/15MB--TNyROHh7Nyt4cHBIHHl38mK9F6Y/view?usp=sharing)  
+
+** Образотворче мистецтво **  
+**11.01** [Тема: Композицiя "Полiт Карлсона над мiстом"](https://drive.google.com/file/d/1dhQA_ZrWUo6aZiE1XqG-YzOCjyXhezeo/view?usp=sharing)  
+
+** Фізична культура **  
+**11.01** [Тема: Бесiда "Режим дня". Правила рухливих вправ](https://drive.google.com/file/d/1dpXjU3C0zkfVkRpK7S3EQksti2P-sVKV/view?usp=sharing)  
+
+** Я досліджую світ **  
+**11.01** [Тема: Яку будову маe наше тiло.](https://drive.google.com/file/d/1D0TeQq-w0Ea1azUtzFCuxxrCqubx3ran/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="3-А">
