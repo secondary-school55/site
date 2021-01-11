@@ -216,25 +216,12 @@ export default function DistanceLearning() {
 
 ** Математика **  
 **08.12** [Тема: Порівняння способів додавання круглих трицифрових чисел](https://drive.google.com/file/d/1llI5Tp_nB7ogU7BPV0qtPGootAEvYHsu/view?usp=sharing)  
-**11.01** [Тема: Додавання та вiднiмання трицифрових чисел](https://drive.google.com/file/d/1h0Y6jxmWCCyUvcoEgOxFrg-_AuV000SP/view?usp=sharing)  
 
 ** Фізична культура **  
 **08.12** [Тема: Вправи з великим м'ячем (елементи баскетболу)](https://drive.google.com/file/d/1oZVaXtm8nClPDCbJ1AsjSdLWt-eN31qK/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Середовище програмування для дітей](https://drive.google.com/file/d/1uWRppF2xxQ-fRm8eOpPrtzKZjXKt3q5k/view?usp=sharing)  
-
-** Літературне читання **  
-**11.01** [Тема: Робота з рiзними джерелами iнформацii](https://drive.google.com/file/d/15MB--TNyROHh7Nyt4cHBIHHl38mK9F6Y/view?usp=sharing)  
-
-** Образотворче мистецтво **  
-**11.01** [Тема: Композицiя "Полiт Карлсона над мiстом"](https://drive.google.com/file/d/1dhQA_ZrWUo6aZiE1XqG-YzOCjyXhezeo/view?usp=sharing)  
-
-** Фізична культура **  
-**11.01** [Тема: Бесiда "Режим дня". Правила рухливих вправ](https://drive.google.com/file/d/1dpXjU3C0zkfVkRpK7S3EQksti2P-sVKV/view?usp=sharing)  
-
-** Я досліджую світ **  
-**11.01** [Тема: Яку будову маe наше тiло.](https://drive.google.com/file/d/1D0TeQq-w0Ea1azUtzFCuxxrCqubx3ran/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="3-А">
@@ -243,6 +230,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1GS3V8-DSXnKSJ1V4G9jYQnCU4fN5ZYiQ/view?usp=sharing)  
 **04.12** [Тема: Віднімання круглих чисел двома способами. Розв'язування задач та рівнянь (№600 – 610)](https://drive.google.com/file/d/14PN0awBuaJNbs9B1_0tfjzE0SX992XCy/view?usp=sharing)  
 **07.12** [Тема: Додавання та віднімання круглих чиселу межах 1000](https://drive.google.com/file/d/1tJ6-V7Y8Ebx8TLaYjd_3JMDt9gxmp9UF/view?usp=sharing)  
+**11.01** [Тема: Додавання та вiднiмання трицифрових чисел](https://drive.google.com/file/d/1h0Y6jxmWCCyUvcoEgOxFrg-_AuV000SP/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1CbxkNJHRP-O8TfHLE4mA0__Mu-56Ovd3/view?usp=sharing)  
@@ -260,9 +248,17 @@ export default function DistanceLearning() {
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
 **07.12** [Тема: Робота з дитячою книжкою. Григорій Фалькович Щедрий комар](https://drive.google.com/file/d/1FlnlvXHTd676ksklKfJcIybvINZ-VVAI/view?usp=sharing)  
 **08.12** [Тема: Святкові запахи. Робота з картиною художниці Світлани Косенко "Святвечір". Як "прочитати" картину? Настрій. Кольори. Композиція. Розповідь про враження від побаченого. (с.75)](https://drive.google.com/file/d/1v9rZGVdqcx8QjOlkHnz_aq6TO4BEDrOs/view?usp=sharing)  
+**11.01** [Тема: Робота з рiзними джерелами iнформацii](https://drive.google.com/file/d/15MB--TNyROHh7Nyt4cHBIHHl38mK9F6Y/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)
+**11.01** [Тема: Бесiда "Режим дня". Правила рухливих вправ](https://drive.google.com/file/d/1dpXjU3C0zkfVkRpK7S3EQksti2P-sVKV/view?usp=sharing)  
+
+** Я досліджую світ **  
+**11.01** [Тема: Яку будову маe наше тiло.](https://drive.google.com/file/d/1D0TeQq-w0Ea1azUtzFCuxxrCqubx3ran/view?usp=sharing)  
+
+** Образотворче мистецтво **  
+**11.01** [Тема: Композицiя "Полiт Карлсона над мiстом"](https://drive.google.com/file/d/1dhQA_ZrWUo6aZiE1XqG-YzOCjyXhezeo/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="3-Б">
@@ -270,6 +266,7 @@ export default function DistanceLearning() {
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1aMckvGtRntg_f6p15jt_-ws3qUiS-4DC/view?usp=sharing)  
 **07.12** [Тема: Значення грибів для природи](https://drive.google.com/file/d/1Z87OcfgT8kpP-vnBcQgqIdGmF5Q3yotj/view?usp=sharing)  
+**11.01** [Тема: Яку будову маe наше тiло](https://drive.google.com/file/d/1IK6Sfs52ilvhYjSJ259JRnlNvGMARzsr/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1xXi1QIpOVQ295yrr8H3iHctB9Z8m8Wsv/view?usp=sharing)  
@@ -279,14 +276,17 @@ export default function DistanceLearning() {
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
 **04.12** [Тема: Віднімання круглих чисел двома способами. Розв'язування задач та рівнянь (№600 – 610)](https://drive.google.com/file/d/14PN0awBuaJNbs9B1_0tfjzE0SX992XCy/view?usp=sharing)  
 **07.12** [Тема: Додавання та віднімання круглих чисел у межах 1000. Розв’язування задач з буквеними даними](https://drive.google.com/file/d/1rS172j5TrnzlRRiyFYcC9yx78z0KrIBy/view?usp=sharing)  
+**11.01** [Тема: Додавання та вiднiмання трицифрових чисел](https://drive.google.com/file/d/1Cs6HRVm1qZQf8mcrJFNYXBwqeQjIBMKu/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)
+**11.01** [Тема: Бесiда "Режим дня". Правила рухливих вправ.](https://drive.google.com/file/d/18kxrIqQ2I0Q5VxtDf3KnNoA_kGn7MGVf/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
 **07.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження)](https://drive.google.com/file/d/1bPvztu-Na0eZkYCKqXfPHqowqZ_5Vj8e/view?usp=sharing)  
 **08.12** [Тема: Робота з дитячою книжкою. Григорій Фалькович Щедрий комар](https://drive.google.com/file/d/12XfDi8NrKlTWoyvenOm9zGeNjAIZy4Mr/view?usp=sharing)  
+**11.01** [Тема: Робота з рiзними джерелами iнформацiї](https://drive.google.com/file/d/1995wPMnPsYhmPVIA0JaBYNlH4yFLhkwJ/view?usp=sharing)  
 `}</Md>
           </Tab>
         </Tabs>
