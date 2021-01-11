@@ -638,6 +638,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Досягнення вчених](https://drive.google.com/file/d/19XeV2VuNy_amH9X5aWZLrydwz0Jng_xO/view?usp=sharing)  
 **07.12** [Тема: Наука i технiчний прогрес](https://drive.google.com/file/d/1yGjt52TT5Ja68IoYE-iQhc5U-vj5TDZN/view?usp=sharing)  
 **11.01** [Тема: Організації захисту тварин](https://drive.google.com/file/d/1l_By8gK3RGLDsJL_cOjUvOG2hPpIFA7Y/view?usp=sharing)  
+**11.01** [Тема: Захист навколишнього середовища](https://drive.google.com/file/d/1ILYfBJ6IzDIwuM9Gp1aYOK1Atvnf7KT9/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
