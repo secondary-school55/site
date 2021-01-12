@@ -61,10 +61,12 @@ export default function DistanceLearning() {
 ** Математика **  
 **03.12** [Тема: Переставний закон додавання](https://drive.google.com/file/d/1BLi2UtjK2pNwLTdsbZBZQpQnam1ixVsV/view?usp=sharing)  
 **04.12** [Тема: Вимірювання довжини відрізків. Сантиметр](https://drive.google.com/file/d/1ybdLJpQ2ujp_B50mgaW0wNd3j-Ya3-jd/view?usp=sharing)  
+**12.01** [Тема: Відкриваємо правило знаходження невідомого доданка](https://drive.google.com/file/d/1rKJ2AOVBSJuECbt_09Oq6-QoHNRotcsY/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Переглянути відео](https://drive.google.com/file/d/1D2aar6UzW4Tfu4bdRX5yZWNcV_PluYtf/view?usp=sharing)  
 **11.01** [Тема: Ознайомлення з 2 частиною букваря. Закріплення звукових значень вивчених букв](https://drive.google.com/file/d/1M42xbopBlUqfoF7kDyyt2uig0oJKtekH/view?usp=sharing)  
+**12.01** [Тема: Звуки г, г', позначення їх буквою ге](https://drive.google.com/file/d/1Tfgh0_GvPEilEJReJ2faBaWeZ8UHK36R/view?usp=sharing)  
 
 ** Англійська мова **  
 **07.12** [Тема: Моя родина](https://drive.google.com/file/d/1tHi4PcA9O7IS2KKBnV2xnGPoD9KJ7ESr/view?usp=sharing)  
@@ -73,6 +75,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Звуки д, д’, позначення їх буквою «де». Практичне засвоєння дзвін-кої вимови звуків у кінці складів і слів. Словниково-логічні вправи](https://drive.google.com/file/d/1ZAOClYQ8HSOzVHbQ4qSlFuvsrc27sgkS/view?usp=sharing)  
 **07.12** [Тема: Письмо великої букви Т («те»)](https://drive.google.com/file/d/18W00N1ReiIh331-RUeCaRTs0nlzzX2Gg/view?usp=sharing)  
 **11.01** [Тема: Закріплення знань писати вивчені букви, слова і речення з ними](https://drive.google.com/file/d/1VwaqVEl9dT-ePiBA7Ng6bUPaKXT4kWCU/view?usp=sharing)  
+**12.01** [Тема: Письмо малої букви г](https://drive.google.com/file/d/1OCs882gQeau-4rCbcHVvIIPpQva7zYiO/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="1-Б">
@@ -371,6 +374,7 @@ export default function DistanceLearning() {
 
 ** Англійська мова **  
 **11.01** [Тема: Закріплення знань про правопис прикметників у множині](https://drive.google.com/file/d/14qbPNoQu9_vL5B8d9KpV6EnGGNuWFx1o/view?usp=sharing)  
+**12.01** [Тема: Моя улюблена пора року](https://drive.google.com/file/d/1PDsqIBOFsVc7KKQH2w1znaOqBAhOa3HH/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="4-Б">
@@ -449,6 +453,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Аналіз контрольної роботи. Види кутів. Вимірювання кутів](https://drive.google.com/file/d/1d8YTI_NUHB38Jtw7fLmJ7ZvtROh6ltEi/view?usp=sharing)  
 **07.12** [Тема: Величина кута. Вимірювання та побудова кутів](https://drive.google.com/file/d/1S-jvWe03UfILGtbRhqqWJjSjTwlo8Fm0/view?usp=sharing)  
 **08.12** [Тема: Величина кута. Вимірювання та побудова кутів](https://drive.google.com/file/d/1fM_JZHlzjYUsp9fmJKv_FQvwTYRaGFCu/view?usp=sharing)  
+**12.01** [Тема: Уявлення про звичайні дроби](https://drive.google.com/file/d/15TW2iX6PdzFOQlI9kIhhov_wwiGd9eFY/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
@@ -459,6 +464,8 @@ export default function DistanceLearning() {
 ** Англійська мова **  
 **11.01** [Тема: Особливі дні](https://drive.google.com/file/d/1JWLFqKvZ8MmH-ISBimbICHoGNIvdTYP4/view?usp=sharing)  
 **11.01** [Тема: Особливі дні](https://drive.google.com/file/d/1orExTKQz_YKfCTcCdNcqXnxC00DgbnD7/view?usp=sharing)  
+**12.01** [5-А. Тема: Улюблені свята](https://drive.google.com/file/d/1YWpoSU90bkwsqOSU62oiVVIigLOlPUES/view?usp=sharing)  
+**12.01** [5-Б. Тема: Особливі дні](https://drive.google.com/file/d/14JfQyOgUcyd0xkaVBx97AbACdv-s0atU/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -481,6 +488,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/14u2a-Fbfs2UVhKlYPdZQYEyak9uKZs1T/view?usp=sharing)  
 **04.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/16uK94BEboljVzcud-sfI-BgczQk6SqYY/view?usp=drive_web)  
 **07.12** [Тема: Редагування програмних об'єктів](https://drive.google.com/file/d/1RzBoVhxIdkGA3AiAq--IJcpcYBwjob8I/view?usp=sharing)  
+**12.01** [Тема: Керування об'єктами у середовищі виконання алгоритмів](https://drive.google.com/file/d/1I2pUzuDHIVqSBS0UQ4XmlVyR54vsPxH9/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -494,6 +502,7 @@ export default function DistanceLearning() {
 **08.12** [Тема: Відсоткові розрахунки](https://drive.google.com/file/d/1R7T_knhcfnSJK-SUJhbyMBMbN2reVCCL/view?usp=sharing)  
 **11.01** [Тема: Додатні та від'ємні числа. Число нуль](https://drive.google.com/file/d/1gOKmuC88hemTuFmWTczbbKmy0ARznYe7/view?usp=sharing)  
 **11.01** [Тема: Відсоткові розрахунки](https://drive.google.com/file/d/1Zfytcvvdeup5d3a0lOcHbHt69x-OkZnS/view?usp=sharing)  
+**12.01** [Тема: Координатна пряма](https://drive.google.com/file/d/1YflD_mgVismDEdHMBSHlleHy_YUiuRjp/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
@@ -513,6 +522,8 @@ export default function DistanceLearning() {
 ** Трудове навчання **  
 **11.01** [Тема: Правила БЖД та ОП Короткі історичні відомості про розвиток мистецтва штучних декоративних квітів. Види декоративних квітів](https://drive.google.com/file/d/16YUkvI89A0BiQETZdytpt_jrfWkzfgT8/view?usp=sharing)  
 **11.01** [Тема: Конструкційні матеріали для виготовлення декоративних квітів. Інструменти та пристосування](https://drive.google.com/file/d/1Blc1bZu3BLlIkWK4Kxi99RRurtEUTVK0/view?usp=sharing)  
+**12.01** [Тема: Конструкційні матеріали для виготовлення декоративних квітів. Інструменти та пристосування](https://drive.google.com/file/d/1M4lEkElBCBg_eVHu2RzYUMMRo6Swfev9/view?usp=sharing)  
+**12.01** [Тема: Правила БЖД та ОП Короткі історичні відомості про розвиток мистецтва штучних декоративних квітів. Види декоративних квітів](https://drive.google.com/file/d/17_WWzKgBKOEKvrDGA5hjMlRhNI_WREWm/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="7 клас">
@@ -611,6 +622,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Музичні стилі](https://drive.google.com/file/d/1E29fXAu4YeuLL9SJEhFSQpTMnBPpl6eR/view?usp=sharing)  
 **08.12** [Тема: Контроль письма](https://drive.google.com/file/d/1Mtr3VOv_jK9HV4uAjHEkvRY5IKCnIiBM/view?usp=sharing)  
 **11.01** [Тема: Засоби масової інформації](https://drive.google.com/file/d/136W2jAuyhX9m2W0DwW6CCuhywkrx2Llw/view?usp=sharing)  
+**12.01** [8-А. Тема: Преса у житті людини](https://drive.google.com/file/d/1VIKe0ChnQHLEJ7fANcVOWs6cZ2Za3b_y/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -762,6 +774,10 @@ export default function DistanceLearning() {
 
 ** Основи здоров'я **  
 **11.01** [Тема: Потенційно небезпечні місця. Вибухонебезпечні предмети](https://drive.google.com/file/d/1onH0OCXfhI6qW2YA2RZo6xsNgkVifZKR/view?usp=sharing)  
+
+** Технології **  
+**12.01** [Тема: Український суванір](https://drive.google.com/file/d/1Qjysoxx4CbkF3hvpoWE8jhs9EKJ-HX7j/view?usp=sharing)  
+**12.01** [Тема: Розробка ескізного малюнка виробу](https://drive.google.com/file/d/1njz_ZQeiVuTzj43N9avAHsd-U5nEqNQ3/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="11 клас">
