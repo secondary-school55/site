@@ -774,6 +774,8 @@ export default function DistanceLearning() {
 **04.12** [Тема: Комедія «Мартин Боруля». Психологічна переконливість і трагікомічне звучання образу Мартина Борулі. Інші образи у творі. Значення творчості І. Тобілевича для української драматургії](https://drive.google.com/file/d/1egMwZ_m44RercI_fJaz74USyVzLiUEDJ/view?usp=sharing)  
 **07.12** [Тема: Урок виразного читання .І.Я Франко - розум і серце українського народу](https://drive.google.com/file/d/1mZUh-mMlj84-ySBLKaVOKjicN2-T0-vK/view?usp=sharing)  
 **08.12** [Тема: Іван Франко – поет, прозаїк, драматург, громадський діяч, перекладач, літературний критик і перший галицький учений](https://drive.google.com/file/d/1oFaxSgiWeTF2tujmFmmQXHikcq8JnCLA/view?usp=sharing)  
+**11.01** [Тема: Михайло Коцюбинський – людина високої духовної культури](https://drive.google.com/file/d/1HY0h7_QuCjBkNgvGKLzpz38AEtvkhiQm/view?usp=sharing)  
+**12.01** [Тема: Психологічна новела «Іntermezzo»](https://drive.google.com/file/d/1o8IzH3YhH87CT0SZTHm8yJBt2_N-f0_x/view?usp=sharing)  
 
 ** Фізика **  
 **03.12** [Тема: Механічна робота. Потужність. Кінетична енергія.](https://drive.google.com/file/d/13ktDbpkU-YGMFOs3KRcYIqKot5LfswUQ/view?usp=sharing)  
