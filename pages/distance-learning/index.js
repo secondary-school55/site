@@ -48,6 +48,7 @@ export default function DistanceLearning() {
 
 ** Музичне мистецтво **  
 **08.12** [Тема: Казкові пригоди](https://drive.google.com/file/d/1MdrGUQErQR9z4-v2mhl98pkNzoyjjcTv/view?usp=sharing)  
+**12.01** [Тема: Музика розповідає про людину](https://drive.google.com/file/d/1IDBGPlGC99GoOMpWx7NFZ-nsH4QRmR2H/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="1-А">
@@ -167,6 +168,7 @@ export default function DistanceLearning() {
 
 ** Музичне мистецтво **  
 **08.12** [Тема: Подорожі із маршем](https://drive.google.com/file/d/1tCfYmFlsRDZ5Mlz1JXjzM1K9QWUg3VVR/view?usp=sharing)  
+**12.01** [Тема: Подорожі із маршем](https://drive.google.com/file/d/1LO3q12EXj-QD7eMxvLgvzG1xrOtFsiQ5/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="2-А">
@@ -458,9 +460,11 @@ export default function DistanceLearning() {
 **07.12** [Тема: Величина кута. Вимірювання та побудова кутів](https://drive.google.com/file/d/1S-jvWe03UfILGtbRhqqWJjSjTwlo8Fm0/view?usp=sharing)  
 **08.12** [Тема: Величина кута. Вимірювання та побудова кутів](https://drive.google.com/file/d/1fM_JZHlzjYUsp9fmJKv_FQvwTYRaGFCu/view?usp=sharing)  
 **12.01** [Тема: Уявлення про звичайні дроби](https://drive.google.com/file/d/15TW2iX6PdzFOQlI9kIhhov_wwiGd9eFY/view?usp=sharing)  
+**12.01** [Тема: Дроби і ділення натуральних чисел](https://drive.google.com/file/d/1iq9PeQcl8FHCpHrsXCO1vw7ir-GkAN5k/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
+**11.01** [Тема: Попередження травм під час рухливих ігор. Правила безпечної поведінки в басейні та на льоду](https://drive.google.com/file/d/1dAALP8mt62Hpr92U2kwKr2iAXyzH5xqa/view?usp=sharing)  
 
 ** Астрономія **  
 **08.12** [5-А. Тема: Астрономія як наука](https://drive.google.com/file/d/17ou9n3HZoSLpPQGQzsl4kZLQpwa_3ZRx/view?usp=sharing)  
@@ -478,8 +482,8 @@ export default function DistanceLearning() {
 ** Образотворче мистецтво **  
 **11.01** [Тема: Скульптура космонавт](https://drive.google.com/file/d/1mvaqrrkGEY-U7MTH9WrLW-q_fnGKRq6A/view?usp=sharing)  
 
-** Основи здоров’я **  
-**11.01** [Тема: Попередження травм під час рухливих ігор. Правила безпечної поведінки в басейні та на льоду](https://drive.google.com/file/d/1dAALP8mt62Hpr92U2kwKr2iAXyzH5xqa/view?usp=sharing)  
+** Біологія **  
+**12.01** [Тема: Форма і розміри землі. Внутрішня будова Землі](https://drive.google.com/file/d/1IluFsIaDapgGVLVl60xD23aY7q968SNU/view?usp=sharing)  
 
 `}</Md>
       </Tab>
@@ -488,6 +492,7 @@ export default function DistanceLearning() {
 ** Українська література **  
 **03.12** [Тема: Образ мужньої, сильної духом дівчинки, її життєрадісний погляд на світ, вільнолюбство, впевненість, розвинена уява у вірші «Як дитиною бувало…»](https://drive.google.com/file/d/19t3ni434ZVtcao03dVgQwqiPwhptSfah/view?usp=sharing)  
 **08.12** [Тема: Леся Українка «Тиша морська» - пейзажно-мариністичний малюнок](https://drive.google.com/file/d/1jLtotObpy3WYFFF6a7CDAg6nAf61sHIF/view?usp=sharing)  
+**12.01** [Тема: Дитинство письменника. Федько-халамидник](https://drive.google.com/file/d/1TPmdXHROH0TZNiX3SOC5qabHfbIepGDA/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/14u2a-Fbfs2UVhKlYPdZQYEyak9uKZs1T/view?usp=sharing)  
@@ -508,12 +513,14 @@ export default function DistanceLearning() {
 **11.01** [Тема: Додатні та від'ємні числа. Число нуль](https://drive.google.com/file/d/1gOKmuC88hemTuFmWTczbbKmy0ARznYe7/view?usp=sharing)  
 **11.01** [Тема: Відсоткові розрахунки](https://drive.google.com/file/d/1Zfytcvvdeup5d3a0lOcHbHt69x-OkZnS/view?usp=sharing)  
 **12.01** [Тема: Координатна пряма](https://drive.google.com/file/d/1YflD_mgVismDEdHMBSHlleHy_YUiuRjp/view?usp=sharing)  
+**12.01** [Тема: Коло і круг](https://drive.google.com/file/d/1A4aNKpPgWQcl3V_iheHpKRaUf-svqYDz/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
 **07.12** [Тема: Відмінювання іменників І відміни](https://drive.google.com/file/d/1Do8nVvddTJkf7IVS5Bl3IyIBvMrIa-bW/view?usp=sharing)  
 **08.12** [Тема: Відмінювання іменників. Поділ іменників на відміни та групи](https://drive.google.com/file/d/11Z8CMcTG0Na1MCpTit6W-bFskR3yWmmi/view?usp=sharing)  
 **11.01** [Тема: Незмінювані іменники. Рід незмінюваних іменників](https://drive.google.com/file/d/1OBVjvoJZIoN2VNdEep2uBRAnBVQd79ON/view?usp=sharing)  
+**12.01** [Тема: Відмінювання іменників, що мають форму лише множини](https://drive.google.com/file/d/161iSi4nJJNJfV7ew9v4cJNA9E6olCzsO/view?usp=sharing)  
 
 ** Геометрія **  
 **04.12** [Тема: Властивості та ознаки паралельних прямих](https://drive.google.com/file/d/1HNWgOmuryqTAgAijrgyBQ3k_E7c_gKyK/view?usp=sharing)  
@@ -529,6 +536,9 @@ export default function DistanceLearning() {
 **11.01** [Тема: Конструкційні матеріали для виготовлення декоративних квітів. Інструменти та пристосування](https://drive.google.com/file/d/1Blc1bZu3BLlIkWK4Kxi99RRurtEUTVK0/view?usp=sharing)  
 **12.01** [Тема: Конструкційні матеріали для виготовлення декоративних квітів. Інструменти та пристосування](https://drive.google.com/file/d/1M4lEkElBCBg_eVHu2RzYUMMRo6Swfev9/view?usp=sharing)  
 **12.01** [Тема: Правила БЖД та ОП Короткі історичні відомості про розвиток мистецтва штучних декоративних квітів. Види декоративних квітів](https://drive.google.com/file/d/17_WWzKgBKOEKvrDGA5hjMlRhNI_WREWm/view?usp=sharing)  
+
+** Географія **  
+**12.01** [Тема: Кліматична карта. Теплові пояси землі практичне значення вимірювання температури повітря](https://drive.google.com/file/d/1MeFviw1kCIDcwHIRPY2YtcA80_L4Q7pQ/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="7 клас">
@@ -563,6 +573,7 @@ export default function DistanceLearning() {
 ** Біологія **  
 **04.12** [Тема: Різноманітність птахів, їх роль у природі та значення в житті людини](https://drive.google.com/file/d/1yE8Ay4YmvkBD_Dh23t4NCf8q2Jox4_Ou/view?usp=sharing)  
 **08.12** [Тема: Ссавці. Особливості будови, способу життя](https://drive.google.com/file/d/1rOLn1IUWVoWF-pVz3KegQbQu8D3hsJ6C/view?usp=sharing)  
+**12.01** [Тема: Живлення і травлення](https://drive.google.com/file/d/1p12j3GV8HdauDarVJmqtLZYzNj6msmaG/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **04.12** [Тема: Показники фізичного розвитку підлітків. Способи покращення фізичної форми](https://drive.google.com/file/d/1RLib8JRvGgB4ChCpFRIzK3r3e9lClYCL/view?usp=sharing)  
@@ -596,6 +607,9 @@ export default function DistanceLearning() {
 
 ** Фізична культура **  
 **12.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1LYMqo8lKOm-bCK_MHTKKwk0WLaRKPTEK/view?usp=sharing)  
+
+** Образотворче мистецтво **  
+**12.01** [Тема: Види дизайну. Промисловий дизайн. Проектування предметів побуту](https://drive.google.com/file/d/1E2YpfNEiT7Pc2NJucY1Ljco3On99jjva/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="8 клас">
@@ -665,6 +679,7 @@ export default function DistanceLearning() {
         <Md>{`
 ** Географія **  
 **03.12** [Тема: Видобування металічних руд](https://drive.google.com/file/d/1nLsYYlfSAhh_c-YzVUL8iJaKDekY1NXc/view?usp=sharing)
+**12.01** [Тема: Значення металургійного виробництва](https://drive.google.com/file/d/1GCcuhzaV9QvOaSJ6EoyfV0d1YywlEzZK/view?usp=sharing)
 
 ** Хімія **  
 **03.12** [Тема: Реакції оборотні й необоротні](https://drive.google.com/file/d/1J2DYha0BrqewRn0sm7Yn2UbvM5hr7tu0/view?usp=sharing)  
@@ -672,14 +687,16 @@ export default function DistanceLearning() {
 **08.12** [Тема: Класифікація хімічних реакцій .Реакції сполучення, розкладу, заміщення, обміну]()  
 
 ** Правознавство **  
-**03.12** [Тема: Конституційні права і свободи людини і громадянина](https://drive.google.com/file/d/15aef0Tzl_ip_KxMQal1xDjVIK8mWwNyg/view?usp=sharing)
+**03.12** [Тема: Конституційні права і свободи людини і громадянина](https://drive.google.com/file/d/15aef0Tzl_ip_KxMQal1xDjVIK8mWwNyg/view?usp=sharing)  
+**12.01** [Тема: Неповнолітні в цивільних правовідносинах](https://drive.google.com/file/d/1mkKrkJBESGcP4uahN5398wU37m9WLJwk/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Технологічний процес виготовлення обраного об’єкта проєктування. Самоконтроль якості виконання технологічних операцій](https://drive.google.com/file/d/1qgNcVbtUgtnpbvFGkulfNExXQBMM8zsC/view?usp=sharing)  
 **03.12** [Презентація: Вироби в етнічному стилі](https://drive.google.com/file/d/1FJS9VMTsfPY1UJL0EZaSOYGiBlLzxwUs/view?usp=sharing)
 
 ** Історія України. Всесвітня історія **  
-**03.12** [Тема: Повсякденне життя та побут українців у 19 ст.](https://drive.google.com/file/d/1I_2vKC2eCScwYuNW-zNiV13rTHkryuUI/view?usp=sharing)
+**03.12** [Тема: Повсякденне життя та побут українців у 19 ст.](https://drive.google.com/file/d/1I_2vKC2eCScwYuNW-zNiV13rTHkryuUI/view?usp=sharing)  
+**12.01** [Тема: Україна і Східна війна. Ліквідація кріпацтва](https://drive.google.com/file/d/15iKyTOJqD_JsqQpYjl-1d21tDMiRFU59/view?usp=sharing)  
 
 ** Геометрія **  
 **03.12** [9-Б. Тема: Вектори. Розв’язування задач](https://drive.google.com/file/d/1ykrS5YhJf-ggic_8ad1LHgVjfAVZtKBF/view?usp=sharing)  
@@ -696,6 +713,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
 **08.12** [Тема: Утілення морального й естетичного ідеалів в образі головної героїні твору «Маруся» Григорія Квітки-Основ’яненка](https://drive.google.com/file/d/1R5BQK_Ak3rXkgxnO5eNc1QfvOqFMB6zF/view?usp=sharing)  
 **08.12** [Тема: Григорій Квітка – Основ’яненко. «Маруся» - перша українська повість нової української літератури](https://drive.google.com/file/d/16ez0tik2MYfC2up6itnSEkdXbaLHB7ub/view?usp=sharing)  
+**12.01** [Тема: Література українського романтизму](https://drive.google.com/file/d/1mOgP6dWvVXwPSawELx4m3cn-rAybOybG/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/10ODZR-UG7C9YAJv3bPb-eKqe7kwsjJA4/view?usp=sharing)  
@@ -709,6 +727,7 @@ export default function DistanceLearning() {
 ** Біологія **  
 **04.12** [Тема: Фотосинтез: світлова та темнова фази](https://drive.google.com/file/d/1AP4SBbE-Wl8PoIH4LiQXBqO2b-ri70gl/view?usp=sharing)  
 **08.12** [Тема: Фотосинтез: світлова та темнова фази](https://drive.google.com/file/d/1S6_jcCPsO5FX4L2cLg4SQky7qNgKGoY5/view?usp=sharing)  
+**12.01** [Тема: Біосинтез білка](https://drive.google.com/file/d/1YQLcAEpKdZdHWzeHDsiRbuX5SOuAPHYQ/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Усний твір-роздум у публіцистичному стилі мовлення на суспільну тему](https://drive.google.com/file/d/1B1Pj9K4LkO41bylzM2_PTvUpGMqRtovG/view?usp=sharing)  
@@ -737,6 +756,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Мовна надмірність, уникнення тавтології, плеоназму та мовної недостатності](https://drive.google.com/file/d/1hrAqRLD8lJfa4tLUULSvdeHLwtmxaVu2/view?usp=sharing)  
 **04.12** [Тема: Розмовна, просторічна, емоційно забарвлена лексика. Сленг. Екзотизми. Пуризми. Стилістичні можливості розмовної, просторічної лексики](https://drive.google.com/file/d/1EQAzk0Jp_hxAi9YKNzo5NfBpEXW5Ga_Z/view?usp=sharing)  
 **08.12** [Тема: Лексика української мови за походженням](https://drive.google.com/file/d/1O0Ba-JtVOJVgg2QA_yQnJqK5hJr7Ut2h/view?usp=sharing)  
+**12.01** [Тема: Фразеологічні одиниці української мови. Основні ознаки фразеологізмів. Основні групи фразеологізмів](https://drive.google.com/file/d/1DCFJyJyqINXzaCZp-2S93IiZUjW1crQ7/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
@@ -761,6 +781,7 @@ export default function DistanceLearning() {
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Західноукраїнська Народна Республіка.](https://drive.google.com/file/d/1UX5pzPnYGVUlJs01kyXsn3UxARYrvB_5/view?usp=sharing)  
 **11.01** [Тема: Поява демократії](https://drive.google.com/file/d/1YA97w93ZHBb5qcSDRkOUixfJySWwWlCo/view?usp=sharing)  
+**12.01** [Тема: Утворення Радянського Союзу. Запровадження нової економічної політики](https://drive.google.com/file/d/198gM5KftrRB-qm_6-x-cMHKym0YSwwkJ/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Reading](https://drive.google.com/file/d/1ks5tAkLDNz6WXJjOfcN97bWqpuTajWmp/view?usp=sharing)
@@ -787,6 +808,9 @@ export default function DistanceLearning() {
 ** Технології **  
 **12.01** [Тема: Український суванір](https://drive.google.com/file/d/1Qjysoxx4CbkF3hvpoWE8jhs9EKJ-HX7j/view?usp=sharing)  
 **12.01** [Тема: Розробка ескізного малюнка виробу](https://drive.google.com/file/d/1njz_ZQeiVuTzj43N9avAHsd-U5nEqNQ3/view?usp=sharing)  
+
+** Громадянська освіта **  
+**12.01** [Тема: Вибори. Референдум](https://drive.google.com/file/d/1p44UiEvXNtX23HI7yctZKF41JCkohMMb/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="11 клас">
@@ -811,6 +835,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Есе «Що робить мене щасливим (щасливою)»](https://drive.google.com/file/d/1xZaYEjnfrn1_BhqFqRKVKQHtugYFExs6/view?usp=sharing)  
 **08.12** [Тема: Розділові знаки в простому ускладненому реченні](https://drive.google.com/file/d/1Y4mGclReJDaXcHw6xqFtGXOIANhIcrdP/view?usp=sharing)  
 **11.01** [Тема: Пряма і непряма мова, її призначення і граматично смислові особливості](https://drive.google.com/file/d/1y2TTkiq2-8unZ0sfG9PDyv_l7IVRIIhv/view?usp=sharing)  
+**12.01** [Тема: Інтонування речень із прямою мовою, діалогом. Цитування](https://drive.google.com/file/d/1UTUZTJzfvGP_ol-XjjKdZOKBqwGMzbsr/view?usp=sharing)  
 
 ** Фізика **  
 **07.12** [Тема: Досліди М.Фарадея. Електромагнітна індукція. Закон електромагнітної індукції. Правило Ленца](https://drive.google.com/file/d/1sj3YVP7d9jBZHf15nSJBU6EKpNTATAIe/view?usp=sharing)  
