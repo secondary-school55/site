@@ -459,6 +459,7 @@ export default function DistanceLearning() {
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
+**12.01** [Тема: Світ вокальної музики](https://drive.google.com/file/d/109qgig0UxPqVL5zyP7xqGcaLkE4U_kYc/view?usp=sharing)  
 
 ** Математика **  
 **04.12** [Тема: Аналіз контрольної роботи. Види кутів. Вимірювання кутів](https://drive.google.com/file/d/1d8YTI_NUHB38Jtw7fLmJ7ZvtROh6ltEi/view?usp=sharing)  
@@ -507,6 +508,7 @@ export default function DistanceLearning() {
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
+**12.01** [Тема: Камерно-інструментальна музика](https://drive.google.com/file/d/1f3sF5UGPjrOw2R3C4ldPBl5A3mBu81Ly/view?usp=sharing)  
 
 ** Математика **  
 **04.12** [Тема: Пряма та обернена пропорційна залежність](https://drive.google.com/file/d/1wvfb4nJOgeV9QnldpeYtGn2_kDzpbtmu/view?usp=sharing)  
@@ -692,7 +694,8 @@ export default function DistanceLearning() {
 ** Хімія **  
 **03.12** [Тема: Реакції оборотні й необоротні](https://drive.google.com/file/d/1J2DYha0BrqewRn0sm7Yn2UbvM5hr7tu0/view?usp=sharing)  
 **07.12** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1nZmcjJQ_nrd_c52_FH-uuyn8NjG5mwVq/view?usp=sharing)  
-**08.12** [Тема: Класифікація хімічних реакцій .Реакції сполучення, розкладу, заміщення, обміну]()  
+**08.12** [Тема: Класифікація хімічних реакцій. Реакції сполучення, розкладу, заміщення, обміну](https://drive.google.com/file/d/1tfQyElQnK1SBSHg-jwM8HbxB1pdGYWaP/view?usp=sharing)  
+**12.01** [Тема: Вступ до органічної хімії](https://drive.google.com/file/d/1QhyD_QZTlrWJ69b4zgRBD2efL1V3LOWx/view?usp=sharing)  
 
 ** Правознавство **  
 **03.12** [Тема: Конституційні права і свободи людини і громадянина](https://drive.google.com/file/d/15aef0Tzl_ip_KxMQal1xDjVIK8mWwNyg/view?usp=sharing)  
@@ -857,6 +860,7 @@ export default function DistanceLearning() {
 
 ** Хімія **  
 **08.12** [Тема: Поняття про гальванічний елемент як хімічне джерело електричного струму](https://drive.google.com/file/d/1-18C_qtNZmcyKNShpSVNgHdP_43NAkoS/view?usp=sharing)  
+**12.01** [Тема: Загальна характеристика неметалічних елементів](https://drive.google.com/file/d/116iy1q2Om11OkB2Xr2vkKKIGomEWe2pI/view?usp=sharing)  
 
 ** Алгебра **  
 **11.01** [Тема: Первісна та її властивості](https://drive.google.com/file/d/1L324DYGv9LNfmQRPdS-EqyuIWCETnm6O/view?usp=sharing)  
