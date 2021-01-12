@@ -627,6 +627,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1zwbcYCFqTCQ_VpTTmIfyBXEmkuzFEkTq/view?usp=sharing)  
 **08.12** [Тема: В. Голобородько. Самобутня постать поета в українській літературі. Вірш «з дитинства: дощ» («я вплетений ...»). Вільний вірш](https://drive.google.com/file/d/1kH8xW5IXr5JrcJe5ABKwdTlprQCsOWxf/view?usp=sharing)  
 **11.01** [Тема: І. Малкович «З янголом на плечі», «З нічних молитов»](https://drive.google.com/file/d/1wkMchPjM5IxHFp_Vh0wnVPWkuCv75aFD/view?usp=sharing)  
+**12.01** [Тема: І. Малкович «З янголом на плечі», «З нічних молитов»](https://drive.google.com/file/d/1f3ckGzhIJtucoOuLQZeTF9BbUkw1DmkP/view?usp=sharing)  
 
 ** Хімія **  
 **03.12** [Тема: Кількість речовини. Моль – одиниця кількості речовини. Число Авогадро.](https://drive.google.com/file/d/1Xza-GsZgxJa88JxRQB42fENhbGkA2hPj/view?usp=sharing)  
@@ -667,6 +668,7 @@ export default function DistanceLearning() {
 
 ** Геометрія **  
 **08.12** [Тема: Подібність прямокутних трикутників. Властивість бісектриси. Метричні співвідношення](https://drive.google.com/file/d/1P4n2CeJ0hOGemlmT2Z8di8FAmWrYIIhI/view?usp=sharing)  
+**12.01** [8-А. Тема: Теорема Піфагора. Розв'язування задач](https://drive.google.com/file/d/1UEMLd_yzP8g0PgmQvwv6Zh3v2_CpgQ1G/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Логічні вирази. Оператори розгалуження. Вкладені розгалуження](https://drive.google.com/file/d/1UIkiDcQ0uWpgiOSN8HPQe0On15gl7hh0/view?usp=sharing)  
@@ -714,6 +716,7 @@ export default function DistanceLearning() {
 **08.12** [Тема: Утілення морального й естетичного ідеалів в образі головної героїні твору «Маруся» Григорія Квітки-Основ’яненка](https://drive.google.com/file/d/1R5BQK_Ak3rXkgxnO5eNc1QfvOqFMB6zF/view?usp=sharing)  
 **08.12** [Тема: Григорій Квітка – Основ’яненко. «Маруся» - перша українська повість нової української літератури](https://drive.google.com/file/d/16ez0tik2MYfC2up6itnSEkdXbaLHB7ub/view?usp=sharing)  
 **12.01** [Тема: Література українського романтизму](https://drive.google.com/file/d/1mOgP6dWvVXwPSawELx4m3cn-rAybOybG/view?usp=sharing)  
+**12.01** [Тема: Романтизм](https://drive.google.com/file/d/1k0j1k6Gq5-mJ0o6xnUM0hwBAQDBfUZ0E/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/10ODZR-UG7C9YAJv3bPb-eKqe7kwsjJA4/view?usp=sharing)  
@@ -738,6 +741,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Механічні хвилі](https://drive.google.com/file/d/1gFUenJvZoiJfbG2dXxl35x6LtqAUs2RB/view?usp=sharing)  
 **08.12** [Тема: Електромагнітне поле](https://drive.google.com/file/d/1EfXMUGu05I7gJxeY_VOnUyFSvDNKXFWi/view?usp=sharing)  
 **08.12** [Тема: Звукові хвилі](https://drive.google.com/file/d/126g0uZowIP3iR08iTKfkKfQ_HqjU3VHf/view?usp=sharing)  
+**12.01** [Тема: Модель атома](https://drive.google.com/file/d/1qUzWy-DnK5zTjgJ5rWTaCWiqCLd54CrA/view?usp=sharing)  
 
 ** Мистецтво **  
 **04.12** [Тема: Сюрреалізм](https://drive.google.com/file/d/1NifrDQX_ktjFsE6qmEyUdO5CkcjpReOn/view?usp=sharing)  
@@ -757,6 +761,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Розмовна, просторічна, емоційно забарвлена лексика. Сленг. Екзотизми. Пуризми. Стилістичні можливості розмовної, просторічної лексики](https://drive.google.com/file/d/1EQAzk0Jp_hxAi9YKNzo5NfBpEXW5Ga_Z/view?usp=sharing)  
 **08.12** [Тема: Лексика української мови за походженням](https://drive.google.com/file/d/1O0Ba-JtVOJVgg2QA_yQnJqK5hJr7Ut2h/view?usp=sharing)  
 **12.01** [Тема: Фразеологічні одиниці української мови. Основні ознаки фразеологізмів. Основні групи фразеологізмів](https://drive.google.com/file/d/1DCFJyJyqINXzaCZp-2S93IiZUjW1crQ7/view?usp=sharing)  
+**12.01** [Тема: Фразеологічні одиниці української мови](https://drive.google.com/file/d/12Gg5S1uZiL_BMtWqhjqycUxbHLE-AUXB/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
@@ -768,6 +773,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Механічна робота. Потужність. Кінетична енергія.](https://drive.google.com/file/d/13ktDbpkU-YGMFOs3KRcYIqKot5LfswUQ/view?usp=sharing)  
 **08.12** [Тема: Закон збереження енергії](https://drive.google.com/file/d/1XmDNvbUoT_A-Kxyv3hLzAEV86kFrSjHR/view?usp=sharing)  
 **08.12** [Тема: Імпульс.Реактивний рух](https://drive.google.com/file/d/1c_MGIN_B14rayQ-AG2VHjGcWjTZaSSNg/view?usp=sharing)  
+**12.01** [Тема: Механічні коливання](https://drive.google.com/file/d/1D_PrdzvuncDuJY0hpPy2A8SMK1Vi5Vwu/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)
