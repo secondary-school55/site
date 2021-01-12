@@ -197,6 +197,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Seasons](https://drive.google.com/file/d/1N-iYLAIp11JvEbOFczQz4OV_YEv4nzvF/view?usp=sharing)  
 **08.12** [Тема: Весна](https://drive.google.com/file/d/1zvxx9wn5s9iY8vppDTbAO9ZVhro086N4/view?usp=sharing)  
 **12.01** [Тема: Годинник](https://drive.google.com/file/d/1awoIHmfcx6r2AbHV6es2XQixV0OKa2Ym/view?usp=sharing)  
+**12.01** [2-А,В. Тема: My morning](https://drive.google.com/file/d/1bRleKAxJIWcETJwyNY6N5GWo-sp1gnR9/view?usp=sharing)  
 
 ** Математика **  
 **11.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1VwNtfF7VLfGyvNSDziU_iCztBpKSa4aZ/view?usp=sharing)  
@@ -306,7 +307,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Письмове додавання двоцифрових чисел. (№12 - 21)](https://drive.google.com/file/d/1IxvI05Io3QIfhPhtAVbsxFPjGh9qJWwO/view?usp=sharing)  
 
 ** Фізична культура **  
-**04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)
+**04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
 **11.01** [Тема: Бесiда "Режим дня". Правила рухливих вправ.](https://drive.google.com/file/d/18kxrIqQ2I0Q5VxtDf3KnNoA_kGn7MGVf/view?usp=sharing)  
 
 ** Літературне читання **  
@@ -411,7 +412,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Культура поведінки учня](https://drive.google.com/file/d/1uW5654jU6K1rkEnbTDFy_8sCJ2kafQLS/view?usp=sharing)
 
 ** Англійська мова **  
-**03.12** [Тема: Покупки](https://drive.google.com/file/d/1vJe5h3cSMsODOLKX_hlLazFw6AvQAr-L/view?usp=sharing)
+**03.12** [Тема: Покупки](https://drive.google.com/file/d/1vJe5h3cSMsODOLKX_hlLazFw6AvQAr-L/view?usp=sharing)  
 **12.01** [Тема: Улюблена пора року](https://drive.google.com/file/d/1_kfoGwLBw19Ll9VlO4Fjwk8Ny3Mh4Hdw/view?usp=sharing)  
 
 ** Літературне читання **  
@@ -653,9 +654,11 @@ export default function DistanceLearning() {
 **08.12** [Тема: Контроль письма](https://drive.google.com/file/d/1Mtr3VOv_jK9HV4uAjHEkvRY5IKCnIiBM/view?usp=sharing)  
 **11.01** [Тема: Засоби масової інформації](https://drive.google.com/file/d/136W2jAuyhX9m2W0DwW6CCuhywkrx2Llw/view?usp=sharing)  
 **12.01** [8-А. Тема: Преса у житті людини](https://drive.google.com/file/d/1VIKe0ChnQHLEJ7fANcVOWs6cZ2Za3b_y/view?usp=sharing)  
+**12.01** [8-А,В. Тема: Ukrainian press](https://drive.google.com/file/d/1sNb3tvMXXMQpgWoHJL7SpiE7OR-aEqei/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
+**12.01** [8-Б. Тема: Арифметичний корінь](https://drive.google.com/file/d/111JNeChYNr9ccJKOwYv_E0JvDNlebSHP/view?usp=sharing)  
 
 ** Географія **  
 **04.12** [Тема: Вплив погодно-кліматичних умов на здоров'я і господарську діяльність людини. Охорона атмосферного повітря. Кліматичні особливості своєї місцевості](https://drive.google.com/file/d/1vYAwfOrYGHF59NtP26e4W9X-6BdlSoxY/view?usp=sharing)
@@ -676,6 +679,7 @@ export default function DistanceLearning() {
 ** Геометрія **  
 **08.12** [Тема: Подібність прямокутних трикутників. Властивість бісектриси. Метричні співвідношення](https://drive.google.com/file/d/1P4n2CeJ0hOGemlmT2Z8di8FAmWrYIIhI/view?usp=sharing)  
 **12.01** [8-А. Тема: Теорема Піфагора. Розв'язування задач](https://drive.google.com/file/d/1UEMLd_yzP8g0PgmQvwv6Zh3v2_CpgQ1G/view?usp=sharing)  
+**12.01** [8-Б. Тема: Теорема Піфагора](https://drive.google.com/file/d/1UqIOb1Yck4KipmrXn1L2m21aCcPdsoQC/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Логічні вирази. Оператори розгалуження. Вкладені розгалуження](https://drive.google.com/file/d/1UIkiDcQ0uWpgiOSN8HPQe0On15gl7hh0/view?usp=sharing)  
@@ -757,6 +761,7 @@ export default function DistanceLearning() {
 
 ** Алгебра **  
 **11.01** [Тема: Квадратні нерівності](https://drive.google.com/file/d/19Gm5ymTCuqJGr9_ikFVp8-WzoFccQtwD/view?usp=sharing)  
+**12.01** [9-А. Тема: Квадратні нерівності](https://drive.google.com/file/d/1wA9BKwoKXWPgwQgDQcOQVkvRB8w4_JkE/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
@@ -847,6 +852,7 @@ export default function DistanceLearning() {
 ** Англійська мова **  
 **04.12** [Тема: Reading](https://drive.google.com/file/d/1clNCU8I-QMXLumrUeVrrPFrlUHCobR-z/view?usp=sharing)  
 **08.12** [Тема: Writing](https://drive.google.com/file/d/1c275FUb4T5R-xkotqqn08tbq5HkvdXX-/view?usp=sharing)  
+**12.01** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1Rm3Gy6W61WhXkbSMFLrPTydEMecqV7F9/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Есе «Що робить мене щасливим (щасливою)»](https://drive.google.com/file/d/1xZaYEjnfrn1_BhqFqRKVKQHtugYFExs6/view?usp=sharing)  
@@ -870,6 +876,9 @@ export default function DistanceLearning() {
 
 ** Фізична культура **  
 **12.01** [Тема: Комплекс ранкової гігієнічної гімнастики](https://drive.google.com/file/d/1jMHOn2adK6L881jeXPQpOB7TgJflIDGt/view?usp=sharing)  
+
+** Геометрія **  
+**12.01** [Тема: Об'єм піраміди](https://drive.google.com/file/d/1UWQ8LaxxQqgKUAnUq2pLPtpH5B30dHy6/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="Онлайн уроки">
@@ -948,6 +957,39 @@ export default function DistanceLearning() {
             усі завдання
           </li>
         </ol>
+      </Tab>
+      <Tab title="На допомогу вчителю">
+        <Md>{`
+1. [Як технічно організувати дистанційне навчання – покрокова інструкція](http://bit.ly/33LwF2M)
+1. [Як вони це роблять. Вчительки початкової, базової та старшої шкіл про організацію оцінювання і дистанційного навчання](http://bit.ly/3anfc37)
+1. Матеріали та інструменти для дистанційного навчання від фінського проєкту (+приклад онлайн-уроку) [http://bit.ly/2JKxoIt](http://bit.ly/2JKxoIt), [http://bit.ly/2Vtmayx](http://bit.ly/2Vtmayx), [http://bit.ly/2VUEOzC](http://bit.ly/2VUEOzC), [http://bit.ly/2ZfRtiz](http://bit.ly/2ZfRtiz)
+1. [Як працювати в Google-клас: покрокова інструкція](http://bit.ly/3bGXNms)
+1. [Як використовувати YouTube у дистанційному навчанні](http://bit.ly/39O51Uh)
+1. [Дистанційне навчання в 3-4 класах: інструкції, приклади уроків та комунікації з батьками](http://bit.ly/2yz4d8Z)
+1. [10 ЛАЙФХАКІВ ДЛЯ ВЧИТЕЛІВ і порада батькам – вчителька математики про дистанційне навчання](http://bit.ly/2VdGDWP)
+1. [Як організувати дистанційне навчання для дітей з ООП. Досвід вчителів](http://bit.ly/3a5Odbi)
+1. [Працювати з класом онлайн. Як гімназія “Очаг” навчає дистанційно](http://bit.ly/3egl2pz)
+1. [Як розробити дистанційний урок для 1-2 класів – інструкція від вчительки](http://bit.ly/2yvy3ez)
+1. [Простою мовою: які рекомендації щодо дистанційного навчання дає латвійське міністерство освіти своїм учителям](http://bit.ly/2KaVlIX)
+1. [Як організувати дистанційне навчання: досвід директорів шкіл](https://bit.ly/34UOQ6V)
+1. [Практики та підходи до дистанційного навчання – рекомендації для вчителів](http://bit.ly/2YaInDB)
+1. [Як сільська школа використовує власну онлайн-платформу (і як це зробити іншим закладам)](http://bit.ly/2SkkFki)
+1. [Трудове і фізкультура онлайн – як учителі проводять уроки на відстані](http://bit.ly/3aWrCyz)
+1. [Дистанційне навчання: як зацікавити учнів – поради від учительки](http://bit.ly/2WoaCMi)
+1. [Найважливіше – підтримка. Як дистанційно навчаються старші школярі у Фінляндії](http://bit.ly/3nj9aHN)
+1. [Як поєднати дистанційне навчання з інклюзивним](http://bit.ly/2xSuoYd)
+1. [Як створити ефективний контент уроків української для формувального оцінювання – лайфхаки від вчительки](http://bit.ly/2zNU8pc)
+1. [Освіта може стати більш суспільною справою, а не просто послугою. Засновник PISA про школи після пандемії](http://bit.ly/2AiOJ9T)
+1. [Уроки карантину. Що радять директори шкіл](http://bit.ly/3dOPSoC)
+1. [Уроки карантину: що радять учителі](http://bit.ly/3cU2Y2H)
+1. [Коли освіта в пріоритеті. Як школи і батьки співпрацювали дистанційно](http://bit.ly/3hooW10)
+1. [Онлайн-навчання для дітей з ООП – як зробити його доступнішим](http://bit.ly/37A636N)
+1. [Змішане навчання. Як вчителі працюють і офлайн, і онлайн](http://bit.ly/3d7chxS)
+1. [Недистанційна освіта під час карантину: 10 фактів про те, як в Індії учні навчають учнів](http://bit.ly/32lVXF5)
+1. [Навчання в зимовий локдаун: що рекомендує Київ своїм закладам освіти](http://bit.ly/38RzClo)
+1. [Як учителю створити презентацію до уроку – відеоінструкція](http://bit.ly/39dzdde)
+1. [Тривалість навчального заняття під час дистанційого формату](https://mon.gov.ua/ua/news/trivalist-navchalnogo-zanyattya-pid-chas-distancijnogo-formatu-lishayetsya-nezminnoyu-rozyasnennya-mon)
+`}</Md>
       </Tab>
     </Tabs>
   );
