@@ -36,6 +36,9 @@ export default function DistanceLearning() {
 1.  [Лист МОН України №1/9-419 від 04.08.2020 "Щодо необхідності створення безпечних умов для організованого початку 2020-2021 навчального року"](https://drive.google.com/file/d/1YhU2uM4yKSmlNK3Cd_5yzw0mugp2_-Iz/view?usp=sharing)
 1.  [Лист МОН України №1/9-406 від 29.07.2020 "Про підготовку закладів освіти до нового навч.року та опалювального сезону в умовах карантину"](https://drive.google.com/file/d/1TRH9iGDMxTknSX2ptYRJd6DJANPEi6EA/view?usp=sharing)
 1.  [Деякі питання захисту дітей в умовах боротьби з наслідками гострої респіраторної хвороби COVID-19, спричиненої коронавірусом SARS-CoV-2 (Постанова КМУ 01.06.2020 №586)](https://drive.google.com/file/d/1LVkOHVXFNITVfURxOEm9cqCm6Pwy7hLB/view?usp=sharing)
+1.  [КЗШ №55. Про організацію ДИСТАНЦІЙНОГО НАВЧАННЯ ІІ семестру 2020-2021н.р](https://drive.google.com/file/d/1JkyaCbDYUhaQJ0oTDYKDJQ5j1405YwYe/view?usp=sharing)
+1.  [Положення про дистанційне навчання](https://drive.google.com/file/d/1kZ93fjRC0NNuyqYM1XtbvCrm3UTHOcRr/view?usp=sharing)
+1.  [КЗШ №55. Положення про дистанційну форму здобуття (повної)  загальної середньої освіти в КЗШ № 55 КМР ДО](https://drive.google.com/file/d/1_NYrMvjnVHFkAzyToO1oPkllvfq4mR2M/view?usp=sharing)
 `}</Md>
       </Tab>
       <Tab title="1 клас">
@@ -898,6 +901,9 @@ export default function DistanceLearning() {
       </Tab>
       <Tab title="Зворотній зв'язок">
         <Pdf src="/distance-learning/emails.pdf" height="1200px" />
+      </Tab>
+      <Tab title="Графік роботи під час локдауну">
+        <Pdf src="/distance-learning/lockdown.pdf" height="1200px" />
       </Tab>
       <Tab title="Освітня платформа HUMAN">
         <p>
