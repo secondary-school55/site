@@ -830,6 +830,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Організації захисту тварин](https://drive.google.com/file/d/1l_By8gK3RGLDsJL_cOjUvOG2hPpIFA7Y/view?usp=sharing)  
 **11.01** [Тема: Захист навколишнього середовища](https://drive.google.com/file/d/1ILYfBJ6IzDIwuM9Gp1aYOK1Atvnf7KT9/view?usp=sharing)  
 **13.01** [9-А. Тема: Майбутнє у наших руках](https://drive.google.com/file/d/1nExAnW2sGIZNY-YcjZU-VrvxUzhgEiLp/view?usp=sharing)  
+**13.01** [Тема: Майбутнє у наших руках](https://drive.google.com/file/d/1RQ-Ma6rgOg1rLoWxmBrVVPGzAFZlzyvU/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
@@ -926,6 +927,7 @@ export default function DistanceLearning() {
 ** Англійська мова **  
 **04.12** [Тема: Reading](https://drive.google.com/file/d/1ks5tAkLDNz6WXJjOfcN97bWqpuTajWmp/view?usp=sharing)  
 **13.01** [Тема: Комунікаційні технології](https://drive.google.com/file/d/1lMDro9_nrNQROhmbxxwvxtkCw_xfette/view?usp=sharing)  
+**13.01** [Тема: Communication technologies](https://drive.google.com/file/d/1JnKfi4N11v4Jc5Fey5IMmp3lZE30yeMy/view?usp=sharing)  
 
 ** Захист України**  
 **07.12** [Хлопці. Тема: Статути Збройних Сил України. Військові звання військовослужбовців Збройних Сил України](https://drive.google.com/file/d/1OzU2dwv875YIu-Owskc3Irad1zmIoqE9/view?usp=sharing)
@@ -1143,6 +1145,11 @@ export default function DistanceLearning() {
 1. [Як учителю створити презентацію до уроку – відеоінструкція](http://bit.ly/39dzdde)
 1. [Тривалість навчального заняття під час дистанційого формату](https://mon.gov.ua/ua/news/trivalist-navchalnogo-zanyattya-pid-chas-distancijnogo-formatu-lishayetsya-nezminnoyu-rozyasnennya-mon)
 `}</Md>
+      </Tab>
+      <Tab title="На допомогу батькам">
+        <Md>{`
+1. [Батькам школярів: 20 запитань та відповідей про дистанційне навчання](https://eo.gov.ua/2021/01/12/batkam-shkoliariv-20-zapytan-ta-vidpovidey-pro-dystantsiyne-navchannia)
+          `}</Md>
       </Tab>
     </Tabs>
   );
