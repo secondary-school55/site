@@ -180,6 +180,7 @@ export default function DistanceLearning() {
 ** Українська мова **  
 **03.12** [Тема: Ознайомлення з походженням деяких жіночих і чоловічих імен та прізвищ](https://drive.google.com/file/d/1cdMTQM2Iac_prYeaQwbhpST7qVUtsrm-/view?usp=sharing)  
 **11.01** [Тема: Досліджую прикметники. Розпізнаю слова – назви ознак](https://drive.google.com/file/d/1Rbv2ekF_6ya8yEzY3rRdcSgQee9BvIH8/view?usp=sharing)  
+**13.01** [Тема: Добираю прикметники](https://drive.google.com/file/d/1l1roeb8eJ0wws1f4iGfRe1xUM0vf6crT/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
@@ -195,6 +196,7 @@ export default function DistanceLearning() {
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)
 **12.01** [Тема: Як утворюється лід на водоймах](https://drive.google.com/file/d/1k7CY147uyNx8kolwpn4iQQEc2bmyqnf1/view?usp=sharing)  
+**13.01** [Тема: Безпека взимку](https://drive.google.com/file/d/1zAWE1B6AprES8BjJHuORaGRiyDxnRTe2/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Пори року](https://drive.google.com/file/d/1km6oHMaL5aPtsb5vpLoEVftKb8SYvoBa/view?usp=sharing)  
@@ -207,6 +209,7 @@ export default function DistanceLearning() {
 ** Математика **  
 **11.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1VwNtfF7VLfGyvNSDziU_iCztBpKSa4aZ/view?usp=sharing)  
 **12.01** [Тема: Коло і круг та їх елементи. Порівняння задач на множення  і додавання. Доповнення умов задач запитаннями](https://drive.google.com/file/d/1aXndEuFfl1p8usF-4-nZg72xvRUAc1MI/view?usp=sharing)  
+**13.01** [Тема: Вправи і задачі на засвоєння опрацьованих таблиць](https://drive.google.com/file/d/108mV6_atz8cF7tYbBNTyQATe0wGjTevN/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="2-Б">
@@ -345,6 +348,7 @@ export default function DistanceLearning() {
 ** Літературне читання **  
 **11.01** [Тема: Вступ до розділу. Т.Шевченко. Про себе](https://drive.google.com/file/d/1ynrFswe54lYcRsH9nMvz-b87wrJMlCJf/view?usp=sharing)  
 **12.01** [Тема: Т. Шевченко. Вітер віє-повіває](https://drive.google.com/file/d/1FWgM6fZVAoQ0A43M09UTFRQknQ9DWU5E/view?usp=sharing)  
+**13.01** [Тема: Т.Шевченко. Реве та стогне Дніпр широкий](https://drive.google.com/file/d/1bXyKvNzQgOA8tsxhc55feZ87vvFnO1DP/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **12.01** [Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
@@ -470,6 +474,8 @@ export default function DistanceLearning() {
 **03.12** [Інструкційна картка: Виготовлення ялинкової прикраси «Ялинка»](https://drive.google.com/file/d/1VbeV1DMe1MoR72-cbMHZVGjvG8fhxlXJ/view?usp=sharing)  
 **03.12** [Інструкційна картка: Виготовлення ялинкової прикраси «Різдвяна зірка»](https://drive.google.com/file/d/1AsMT40FxyVqGHoI16liGMkmSY3w7pzxj/view?usp=sharing)  
 **11.01** [Тема: Проведення міні-маркетингового дослідження для обґрунтування вибору виробу](https://drive.google.com/file/d/1ONQ0pIyeNHm0nYcdo8an_okGGNtYnVdW/view?usp=sharing)  
+**13.01** [5-Б. Тема: М’яка іграшка як невід’ємний атрибут у побуті та мистецтві українців. Види м’яких іграшок](https://drive.google.com/file/d/1DiMmWvcbu04Dnn7At5RRBeBgydUQ5jVk/view?usp=sharing)  
+**13.01** [5-Б. Тема: Інструктаж з БЖД та ОП. Визначення алгоритму  взаємодії в майстерні. Вибір об’єкта праці](https://drive.google.com/file/d/1uX142Rbfhq27LHQjts627PH2KZkdaUxr/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Середовище описання і виконання алгоритмів](https://drive.google.com/file/d/1v4UkLcIBNjYTNAmYwho0KhV6vbkT7CCs/view?usp=sharing)  
@@ -540,6 +546,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Відсоткові розрахунки](https://drive.google.com/file/d/1Zfytcvvdeup5d3a0lOcHbHt69x-OkZnS/view?usp=sharing)  
 **12.01** [Тема: Координатна пряма](https://drive.google.com/file/d/1YflD_mgVismDEdHMBSHlleHy_YUiuRjp/view?usp=sharing)  
 **12.01** [Тема: Коло і круг](https://drive.google.com/file/d/1A4aNKpPgWQcl3V_iheHpKRaUf-svqYDz/view?usp=sharing)  
+**13.01** [Тема: Координатна пряма](https://drive.google.com/file/d/1jhgoyy_vxgcS0cfRKdpu0zzOCydH5biD/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
@@ -556,6 +563,7 @@ export default function DistanceLearning() {
 
 ** Англійська мова **  
 **11.01** [Тема: Продукти харчування](https://drive.google.com/file/d/1d3TbAEysdcGIIGHnMnE1Pt-076Fx2xcB/view?usp=sharing)  
+**13.01** [Тема: Овочі та фрукти](https://drive.google.com/file/d/1r0WmGmylVGkm43cUXuqTWMPGN2IrSJt0/view?usp=sharing)  
 
 ** Трудове навчання **  
 **11.01** [Тема: Правила БЖД та ОП Короткі історичні відомості про розвиток мистецтва штучних декоративних квітів. Види декоративних квітів](https://drive.google.com/file/d/16YUkvI89A0BiQETZdytpt_jrfWkzfgT8/view?usp=sharing)  
@@ -635,6 +643,7 @@ export default function DistanceLearning() {
 
 ** Фізична культура **  
 **12.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1LYMqo8lKOm-bCK_MHTKKwk0WLaRKPTEK/view?usp=sharing)  
+**13.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1jm9dPqtOM5-L1OzB0IOBkJ_1pKbsG4oz/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **12.01** [Тема: Види дизайну. Промисловий дизайн. Проектування предметів побуту](https://drive.google.com/file/d/1E2YpfNEiT7Pc2NJucY1Ljco3On99jjva/view?usp=sharing)  
@@ -690,6 +699,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Розвиток спритності та швидкісно-силових якостей учнів](https://drive.google.com/file/d/16XPh-b-LCDLvnnLrJ_IB0wDfmPWAGX-F/view?usp=sharing)  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1Eochp0AGgZTCZaGcJ9EtaA1d-jKhKO2d/view?usp=sharing)  
 **13.01** [Тема: Удосконалення та закріплення елементів гри з баскетболу](https://drive.google.com/file/d/1op1q0EuhTO25dfx7ukJRMRWJuUoqhpSq/view?usp=sharing)  
+**13.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/12vrsqqoPhoEa-2J0Z4tp0UUQu2ib30Yo/view?usp=sharing)  
 
 ** Біологія **  
 **04.12** [Тема: Значення дихання. Будови і функції органів дихання](https://drive.google.com/file/d/1h8oxnpA9mSto58NfYV2yjRUNRFcB1z3B/view?usp=sharing)  
@@ -761,6 +771,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Розвиток спритності та швидкісно-силових якостей учнів](https://drive.google.com/file/d/1WTy3mT3CjJ4sdcOuh6bBKbXIxEsMY4uD/view?usp=sharing)  
 **12.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1YICGzoCACuWwxD_o5BlATFzE7rF5BhFy/view?usp=sharing)  
 **13.01** [Тема: Удосконалення та закріплення елементів гри з баскетболу](https://drive.google.com/file/d/1yXSdD8La-0ZbP6xy3uYyL9KkldKupl5e/view?usp=sharing)  
+**13.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1GDiGGV6CEt1dKN9to9EufjKydZ_hxn-p/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Розроблення програми. Виконання арифметичних обчислень. Уведення, виконання й налагодження програм](https://drive.google.com/file/d/1dpekkJgkf59EosU2y6jtD_cr9PnqzdpZ/view?usp=drive_web)
@@ -828,6 +839,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Розвиток спритності та швидкісно-силових якостей учнів](https://drive.google.com/file/d/1rZFJfznJNx8mZNT-cfDQDT3LpAEMvpIe/view?usp=sharing)  
 **11.01** [Тема: Комплекс ранкової гігієнічної гімнастики](https://drive.google.com/file/d/1ULJ_VGIr9_kERv7sVpw3JX_j2349NwRY/view?usp=sharing)  
 **13.01** [Тема: Удосконалення та закріплення елементів гри з баскетболу](https://drive.google.com/file/d/111Xat5coKa7CDGGxIcQAyOW-k9MpLult/view?usp=sharing)  
+**13.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1BIgERmEclZSLLns6pGJmR79UQvuahvx6/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Західноукраїнська Народна Республіка.](https://drive.google.com/file/d/1UX5pzPnYGVUlJs01kyXsn3UxARYrvB_5/view?usp=sharing)  
@@ -835,7 +847,8 @@ export default function DistanceLearning() {
 **12.01** [Тема: Утворення Радянського Союзу. Запровадження нової економічної політики](https://drive.google.com/file/d/198gM5KftrRB-qm_6-x-cMHKym0YSwwkJ/view?usp=sharing)  
 
 ** Англійська мова **  
-**04.12** [Тема: Reading](https://drive.google.com/file/d/1ks5tAkLDNz6WXJjOfcN97bWqpuTajWmp/view?usp=sharing)
+**04.12** [Тема: Reading](https://drive.google.com/file/d/1ks5tAkLDNz6WXJjOfcN97bWqpuTajWmp/view?usp=sharing)  
+**13.01** [Тема: Комунікаційні технології](https://drive.google.com/file/d/1lMDro9_nrNQROhmbxxwvxtkCw_xfette/view?usp=sharing)  
 
 ** Захист України **  
 **07.12** [Тема: Статути Збройних Сил України. Військові звання військовослужбовців Збройних Сил України](https://drive.google.com/file/d/1OzU2dwv875YIu-Owskc3Irad1zmIoqE9/view?usp=sharing)
