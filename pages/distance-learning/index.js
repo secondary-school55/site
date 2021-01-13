@@ -205,7 +205,8 @@ export default function DistanceLearning() {
 **03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
 
 ** Фізична культура **  
-**03.12** [Тема: Організовуючі вправи. Загальнорозвивальні вправи для формування правильної постави. Підтягування у висі тта увисі лежачи (хлопці). Танцювальні кроки. Рухлива гра](https://drive.google.com/file/d/1rKgpV07GqvgZd17tYjA0P9Ayeami6TO8/view?usp=sharing)
+**03.12** [Тема: Організовуючі вправи. Загальнорозвивальні вправи для формування правильної постави. Підтягування у висі тта увисі лежачи (хлопці). Танцювальні кроки. Рухлива гра](https://drive.google.com/file/d/1rKgpV07GqvgZd17tYjA0P9Ayeami6TO8/view?usp=sharing)  
+**13.01** [Тема: Уроки фізичної культури онлайн](https://drive.google.com/file/d/1R3HLRRRi6cJ6UVSWUNP_boBIz8WcxfI6/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Досліджуємо текст. Василь Чухліб «Зимова казка» Зачарувала все зима...](https://drive.google.com/file/d/1lO76PM1u99sp3Ey7vKjtOBd5_zP2NEEX/view?usp=sharing)  
@@ -386,6 +387,9 @@ export default function DistanceLearning() {
 
 ** Образотворче мистецтво **  
 **12.01** [Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
+
+** Інформатика **  
+**13.01** [Тема: Електронна пошта](https://drive.google.com/file/d/1KyFCawBMzLggZl_i87HzBarHmFnhAAoK/view?usp=drive_web)  
 `}</Md>
           </Tab>
           <Tab title="4-А">
@@ -503,6 +507,8 @@ export default function DistanceLearning() {
 **08.12** [5-Б. Тема: Позначення звуків мовлення на письмі](https://drive.google.com/file/d/1vM1_QZpP-S97Il4twyMPXw-4JFLgMgbT/view?usp=sharing)  
 **11.01** [Тема: Орфограма (практично). Орфографічний словник. Орфографічна помилка (практично), її умовне позначення](https://drive.google.com/file/d/1nLndxOwyxsLIOYxd4AegEb0juBr6tUwb/view?usp=sharing)  
 **13.01** [5-А. Тема: Орфографічна помилка, її умовне позначення](https://drive.google.com/file/d/11xzrGBklVhP2Q2zGwkGwxitKeQd64wRT/view?usp=sharing)  
+**13.01** [Тема: Орфографічна помилка](https://drive.google.com/file/d/1RliCOJtjWwzjEfFRtFzJpHfBc0_J9r23/view?usp=sharing)  
+**13.01** [Тема: Префікси роз-, без-](https://drive.google.com/file/d/1csKSMUqi1pBQgHzn9-cPLSltQQ9a4ug5/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -583,7 +589,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Відсоткові розрахунки](https://drive.google.com/file/d/1Zfytcvvdeup5d3a0lOcHbHt69x-OkZnS/view?usp=sharing)  
 **12.01** [Тема: Координатна пряма](https://drive.google.com/file/d/1YflD_mgVismDEdHMBSHlleHy_YUiuRjp/view?usp=sharing)  
 **12.01** [Тема: Коло і круг](https://drive.google.com/file/d/1A4aNKpPgWQcl3V_iheHpKRaUf-svqYDz/view?usp=sharing)  
-**13.01** [Тема: Координатна пряма](https://drive.google.com/file/d/1jhgoyy_vxgcS0cfRKdpu0zzOCydH5biD/view?usp=sharing)  
+**13.01** [6-А,В. Тема: Координатна пряма](https://drive.google.com/file/d/1jhgoyy_vxgcS0cfRKdpu0zzOCydH5biD/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
@@ -646,6 +652,7 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **04.12** [Тема: Створення моделей для розв’язування задач](https://drive.google.com/file/d/129xZiYVeZFgltMSzdCWdQEco6wnXtbuw/view?usp=drive_web)  
+**13.01** [Тема: Створення комп'ютерної моделі рівномірного прямолінійного руху](https://drive.google.com/file/d/1eEhezYQyhBuwJkm7r1QrzZF_b1rQ0hBC/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Різноманітність птахів, їх роль у природі та значення в житті людини](https://drive.google.com/file/d/1yE8Ay4YmvkBD_Dh23t4NCf8q2Jox4_Ou/view?usp=sharing)  
@@ -670,8 +677,8 @@ export default function DistanceLearning() {
 **07.12** [Тема: Формули квадрата двочлена, різниці квадратів, суми і різниці кубів](https://drive.google.com/file/d/1rZfpPfzYKlR_3eqiRpZImyPSKsHghooO/view?usp=sharing)  
 **08.12** [7-Б. Тема: Формули суми і різниці кубів](https://drive.google.com/file/d/1Oy_lN7IVHkAP8efaDlTwDTtYg4lRSczR/view?usp=sharing)  
 **11.01** [Тема: Розкладання многочлена на множники винесенням спільного множника за дужки](https://drive.google.com/file/d/15Ks4kkI-K7biOkyD3OHBw3XxxecwUq1S/view?usp=sharing)  
-**12.01** [Тема: Розкладання многочлена на множники способом группування](https://drive.google.com/file/d/1D4MCUIOU1zUx4AJTxJD47fPeY_RFL5Bh/view?usp=sharing)  
-**13.01** [Тема: Розкладання многочлена на множники способом группування](https://drive.google.com/file/d/1D4MCUIOU1zUx4AJTxJD47fPeY_RFL5Bh/view?usp=sharing)  
+**12.01** [7-А. Тема: Розкладання многочлена на множники способом группування](https://drive.google.com/file/d/1D4MCUIOU1zUx4AJTxJD47fPeY_RFL5Bh/view?usp=sharing)  
+**13.01** [7-А. Тема: Розкладання многочлена на множники способом группування](https://drive.google.com/file/d/1D4MCUIOU1zUx4AJTxJD47fPeY_RFL5Bh/view?usp=sharing)  
 
 ** Географія **  
 **11.01** [Тема: Географічне положення. Відкриття і дослідження антарктиди](https://drive.google.com/file/d/1lIgDyXiWc38CJRLGqbQqjvOiuHOlwgot/view?usp=sharing)  
@@ -734,6 +741,7 @@ export default function DistanceLearning() {
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
 **12.01** [8-Б. Тема: Арифметичний корінь](https://drive.google.com/file/d/111JNeChYNr9ccJKOwYv_E0JvDNlebSHP/view?usp=sharing)  
+**13.01** [8-А. Тема: Функція у=х2, її графік і властитвості](https://drive.google.com/file/d/1a1CBk2F9c0dwjajS5bSjf5mVTANkQP8g/view?usp=sharing)  
 
 ** Географія **  
 **04.12** [Тема: Вплив погодно-кліматичних умов на здоров'я і господарську діяльність людини. Охорона атмосферного повітря. Кліматичні особливості своєї місцевості](https://drive.google.com/file/d/1vYAwfOrYGHF59NtP26e4W9X-6BdlSoxY/view?usp=sharing)
@@ -797,7 +805,8 @@ export default function DistanceLearning() {
 
 ** Геометрія **  
 **03.12** [9-Б. Тема: Вектори. Розв’язування задач](https://drive.google.com/file/d/1ykrS5YhJf-ggic_8ad1LHgVjfAVZtKBF/view?usp=sharing)  
-**03.12** [9-Б. Тема: Вектори на площині](https://drive.google.com/file/d/1RjV9PuGkr7pomGzkRf1IxFZqe38f5fHj/view?usp=sharing)
+**03.12** [9-Б. Тема: Вектори на площині](https://drive.google.com/file/d/1RjV9PuGkr7pomGzkRf1IxFZqe38f5fHj/view?usp=sharing)  
+**13.01** [9-Б. Тема: Теорема косинусів. Наслідки з теореми косинусів](https://drive.google.com/file/d/1YpfdHsbBPwSUCuEzPakkc47ODIzI6NMS/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1_YPlRDOzxWAHMorqZAt9hTRsefrTjAo4/view?usp=sharing)  
@@ -823,7 +832,8 @@ export default function DistanceLearning() {
 **13.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1GDiGGV6CEt1dKN9to9EufjKydZ_hxn-p/view?usp=sharing)  
 
 ** Інформатика **  
-**04.12** [Тема: Розроблення програми. Виконання арифметичних обчислень. Уведення, виконання й налагодження програм](https://drive.google.com/file/d/1dpekkJgkf59EosU2y6jtD_cr9PnqzdpZ/view?usp=drive_web)
+**04.12** [Тема: Розроблення програми. Виконання арифметичних обчислень. Уведення, виконання й налагодження програм](https://drive.google.com/file/d/1dpekkJgkf59EosU2y6jtD_cr9PnqzdpZ/view?usp=drive_web)  
+**13.01** [Тема: Виконання індивідуальних і групових навчальних проектів із дослідження предметної галузі.](https://drive.google.com/file/d/1OvX1LpPoxgOfNDojztLYgVV3OOs7Vjz3/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Фотосинтез: світлова та темнова фази](https://drive.google.com/file/d/1AP4SBbE-Wl8PoIH4LiQXBqO2b-ri70gl/view?usp=sharing)  
@@ -837,6 +847,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Складнопідрядні речення з підрядними обставинними](https://drive.google.com/file/d/1fVWf5gP_b0DCFPvrb2zxgnuf5uoBXjEK/view?usp=sharing)  
 **11.01** [Тема: Складнопідрядні речення з кількома підрядними](https://drive.google.com/file/d/1yJCHo9URB20FC9XfzvvW89iZ66s4ira9/view?usp=sharing)  
 **13.01** [Тема: Стислий усний переказ тексту публіцистичного стилю](https://drive.google.com/file/d/1-DHsHbSTpEuQ412tstPEzrnv1nLCz9mE/view?usp=sharing)  
+**13.01** [Тема: Стислий усний переказ тексту публіцистичного стилю](https://drive.google.com/file/d/119DO-0LnY3dxpYHlGpQ0eLCuXWmcZ7Zn/view?usp=sharing)  
 
 ** Фізика **  
 **04.12** [Тема: Механічні хвилі](https://drive.google.com/file/d/1gFUenJvZoiJfbG2dXxl35x6LtqAUs2RB/view?usp=sharing)  
