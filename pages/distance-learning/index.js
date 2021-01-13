@@ -225,6 +225,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Годинник](https://drive.google.com/file/d/1awoIHmfcx6r2AbHV6es2XQixV0OKa2Ym/view?usp=sharing)  
 **12.01** [Тема: My morning](https://drive.google.com/file/d/1bRleKAxJIWcETJwyNY6N5GWo-sp1gnR9/view?usp=sharing)  
 **13.01** [Тема: Що я роблю зранку](https://drive.google.com/file/d/1-Wlmdc4V1mcnO3DtiS6H-0qaH8SHD53Y/view?usp=sharing)  
+**13.01** [Тема: My morning](https://drive.google.com/file/d/1vpbyTwi6FC9IfW1Sasq_FZDKZLfMtt1g/view?usp=sharing)  
 
 ** Математика **  
 **11.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1VwNtfF7VLfGyvNSDziU_iCztBpKSa4aZ/view?usp=sharing)  
@@ -256,6 +257,10 @@ export default function DistanceLearning() {
 
 ** Образотворче мистецтво **  
 **13.01** [Тема: Чарівні дерева](https://drive.google.com/file/d/1Z7wrkKXFdjqb0_uRZVY4BqOopNlNk1OD/view?usp=sharing)  
+
+** Англійська мова **  
+**13.01** [Тема: My morning](https://drive.google.com/file/d/1vpbyTwi6FC9IfW1Sasq_FZDKZLfMtt1g/view?usp=sharing)  
+
 `}</Md>
           </Tab>
         </Tabs>
@@ -268,7 +273,8 @@ export default function DistanceLearning() {
 **03.12** [Тема: Найдорожча у світі](https://drive.google.com/file/d/1i1gUjCiN0vKPL8XrNsCkVmbBWdbUVxog/view?usp=sharing)
 
 ** Англійська мова **  
-**04.12** [Тема: Контроль читання](https://drive.google.com/file/d/1BWaOtRFsi4XEkt7bSQcm16ChwMRt0qs1/view?usp=sharing)
+**04.12** [Тема: Контроль читання](https://drive.google.com/file/d/1BWaOtRFsi4XEkt7bSQcm16ChwMRt0qs1/view?usp=sharing)  
+**13.01** [Тема: Мій дім](https://drive.google.com/file/d/1Ci7BcvbSEmri48cHad4FkDtVvwrQkcgB/view?usp=sharing)  
 
 ** Математика **  
 **08.12** [Тема: Порівняння способів додавання круглих трицифрових чисел](https://drive.google.com/file/d/1llI5Tp_nB7ogU7BPV0qtPGootAEvYHsu/view?usp=sharing)  
@@ -532,6 +538,7 @@ export default function DistanceLearning() {
 **08.12** [Тема: Величина кута. Вимірювання та побудова кутів](https://drive.google.com/file/d/1fM_JZHlzjYUsp9fmJKv_FQvwTYRaGFCu/view?usp=sharing)  
 **12.01** [Тема: Уявлення про звичайні дроби](https://drive.google.com/file/d/15TW2iX6PdzFOQlI9kIhhov_wwiGd9eFY/view?usp=sharing)  
 **12.01** [Тема: Дроби і ділення натуральних чисел](https://drive.google.com/file/d/1iq9PeQcl8FHCpHrsXCO1vw7ir-GkAN5k/view?usp=sharing)  
+**13.01** [Тема: Порівняння звичайних дробів](https://drive.google.com/file/d/1T3PXdjQWXS-2itvWkz51NW6iKlGctOVG/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
@@ -590,6 +597,8 @@ export default function DistanceLearning() {
 **12.01** [Тема: Координатна пряма](https://drive.google.com/file/d/1YflD_mgVismDEdHMBSHlleHy_YUiuRjp/view?usp=sharing)  
 **12.01** [Тема: Коло і круг](https://drive.google.com/file/d/1A4aNKpPgWQcl3V_iheHpKRaUf-svqYDz/view?usp=sharing)  
 **13.01** [6-А,В. Тема: Координатна пряма](https://drive.google.com/file/d/1jhgoyy_vxgcS0cfRKdpu0zzOCydH5biD/view?usp=sharing)  
+**13.01** [6-Б. Тема: Кругові та стовпчасті діаграми](https://drive.google.com/file/d/1tYxB-pYC32fSWaIUQzrFiX8mTA1ti22s/view?usp=sharing)  
+**13.01** [6-Б. Презентація. Тема: Кругові та стовпчасті діаграми](https://drive.google.com/file/d/1XnTl3NwsLlBSJnPNDF9oMJhcatT2XI40/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
@@ -672,6 +681,8 @@ export default function DistanceLearning() {
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
 **11.01** [Тема: Оксиген і кисень](https://drive.google.com/file/d/1UsZBg4YupwyGd3rBFYBn0gww1kJZSJi0/view?usp=sharing)  
+**13.01** [7-А. Тема: Склад повітря](https://drive.google.com/file/d/17cqStc7d5zs3scW7i90zEuZ8nNGdkc6q/view?usp=sharing)  
+**13.01** [7-Б. Тема: Закон збереження маси](https://drive.google.com/file/d/1cDg4l_tzfwOAXsy1ZXACo_IQSk7c6PRQ/view?usp=sharing)  
 
 ** Алгебра **  
 **07.12** [Тема: Формули квадрата двочлена, різниці квадратів, суми і різниці кубів](https://drive.google.com/file/d/1rZfpPfzYKlR_3eqiRpZImyPSKsHghooO/view?usp=sharing)  
@@ -724,6 +735,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Кількість речовини. Моль – одиниця кількості речовини. Число Авогадро](https://drive.google.com/file/d/1ClT-RpO5-Fb9UmgW8t6_jCoMkGIPosu2/view?usp=sharing)  
 **07.12** [Тема: Молярна маса речовини](https://drive.google.com/file/d/1em4zvfuwmaW3e2k5LEzgm8Z0QNCxu39i/view?usp=sharing)  
 **11.01** [Тема: Відносна густина газів](https://drive.google.com/file/d/1ZN-Oxll5hhJorsC4EEgdQzuVXaOS44lB/view?usp=sharing)  
+**13.01** [Тема: Узагальнення знань з теми](https://drive.google.com/file/d/1V9TH_kS1OI3-q-VWjeMBggTIfS4L0Pp6/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Абсолютизм і громадянські війни у Франції](https://drive.google.com/file/d/1LjHnyvIvkFpsROshHXQx8bzKyHRS6yRz/view?usp=sharing)  
@@ -777,6 +789,9 @@ export default function DistanceLearning() {
 
 ** Російська мова **  
 **13.01** [Тема: Параллельная связь между предложениями в тексте](https://drive.google.com/file/d/1kI1EqW4xoE3j_M4DUEWxgqBji3bQfjXp/view?usp=sharing)  
+
+** Фізика **  
+**13.01** [Тема: Електризація. Електричний заряд](https://drive.google.com/file/d/1jgAI2QMnq0wL6_T1Qc5G4e1Op7hPX_RP/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="9 клас">
@@ -912,8 +927,10 @@ export default function DistanceLearning() {
 **04.12** [Тема: Reading](https://drive.google.com/file/d/1ks5tAkLDNz6WXJjOfcN97bWqpuTajWmp/view?usp=sharing)  
 **13.01** [Тема: Комунікаційні технології](https://drive.google.com/file/d/1lMDro9_nrNQROhmbxxwvxtkCw_xfette/view?usp=sharing)  
 
-** Захист України **  
-**07.12** [Тема: Статути Збройних Сил України. Військові звання військовослужбовців Збройних Сил України](https://drive.google.com/file/d/1OzU2dwv875YIu-Owskc3Irad1zmIoqE9/view?usp=sharing)
+** Захист України**  
+**07.12** [Хлопці. Тема: Статути Збройних Сил України. Військові звання військовослужбовців Збройних Сил України](https://drive.google.com/file/d/1OzU2dwv875YIu-Owskc3Irad1zmIoqE9/view?usp=sharing)
+**11.01** [Хлопці. Тема: Вогнева підготовка](https://drive.google.com/file/d/190Hpb8Hc2f1DXFKG1XJdIfRWQKXTefWM/view?usp=sharing)  
+**11.01** [Дівчата. Тема: Потенційно небезпечні місця. Вибухонебезпечні предмети](https://drive.google.com/file/d/1onH0OCXfhI6qW2YA2RZo6xsNgkVifZKR/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Насичені одноатомні спирти](https://drive.google.com/file/d/1IfJ4cpMktmfYg7JKuCp4G7s1HGHH3NaY/view?usp=sharing)  
@@ -922,14 +939,8 @@ export default function DistanceLearning() {
 ** Географія **  
 **11.01** [Тема: Третинний сектор економіки. Нерівномірність економічного розвитку субрегіонів азії та особливості їх участі в міжнародному поділі праці. Зв’язки україни з країнами Азії.](https://drive.google.com/file/d/1uEjvyC_mFoXDQP-tFUQKQ63GqB7vXnQg/view?usp=sharing)  
 
-** Захист України **  
-**11.01** [Тема: Вогнева підготовка](https://drive.google.com/file/d/190Hpb8Hc2f1DXFKG1XJdIfRWQKXTefWM/view?usp=sharing)  
-
 ** Алгебра **  
 **11.01** [Тема: Радіанне вимірювання кутів](https://drive.google.com/file/d/19KcVgym3kZyvIV-SMlDCUuvdZCjmINU4/view?usp=sharing)  
-
-** Основи здоров'я **  
-**11.01** [Тема: Потенційно небезпечні місця. Вибухонебезпечні предмети](https://drive.google.com/file/d/1onH0OCXfhI6qW2YA2RZo6xsNgkVifZKR/view?usp=sharing)  
 
 ** Технології **  
 **12.01** [Тема: Український суванір](https://drive.google.com/file/d/1Qjysoxx4CbkF3hvpoWE8jhs9EKJ-HX7j/view?usp=sharing)  
@@ -971,6 +982,7 @@ export default function DistanceLearning() {
 ** Фізика **  
 **07.12** [Тема: Досліди М.Фарадея. Електромагнітна індукція. Закон електромагнітної індукції. Правило Ленца](https://drive.google.com/file/d/1sj3YVP7d9jBZHf15nSJBU6EKpNTATAIe/view?usp=sharing)  
 **11.01** [Тема: Коливальний контур. Виникнення вільних електромагнітних коливань. Перетворення енергії під час вільних електромагнітних коливань](https://drive.google.com/file/d/1hl7jWNW6gvHTIyF_VtSVg_pJ304kN2Dn/view?usp=sharing)  
+**13.01** [Тема: Гармонічні електромагнітні коливання](https://drive.google.com/file/d/1SRLJJvZR5aumZVgxAqipha4mhmFw8Q9_/view?usp=sharing)  
 
 ** Хімія **  
 **08.12** [Тема: Поняття про гальванічний елемент як хімічне джерело електричного струму](https://drive.google.com/file/d/1-18C_qtNZmcyKNShpSVNgHdP_43NAkoS/view?usp=sharing)  
@@ -979,7 +991,7 @@ export default function DistanceLearning() {
 ** Алгебра **  
 **11.01** [Тема: Первісна та її властивості](https://drive.google.com/file/d/1L324DYGv9LNfmQRPdS-EqyuIWCETnm6O/view?usp=sharing)  
 
-** Основи здоров'я **  
+** Захист України **  
 **11.01** [Тема: Повний огляд пораненого, зупинка всіх інших видів кровотеч](https://drive.google.com/file/d/1vGeJ4yYdwbxW2fG2x-JbPlzplwwwZNlL/view?usp=sharing)  
 
 ** Фізична культура **  
@@ -994,6 +1006,9 @@ export default function DistanceLearning() {
 ** Біологія **  
 **13.01** [Тема: Екологічні чинники](https://drive.google.com/file/d/1KC52fpGn1EwDad_-OthY7mp_YCefBRLf/view?usp=sharing)  
 **13.01** [Тема: Завдання та методи екології](https://drive.google.com/file/d/1x0_L7PhRfIFdPkvMYp_y_nZFtmRRHu4E/view?usp=sharing)  
+
+** Астрономія **  
+**13.01** [Тема: Планети-гіганти](https://drive.google.com/file/d/1ELiTkJtJebQ2sSuVQQT5vZ4a9rgadhbU/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="Онлайн уроки">
