@@ -387,12 +387,12 @@ export default function DistanceLearning() {
 **08.12** [Тема: Новий Рік](https://drive.google.com/file/d/1-ldhQ9GyILrJ4HyNQL74GXcXklK6a7-J/view?usp=sharing)  
 
 ** Літературне читання **  
-**11.01** [Тема: Вступ до розділу. Т.Шевченко. Про себе](https://drive.google.com/file/d/1ynrFswe54lYcRsH9nMvz-b87wrJMlCJf/view?usp=sharing)  
-**12.01** [Тема: Т. Шевченко. Вітер віє-повіває](https://drive.google.com/file/d/1FWgM6fZVAoQ0A43M09UTFRQknQ9DWU5E/view?usp=sharing)  
-**13.01** [Тема: Т.Шевченко. Реве та стогне Дніпр широкий](https://drive.google.com/file/d/185zZEmsWw2iphcyh0oAqtDLYGYSQ4nUi/view?usp=sharing)  
+**11.01** [Горевич Л. В. Тема: Вступ до розділу. Т.Шевченко. Про себе](https://drive.google.com/file/d/18gp7SS7XMB2mTTqtUg6lb_B440vyruDz/view?usp=sharing)  
+**12.01** [Горевич Л. В. Тема: Т. Шевченко. Вітер віє-повіває](https://drive.google.com/file/d/1ASZjzysh6riXA87oo98MFpGX_5OexTsb/view?usp=sharing)  
+**13.01** [Горевич Л. В. Тема: Т.Шевченко. Реве та стогне Дніпр широкий](https://drive.google.com/file/d/1f0uqai6p7R-AvwZ0oad36TCocKStAgdN/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
-**12.01** [Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
+**12.01** [Горевич Л. В. Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
 
 ** Інформатика **  
 **13.01** [Тема: Електронна пошта](https://drive.google.com/file/d/1KyFCawBMzLggZl_i87HzBarHmFnhAAoK/view?usp=drive_web)  
