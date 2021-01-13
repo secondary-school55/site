@@ -213,7 +213,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Небилиці-небувалиці. Платон Воронько «Картина» (вірш-небилиця)](https://drive.google.com/file/d/1VAUHgR3aqoUxwyBsfbi0jTObf6wMj5gh/view?usp=sharing)  
 
 ** Я досліджую світ **  
-**03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)
+**03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)  
 **12.01** [Тема: Як утворюється лід на водоймах](https://drive.google.com/file/d/1k7CY147uyNx8kolwpn4iQQEc2bmyqnf1/view?usp=sharing)  
 **13.01** [Тема: Безпека взимку](https://drive.google.com/file/d/1zAWE1B6AprES8BjJHuORaGRiyDxnRTe2/view?usp=sharing)  
 
@@ -382,7 +382,7 @@ export default function DistanceLearning() {
 ** Літературне читання **  
 **11.01** [Тема: Вступ до розділу. Т.Шевченко. Про себе](https://drive.google.com/file/d/1ynrFswe54lYcRsH9nMvz-b87wrJMlCJf/view?usp=sharing)  
 **12.01** [Тема: Т. Шевченко. Вітер віє-повіває](https://drive.google.com/file/d/1FWgM6fZVAoQ0A43M09UTFRQknQ9DWU5E/view?usp=sharing)  
-**13.01** [Тема: Т.Шевченко. Реве та стогне Дніпр широкий](https://drive.google.com/file/d/1bXyKvNzQgOA8tsxhc55feZ87vvFnO1DP/view?usp=sharing)  
+**13.01** [Тема: Т.Шевченко. Реве та стогне Дніпр широкий](https://drive.google.com/file/d/185zZEmsWw2iphcyh0oAqtDLYGYSQ4nUi/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **12.01** [Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
@@ -774,7 +774,7 @@ export default function DistanceLearning() {
       <Tab title="9 клас">
         <Md>{`
 ** Географія **  
-**03.12** [Тема: Видобування металічних руд](https://drive.google.com/file/d/1nLsYYlfSAhh_c-YzVUL8iJaKDekY1NXc/view?usp=sharing)
+**03.12** [Тема: Видобування металічних руд](https://drive.google.com/file/d/1nLsYYlfSAhh_c-YzVUL8iJaKDekY1NXc/view?usp=sharing)  
 **12.01** [Тема: Значення металургійного виробництва](https://drive.google.com/file/d/1GCcuhzaV9QvOaSJ6EoyfV0d1YywlEzZK/view?usp=sharing)
 
 ** Хімія **  
@@ -1004,7 +1004,27 @@ export default function DistanceLearning() {
         <Pdf src="/distance-learning/emails.pdf" height="1200px" />
       </Tab>
       <Tab title="Графік роботи педагогічних працівників під час локдауну">
-        <Pdf src="/distance-learning/lockdown.pdf" height="1200px" />
+        <Pdf src="/distance-learning/work schedule.pdf" height="1200px" />
+        <Pdf src="/distance-learning/optional classes.pdf" height="1200px" />
+      </Tab>
+      <Tab title="Режим роботи">
+        <Tabs>
+          <Tab title="Для учнів 1-х класів">
+            <Pdf src="/distance-learning/mode/1.pdf" />
+          </Tab>
+          <Tab title="Для учнів 2-4-х класів">
+            <Pdf src="/distance-learning/mode/2-4.pdf" />
+          </Tab>
+          <Tab title="Для учнів 5-7-х класів">
+            <Pdf src="/distance-learning/mode/5-7.pdf" />
+          </Tab>
+          <Tab title="Для учнів 8-9-х класів">
+            <Pdf src="/distance-learning/mode/8-9.pdf" />
+          </Tab>
+          <Tab title="Для учнів 10-11-х класів">
+            <Pdf src="/distance-learning/mode/10-11.pdf" />
+          </Tab>
+        </Tabs>
       </Tab>
       <Tab title="Освітня платформа HUMAN">
         <p>
