@@ -67,11 +67,13 @@ export default function DistanceLearning() {
 **03.12** [Тема: Переставний закон додавання](https://drive.google.com/file/d/1BLi2UtjK2pNwLTdsbZBZQpQnam1ixVsV/view?usp=sharing)  
 **04.12** [Тема: Вимірювання довжини відрізків. Сантиметр](https://drive.google.com/file/d/1ybdLJpQ2ujp_B50mgaW0wNd3j-Ya3-jd/view?usp=sharing)  
 **12.01** [Тема: Відкриваємо правило знаходження невідомого доданка](https://drive.google.com/file/d/1rKJ2AOVBSJuECbt_09Oq6-QoHNRotcsY/view?usp=sharing)  
+**13.01** [Тема: Називаємо компоненти та результат дії віднімання](https://drive.google.com/file/d/1qOf5iXa7MsSFTWx79Tnr_ATlJnCMarh8/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Переглянути відео](https://drive.google.com/file/d/1D2aar6UzW4Tfu4bdRX5yZWNcV_PluYtf/view?usp=sharing)  
 **11.01** [Тема: Ознайомлення з 2 частиною букваря. Закріплення звукових значень вивчених букв](https://drive.google.com/file/d/1M42xbopBlUqfoF7kDyyt2uig0oJKtekH/view?usp=sharing)  
 **12.01** [Тема: Звуки г, г', позначення їх буквою ге](https://drive.google.com/file/d/1Tfgh0_GvPEilEJReJ2faBaWeZ8UHK36R/view?usp=sharing)  
+**13.01** [Тема: Закріплення звукових значень букви г](https://drive.google.com/file/d/1XEqZIjINZblPsGOn5A5_RomiPOQHHuwW/view?usp=sharing)  
 
 ** Англійська мова **  
 **07.12** [Тема: Моя родина](https://drive.google.com/file/d/1tHi4PcA9O7IS2KKBnV2xnGPoD9KJ7ESr/view?usp=sharing)  
@@ -81,6 +83,10 @@ export default function DistanceLearning() {
 **07.12** [Тема: Письмо великої букви Т («те»)](https://drive.google.com/file/d/18W00N1ReiIh331-RUeCaRTs0nlzzX2Gg/view?usp=sharing)  
 **11.01** [Тема: Закріплення знань писати вивчені букви, слова і речення з ними](https://drive.google.com/file/d/1VwaqVEl9dT-ePiBA7Ng6bUPaKXT4kWCU/view?usp=sharing)  
 **12.01** [Тема: Письмо малої букви г](https://drive.google.com/file/d/1OCs882gQeau-4rCbcHVvIIPpQva7zYiO/view?usp=sharing)  
+**13.01** [Тема: Письмо великої букви Г](https://drive.google.com/file/d/1qneFmbWtfiHe-OUiMc7e9zs2hZ7f3Mcp/view?usp=sharing)  
+
+** Фізична культура **  
+**13.01** [Тема: Home Workout](https://drive.google.com/file/d/12zgnhoZ-Yxfez8Ih5vqLk-uVHlUvZcS8/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="1-Б">
@@ -328,11 +334,12 @@ export default function DistanceLearning() {
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1aMckvGtRntg_f6p15jt_-ws3qUiS-4DC/view?usp=sharing)  
 **07.12** [Тема: Значення грибів для природи](https://drive.google.com/file/d/1Z87OcfgT8kpP-vnBcQgqIdGmF5Q3yotj/view?usp=sharing)  
 **11.01** [Тема: Яку будову маe наше тiло](https://drive.google.com/file/d/1IK6Sfs52ilvhYjSJ259JRnlNvGMARzsr/view?usp=sharing)  
+**13.01** [Тема: Яка роль шкіри в організмі людини](https://drive.google.com/file/d/1BAanqDO3-hFhvdH9p5qrRc5gVE3HNNZl/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1xXi1QIpOVQ295yrr8H3iHctB9Z8m8Wsv/view?usp=sharing)  
 **04.12** [Тема: Розбираю слова за будовою. Написання розгорнутої відповіді на запитання (с.69-70)](https://drive.google.com/file/d/16_6Ij1Yc7d1SGifm2jkPij2prkgHWPoQ/view?usp=sharing)  
-**13.01** [Тема: ]()  
+**13.01** [Тема: Назви істот, неістот](https://drive.google.com/file/d/1uEJCwjDuA7r9rHIpg2qXO6G7PHJJRHAp/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
@@ -495,6 +502,7 @@ export default function DistanceLearning() {
 **03.12** [5-Б. Тема: Приголосні тверді, м’які (повторення). Співвідношення звуків і букв. Звукове значення букв я, ю, є, ї .](https://drive.google.com/file/d/14VBVYgk0nTv9ga2twnBFYXtfg_bGpaCL/view?usp=sharing)  
 **08.12** [5-Б. Тема: Позначення звуків мовлення на письмі](https://drive.google.com/file/d/1vM1_QZpP-S97Il4twyMPXw-4JFLgMgbT/view?usp=sharing)  
 **11.01** [Тема: Орфограма (практично). Орфографічний словник. Орфографічна помилка (практично), її умовне позначення](https://drive.google.com/file/d/1nLndxOwyxsLIOYxd4AegEb0juBr6tUwb/view?usp=sharing)  
+**13.01** [5-А. Тема: Орфографічна помилка, її умовне позначення](https://drive.google.com/file/d/11xzrGBklVhP2Q2zGwkGwxitKeQd64wRT/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -583,7 +591,7 @@ export default function DistanceLearning() {
 **08.12** [Тема: Відмінювання іменників. Поділ іменників на відміни та групи](https://drive.google.com/file/d/11Z8CMcTG0Na1MCpTit6W-bFskR3yWmmi/view?usp=sharing)  
 **11.01** [Тема: Незмінювані іменники. Рід незмінюваних іменників](https://drive.google.com/file/d/1OBVjvoJZIoN2VNdEep2uBRAnBVQd79ON/view?usp=sharing)  
 **12.01** [Тема: Відмінювання іменників, що мають форму лише множини](https://drive.google.com/file/d/161iSi4nJJNJfV7ew9v4cJNA9E6olCzsO/view?usp=sharing)  
-**13.01** [Тема: ]()  
+**13.01** [Тема: Написання й відмінювання чоловічих і жіночих прізвищ, імен по батькові](https://drive.google.com/file/d/1p0ee-aDkqsmnKQwgG5HzR3cUNAGQygeu/view?usp=sharing)  
 
 ** Геометрія **  
 **04.12** [Тема: Властивості та ознаки паралельних прямих](https://drive.google.com/file/d/1HNWgOmuryqTAgAijrgyBQ3k_E7c_gKyK/view?usp=sharing)  
@@ -634,6 +642,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Види спорту](https://drive.google.com/file/d/1lXlyXV3JL9qobds-FKnWTTr4FsiYJy11/view?usp=sharing)  
 **11.01** [Тема: Види спорту](https://drive.google.com/file/d/1YmKwSsqFSKvmuN3AhWT-v_x02tsLR5gx/view?usp=sharing)  
 **13.01** [7-А. Тема: Сучасні Олімпійські ігри](https://drive.google.com/file/d/1JyUfXX-AaMdtz8mZPIwQHPQO9yVEwJdn/view?usp=sharing)  
+**13.01** [7-А,Б. Тема: Олімпійські ігри](https://drive.google.com/file/d/1G78pEW6ZTCqRljyOq7AtIXrugOFAmkTD/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Створення моделей для розв’язування задач](https://drive.google.com/file/d/129xZiYVeZFgltMSzdCWdQEco6wnXtbuw/view?usp=drive_web)  
@@ -651,6 +660,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Михайло Стельмах. „Гуси-лебеді летять”. Єдність світу природи і світу дитячої душі](https://drive.google.com/file/d/16f8K3tfl64X6YPtW-QA9HcYiBUrorDP2/view?usp=sharing)  
 **11.01** [Тема: Дієприслівник як особлива форма дієслова](https://drive.google.com/file/d/1tY7xYqFrYmmDStV1_-5VY8TG7mt2Z7p-/view?usp=sharing)  
 **11.01** [7-А (ІІ підгрупа), 7-Б. Тема: Дієприслівник як особлива форма дієслова: загальне значення, морфологічні ознаки, синтаксична роль](https://drive.google.com/file/d/1wPUmizPfvrk8xvxlFnAR8ZaVzBONigsU/view?usp=sharing)  
+**13.01** [7-Б. Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1FVGnicieGXVOTeJ_XWiD9Y-VfmPokNuN/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -680,6 +690,9 @@ export default function DistanceLearning() {
 
 ** Образотворче мистецтво **  
 **12.01** [Тема: Види дизайну. Промисловий дизайн. Проектування предметів побуту](https://drive.google.com/file/d/1E2YpfNEiT7Pc2NJucY1Ljco3On99jjva/view?usp=sharing)  
+
+** Українська література **  
+**13.01** [7-А,Б. Тема: Григір Тютюнник. Коротко про дитинство письменника. «Климко» - автобіографічна основа твору](https://drive.google.com/file/d/1FVGnicieGXVOTeJ_XWiD9Y-VfmPokNuN/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="8 клас">
