@@ -314,6 +314,8 @@ export default function DistanceLearning() {
 **12.01** [Тема: Письмове додавання двоцифрових чисел. (№12 - 21)](https://drive.google.com/file/d/1acH9xHtZwZ85oRV5h1q5Lg7D4yR05SVX/view?usp=sharing)  
 **13.01** [Тема: Письмове додавання двоцифрових чисел](https://drive.google.com/file/d/1e77y9Yi7n24DU_v0aoDEF2wLU8KGMuop/view?usp=sharing)  
 **13.01** [Презентація. Тема: Письмове додавання двоцифрових чисел](https://drive.google.com/file/d/1Dn2U_8NcxOh-nGslmJ3CVUSMZJ4p7gC0/view?usp=sharing)  
+**14.01** [Тема: Письмове додавання трицифрових чисел](https://drive.google.com/file/d/192x6CIG08q6a__3sqzc0GRcXXu9rnAKv/view?usp=sharing)  
+**14.01** [Презентація. Тема: Письмове додавання трицифрових чисел](https://drive.google.com/file/d/1Nih_Rm9c8ANIX1AI9tf1j-P16sQpu5jh/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1CbxkNJHRP-O8TfHLE4mA0__Mu-56Ovd3/view?usp=sharing)  
@@ -321,6 +323,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Власні і загальні назви](https://drive.google.com/file/d/1LsFG2UyWn_yMVmtq4-TU1E5ATvdSSvEQ/view?usp=drive_web)  
 **13.01** [Тема: Назви істот, неістот](https://drive.google.com/file/d/1y8gWgHhxirlZ-vYV0TVOsH6n-bBjML1k/view?usp=sharing)  
 **14.01** [Тема: Власні і загальні назви](https://drive.google.com/file/d/1TOxVV0MkrKphWBwUsWNzD_Ac7CGvW3gU/view?usp=drive_web)  
+**14.01** [Тема: Власні і загальні іменники](https://drive.google.com/file/d/1VptiTesOLhtBzEJVVLOxPKMiqieU2lTn/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -341,6 +344,7 @@ export default function DistanceLearning() {
 **08.12** [Тема: Святкові запахи. Робота з картиною художниці Світлани Косенко "Святвечір". Як "прочитати" картину? Настрій. Кольори. Композиція. Розповідь про враження від побаченого. (с.75)](https://drive.google.com/file/d/1v9rZGVdqcx8QjOlkHnz_aq6TO4BEDrOs/view?usp=sharing)  
 **11.01** [Тема: Робота з рiзними джерелами iнформацii](https://drive.google.com/file/d/15MB--TNyROHh7Nyt4cHBIHHl38mK9F6Y/view?usp=sharing)  
 **12.01** [Тема: Як не любить свій край](https://drive.google.com/file/d/1fyvy3vyBDoh0-mQM2gF4SIGEag3_AY8t/view?usp=sharing)  
+**14.01** [Тема: Вірші вихованців Павлиської школи. Д. Телкова «Героям». М. Малолітко «Воїнові, який захищає Вітчизну»](https://drive.google.com/file/d/1KcAOfGQO32LdRrc4E7Dtmp37uh3JymRn/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -348,6 +352,8 @@ export default function DistanceLearning() {
 
 ** Я досліджую світ **  
 **11.01** [Тема: Яку будову маe наше тiло.](https://drive.google.com/file/d/1D0TeQq-w0Ea1azUtzFCuxxrCqubx3ran/view?usp=sharing)  
+**14.01** [Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/1PvEpPjngAk-yOJt0A1P6aVHJE56A_vcE/view?usp=sharing)  
+**14.01** [Презентація. Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/1DuJBLzPrEz1Tk4B3gwe-QugcZhB8aqfb/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **11.01** [Тема: Композицiя "Полiт Карлсона над мiстом"](https://drive.google.com/file/d/1dhQA_ZrWUo6aZiE1XqG-YzOCjyXhezeo/view?usp=sharing)  
@@ -495,6 +501,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Закріплення знань про правопис прикметників у множині](https://drive.google.com/file/d/17ZPnL2xTbr37Zcka30jzUsW_ZyvtYjs7/view?usp=sharing)  
 **12.01** [Тема: Побудова сполучень слів і речень із прикметниками, уведення їх у текст](https://drive.google.com/file/d/1PTQfBwJkXFd3YtEKPTqNs_zR9mZxoVMg/view?usp=sharing)  
 **13.01** [Тема: Закріплення вивченого про прикметник](https://drive.google.com/file/d/1UWeDPMNkgo7Y8P4qWCn5xYL1SoVTitZD/view?usp=sharing)  
+**14.01** [Тема: Погода учора](https://drive.google.com/file/d/1OlcQQthTb5hS1m5olV3hmRV9Krme1g0o/view?usp=sharing)  
 
 ** Я у світі **  
 **04.12** [Тема: Культура поведінки учня](https://drive.google.com/file/d/1uW5654jU6K1rkEnbTDFy_8sCJ2kafQLS/view?usp=sharing)
@@ -561,6 +568,7 @@ export default function DistanceLearning() {
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
 **12.01** [Тема: Світ вокальної музики](https://drive.google.com/file/d/109qgig0UxPqVL5zyP7xqGcaLkE4U_kYc/view?usp=sharing)  
+**14.01** [Тема: Тема: Алгоритмічна структура розгалуження](https://drive.google.com/file/d/1jBQsWtaU5zGcXpFe7L1TfMOdNnPuDkBn/view?usp=drive_web)  
 
 ** Математика **  
 **04.12** [Тема: Аналіз контрольної роботи. Види кутів. Вимірювання кутів](https://drive.google.com/file/d/1d8YTI_NUHB38Jtw7fLmJ7ZvtROh6ltEi/view?usp=sharing)  
@@ -616,6 +624,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/16uK94BEboljVzcud-sfI-BgczQk6SqYY/view?usp=drive_web)  
 **07.12** [Тема: Редагування програмних об'єктів](https://drive.google.com/file/d/1RzBoVhxIdkGA3AiAq--IJcpcYBwjob8I/view?usp=sharing)  
 **12.01** [Тема: Керування об'єктами у середовищі виконання алгоритмів](https://drive.google.com/file/d/1I2pUzuDHIVqSBS0UQ4XmlVyR54vsPxH9/view?usp=sharing)  
+**14.01** [6-В. Тема: Редагування програмних об’єктів.](https://drive.google.com/file/d/16uK94BEboljVzcud-sfI-BgczQk6SqYY/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -649,6 +658,7 @@ export default function DistanceLearning() {
 
 ** Біологія **  
 **11.01** [Тема: Різноманітність та видозміни пагона](https://drive.google.com/file/d/1-QyLP9rc_OE-yPg9YZ7I6EDa7FmKktvz/view?usp=sharing)  
+**14.01** [Тема: Будова листка у звязку з функціями](https://drive.google.com/file/d/1SgqVRONZ5bItfVbpccloSGkG56VB6dxb/view?usp=sharing)  
 
 ** Англійська мова **  
 **11.01** [Тема: Продукти харчування](https://drive.google.com/file/d/1d3TbAEysdcGIIGHnMnE1Pt-076Fx2xcB/view?usp=sharing)  
@@ -724,6 +734,8 @@ export default function DistanceLearning() {
 **11.01** [Тема: Дієприслівник як особлива форма дієслова](https://drive.google.com/file/d/1tY7xYqFrYmmDStV1_-5VY8TG7mt2Z7p-/view?usp=sharing)  
 **11.01** [7-А (ІІ підгрупа), 7-Б. Тема: Дієприслівник як особлива форма дієслова: загальне значення, морфологічні ознаки, синтаксична роль](https://drive.google.com/file/d/1wPUmizPfvrk8xvxlFnAR8ZaVzBONigsU/view?usp=sharing)  
 **13.01** [7-Б. Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1FVGnicieGXVOTeJ_XWiD9Y-VfmPokNuN/view?usp=sharing)  
+**14.01** [7-А (ІІ підгрупа). Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1Mq_8VvHeAosR-u4f10lV055P09CFZpiv/view?usp=sharing)  
+**14.01** [7-Б. Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1VgKvWkZNIO6CZ6_ajIX05r7kqVzo1oRV/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -979,6 +991,7 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)
+**14.01** [Тема: Проектування та створення об&#39;єктів мультимедіа. Системи керування вмістом для веб-ресурсів](https://drive.google.com/file/d/1TUh59OvfXa2-OyOCefAftOHTBf9rN_hJ/view?usp=drive_web)  
 
 ** Фізична культура **  
 **04.12** [Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1SBvvvI6L7-usEP0lkbxvVs85UtZqhjpJ/view?usp=sharing)  
@@ -1026,6 +1039,10 @@ export default function DistanceLearning() {
 
 ** Геометрія **  
 **13.01** [Тема: Кути в просторі](https://drive.google.com/file/d/1rjbEKlAjKW4xBCtlEmyQmD8MwGznJaZO/view?usp=sharing)  
+
+** Біологія **  
+**14.01** [Тема: Закономірності спадковості. Гібридологічний аналіз](https://drive.google.com/file/d/1FVlYRcqxhNy-PpceFMNbZ9fESAcJfw-m/view?usp=sharing)  
+**14.01** [Тема: Основні поняття генетики. Закономірності спадковості](https://drive.google.com/file/d/1Dabm66R9SdlouoWc1auZZiMT7diXBhjM/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="11 клас">
@@ -1037,10 +1054,12 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **03.12** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)
+**14.01** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Опозиційний рух в Україні 60-80-х рр. ХХ ст.](https://drive.google.com/file/d/1BRFbeZezM4EQBXfjdEyCgfPXCTltDMaR/view?usp=sharing)  
 **11.01** [Тема: Початок перебудови](https://drive.google.com/file/d/1ApC9AoA8ydI10AeYp7Uv3LOdbhKO0h8L/view?usp=sharing)  
+**14.01** [Тема: «Шістдесятництво» як суспільне і мистецьке явище](https://drive.google.com/file/d/1d3wjMUig-15_zO-1fwZmkhF1edP_lBuJ/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Reading](https://drive.google.com/file/d/1clNCU8I-QMXLumrUeVrrPFrlUHCobR-z/view?usp=sharing)  
