@@ -232,7 +232,6 @@ export default function Normative() {
 1. [Про попередження виробничого травматизму, дотримання пожежної безпеки під час впровадження карантину](https://drive.google.com/open?id=1wF18E0ORFxjOuuLywWYW9nyzPZtP2Xy_)
 1. [Про припинення освітнього процесу у закладах освіти міста](https://drive.google.com/open?id=1VCZQqAVFZUrVVcEsuEITYK5PoPzcStwa)
 1. [Про організаційні заходи для запобігання поширенню коронаврусу COVID-19](https://drive.google.com/open?id=1934WxL6ORUPTVtnAq5LR39JXSDby9uq_)
-1. [Про затвердження Тимчасових рекомендацій щодо організації протиепідемічних заходів у закладах освіти в період карантину в зв’язку поширенням коронавірусної хвороби(COVID-19)](https://mon.gov.ua/storage/app/media/zagalna%20serednya/Nakaz%20MOZ_42.pdf)
 1. [КЗШ №55. Щодо підсумків проведення педагогічної ради в режимі он-лайн 05.05.2020](https://drive.google.com/open?id=1lnZyuw83arjcgVPYOcvhTMOtgol7a1V9)
 1. [КЗШ №55. Про внесення змін до наказу від 26.03.2020 № 80](https://drive.google.com/open?id=1WdM9hlwzAn0PbQSK6hjBOkolF8zpO8L5)
 1. [КЗШ №55. Про зміни до наказу від 12.03.2020 № 70 «Про припинення освітнього процесу у КЗШ № 55 КМР ДО»](https://drive.google.com/open?id=14ytFnV5WE1uhneCdCBOeap25PtfAfbDn)
@@ -251,6 +250,10 @@ export default function Normative() {
 1. [Лист МОН України №1/9-419 від 04.08.2020 "Щодо необхідності створення безпечних умов для організованого початку 2020-2021 навчального року"](https://drive.google.com/file/d/1YhU2uM4yKSmlNK3Cd_5yzw0mugp2_-Iz/view?usp=sharing)
 1. [Лист МОН України №1/9-406 від 29.07.2020 "Про підготовку закладів освіти до нового навч.року та опалювального сезону в умовах карантину"](https://drive.google.com/file/d/1TRH9iGDMxTknSX2ptYRJd6DJANPEi6EA/view?usp=sharing)
 1. [Деякі питання захисту дітей в умовах боротьби з наслідками гострої респіраторної хвороби COVID-19, спричиненої коронавірусом SARS-CoV-2 (Постанова КМУ 01.06.2020 №586)](https://drive.google.com/file/d/1LVkOHVXFNITVfURxOEm9cqCm6Pwy7hLB/view?usp=sharing)
+1. [КЗШ №55. Про організацію дистанційного навчання в освітньому закладі під час локдауну з 11.01.2021р](https://drive.google.com/file/d/1uNy48stXlzjLSZktg9walyBT3w-BVm2E/view?usp=sharing)
+1. [Положення про дистанційне навчання](https://drive.google.com/file/d/1kZ93fjRC0NNuyqYM1XtbvCrm3UTHOcRr/view?usp=sharing)
+1. [КЗШ №55. Положення про дистанційну форму здобуття (повної)  загальної середньої освіти в КЗШ № 55 КМР ДО](https://drive.google.com/file/d/1_NYrMvjnVHFkAzyToO1oPkllvfq4mR2M/view?usp=sharing)
+1. [Про затвердження протиепідемічник заходів у закладах освіти на період карантину у зв'язку поширенням коронавірусної хвороби (COVID-19)](https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2050.pdf)
 `}</Md>
       </Tab>
     </Tabs>
