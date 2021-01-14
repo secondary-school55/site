@@ -142,9 +142,11 @@ export default function DistanceLearning() {
             <Md>{`
 ** Мистецтво **  
 **03.12** [Тема: Святкові перетворення. Малювання композиції «Сніговик».](https://drive.google.com/file/d/1rlUqnf0AgrfiqQwAQPdXXIJ3NZeyQoPc/view?usp=sharing)
+**14.01** [Тема: Мандри Країною Мистецтв. Цирк](https://drive.google.com/file/d/1HnkSVKqiKPr0goTh-U_pMtA34oWgR2BO/view?usp=sharing)  
 
 ** Фізична культура **  
 **03.12** [Тема: Вправи для опанування навичок пересувань](https://drive.google.com/file/d/1tJ12GuU1ETqGGV3dHiag95-YTGcWnvkT/view?usp=sharing)
+**14.01** [Тема: Спорядження лижника. Організовуючі команди і прийоми](https://drive.google.com/file/d/11UrNM_PEYkxK6qqqNDwA2SICj5ZOvfAU/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Досліджуємо властивості води](https://drive.google.com/file/d/1zSrcxlsg-qgp2oEBI4mKsxRWZ8TGzIxn/view?usp=sharing)  
@@ -152,6 +154,7 @@ export default function DistanceLearning() {
 **08.12** [Тема: Досліджуємо властивості грунту](https://drive.google.com/file/d/13e_IReBjj1fOIHzMhxkc31fHh4vHjN6d/view?usp=sharing)  
 **11.01** [Тема: Рiзноманiтнiсть рослин. Iх будова](https://drive.google.com/file/d/1J1qQW0jJz4cBuxr4VkoozbLMHI4ebtKU/view?usp=sharing)  
 **12.01** [Тема: Дерева, кущі, трав’янисті рослини. Листяні та хвойні рослини](https://drive.google.com/file/d/1D4Zkqwwd1adIH7KFDOnjlGs3jrZlA6ag/view?usp=sharing)  
+**14.01** [Тема: Дикорослі та культурні рослини](https://drive.google.com/file/d/1RwtkgcZD_q7GchT-BMNJZDJloO-1kYSc/view?usp=sharing)  
 
 ** Навчання грамоти **  
 **04.12** [Тема: Закріплення звукових значень букви «те». Велика буква Т. Читання слів, речень. Опрацювання тексту](https://drive.google.com/file/d/19GvR-lVr91Ryt02ABFtcoQRKSqGXcuo8/view?usp=sharing)  
@@ -366,11 +369,15 @@ export default function DistanceLearning() {
 **07.12** [Тема: Значення грибів для природи](https://drive.google.com/file/d/1Z87OcfgT8kpP-vnBcQgqIdGmF5Q3yotj/view?usp=sharing)  
 **11.01** [Тема: Яку будову маe наше тiло](https://drive.google.com/file/d/1IK6Sfs52ilvhYjSJ259JRnlNvGMARzsr/view?usp=sharing)  
 **13.01** [Тема: Яка роль шкіри в організмі людини](https://drive.google.com/file/d/1BAanqDO3-hFhvdH9p5qrRc5gVE3HNNZl/view?usp=sharing)  
+**14.01** [Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/12eabUC4ooag9i17nbwTAm_MQScczHy8B/view?usp=sharing)  
+**14.01** [Презентація. Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/1SHWkESDP1T9s1K3btiXyhNfdLUDD4gIv/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1xXi1QIpOVQ295yrr8H3iHctB9Z8m8Wsv/view?usp=sharing)  
 **04.12** [Тема: Розбираю слова за будовою. Написання розгорнутої відповіді на запитання (с.69-70)](https://drive.google.com/file/d/16_6Ij1Yc7d1SGifm2jkPij2prkgHWPoQ/view?usp=sharing)  
 **13.01** [Тема: Назви істот, неістот](https://drive.google.com/file/d/1uEJCwjDuA7r9rHIpg2qXO6G7PHJJRHAp/view?usp=sharing)  
+**14.01** [Тема: Власні і загальні назви](https://drive.google.com/file/d/1nUejfmE2fnJdB128Uzm4vAse_Ekh6CjV/view?usp=drive_web)  
+**14.01** [Тема: Власні і загальні іменники](https://drive.google.com/file/d/1ung7hM9hvh7sU-AUWTpWQ2V4M5br_gtg/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
@@ -380,6 +387,8 @@ export default function DistanceLearning() {
 **12.01** [Тема: Письмове додавання двоцифрових чисел. (№12 - 21)](https://drive.google.com/file/d/1IxvI05Io3QIfhPhtAVbsxFPjGh9qJWwO/view?usp=sharing)  
 **13.01** [Тема: Письмове додавання двоцифрових чисел](https://drive.google.com/file/d/1qz_aJQ76kexZE9T6hCnjBRRa18J2JnYS/view?usp=sharing)  
 **13.01** [Презентація. Тема: Письмове додавання двоцифрових чисел](https://drive.google.com/file/d/1ZWTleK37hyC2uI-pAh8MXerOcZi08AWN/view?usp=sharing)  
+**14.01** [Тема: Письмове додавання трицифрових чисел](https://drive.google.com/file/d/1VQ9ZkCxZaEleOTW0VnCXewFfqVQwKwnn/view?usp=sharing)  
+**14.01** [Презентація. Тема: Письмове додавання трицифрових чисел](https://drive.google.com/file/d/1_LP8z15wsklY_BDkpeq8yu4wVjkZ7cyt/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
