@@ -737,6 +737,7 @@ export default function DistanceLearning() {
 **13.01** [7-А. Тема: Сучасні Олімпійські ігри](https://drive.google.com/file/d/1JyUfXX-AaMdtz8mZPIwQHPQO9yVEwJdn/view?usp=sharing)  
 **13.01** [7-А,Б. Тема: Олімпійські ігри](https://drive.google.com/file/d/1G78pEW6ZTCqRljyOq7AtIXrugOFAmkTD/view?usp=sharing)  
 **14.01** [7-А. Тема: Символіка олімпійських ігор](https://drive.google.com/file/d/1UaFF3KYrmmJXmXIGxSwZsHvnPF4N2DLB/view?usp=sharing)  
+**14.01** [7-А. Тема: Символіка олімпійських ігор](https://drive.google.com/file/d/1lV_IYsZZzYdUbyI2gfEKuM04zvlAAKla/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Створення моделей для розв’язування задач](https://drive.google.com/file/d/129xZiYVeZFgltMSzdCWdQEco6wnXtbuw/view?usp=drive_web)  
