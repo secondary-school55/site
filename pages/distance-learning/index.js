@@ -361,6 +361,9 @@ export default function DistanceLearning() {
 
 ** Образотворче мистецтво **  
 **11.01** [Тема: Композицiя "Полiт Карлсона над мiстом"](https://drive.google.com/file/d/1dhQA_ZrWUo6aZiE1XqG-YzOCjyXhezeo/view?usp=sharing)  
+
+** Дизайн і технології **  
+**14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1wXPpoNe_jfqNM4kFY-MRqF-hrwlWWYwI/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="3-Б">
@@ -405,6 +408,9 @@ export default function DistanceLearning() {
 ** Англійська мова **  
 **11.01** [Тема: Мандрівка у великий будинок](https://drive.google.com/file/d/1mDmTRC20f27VBAhPwomQs6pzHS9MPezV/view?usp=sharing)  
 **13.01** [І підгрупа. Тема: Що знаходиться всередині будинку](https://drive.google.com/file/d/1a_xhvqRrMsLjNRzElbRQjQOerc2ERGuM/view?usp=sharing)  
+
+** Дизайн і технології **  
+**14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
 `}</Md>
           </Tab>
         </Tabs>
@@ -813,6 +819,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Молярна маса речовини](https://drive.google.com/file/d/1em4zvfuwmaW3e2k5LEzgm8Z0QNCxu39i/view?usp=sharing)  
 **11.01** [Тема: Відносна густина газів](https://drive.google.com/file/d/1ZN-Oxll5hhJorsC4EEgdQzuVXaOS44lB/view?usp=sharing)  
 **13.01** [Тема: Узагальнення знань з теми](https://drive.google.com/file/d/1V9TH_kS1OI3-q-VWjeMBggTIfS4L0Pp6/view?usp=sharing)  
+**14.01** [8-Б. Тема: Узагальнення знань](https://drive.google.com/file/d/1p1ysEaHh2QQtwpt2xejRIsOKCmCFeko4/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Абсолютизм і громадянські війни у Франції](https://drive.google.com/file/d/1LjHnyvIvkFpsROshHXQx8bzKyHRS6yRz/view?usp=sharing)  
@@ -828,6 +835,7 @@ export default function DistanceLearning() {
 **12.01** [8-А. Тема: Преса у житті людини](https://drive.google.com/file/d/1VIKe0ChnQHLEJ7fANcVOWs6cZ2Za3b_y/view?usp=sharing)  
 **12.01** [8-А,В. Тема: Ukrainian press](https://drive.google.com/file/d/1sNb3tvMXXMQpgWoHJL7SpiE7OR-aEqei/view?usp=sharing)  
 **14.01** [8-А. Тема: Активізація граматичних навичок](https://drive.google.com/file/d/1wYjzr1m_qWett4OTBJ2_7ibjKEaLUumG/view?usp=sharing)  
+**14.01** [8-А. Тема: Активізація граматичних навичок](https://drive.google.com/file/d/1vmRRhqyIHbPnZVVLCkHYoL2gLZAREWi3/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -891,6 +899,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1nZmcjJQ_nrd_c52_FH-uuyn8NjG5mwVq/view?usp=sharing)  
 **08.12** [Тема: Класифікація хімічних реакцій. Реакції сполучення, розкладу, заміщення, обміну](https://drive.google.com/file/d/1tfQyElQnK1SBSHg-jwM8HbxB1pdGYWaP/view?usp=sharing)  
 **12.01** [Тема: Вступ до органічної хімії](https://drive.google.com/file/d/1QhyD_QZTlrWJ69b4zgRBD2efL1V3LOWx/view?usp=sharing)  
+**14.01** [Тема: Метан і його гомологи](https://drive.google.com/file/d/1WMQk6LicSO7c09zsJzkzeFvucHwb2Ebs/view?usp=sharing)  
 
 ** Правознавство **  
 **03.12** [Тема: Конституційні права і свободи людини і громадянина](https://drive.google.com/file/d/15aef0Tzl_ip_KxMQal1xDjVIK8mWwNyg/view?usp=sharing)  
