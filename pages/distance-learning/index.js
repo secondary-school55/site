@@ -625,6 +625,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Форма і розміри землі. Внутрішня будова Землі](https://drive.google.com/file/d/1IluFsIaDapgGVLVl60xD23aY7q968SNU/view?usp=sharing)  
 
 ** Українська література **  
+**11.01** [Тема: Л.Глібов. "Химерний, маленький...", "Що за птиця?"](https://drive.google.com/file/d/1PfhpTVhihBn22ZZafAJ0UAig2vydUWqH/view?usp=sharing)  
 **13.01** [Тема: Особливості поетичних загадок. Л. Глібов, роль у них казкових елементів, фольклорної основи, гумору, пестливих слів](https://drive.google.com/file/d/1O8kDBu5GJo2wRO4Mtwcx0srs_KQ43xy-/view?usp=sharing)  
 
 ** Зарубіжна література **  
@@ -703,6 +704,11 @@ export default function DistanceLearning() {
 
 ** Образотворче мистецтво **  
 **14.01** [Тема: Побутовий жанр. Історія виникнення та розвитку](https://drive.google.com/file/d/1XYvXwACQ4PgoG10yrkiNui7Ho97oaw35/view?usp=sharing)  
+
+** Зарубіжна література **  
+**11.01** [6-А. Тема: А.П.Чехов Хамелеон](https://drive.google.com/file/d/1PfhpTVhihBn22ZZafAJ0UAig2vydUWqH/view?usp=sharing)  
+**12.01** [6-Б,В. Тема: А.П.Чехов Хамелеон](https://drive.google.com/file/d/1PfhpTVhihBn22ZZafAJ0UAig2vydUWqH/view?usp=sharing)  
+
 `}</Md>
       </Tab>
       <Tab title="7 клас">
