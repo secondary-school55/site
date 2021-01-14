@@ -46,9 +46,7 @@ function renderLetters(data, title) {
             <FaExternalLinkAlt />
           </Link>
           /
-          <Link
-            to={`https://api.school55.pp.ua/api/box/download/${d.main}`}
-          >
+          <Link to={`https://api.school55.pp.ua/api/box/download/${d.main}`}>
             <FaDownload />
           </Link>
         </>
@@ -60,9 +58,7 @@ function renderLetters(data, title) {
       // eslint-disable-next-line react/display-name
       accessor: (d) =>
         d.apps ? (
-          <Link
-            to={`https://api.school55.pp.ua/api/box/download/${d.apps}`}
-          >
+          <Link to={`https://api.school55.pp.ua/api/box/download/${d.apps}`}>
             <FaDownload />
           </Link>
         ) : (

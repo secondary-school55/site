@@ -1,9 +1,9 @@
 /* eslint-disable no-useless-escape */
 /* eslint-disable no-irregular-whitespace */
 
+import Link from "components/link";
 import Md from "components/md";
 import Pdf from "components/pdf";
-import Link from "components/link";
 import { Tab, Tabs } from "components/tabs";
 
 export default function DistanceLearning() {
@@ -36,7 +36,7 @@ export default function DistanceLearning() {
 1.  [Лист МОН України №1/9-419 від 04.08.2020 "Щодо необхідності створення безпечних умов для організованого початку 2020-2021 навчального року"](https://drive.google.com/file/d/1YhU2uM4yKSmlNK3Cd_5yzw0mugp2_-Iz/view?usp=sharing)
 1.  [Лист МОН України №1/9-406 від 29.07.2020 "Про підготовку закладів освіти до нового навч.року та опалювального сезону в умовах карантину"](https://drive.google.com/file/d/1TRH9iGDMxTknSX2ptYRJd6DJANPEi6EA/view?usp=sharing)
 1.  [Деякі питання захисту дітей в умовах боротьби з наслідками гострої респіраторної хвороби COVID-19, спричиненої коронавірусом SARS-CoV-2 (Постанова КМУ 01.06.2020 №586)](https://drive.google.com/file/d/1LVkOHVXFNITVfURxOEm9cqCm6Pwy7hLB/view?usp=sharing)
-1.  [КЗШ №55. Про організацію дистанційного навчання в освітньому закладі під час нокдауну з 11.01.2021р](https://drive.google.com/file/d/1uNy48stXlzjLSZktg9walyBT3w-BVm2E/view?usp=sharing)
+1.  [КЗШ №55. Про організацію дистанційного навчання в освітньому закладі під час локдауну з 11.01.2021р](https://drive.google.com/file/d/1uNy48stXlzjLSZktg9walyBT3w-BVm2E/view?usp=sharing)
 1.  [Положення про дистанційне навчання](https://drive.google.com/file/d/1kZ93fjRC0NNuyqYM1XtbvCrm3UTHOcRr/view?usp=sharing)
 1.  [КЗШ №55. Положення про дистанційну форму здобуття (повної)  загальної середньої освіти в КЗШ № 55 КМР ДО](https://drive.google.com/file/d/1_NYrMvjnVHFkAzyToO1oPkllvfq4mR2M/view?usp=sharing)
 `}</Md>
