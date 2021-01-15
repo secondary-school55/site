@@ -455,6 +455,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Мандрівка у великий будинок](https://drive.google.com/file/d/1mDmTRC20f27VBAhPwomQs6pzHS9MPezV/view?usp=sharing)  
 **13.01** [І підгрупа. Тема: Що знаходиться всередині будинку](https://drive.google.com/file/d/1a_xhvqRrMsLjNRzElbRQjQOerc2ERGuM/view?usp=sharing)  
 **15.01** [І підгрупа. Тема: Мої домашні меблі](https://drive.google.com/file/d/1zhy6QcwEwTR1wNLkj975g61R4EYljhdb/view?usp=sharing)  
+**15.01** [ІІ підгрупа. Тема: Мої домашні меблі](https://drive.google.com/file/d/1OEXiTYNVekkIfIM2pJ2tqRToLrVRfOCf/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
