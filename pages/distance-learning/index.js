@@ -271,6 +271,9 @@ export default function DistanceLearning() {
 **12.01** [Тема: Коло і круг та їх елементи. Порівняння задач на множення  і додавання. Доповнення умов задач запитаннями](https://drive.google.com/file/d/1aXndEuFfl1p8usF-4-nZg72xvRUAc1MI/view?usp=sharing)  
 **13.01** [Тема: Вправи і задачі на засвоєння опрацьованих таблиць](https://drive.google.com/file/d/108mV6_atz8cF7tYbBNTyQATe0wGjTevN/view?usp=sharing)  
 **15.01** [Тема: Таблиця ділення на 3. Вправи і задачі на використання таблиці ділення на 3. Креслення ламаної лінії](https://drive.google.com/file/d/1s2gDeCUHyqAaNcFzKb6G6pB8FLGJtHda/view?usp=sharing)  
+
+** Інформатика **  
+**11.01** [Тема: Правила безпечної роботи з цифровими ґаджетами](https://drive.google.com/file/d/1imDvg8zWf_m6OUAjHJrFWbh4t2qlk2p0/view?usp=drive_web)  
 `}</Md>
           </Tab>
           <Tab title="2-Б">
@@ -315,6 +318,9 @@ export default function DistanceLearning() {
 
 ** Дизайн і технології **  
 **15.01** [Тема: Виготовлення новорічної прикраси](https://drive.google.com/file/d/1FLM5RFfhrQBWmx9rxMiXcz1ZSLHnBPmH/view?usp=sharing)  
+
+** Інформатика **  
+**11.01** [Тема: Правила безпечної роботи з цифровими ґаджетами](https://drive.google.com/file/d/1imDvg8zWf_m6OUAjHJrFWbh4t2qlk2p0/view?usp=drive_web)  
 `}</Md>
           </Tab>
         </Tabs>
@@ -335,7 +341,6 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **08.12** [Тема: Середовище програмування для дітей](https://drive.google.com/file/d/1uWRppF2xxQ-fRm8eOpPrtzKZjXKt3q5k/view?usp=sharing)  
-**12.01** [Тема: Ключові слова для пошуку](https://drive.google.com/file/d/1QlGE5KvyZa31pzE4sfqWeFZfbYDxUTQE/view?usp=drive_web)  
 `}</Md>
           </Tab>
           <Tab title="3-А">
@@ -404,6 +409,9 @@ export default function DistanceLearning() {
 
 ** Дизайн і технології **  
 **13.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1wXPpoNe_jfqNM4kFY-MRqF-hrwlWWYwI/view?usp=sharing)  
+
+** Інформатика **  
+**12.01** [Тема: Ключові слова для пошуку](https://drive.google.com/file/d/1QlGE5KvyZa31pzE4sfqWeFZfbYDxUTQE/view?usp=drive_web)  
 `}</Md>
           </Tab>
           <Tab title="3-Б">
@@ -460,6 +468,9 @@ export default function DistanceLearning() {
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
+
+** Інформатика **  
+**12.01** [Тема: Ключові слова для пошуку](https://drive.google.com/file/d/1QlGE5KvyZa31pzE4sfqWeFZfbYDxUTQE/view?usp=drive_web)  
 `}</Md>
           </Tab>
         </Tabs>
@@ -471,9 +482,6 @@ export default function DistanceLearning() {
 ** Англійська мова **  
 **03.12** [Тема: Покупки](https://drive.google.com/file/d/1lhOUMYkO4FOvR9kvfydfM19Z81zXLVs1/view?usp=sharing)  
 **08.12** [Тема: Новий Рік](https://drive.google.com/file/d/1-ldhQ9GyILrJ4HyNQL74GXcXklK6a7-J/view?usp=sharing)  
-
-** Інформатика **  
-**13.01** [Тема: Електронна пошта](https://drive.google.com/file/d/1KyFCawBMzLggZl_i87HzBarHmFnhAAoK/view?usp=drive_web)  
 `}</Md>
           </Tab>
           <Tab title="4-А">
@@ -547,6 +555,9 @@ export default function DistanceLearning() {
 
 ** Образотворче мистецтво **  
 **13.01** [Горевич Л. В. Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
+
+** Інформатика **  
+**13.01** [Тема: Електронна пошта](https://drive.google.com/file/d/1KyFCawBMzLggZl_i87HzBarHmFnhAAoK/view?usp=drive_web)  
 `}</Md>
           </Tab>
           <Tab title="4-Б">
@@ -613,7 +624,10 @@ export default function DistanceLearning() {
 ** Фізична культура **  
 **13.01** [Тема: Підготовчі вправи. ЗРВ зі скакалкою. Рухлива гра](https://drive.google.com/file/d/1kenzSxobJ8YO5eDSGzqAUSZ_R-_FTPsr/view?usp=sharing)  
 **14.01** [Тема: Комплекс ранкової гімнастики зі скакалкою. Визначення динаміки змін показників розвитку фізичних якостей учнів. Рухливі ігри](https://drive.google.com/file/d/1NTOa7Bd7emw5GwL8xzzoMLcVegC1VQIs/view?usp=sharing)  
-**15.01** [Тема:  Комплекс ранкової гімнастики. Визначення динаміки змін показників розвитку фізичних якостей учнів . Рухливі ігри «Переміна місць», “Піймай жабу”](https://drive.google.com/file/d/1PVlGxI1zb8K-vcja88GB5i92n8eIXy7c/view?usp=sharing)  
+**15.01** [Тема: Комплекс ранкової гімнастики. Визначення динаміки змін показників розвитку фізичних якостей учнів . Рухливі ігри «Переміна місць», “Піймай жабу”](https://drive.google.com/file/d/1PVlGxI1zb8K-vcja88GB5i92n8eIXy7c/view?usp=sharing)  
+
+** Інформатика **  
+**13.01** [Тема: Електронна пошта](https://drive.google.com/file/d/1KyFCawBMzLggZl_i87HzBarHmFnhAAoK/view?usp=drive_web)  
 `}</Md>
           </Tab>
         </Tabs>
@@ -723,7 +737,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/14u2a-Fbfs2UVhKlYPdZQYEyak9uKZs1T/view?usp=sharing)  
 **04.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/16uK94BEboljVzcud-sfI-BgczQk6SqYY/view?usp=drive_web)  
 **07.12** [Тема: Редагування програмних об'єктів](https://drive.google.com/file/d/1RzBoVhxIdkGA3AiAq--IJcpcYBwjob8I/view?usp=sharing)  
-**12.01** [Тема: Керування об'єктами у середовищі виконання алгоритмів](https://drive.google.com/file/d/1I2pUzuDHIVqSBS0UQ4XmlVyR54vsPxH9/view?usp=sharing)  
+**11.01** [6-Б. Тема: Керування об’єктами у середовищі виконання алгоритмів](https://drive.google.com/file/d/1VNV5qeK5yBI5RGBGqKm1F47MW3EZT6_o/view?usp=drive_web)  
 **14.01** [6-В. Тема: Редагування програмних об’єктів.](https://drive.google.com/file/d/16uK94BEboljVzcud-sfI-BgczQk6SqYY/view?usp=drive_web)  
 **15.01** [6-В. Тема: Редагування програмних об’єктів.](https://drive.google.com/file/d/16uK94BEboljVzcud-sfI-BgczQk6SqYY/view?usp=drive_web)  
 
@@ -1044,6 +1058,7 @@ export default function DistanceLearning() {
 **13.01** [9-Б. Тема: Теорема косинусів. Наслідки з теореми косинусів](https://drive.google.com/file/d/1YpfdHsbBPwSUCuEzPakkc47ODIzI6NMS/view?usp=sharing)  
 **13.01** [9-А. Тема: Розв'язування трикутників](https://drive.google.com/file/d/1Y5WUNQHrr86e5dR0fjLd9nCYzCup6n0-/view?usp=sharing)  
 **14.01** [9-Б. Тема: Розв'язування задач](https://drive.google.com/file/d/1FNR6AishVUxDstAxc3vhJZut5oaKpg2s/view?usp=sharing)  
+**15.01** [9-А. Тема: Розвязування трикутників. Прикладні задачі](https://drive.google.com/file/d/1fkKupj8BvSo4p8nGTMT5vjSetjXaW9Dy/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1_YPlRDOzxWAHMorqZAt9hTRsefrTjAo4/view?usp=sharing)  
@@ -1111,6 +1126,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Квадратні нерівності](https://drive.google.com/file/d/19Gm5ymTCuqJGr9_ikFVp8-WzoFccQtwD/view?usp=sharing)  
 **12.01** [9-А. Тема: Квадратні нерівності](https://drive.google.com/file/d/1wA9BKwoKXWPgwQgDQcOQVkvRB8w4_JkE/view?usp=sharing)  
 **14.01** [9-А. Тема: Квадратні нерівності](https://drive.google.com/file/d/1j8Agoad-KOkTKyPhKyLUK63FOnH9iYmW/view?usp=sharing)  
+**15.01** [9-Б. Тема: Квадратні нерівності](https://drive.google.com/file/d/1vE8vcvucUl_AN0E_QYuXj8DesWr4X7R1/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
@@ -1193,6 +1209,7 @@ export default function DistanceLearning() {
 
 ** Алгебра **  
 **11.01** [Тема: Радіанне вимірювання кутів](https://drive.google.com/file/d/19KcVgym3kZyvIV-SMlDCUuvdZCjmINU4/view?usp=sharing)  
+**15.01** [Тема: Властивості тригонометричних функцій](https://drive.google.com/file/d/1aoiPcJBCWstSVUwguGMZvrCz5AmL3YRl/view?usp=sharing)  
 
 ** Технології **  
 **12.01** [Тема: Український суванір](https://drive.google.com/file/d/1Qjysoxx4CbkF3hvpoWE8jhs9EKJ-HX7j/view?usp=sharing)  
