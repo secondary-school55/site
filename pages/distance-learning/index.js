@@ -104,6 +104,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Відкриваємо правило знаходження невідомого доданка](https://drive.google.com/file/d/1TXTvGC1zLdt6rbB0GeJbz6mjqsEvOQU2/view?usp=sharing)  
 **12.01** [Тема: Називаємо компоненти та результат дії віднімання](https://drive.google.com/file/d/177l3cKYaBKwtQRuo92p_Wa0ALaEVSaKt/view?usp=sharing)  
 **14.01** [Тема: Додаємо і віднімаємо числа](https://drive.google.com/file/d/11FZP6LeGetyPmQ8Xs_fCuKvDcSJhK8Vu/view?usp=sharing)  
+**15.01** [Тема: Вимірюємо довжини відрізків](https://drive.google.com/file/d/1248YDFV2r0BQpUOytj8_JGanCw96feVB/view?usp=sharing)  
 
 ** Письмо **  
 **03.12** [Тема: Написання рядкової букви "т" (те), складів, слів з нею](https://drive.google.com/file/d/1gsIdnoi5dQYR7EUT3bzl3PpepuFbdQXk/view?usp=sharing)  
@@ -112,11 +113,13 @@ export default function DistanceLearning() {
 **12.01** [Тема: Удосконалення вміння писати вивчені букви слова і речення з ними](https://drive.google.com/file/d/1MmVege0nQVfVRoi73izO_UmLKvDSfjJG/view?usp=sharing)  
 **13.01** [Тема: Письмо малої букви г. Підготовчі графічні вправи.  Написання складів, слів  із буквою г. списування речень, поданого друкованим шрифтом](https://drive.google.com/file/d/1f4gyJiwBHoQfm5LxVvqLWiWwN0UnkD8B/view?usp=sharing)  
 **14.01** [Тема: Написання великої букви Г, складів, слів і речень з вивченими буквами](https://drive.google.com/file/d/1Dh6k8IrtPVoQiWWfu__hWBIV7VVbpaGY/view?usp=sharing)  
+**15.01** [Тема: ]()  
 
 ** Фізична культура **  
 **03.12** [Тема: Постава як основа здоров’я. Танцювальеі кроки.](https://drive.google.com/file/d/1YmlLjjEr2r51vorkocbZ1-mCm6zB9eKs/view?usp=sharing)  
 **07.12** [Тема: Зарядка](https://drive.google.com/file/d/1lMcr7-6BkyTXHrHSHyRy59NDZesMKr3j/view?usp=sharing)  
 **14.01** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1crDAVt7RUgm4gZ41SaAnn0yDoCRqcvop/view?usp=sharing)  
+**15.01** [Тема: истанційне навчання на уроці фізичної культури](https://drive.google.com/file/d/16iW-B-bxwz5U53maOG8B4W0qaxRW6Y7s/view?usp=sharing)  
 
 ** Читання **  
 **04.12** [Тема: Велика буква т. Читання слів, речень і тексту з вивченими літерами](https://drive.google.com/file/d/1-j7zPCcPLUsNpLGKPI9Z91e5oTld9ob8/view?usp=sharing)  
@@ -135,6 +138,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Рослини, їх будова. Практична робота. Вивчення будови рослин](https://drive.google.com/file/d/18egbgGekns05rX8eSDCzuhaDtm1EwdrU/view?usp=sharing)  
 **13.01** [Тема: Дерева, кущі, трав'янисті рослини. Листяні і хвойні дерева](https://drive.google.com/file/d/1FdXdStUpRG_tzdYpxdJQuG95OJDJhJV3/view?usp=sharing)  
 **14.01** [Тема: Дикорослі та культурні рослини](https://drive.google.com/file/d/1qRhS4_KR3lm8sIiJbZWJWldrTMa8BNVV/view?usp=sharing)  
+**15.01** [Тема: Дикорослі та культурні рослини](https://drive.google.com/file/d/1ksS6aBxXyeNpD8srp7g1cCROaVf3DhhI/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Перегляд відео](https://drive.google.com/file/d/1B2Wpovo6YBxECDsKgjZmw8b9dJMWldZt/view?usp=sharing)  
@@ -261,6 +265,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Таблиця множення числа 3. Задачі на вивчені таблиці](https://drive.google.com/file/d/1DeVeA9-6utk7WjALrgxJ4ZNOcMAVDpOx/view?usp=sharing)  
 **13.01** [Тема: Вправи і задачі на засвоєння таблиці множення числа 3](https://drive.google.com/file/d/1sBJdh3RmGVbwhkmOnYmU2Y_Rd_DZNPGl/view?usp=sharing)  
 **14.01** [Тема: Вправи і задачі на засвоєння таблиць множення на 2 і 3](https://drive.google.com/file/d/1oJVEXCEoqAKIutDsMRdDs04-ww_ezoas/view?usp=sharing)  
+**15.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1wkMxXAk7PPuQTJqsyvnFyjYmJMln68O-/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Ставлю питання до назв предметів. Розпізнаю слова — назви предметів за питаннями хто? що?](https://drive.google.com/file/d/1x-mt1ERC1wF1vB7K6oGvzZ8HFU79x8MZ/view?usp=sharing)  
@@ -273,6 +278,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Вступ до розділу «Світ дитинства у творах українських письменників». Вірші. П. Воронько «На кораблику», «Картина»](https://drive.google.com/file/d/1Cxg6dRQ7srujJrcDllsszz6RZF_gYiRF/view?usp=sharing)  
 **13.01** [Тема: Ознайомлення з життям і творчістю  Тамари Коломієць. Т. Коломієць «Хиталочка-гойдалочка», «Біле поле полотняне..»](https://drive.google.com/file/d/1MPInbt3fQLQqJ58EDK1DTcsHD4Bs33vs/view?usp=sharing)  
 **14.01** [Тема: Ознайомлення з життям і творчістю Ліни Костенко. Л. Костенко «Пряля», «Польові дзвіночки». Прислів'я](https://drive.google.com/file/d/1NJrLIS7KKM4rjJIrPFVrkpEp6UfWMqoK/view?usp=sharing)  
+**15.01** [Тема: Ознайомлення з життям і творчістю Анатолія Качана. А. Качан «Хвилювалось море», «Розмова з пароплавом». Читання в особах](https://drive.google.com/file/d/1lM6iKKv6V-JsLw3uvOzCLK_Z6iPpe-YB/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Дослідження сніжинок](https://drive.google.com/file/d/1iwAU41FzR28Lcm4x5twjg4NwG-tufv1g/view?usp=sharing)  
@@ -286,6 +292,8 @@ export default function DistanceLearning() {
 ** Англійська мова **  
 **13.01** [Тема: My morning](https://drive.google.com/file/d/1vpbyTwi6FC9IfW1Sasq_FZDKZLfMtt1g/view?usp=sharing)  
 
+** Дизайн і технології **  
+**15.01** [Тема: Виготовлення новорічної прикраси](https://drive.google.com/file/d/1FLM5RFfhrQBWmx9rxMiXcz1ZSLHnBPmH/view?usp=sharing)  
 `}</Md>
           </Tab>
         </Tabs>
@@ -646,6 +654,7 @@ export default function DistanceLearning() {
 
 ** Біологія **  
 **12.01** [Тема: Форма і розміри землі. Внутрішня будова Землі](https://drive.google.com/file/d/1IluFsIaDapgGVLVl60xD23aY7q968SNU/view?usp=sharing)  
+**15.01** [5-А. Тема: Рухи землі. Пори року](https://drive.google.com/file/d/1g1U2c18ig-Rho7SAaMLL4wfs_plofZ3N/view?usp=sharing)  
 
 ** Українська література **  
 **11.01** [Тема: Л.Глібов. "Химерний, маленький...", "Що за птиця?"](https://drive.google.com/file/d/1PfhpTVhihBn22ZZafAJ0UAig2vydUWqH/view?usp=sharing)  
@@ -653,6 +662,10 @@ export default function DistanceLearning() {
 
 ** Зарубіжна література **  
 **14.01** [Тема: Провідні ідеї твору](https://drive.google.com/file/d/1fBCYM8AhXrIkc3c6sZDM8Z3YrdTy9EMS/view?usp=sharing)  
+**15.01** [5-А. Тема: Провідні ідеї твору](https://drive.google.com/file/d/1m2n0G6s6WSmiV8vApaHnE8hEZ84eZpz1/view?usp=sharing)  
+
+** Історія **  
+**15.01** [Тема: Пам’ятки і пам’ятники історії](https://drive.google.com/file/d/1gF97W2MBDi0FNUAUUw8fytyNDAjAz01z/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="6 клас">
@@ -725,6 +738,7 @@ export default function DistanceLearning() {
 
 ** Історія **  
 **13.01** [6-В. Тема: Битва при Херонеї](https://drive.google.com/file/d/1W16nIfrwv-_tLQfCSm2Q2u-nSoX-EbsY/view?usp=sharing)  
+**15.01** [6-В. Тема: Утворення імперії Александра Македонського](https://drive.google.com/file/d/1_pEhPSPLEo3g3psDYnFRr5irb7PTR5cl/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **13.01** [Тема: Види рішень](https://drive.google.com/file/d/1Ic241cRLf0OHQiJDlEFwiHeGkWpJTBc9/view?usp=sharing)  
@@ -781,6 +795,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Різноманітність птахів, їх роль у природі та значення в житті людини](https://drive.google.com/file/d/1yE8Ay4YmvkBD_Dh23t4NCf8q2Jox4_Ou/view?usp=sharing)  
 **08.12** [Тема: Ссавці. Особливості будови, способу життя](https://drive.google.com/file/d/1rOLn1IUWVoWF-pVz3KegQbQu8D3hsJ6C/view?usp=sharing)  
 **12.01** [Тема: Живлення і травлення](https://drive.google.com/file/d/1p12j3GV8HdauDarVJmqtLZYzNj6msmaG/view?usp=sharing)  
+**15.01** [Тема: Дихання та газообмін. Органи дихання](https://drive.google.com/file/d/1O6M_gAPyeNZwHWr1GoQAuIEJmLwk9Iu3/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **04.12** [Тема: Показники фізичного розвитку підлітків. Способи покращення фізичної форми](https://drive.google.com/file/d/1RLib8JRvGgB4ChCpFRIzK3r3e9lClYCL/view?usp=sharing)  
@@ -901,6 +916,7 @@ export default function DistanceLearning() {
 ** Біологія **  
 **04.12** [Тема: Значення дихання. Будови і функції органів дихання](https://drive.google.com/file/d/1h8oxnpA9mSto58NfYV2yjRUNRFcB1z3B/view?usp=sharing)  
 **11.01** [Тема: Еритроцити. Групи крові. Правила переливання крові](https://drive.google.com/file/d/1ttuNGyNu7XmVYVPYm4ERtRxs7BloGj8d/view?usp=sharing)  
+**15.01** [Тема: Лейкоцити. Тромбоцити. Зсідання крові](https://drive.google.com/file/d/14dSe9B4kHL7jXkF-YKdAqNlBRxt96_AS/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Становлення особистості](https://drive.google.com/file/d/1XiqqH2rvbGD9PSbehbUFOjgN9d6ssUI8/view?usp=sharing)  
@@ -931,6 +947,7 @@ export default function DistanceLearning() {
 
 ** Трудове навчання **  
 **15.01** [Тема: Добір матеріалів, інструментів та обладнання. Технологічний процес нанесення ескізу виробу](https://drive.google.com/file/d/19EmWgL5wR9n3jNLQZ1-K42qE4r3OzN_7/view?usp=sharing)  
+**15.01** [Тема: Нове життя старим речам](https://drive.google.com/file/d/11j3BrrOba1ZEVDbqlo98x10zfh5opziV/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="9 клас">
@@ -1012,6 +1029,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Біосинтез білка](https://drive.google.com/file/d/1YQLcAEpKdZdHWzeHDsiRbuX5SOuAPHYQ/view?usp=sharing)  
 **13.01** [9-А. Тема: Біосинтез білка](https://drive.google.com/file/d/1CMP1DhawEZ9rW1RfhSNG79JhazjcsDlj/view?usp=sharing)  
 **13.01** [9-Б. Тема: Біосинтез білка](https://drive.google.com/file/d/1IvcZ6lohy5m0b28pvc0rRmOkad4MkB4o/view?usp=sharing)  
+**15.01** [9-А. Тема: Біосинтез білка](https://drive.google.com/file/d/1YPDmhYf6PlsQV9BKsA4Q8vw6gfVXIxgW/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Усний твір-роздум у публіцистичному стилі мовлення на суспільну тему](https://drive.google.com/file/d/1B1Pj9K4LkO41bylzM2_PTvUpGMqRtovG/view?usp=sharing)  
@@ -1028,6 +1046,7 @@ export default function DistanceLearning() {
 
 ** Мистецтво **  
 **04.12** [Тема: Сюрреалізм](https://drive.google.com/file/d/1NifrDQX_ktjFsE6qmEyUdO5CkcjpReOn/view?usp=sharing)  
+**15.01** [Тема: Мова і види кіномистецтва](https://drive.google.com/file/d/1Rc1q_Cv4mFZU_BPZdqmkiMYbcQWqIXXv/view?usp=sharing)  
 
 ** Алгебра **  
 **11.01** [Тема: Квадратні нерівності](https://drive.google.com/file/d/19Gm5ymTCuqJGr9_ikFVp8-WzoFccQtwD/view?usp=sharing)  
