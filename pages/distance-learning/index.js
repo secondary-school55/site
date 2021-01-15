@@ -183,6 +183,8 @@ export default function DistanceLearning() {
 **12.01** [Тема: Письмо малої букви г. Підготовчі графічні вправи](https://drive.google.com/file/d/1762TI35B6JgKz1UvEeE1zBPI1GMjfNiL/view?usp=sharing)  
 **13.01** [Тема: Закрiплення звукових значень букви ге. Дiалог. Читання в особах. Опрацювання тексту. На городi](https://drive.google.com/file/d/1zBPs1HD-bmz9M6BtjkD_CoTF1E5SmvsQ/view?usp=sharing)  
 **13.01** [Тема: Письмо малої букви г. Пiдготовчi графiчнi вправи](https://drive.google.com/file/d/133vA4q6qCD28VvyDjdAjW6lvAPeIc5B1/view?usp=sharing)  
+**15.01** [Тема: Навчання грамоти.Звук [ґ], позначення його буквою «ґе». Читання складів, слів](https://drive.google.com/file/d/1BMAWISlRWpsc3KPbQEIA67bi-RhHVIZ7/view?usp=sharing)  
+**15.01** [Тема: Письмо малої букви ґ. Підготовчі графічні вправи](https://drive.google.com/file/d/1tiESDVkmvb7Wc6ajpHV5NNY5fPvd4rvb/view?usp=sharing)  
 
 ** Математика **  
 **04.12** [Тема: Досліджуємо таблиці додавання і віднімання числа 1](https://drive.google.com/file/d/1ske1rUW84RPzp16ulCeQlJJ8dPDdYZWf/view?usp=sharing)  
@@ -191,11 +193,13 @@ export default function DistanceLearning() {
 **11.01** [Тема: Правило знаходження невiдомого доданка](https://drive.google.com/file/d/13t99T2jx1JNJWrjxUVAmtODJQ8CqrV22/view?usp=sharing)  
 **12.01** [Тема: Називаємо компоненти та результат дії віднімання](https://drive.google.com/file/d/1MxNcjkRNg9anYsCL4EQhbrWLfHr0lC0-/view?usp=sharing)  
 **13.01** [Тема: Додаeмо i вiднiмаeмо числа](https://drive.google.com/file/d/1x7XGgkrZ4WLgx8wmFvx-f8SVVN9DP2aQ/view?usp=sharing)  
+**15.01** [Тема: Вимірюємо довжини відрізків](https://drive.google.com/file/d/1O2CXXNBuKA9Y_h2xup5tr5anraMBBST-/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Руханка](https://drive.google.com/file/d/1RkX4RdRjUCfWP_g6BVHXam7oKvMP7jS2/view?usp=sharing)  
 **08.12** [Тема: Руханка](https://drive.google.com/file/d/1PPRQqUPMy3j6GrSJpCcIL7hNOF7C7cJ5/view?usp=sharing)  
 **12.01** [Тема: Руханка](https://drive.google.com/file/d/1c6HC2tJuzr2pAdKSf5HJhx-1EfaBG0Lo/view?usp=sharing)  
+**15.01** [Тема: Організовуючі вправи. Комплекс ранкової гімнастики](https://drive.google.com/file/d/15jSyFx-fAZ6DreEtPE4r1ObxE4jOOixN/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Школа](https://drive.google.com/file/d/1ioY_Y8l-j2E4qXlL4MVnyRt9Z5ND_f4z/view?usp=sharing)  
@@ -361,7 +365,10 @@ export default function DistanceLearning() {
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
 **07.12** [Тема: Яке значення грибів для природи](https://drive.google.com/file/d/19X379rXlpztRdWndiGDOrJdgXY1dF28F/view?usp=sharing)  
+**11.01** [Тема: Яку будову маe наше тiло.](https://drive.google.com/file/d/1D0TeQq-w0Ea1azUtzFCuxxrCqubx3ran/view?usp=sharing)  
 **13.01** [Тема: Яка роль шкіри в організмі людини](https://drive.google.com/file/d/1o8OmbWDD6WpVk_jSiaiqMTa9Cz_Cjst2/view?usp=sharing)  
+**14.01** [Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/1PvEpPjngAk-yOJt0A1P6aVHJE56A_vcE/view?usp=sharing)  
+**14.01** [Презентація. Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/1DuJBLzPrEz1Tk4B3gwe-QugcZhB8aqfb/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: День мого друга](https://drive.google.com/file/d/1yU9sYPWGtUCczw7fgugLg-4SLhC0rBqE/view?usp=sharing)  
@@ -388,16 +395,11 @@ export default function DistanceLearning() {
 **11.01** [Тема: Бесiда "Режим дня". Правила рухливих вправ](https://drive.google.com/file/d/1dpXjU3C0zkfVkRpK7S3EQksti2P-sVKV/view?usp=sharing)  
 **15.01** [Тема: Бесіда «Правила безпеки під час занять стрибковими вправами». Загальнорозвивальні вправи. Комплекс ранкової гігієнічної гімнастики. Вправи на координацію. Стрибки на місці на одній, двох ногах, із поворотами, кругом. Рухлива гра «Хто більше»](https://drive.google.com/file/d/1xlKyxzxA3WYPhRo-DmV-5jelcBDRCAeo/view?usp=sharing)  
 
-** Я досліджую світ **  
-**11.01** [Тема: Яку будову маe наше тiло.](https://drive.google.com/file/d/1D0TeQq-w0Ea1azUtzFCuxxrCqubx3ran/view?usp=sharing)  
-**14.01** [Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/1PvEpPjngAk-yOJt0A1P6aVHJE56A_vcE/view?usp=sharing)  
-**14.01** [Презентація. Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/1DuJBLzPrEz1Tk4B3gwe-QugcZhB8aqfb/view?usp=sharing)  
-
 ** Образотворче мистецтво **  
 **11.01** [Тема: Композицiя "Полiт Карлсона над мiстом"](https://drive.google.com/file/d/1dhQA_ZrWUo6aZiE1XqG-YzOCjyXhezeo/view?usp=sharing)  
 
 ** Дизайн і технології **  
-**14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1wXPpoNe_jfqNM4kFY-MRqF-hrwlWWYwI/view?usp=sharing)  
+**13.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1wXPpoNe_jfqNM4kFY-MRqF-hrwlWWYwI/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="3-Б">
