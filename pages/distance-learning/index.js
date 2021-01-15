@@ -315,10 +315,6 @@ export default function DistanceLearning() {
         <Tabs>
           <Tab title="3 клас">
             <Md>{`
-** Музичне мистецтво **  
-**03.12** [Тема: Найдорожча у світі](https://drive.google.com/file/d/1i1gUjCiN0vKPL8XrNsCkVmbBWdbUVxog/view?usp=sharing)  
-**14.01** [Тема: Динамічний та темповий розвиток музики](https://drive.google.com/file/d/1hRmyRD4pelKdlBecjJN1BnWyLFTD3oLk/view?usp=sharing)  
-
 ** Англійська мова **  
 **04.12** [Тема: Контроль читання](https://drive.google.com/file/d/1BWaOtRFsi4XEkt7bSQcm16ChwMRt0qs1/view?usp=sharing)  
 **13.01** [Тема: Мій дім](https://drive.google.com/file/d/1Ci7BcvbSEmri48cHad4FkDtVvwrQkcgB/view?usp=sharing)  
