@@ -58,6 +58,7 @@ export default function DistanceLearning() {
 ** Музичне мистецтво **  
 **08.12** [Тема: Казкові пригоди](https://drive.google.com/file/d/1MdrGUQErQR9z4-v2mhl98pkNzoyjjcTv/view?usp=sharing)  
 **12.01** [Тема: Музика розповідає про людину](https://drive.google.com/file/d/1IDBGPlGC99GoOMpWx7NFZ-nsH4QRmR2H/view?usp=sharing)  
+**13.01** [Тема: Музика розповідає про людину](https://drive.google.com/file/d/1IDBGPlGC99GoOMpWx7NFZ-nsH4QRmR2H/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Вода та її властивості. Демонстрація властивостей води](https://drive.google.com/file/d/1koK1E1cpGKmCrjKFO1RHf4_HVJOPHgsO/view?usp=sharing)  
@@ -152,6 +153,7 @@ export default function DistanceLearning() {
 ** Музичне мистецтво **  
 **08.12** [Тема: Казкові пригоди](https://drive.google.com/file/d/1MdrGUQErQR9z4-v2mhl98pkNzoyjjcTv/view?usp=sharing)  
 **12.01** [Тема: Музика розповідає про людину](https://drive.google.com/file/d/1IDBGPlGC99GoOMpWx7NFZ-nsH4QRmR2H/view?usp=sharing)  
+**13.01** [Тема: Музика розповідає про людину](https://drive.google.com/file/d/1IDBGPlGC99GoOMpWx7NFZ-nsH4QRmR2H/view?usp=sharing)  
 
 ** Мистецтво **  
 **03.12** [Тема: Святкові перетворення. Малювання композиції «Сніговик».](https://drive.google.com/file/d/1rlUqnf0AgrfiqQwAQPdXXIJ3NZeyQoPc/view?usp=sharing)  
@@ -212,14 +214,14 @@ export default function DistanceLearning() {
             <Md>{`
 ** Інформатика **  
 **07.12** [Тема: Об'єднання предметів у групи за певними заданими ознаками](https://drive.google.com/file/d/1hPMEftUxG-fvOsntosBqqromIb1i4J6E/view?usp=sharing)  
-
-** Музичне мистецтво **  
-**08.12** [Тема: Подорожі із маршем](https://drive.google.com/file/d/1tCfYmFlsRDZ5Mlz1JXjzM1K9QWUg3VVR/view?usp=sharing)  
-**12.01** [Тема: Подорожі із маршем](https://drive.google.com/file/d/1LO3q12EXj-QD7eMxvLgvzG1xrOtFsiQ5/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="2-А">
             <Md>{`
+** Музичне мистецтво **  
+**08.12** [Тема: Подорожі із маршем](https://drive.google.com/file/d/1tCfYmFlsRDZ5Mlz1JXjzM1K9QWUg3VVR/view?usp=sharing)  
+**12.01** [Тема: Подорожі із маршем](https://drive.google.com/file/d/1LO3q12EXj-QD7eMxvLgvzG1xrOtFsiQ5/view?usp=sharing)  
+
 ** Українська мова **  
 **03.12** [Тема: Ознайомлення з походженням деяких жіночих і чоловічих імен та прізвищ](https://drive.google.com/file/d/1cdMTQM2Iac_prYeaQwbhpST7qVUtsrm-/view?usp=sharing)  
 **11.01** [Тема: Досліджую прикметники. Розпізнаю слова – назви ознак](https://drive.google.com/file/d/1Rbv2ekF_6ya8yEzY3rRdcSgQee9BvIH8/view?usp=sharing)  
@@ -267,6 +269,10 @@ export default function DistanceLearning() {
           </Tab>
           <Tab title="2-Б">
             <Md>{`
+** Музичне мистецтво **  
+**08.12** [Тема: Подорожі із маршем](https://drive.google.com/file/d/1tCfYmFlsRDZ5Mlz1JXjzM1K9QWUg3VVR/view?usp=sharing)  
+**12.01** [Тема: Подорожі із маршем](https://drive.google.com/file/d/1LO3q12EXj-QD7eMxvLgvzG1xrOtFsiQ5/view?usp=sharing)  
+
 ** Математика **  
 **03.12** [Тема: Таблиця множення числа 2. Розв'язування задач на множення](https://drive.google.com/file/d/1Xn7bUU4tJuylgxedhpJCHq5iMu2Jpc6l/view?usp=sharing)  
 **11.01** [Тема: Таблиця множення числа 3. Задачі на вивчені таблиці](https://drive.google.com/file/d/1DeVeA9-6utk7WjALrgxJ4ZNOcMAVDpOx/view?usp=sharing)  
@@ -330,6 +336,10 @@ export default function DistanceLearning() {
           </Tab>
           <Tab title="3-А">
             <Md>{`
+** Музичне мистецтво **  
+**03.12** [Тема: Найдорожча у світі](https://drive.google.com/file/d/1i1gUjCiN0vKPL8XrNsCkVmbBWdbUVxog/view?usp=sharing)  
+**14.01** [Тема: Динамічний та темповий розвиток музики](https://drive.google.com/file/d/1hRmyRD4pelKdlBecjJN1BnWyLFTD3oLk/view?usp=sharing)  
+
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1GS3V8-DSXnKSJ1V4G9jYQnCU4fN5ZYiQ/view?usp=sharing)  
 **04.12** [Тема: Віднімання круглих чисел двома способами. Розв'язування задач та рівнянь (№600 – 610)](https://drive.google.com/file/d/14PN0awBuaJNbs9B1_0tfjzE0SX992XCy/view?usp=sharing)  
@@ -390,6 +400,10 @@ export default function DistanceLearning() {
           </Tab>
           <Tab title="3-Б">
             <Md>{`
+** Музичне мистецтво **  
+**03.12** [Тема: Найдорожча у світі](https://drive.google.com/file/d/1i1gUjCiN0vKPL8XrNsCkVmbBWdbUVxog/view?usp=sharing)  
+**14.01** [Тема: Динамічний та темповий розвиток музики](https://drive.google.com/file/d/1hRmyRD4pelKdlBecjJN1BnWyLFTD3oLk/view?usp=sharing)  
+
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1aMckvGtRntg_f6p15jt_-ws3qUiS-4DC/view?usp=sharing)  
 **07.12** [Тема: Значення грибів для природи](https://drive.google.com/file/d/1Z87OcfgT8kpP-vnBcQgqIdGmF5Q3yotj/view?usp=sharing)  
@@ -442,10 +456,6 @@ export default function DistanceLearning() {
         <Tabs>
           <Tab title="4 клас">
             <Md>{`
-** Музичне мистецтво **  
-**03.12** [Тема: «Мистецтво крізь віки»](https://drive.google.com/file/d/1YubWV5rzabVC6jdwvG8rPKUiyjm-OUkj/view?usp=sharing)  
-**14.01** [Тема: Крокуємо з піснями рідного краю](https://drive.google.com/file/d/11K_FCj2isa46YdR7TcD1-ky6MDWKbkzo/view?usp=sharing)  
-
 ** Англійська мова **  
 **03.12** [Тема: Покупки](https://drive.google.com/file/d/1lhOUMYkO4FOvR9kvfydfM19Z81zXLVs1/view?usp=sharing)  
 **08.12** [Тема: Новий Рік](https://drive.google.com/file/d/1-ldhQ9GyILrJ4HyNQL74GXcXklK6a7-J/view?usp=sharing)  
@@ -465,6 +475,10 @@ export default function DistanceLearning() {
           </Tab>
           <Tab title="4-А">
             <Md>{`
+** Музичне мистецтво **  
+**03.12** [Тема: «Мистецтво крізь віки»](https://drive.google.com/file/d/1YubWV5rzabVC6jdwvG8rPKUiyjm-OUkj/view?usp=sharing)  
+**14.01** [Тема: Крокуємо з піснями рідного краю](https://drive.google.com/file/d/11K_FCj2isa46YdR7TcD1-ky6MDWKbkzo/view?usp=sharing)  
+
 ** Математика **  
 **03.12** [Презентація](https://drive.google.com/file/d/1BKMnkoHMcau09nXlsOo9ppuFX_jwqs7R/view?usp=sharing)  
 **04.12** [Тема: Додавання і віднімання іменованих чисел. Розв'язування задач](https://drive.google.com/file/d/1bbD5QaCFp7DONB11hI3Jb2U2ZNXcgxZQ/view?usp=sharing)  
@@ -527,6 +541,10 @@ export default function DistanceLearning() {
           </Tab>
           <Tab title="4-Б">
             <Md>{`
+** Музичне мистецтво **  
+**03.12** [Тема: «Мистецтво крізь віки»](https://drive.google.com/file/d/1YubWV5rzabVC6jdwvG8rPKUiyjm-OUkj/view?usp=sharing)  
+**14.01** [Тема: Крокуємо з піснями рідного краю](https://drive.google.com/file/d/11K_FCj2isa46YdR7TcD1-ky6MDWKbkzo/view?usp=sharing)  
+
 ** Математика **  
 **03.12** [Тема: Круглі числа.Складання виразів за задачами з буквеними даними.Периметр прямокутної ділянки.](https://drive.google.com/file/d/1z_JEo9XL_hgqyII0JYc9G2B0n2ui4m9z/view?usp=sharing)  
 **04.12** [Тема: Додавання і віднімання іменованих чисел. Розв'язування задач](https://drive.google.com/file/d/1p6NmCkJs7I06ZFszWV09CTa43lTQjayZ/view?usp=sharing)  
@@ -618,13 +636,13 @@ export default function DistanceLearning() {
 ** Інформатика **  
 **03.12** [Тема: Середовище описання і виконання алгоритмів](https://drive.google.com/file/d/1v4UkLcIBNjYTNAmYwho0KhV6vbkT7CCs/view?usp=sharing)  
 **04.12** [Тема: Середовище описання і виконання алгоритмів](https://drive.google.com/file/d/1q0xiG0DzjVzhH_uJxaHAUIu8-fawm6LK/view?usp=drive_web)  
-**14.01** [5-А. Тема: ]()  
+**14.01** [Тема: Алгоритмічна структура розгалуження](https://drive.google.com/file/d/1jBQsWtaU5zGcXpFe7L1TfMOdNnPuDkBn/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
-**12.01** [Тема: Світ вокальної музики](https://drive.google.com/file/d/109qgig0UxPqVL5zyP7xqGcaLkE4U_kYc/view?usp=sharing)  
-**14.01** [Тема: Тема: Алгоритмічна структура розгалуження](https://drive.google.com/file/d/1jBQsWtaU5zGcXpFe7L1TfMOdNnPuDkBn/view?usp=drive_web)  
+**13.01** [5-А. Тема: Світ вокальної музики](https://drive.google.com/file/d/109qgig0UxPqVL5zyP7xqGcaLkE4U_kYc/view?usp=sharing)  
 **15.01** [Тема: Світ вокальної музики](https://drive.google.com/file/d/1TmtEUbUoxYDjLBmT9dnHeNDcuLFpyVfi/view?usp=sharing)  
+**15.01** [5-Б. Тема: Світ вокальної музики](https://drive.google.com/file/d/109qgig0UxPqVL5zyP7xqGcaLkE4U_kYc/view?usp=sharing)  
 
 ** Математика **  
 **04.12** [Тема: Аналіз контрольної роботи. Види кутів. Вимірювання кутів](https://drive.google.com/file/d/1d8YTI_NUHB38Jtw7fLmJ7ZvtROh6ltEi/view?usp=sharing)  
@@ -695,7 +713,9 @@ export default function DistanceLearning() {
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
-**12.01** [Тема: Камерно-інструментальна музика](https://drive.google.com/file/d/1f3sF5UGPjrOw2R3C4ldPBl5A3mBu81Ly/view?usp=sharing)  
+**13.01** [6-В. Тема: Камерно-інструментальна музика](https://drive.google.com/file/d/1f3sF5UGPjrOw2R3C4ldPBl5A3mBu81Ly/view?usp=sharing)  
+**15.01** [6-А. Тема: Камерно-інструментальна музика](https://drive.google.com/file/d/1f3sF5UGPjrOw2R3C4ldPBl5A3mBu81Ly/view?usp=sharing)  
+**15.01** [6-Б. Тема: Камерно-інструментальна музика](https://drive.google.com/file/d/1f3sF5UGPjrOw2R3C4ldPBl5A3mBu81Ly/view?usp=sharing)  
 
 ** Математика **  
 **04.12** [Тема: Пряма та обернена пропорційна залежність](https://drive.google.com/file/d/1wvfb4nJOgeV9QnldpeYtGn2_kDzpbtmu/view?usp=sharing)  
@@ -772,8 +792,8 @@ export default function DistanceLearning() {
 ** Музичне мистецтво **  
 **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)  
 **04.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1VUTZhWnbIARa3D69NKg3qvHvC8ygPxq3/view?usp=sharing)  
-**14.01** [Тема: Джаз](https://drive.google.com/file/d/1W0UAHGeBr3Cta9iKU2OVkSyi71kZxW-2/view?usp=sharing)  
-**15.01** [Тема: Джаз](https://drive.google.com/file/d/1g9Slz7ZVOTuE1MBxi_9r4HD7cobBXN0y/view?usp=sharing)  
+**14.01** [7-А. Тема: Джаз](https://drive.google.com/file/d/1W0UAHGeBr3Cta9iKU2OVkSyi71kZxW-2/view?usp=sharing)  
+**15.01** [7-Б. Тема: Джаз](https://drive.google.com/file/d/1g9Slz7ZVOTuE1MBxi_9r4HD7cobBXN0y/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Походи вікінгів та їх завоювання](https://drive.google.com/file/d/10SKWwFRat3yT2mp-XidaaXIqylc7hV62/view?usp=sharing)  
