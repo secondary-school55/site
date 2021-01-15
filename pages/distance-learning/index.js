@@ -264,6 +264,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: My morning](https://drive.google.com/file/d/1vpbyTwi6FC9IfW1Sasq_FZDKZLfMtt1g/view?usp=sharing)  
 **15.01** [І група. Тема: Що в мене на сніданок](https://drive.google.com/file/d/1VHtq1lAgzLPBUlaR8E9rS78ZKsCBTk1y/view?usp=sharing)  
 **15.01** [Тема: Що в мене на сніданок](https://drive.google.com/file/d/134syhENfVS8KVlIDURnLlhQqncvpsn2P/view?usp=sharing)  
+**15.01** [Тема: Kids vocabulary - My Day - Daily Routine](https://www.youtube.com/watch?v=qD1pnquN_DM&feature=youtu.be)  
 
 ** Математика **  
 **11.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1VwNtfF7VLfGyvNSDziU_iCztBpKSa4aZ/view?usp=sharing)  
@@ -310,6 +311,7 @@ export default function DistanceLearning() {
 ** Англійська мова **  
 **13.01** [Тема: My morning](https://drive.google.com/file/d/1vpbyTwi6FC9IfW1Sasq_FZDKZLfMtt1g/view?usp=sharing)  
 **15.01** [Тема: Що в мене на сніданок](https://drive.google.com/file/d/134syhENfVS8KVlIDURnLlhQqncvpsn2P/view?usp=sharing)  
+**15.01** [Тема: Kids vocabulary - My Day - Daily Routine](https://www.youtube.com/watch?v=qD1pnquN_DM&feature=youtu.be)  
 
 ** Дизайн і технології **  
 **15.01** [Тема: Виготовлення новорічної прикраси](https://drive.google.com/file/d/1FLM5RFfhrQBWmx9rxMiXcz1ZSLHnBPmH/view?usp=sharing)  
@@ -1034,6 +1036,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Україна і Східна війна. Ліквідація кріпацтва](https://drive.google.com/file/d/15iKyTOJqD_JsqQpYjl-1d21tDMiRFU59/view?usp=sharing)  
 **14.01** [9-А. Тема: Україна і Східна війна. Ліквідація кріпацтва](https://drive.google.com/file/d/1PO5TGAAbHBieaJkKeWaqXLf7jumYfAvF/view?usp=sharing)  
 **14.01** [9-Б. Тема: Ліквідація кріпацтва. Реформи 1860-1870рр](https://drive.google.com/file/d/129GBaXSaThZbYXwCrv2ESVZMDPt1KKuu/view?usp=sharing)  
+**15.01** [9-Б. Тема: Модернізація промисловості і сільського господарства](https://drive.google.com/file/d/15_ZJI_4dAwSMQYzaCCbCMCV-Hf_c_Lg7/view?usp=sharing)  
 
 ** Геометрія **  
 **03.12** [9-Б. Тема: Вектори. Розв’язування задач](https://drive.google.com/file/d/1ykrS5YhJf-ggic_8ad1LHgVjfAVZtKBF/view?usp=sharing)  
@@ -1231,6 +1234,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Reading](https://drive.google.com/file/d/1clNCU8I-QMXLumrUeVrrPFrlUHCobR-z/view?usp=sharing)  
 **08.12** [Тема: Writing](https://drive.google.com/file/d/1c275FUb4T5R-xkotqqn08tbq5HkvdXX-/view?usp=sharing)  
 **12.01** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1Rm3Gy6W61WhXkbSMFLrPTydEMecqV7F9/view?usp=sharing)  
+**15.01** [Тема: Проблеми екології](https://drive.google.com/file/d/1mwtlmoDoexJ342paE9E5Iun3s-vEduu4/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Есе «Що робить мене щасливим (щасливою)»](https://drive.google.com/file/d/1xZaYEjnfrn1_BhqFqRKVKQHtugYFExs6/view?usp=sharing)  
