@@ -818,7 +818,7 @@ export default function DistanceLearning() {
 
 ** Геометрія **  
 **03.12** [Тема: Кути, утворені при перетині двох паралельних прямих січною. Властивості кутів, утворених при перетині паралельних прямих січною.](https://drive.google.com/file/d/1fFJnhdfAIKT66YiMKbNvDSv4onIhFgb3/view?usp=sharing)  
-**03.12** [Презентація: Кути при січній](https://drive.google.com/file/d/14HC1AtZFrH7uzWDvLnEClidQ-lvEiuWB/view?usp=sharing)
+**03.12** [Презентація: Кути при січній](https://drive.google.com/file/d/14HC1AtZFrH7uzWDvLnEClidQ-lvEiuWB/view?usp=sharing)  
 **14.01** [Тема: Трикутник та його елементи. Медіана, бісектриса та висота трикутника. Нерівність трикутника](https://drive.google.com/file/d/1CMiLXvMy8GArmsffQw2V0O65MEzmrRl0/view?usp=sharing)  
 
 ** Англійська мова **  
@@ -950,7 +950,7 @@ export default function DistanceLearning() {
 
 ** Географія **  
 **04.12** [Тема: Вплив погодно-кліматичних умов на здоров'я і господарську діяльність людини. Охорона атмосферного повітря. Кліматичні особливості своєї місцевості](https://drive.google.com/file/d/1vYAwfOrYGHF59NtP26e4W9X-6BdlSoxY/view?usp=sharing)
-**13.01** [Тема: Різноманітність рослинності](https://drive.google.com/file/d/190SjQ3t2NADxqxF6-V5mlS3-Q1dWrfwF/view?usp=sharing)
+**13.01** [Тема: Різноманітність рослинності](https://drive.google.com/file/d/190SjQ3t2NADxqxF6-V5mlS3-Q1dWrfwF/view?usp=sharing)  
 **15.01** [Тема: Різноманітність тваринного світу. Закономірності поширення тваринного світу в україні](https://drive.google.com/file/d/1XyaWmfjpAlK3WytHBDwcVJONYRtS-98P/view?usp=sharing)  
 
 ** Фізична культура **  
