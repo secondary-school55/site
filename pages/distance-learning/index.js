@@ -346,6 +346,7 @@ export default function DistanceLearning() {
 **13.01** [Презентація. Тема: Письмове додавання двоцифрових чисел](https://drive.google.com/file/d/1Dn2U_8NcxOh-nGslmJ3CVUSMZJ4p7gC0/view?usp=sharing)  
 **14.01** [Тема: Письмове додавання трицифрових чисел](https://drive.google.com/file/d/192x6CIG08q6a__3sqzc0GRcXXu9rnAKv/view?usp=sharing)  
 **14.01** [Презентація. Тема: Письмове додавання трицифрових чисел](https://drive.google.com/file/d/1Nih_Rm9c8ANIX1AI9tf1j-P16sQpu5jh/view?usp=sharing)  
+**15.01** [Тема: Письмове віднімання двоцифрових чисел](https://drive.google.com/file/d/1gDOoVZvU6uwyd5TKIYxNmTXZDKDicFsC/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1CbxkNJHRP-O8TfHLE4mA0__Mu-56Ovd3/view?usp=sharing)  
@@ -354,6 +355,8 @@ export default function DistanceLearning() {
 **13.01** [Тема: Назви істот, неістот](https://drive.google.com/file/d/1y8gWgHhxirlZ-vYV0TVOsH6n-bBjML1k/view?usp=sharing)  
 **14.01** [Тема: Власні і загальні назви](https://drive.google.com/file/d/1TOxVV0MkrKphWBwUsWNzD_Ac7CGvW3gU/view?usp=drive_web)  
 **14.01** [Тема: Власні і загальні іменники](https://drive.google.com/file/d/1VptiTesOLhtBzEJVVLOxPKMiqieU2lTn/view?usp=sharing)  
+**15.01** [Тема: Записую власні назви з великої букви](https://drive.google.com/file/d/1JPKEx9QfO8glADERLElpOkm-14dhDgBc/view?usp=sharing)  
+**15.01** [Презентація. Тема: Записую власні назви з великої букви](https://drive.google.com/file/d/1c-Wcyl6PAMaxbarOVQn6BYykyrY6EkZc/view?usp=drive_web)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -377,10 +380,13 @@ export default function DistanceLearning() {
 **11.01** [Тема: Робота з рiзними джерелами iнформацii](https://drive.google.com/file/d/15MB--TNyROHh7Nyt4cHBIHHl38mK9F6Y/view?usp=sharing)  
 **12.01** [Тема: Як не любить свій край](https://drive.google.com/file/d/1fyvy3vyBDoh0-mQM2gF4SIGEag3_AY8t/view?usp=sharing)  
 **14.01** [Тема: Вірші вихованців Павлиської школи. Д. Телкова «Героям». М. Малолітко «Воїнові, який захищає Вітчизну»](https://drive.google.com/file/d/1KcAOfGQO32LdRrc4E7Dtmp37uh3JymRn/view?usp=sharing)  
+**15.01** [Тема: Україна в мініатюрі. О. Кротюк «Наші скарби»](https://drive.google.com/file/d/13t8HbYEGFhaTMPTJAnc_sAK0iX-3Zpjs/view?usp=drive_web)  
+**15.01** [Презентація. Тема: Україна в мініатюрі. О. Кротюк «Наші скарби»](https://drive.google.com/file/d/1WP49MEiGvctx0KGVHGbKzQng3u5TrQPN/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
 **11.01** [Тема: Бесiда "Режим дня". Правила рухливих вправ](https://drive.google.com/file/d/1dpXjU3C0zkfVkRpK7S3EQksti2P-sVKV/view?usp=sharing)  
+**15.01** [Тема: Бесіда «Правила безпеки під час занять стрибковими вправами». Загальнорозвивальні вправи. Комплекс ранкової гігієнічної гімнастики. Вправи на координацію. Стрибки на місці на одній, двох ногах, із поворотами, кругом. Рухлива гра «Хто більше»](https://drive.google.com/file/d/1xlKyxzxA3WYPhRo-DmV-5jelcBDRCAeo/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **11.01** [Тема: Яку будову маe наше тiло.](https://drive.google.com/file/d/1D0TeQq-w0Ea1azUtzFCuxxrCqubx3ran/view?usp=sharing)  
@@ -414,6 +420,8 @@ export default function DistanceLearning() {
 **13.01** [Тема: Назви істот, неістот](https://drive.google.com/file/d/1uEJCwjDuA7r9rHIpg2qXO6G7PHJJRHAp/view?usp=sharing)  
 **14.01** [Тема: Власні і загальні назви](https://drive.google.com/file/d/1nUejfmE2fnJdB128Uzm4vAse_Ekh6CjV/view?usp=drive_web)  
 **14.01** [Тема: Власні і загальні іменники](https://drive.google.com/file/d/1ung7hM9hvh7sU-AUWTpWQ2V4M5br_gtg/view?usp=sharing)  
+**15.01** [Тема: Записую власні назви з великої букви](https://drive.google.com/file/d/1gb5pm25yarGbQtAJtSnl9nlqE01swa2K/view?usp=sharing)  
+**15.01** [Презентація. Тема: Записую власні назви з великої букви](https://drive.google.com/file/d/13t6mxKQZxTPnwT1UHdiu_mA2W0DPubG1/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
@@ -425,10 +433,12 @@ export default function DistanceLearning() {
 **13.01** [Презентація. Тема: Письмове додавання двоцифрових чисел](https://drive.google.com/file/d/1ZWTleK37hyC2uI-pAh8MXerOcZi08AWN/view?usp=sharing)  
 **14.01** [Тема: Письмове додавання трицифрових чисел](https://drive.google.com/file/d/1VQ9ZkCxZaEleOTW0VnCXewFfqVQwKwnn/view?usp=sharing)  
 **14.01** [Презентація. Тема: Письмове додавання трицифрових чисел](https://drive.google.com/file/d/1_LP8z15wsklY_BDkpeq8yu4wVjkZ7cyt/view?usp=sharing)  
+**15.01** [Тема: Письмове віднімання двоцифрових чисел](https://drive.google.com/file/d/1tWGIoeYm_7jCPw3pCwHCT3ws9fRke-02/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
 **11.01** [Тема: Бесiда "Режим дня". Правила рухливих вправ.](https://drive.google.com/file/d/18kxrIqQ2I0Q5VxtDf3KnNoA_kGn7MGVf/view?usp=sharing)  
+**15.01** [Тема: Бесіда «Правила безпеки під час занять стрибковими вправами». Загальнорозвивальні вправи. Комплекс ранкової гігієнічної гімнастики. Вправи на координацію. Стрибки на місці на одній, двох ногах, із поворотами, кругом. Рухлива гра «Хто більше»](https://drive.google.com/file/d/1bTrQF-IR6mQSIrstMQ9DrYHO-pnmzf8a/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
