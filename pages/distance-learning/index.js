@@ -47,7 +47,6 @@ export default function DistanceLearning() {
           <Tab title="1 клас">
             <Md>{`
 ** Англійська мова **  
-**04.12** [1-А. Тема: Школа](https://drive.google.com/file/d/1dVzlit8c58ztKuqNk70e7sNuMCzAQzqZ/view?usp=sharing)  
 **11.01** [Тема: Я можу стрибати](https://drive.google.com/file/d/1BpN_3Xx64mdrL7dXNoi-XJmxhACiZSM9/view?usp=sharing)  
 **13.01** [Тема: Я можу стрибати](https://drive.google.com/file/d/18mrFTChsBRXWs_rlI1xa6msZVvDZdebB/view?usp=sharing)  
 **15.01** [Тема: Я можу читати](https://drive.google.com/file/d/1qMXDFOcPJ5vnz6GPelMXvdqDWwQ_C-ol/view?usp=sharing)  
@@ -83,6 +82,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Читання Звук ґ, позначеня його буквою ґе](https://drive.google.com/file/d/1qH8vagA0iXgFMd8xEeJEg51Ko-sooPRQ/view?usp=sharing)  
 
 ** Англійська мова **  
+**04.12** [1-А. Тема: Школа](https://drive.google.com/file/d/1dVzlit8c58ztKuqNk70e7sNuMCzAQzqZ/view?usp=sharing)  
 **07.12** [Тема: Моя родина](https://drive.google.com/file/d/1tHi4PcA9O7IS2KKBnV2xnGPoD9KJ7ESr/view?usp=sharing)  
 
 ** Навчання грамоти **  
@@ -852,11 +852,11 @@ export default function DistanceLearning() {
 **03.12** [Тема: Безособові дієслівні форми на -но, -то. Перехід дієприкметників у прикметники та іменники](https://drive.google.com/file/d/1hGi6SV1EOVml1ZQiq7HCV3iPyEyUI5em/view?usp=sharing)  
 **04.12** [Тема: Михайло Стельмах. „Гуси-лебеді летять”. Єдність світу природи і світу дитячої душі](https://drive.google.com/file/d/16f8K3tfl64X6YPtW-QA9HcYiBUrorDP2/view?usp=sharing)  
 **11.01** [Тема: Дієприслівник як особлива форма дієслова](https://drive.google.com/file/d/1tY7xYqFrYmmDStV1_-5VY8TG7mt2Z7p-/view?usp=sharing)  
-**11.01** [7-А (ІІ підгрупа), 7-Б. Тема: Дієприслівник як особлива форма дієслова: загальне значення, морфологічні ознаки, синтаксична роль](https://drive.google.com/file/d/1wPUmizPfvrk8xvxlFnAR8ZaVzBONigsU/view?usp=sharing)  
+**11.01** [7-А. Алтинбаєва Л. М. (ІІ підгрупа), 7-Б. Тема: Дієприслівник як особлива форма дієслова: загальне значення, морфологічні ознаки, синтаксична роль](https://drive.google.com/file/d/1wPUmizPfvrk8xvxlFnAR8ZaVzBONigsU/view?usp=sharing)  
 **13.01** [7-Б. Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1FVGnicieGXVOTeJ_XWiD9Y-VfmPokNuN/view?usp=sharing)  
-**14.01** [7-А (ІІ підгрупа). Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1Mq_8VvHeAosR-u4f10lV055P09CFZpiv/view?usp=sharing)  
+**14.01** [7-А Алтинбаєва Л. М. (ІІ підгрупа). Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1Mq_8VvHeAosR-u4f10lV055P09CFZpiv/view?usp=sharing)  
 **14.01** [7-Б. Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1VgKvWkZNIO6CZ6_ajIX05r7kqVzo1oRV/view?usp=sharing)  
-**14.01** [7-А (І підгрупа). Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1CFk4BBR7Gt_3su7EHFQyV3ji27A5cM_8/view?usp=sharing)  
+**14.01** [7-А Харенко Ю. А. (І підгрупа). Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1CFk4BBR7Gt_3su7EHFQyV3ji27A5cM_8/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
