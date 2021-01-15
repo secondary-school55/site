@@ -47,7 +47,7 @@ export default function DistanceLearning() {
           <Tab title="1 клас">
             <Md>{`
 ** Англійська мова **  
-**04.12** [Тема: Школа](https://drive.google.com/file/d/1dVzlit8c58ztKuqNk70e7sNuMCzAQzqZ/view?usp=sharing)  
+**04.12** [1-А. Тема: Школа](https://drive.google.com/file/d/1dVzlit8c58ztKuqNk70e7sNuMCzAQzqZ/view?usp=sharing)  
 **11.01** [Тема: Я можу стрибати](https://drive.google.com/file/d/1BpN_3Xx64mdrL7dXNoi-XJmxhACiZSM9/view?usp=sharing)  
 **13.01** [Тема: Я можу стрибати](https://drive.google.com/file/d/18mrFTChsBRXWs_rlI1xa6msZVvDZdebB/view?usp=sharing)  
 **15.01** [Тема: Я можу читати](https://drive.google.com/file/d/1qMXDFOcPJ5vnz6GPelMXvdqDWwQ_C-ol/view?usp=sharing)  
@@ -470,15 +470,6 @@ export default function DistanceLearning() {
 **03.12** [Тема: Покупки](https://drive.google.com/file/d/1lhOUMYkO4FOvR9kvfydfM19Z81zXLVs1/view?usp=sharing)  
 **08.12** [Тема: Новий Рік](https://drive.google.com/file/d/1-ldhQ9GyILrJ4HyNQL74GXcXklK6a7-J/view?usp=sharing)  
 
-** Літературне читання **  
-**11.01** [Горевич Л. В. Тема: Вступ до розділу. Т.Шевченко. Про себе](https://drive.google.com/file/d/18gp7SS7XMB2mTTqtUg6lb_B440vyruDz/view?usp=sharing)  
-**12.01** [Горевич Л. В. Тема: Т. Шевченко. Вітер віє-повіває](https://drive.google.com/file/d/1ASZjzysh6riXA87oo98MFpGX_5OexTsb/view?usp=sharing)  
-**13.01** [Горевич Л. В. Тема: Т.Шевченко. Реве та стогне Дніпр широкий](https://drive.google.com/file/d/1f0uqai6p7R-AvwZ0oad36TCocKStAgdN/view?usp=sharing)  
-**15.01** [Горевич Л. В. Тема: Музей Заповіту Т. Шевченка](https://drive.google.com/file/d/1ye9H-wnIx79cXvUhI7rvhEckBg3xjJ2K/view?usp=sharing)  
-
-** Образотворче мистецтво **  
-**12.01** [Горевич Л. В. Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
-
 ** Інформатика **  
 **13.01** [Тема: Електронна пошта](https://drive.google.com/file/d/1KyFCawBMzLggZl_i87HzBarHmFnhAAoK/view?usp=drive_web)  
 `}</Md>
@@ -525,9 +516,13 @@ export default function DistanceLearning() {
 ** Літературне читання **  
 **07.12** [Тема: Марко Вовчок «Літній ранок», Михайло Коцюбинський «Літній день»](https://drive.google.com/file/d/1Hcug_znkMSO2DtbPp1V1SVFXCAeuL6PJ/view?usp=sharing)  
 **08.12** [Тема: Г. Тютюнник Ласочка](https://drive.google.com/file/d/1Gq1aM952H2hFwxYpQWESf9wuZVwo-v3I/view?usp=sharing)  
+**11.01** [Горевич Л. В. Тема: Вступ до розділу. Т.Шевченко. Про себе](https://drive.google.com/file/d/18gp7SS7XMB2mTTqtUg6lb_B440vyruDz/view?usp=sharing)  
 **11.01** [Тема: Вступ до розділу. Т. Шевченко «Про себе»](https://drive.google.com/file/d/14SItJIPS8y-xNf5CrlzGGycZwhEQPBjR/view?usp=sharing)  
+**12.01** [Горевич Л. В. Тема: Т. Шевченко. Вітер віє-повіває](https://drive.google.com/file/d/1ASZjzysh6riXA87oo98MFpGX_5OexTsb/view?usp=sharing)  
 **12.01** [Тема: Вітер віє-повіває» Т. Шевченко «Вітер з гаєм розмовляє»](https://drive.google.com/file/d/1xwYMgR8EI1TGQ_di1Z4eYcc4Hp6JrmEv/view?usp=sharing)  
+**13.01** [Горевич Л. В. Тема: Т.Шевченко. Реве та стогне Дніпр широкий](https://drive.google.com/file/d/1f0uqai6p7R-AvwZ0oad36TCocKStAgdN/view?usp=sharing)  
 **13.01** [Тема: Т. Шевченко «Реве та стогне Дніпр широкий»](https://drive.google.com/file/d/1jdBuZZhKcYhJqVXI2F2OqNQV_tGwlUx0/view?usp=sharing)  
+**15.01** [Горевич Л. В. Тема: Музей Заповіту Т. Шевченка](https://drive.google.com/file/d/1ye9H-wnIx79cXvUhI7rvhEckBg3xjJ2K/view?usp=sharing)  
 **15.01** [Тема: Пам'ятаємо про Шевченка. "Музей "Заповіт" Тараса Григоровича Шевченка в Переяславі"](https://drive.google.com/file/d/1WQU5rWn5S0DTtPkpyKpUtPt-hzmbUFKf/view?usp=sharing)  
 
 ** Природознавство **  
@@ -547,6 +542,9 @@ export default function DistanceLearning() {
 
 ** Основи мовознавства **  
 **15.01** [Тема: Тренувальні вправи на побудову речень з прикметниками. Складання тексту-опису за малюнком](https://drive.google.com/file/d/10Y0DfvUD_nzi63CeOtKn8LQ_Z6dQ0fWy/view?usp=sharing)  
+
+** Образотворче мистецтво **  
+**13.01** [Горевич Л. В. Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="4-Б">
@@ -591,14 +589,19 @@ export default function DistanceLearning() {
 ** Літературне читання **  
 **07.12** [Тема: Марко Вовчок «Літній ранок», Михайло Коцюбинський «Літній день»](https://drive.google.com/file/d/1XgJrjALeSBPNQ_Qy5nIsx0yLyZXI39WL/view?usp=sharing)  
 **08.12** [Тема: Григір Тютюнник «Ласочка»](https://drive.google.com/file/d/1FfR9kqe3b1y5wSfqJ84ugJLaPfL0Pjgw/view?usp=sharing)  
+**11.01** [Горевич Л. В. Тема: Вступ до розділу. Т.Шевченко. Про себе](https://drive.google.com/file/d/18gp7SS7XMB2mTTqtUg6lb_B440vyruDz/view?usp=sharing)  
 **11.01** [Тема: Вступ до розділу. Т. Шевченко «Про себе»](https://drive.google.com/file/d/17QzW4_chVoqozQ6JbXJuLD-TEHOOuWB4/view?usp=sharing)  
+**12.01** [Горевич Л. В. Тема: Т. Шевченко. Вітер віє-повіває](https://drive.google.com/file/d/1ASZjzysh6riXA87oo98MFpGX_5OexTsb/view?usp=sharing)  
 **12.01** [Тема: Т. Шевченко «Вітер віє-повіває» Т. Шевченко «Вітер з гаєм розмовляє»](https://drive.google.com/file/d/1V45WvxGyQOCPdbBJZm46s_Yf2Z3gwNDi/view?usp=sharing)  
+**13.01** [Горевич Л. В. Тема: Т.Шевченко. Реве та стогне Дніпр широкий](https://drive.google.com/file/d/1f0uqai6p7R-AvwZ0oad36TCocKStAgdN/view?usp=sharing)  
 **13.01** [Тема: Т. Шевченко «Реве та стогне Дніпр широкий»](https://drive.google.com/file/d/1Ckj9KfRUmEQ00aLHDw196PtxikJzKi_T/view?usp=sharing)  
+**15.01** [Горевич Л. В. Тема: Музей Заповіту Т. Шевченка](https://drive.google.com/file/d/1ye9H-wnIx79cXvUhI7rvhEckBg3xjJ2K/view?usp=sharing)  
 **15.01** [Тема: Музей «Заповіту» Тараса Григоровича Шевченка в Переяславі](https://drive.google.com/file/d/1gykhbudr6vOOB7IMkZ7RXI8oLlqFjP1g/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **08.12** [Тема: Дизайн годинника](https://drive.google.com/file/d/1gMGKFcVJS20q8y2uKGv8Y2kvwBbrkVJB/view?usp=sharing)  
 **08.12** [Презентація: Дизайн годинника](https://drive.google.com/file/d/12gYiiJa404TLX0Yq4d4pUZr3L5eo2Fjq/view?usp=sharing)  
+**12.01** [Горевич Л. В. Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **11.01** [Тема: Звички і здоров'я. Практична робота: виконання проєкту з формування корисної звички](https://drive.google.com/file/d/1hEFNVYpZOEiC_Q8FM2xIroBvJI9HgWwE/view?usp=sharing)  
