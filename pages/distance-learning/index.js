@@ -498,7 +498,8 @@ export default function DistanceLearning() {
 **04.12** [Тема: Змінювання прикметників за родами та числами у сполученні з іменниками. Родові закінчення прикметників](https://drive.google.com/file/d/1HylTHma9uCpPG01X7M4w3scD7l2NZg1v/view?usp=sharing)  
 **07.12** [Тема: Вiдмiнювання прикметникiв у сполученнi з iменниками в однинi та множинi](https://drive.google.com/file/d/1ikqCNKAa13tzSpHz2mHTK32XN_cRgUcA/view?usp=sharing)  
 **08.12** [Тема: Зіставлення закінчень прикметників з основою на твердий та м’який приголосний в однині і множині](https://drive.google.com/file/d/1cVNaVJgTH328DxQd2XE-6f03MqZZ1OHm/view?usp=sharing)  
-**11.01** [Тема: Закріплення знань про правопис прикметників у множині](https://drive.google.com/file/d/11h-wGePdXFhvZHdp8oNjT1preTJAPl-l/view?usp=sharing)  
+**11.01** [І підгрупа. Тема: Закріплення знань про правопис прикметників у множині](https://drive.google.com/file/d/14qbPNoQu9_vL5B8d9KpV6EnGGNuWFx1o/view?usp=sharing)
+**11.01** [ІІ підгрупа. Тема: Закріплення знань про правопис прикметників у множині](https://drive.google.com/file/d/11h-wGePdXFhvZHdp8oNjT1preTJAPl-l/view?usp=sharing)  
 **12.01** [Тема: Побудова сполучень слів і речень із прикметниками, уведення їх у текст](https://drive.google.com/file/d/14o18tm2HqXl1qf9ffXA458-RGfKYdZLT/view?usp=sharing)  
 **14.01** [Тема: Закріплення вивченого про прикметник](https://drive.google.com/file/d/1ptbzNmJ-eUTbkfiII5PmjWEIJqR9BisR/view?usp=sharing)  
 **14.01** [І підгрупа. Тема: Закріплення вивченого про прикметник](https://drive.google.com/file/d/1HZIO56ibMKJZKxOVpu7m5X6xbsJqtRkS/view?usp=sharing)  
@@ -534,7 +535,6 @@ export default function DistanceLearning() {
 **11.01** [Тема: Поглиблення знань про аплікацію. Послідовність виготовлення об’ємної аплікації на тканині з використанням ґудзиків, леліток та бісеру](https://drive.google.com/file/d/1q_ewBpSabhe2sThmRxF7JLvWEzjL_RAd/view?usp=sharing)  
 
 ** Англійська мова **  
-**11.01** [Тема: Закріплення знань про правопис прикметників у множині](https://drive.google.com/file/d/14qbPNoQu9_vL5B8d9KpV6EnGGNuWFx1o/view?usp=sharing)  
 **12.01** [Тема: Моя улюблена пора року](https://drive.google.com/file/d/1PDsqIBOFsVc7KKQH2w1znaOqBAhOa3HH/view?usp=sharing)  
 **12.01** [Тема: Улюблена пора року](https://drive.google.com/file/d/13wF_z37_jA6pDq5U6QmdB-mvuMSjxZ7I/view?usp=sharing)  
 **14.01** [Тема: Погода учора](https://drive.google.com/file/d/1izpL-TiXEgFA2fkYzNC5GAdFng5tYXBj/view?usp=sharing)  
