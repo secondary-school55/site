@@ -416,7 +416,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1aMckvGtRntg_f6p15jt_-ws3qUiS-4DC/view?usp=sharing)  
 **07.12** [Тема: Значення грибів для природи](https://drive.google.com/file/d/1Z87OcfgT8kpP-vnBcQgqIdGmF5Q3yotj/view?usp=sharing)  
 **11.01** [Тема: Яку будову маe наше тiло](https://drive.google.com/file/d/1IK6Sfs52ilvhYjSJ259JRnlNvGMARzsr/view?usp=sharing)  
-**13.01** [Тема: Яка роль шкіри в організмі людини](https://drive.google.com/file/d/1BAanqDO3-hFhvdH9p5qrRc5gVE3HNNZl/view?usp=sharing)  
+**12.01** [Тема: Яка роль шкіри в організмі людини](https://drive.google.com/file/d/1BAanqDO3-hFhvdH9p5qrRc5gVE3HNNZl/view?usp=sharing)  
 **14.01** [Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/12eabUC4ooag9i17nbwTAm_MQScczHy8B/view?usp=sharing)  
 **14.01** [Презентація. Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/1SHWkESDP1T9s1K3btiXyhNfdLUDD4gIv/view?usp=sharing)  
 
