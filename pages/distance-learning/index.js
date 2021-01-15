@@ -263,6 +263,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Що я роблю зранку](https://drive.google.com/file/d/1-Wlmdc4V1mcnO3DtiS6H-0qaH8SHD53Y/view?usp=sharing)  
 **13.01** [Тема: My morning](https://drive.google.com/file/d/1vpbyTwi6FC9IfW1Sasq_FZDKZLfMtt1g/view?usp=sharing)  
 **15.01** [І група. Тема: Що в мене на сніданок](https://drive.google.com/file/d/1VHtq1lAgzLPBUlaR8E9rS78ZKsCBTk1y/view?usp=sharing)  
+**15.01** [Тема: Що в мене на сніданок](https://drive.google.com/file/d/134syhENfVS8KVlIDURnLlhQqncvpsn2P/view?usp=sharing)  
 
 ** Математика **  
 **11.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1VwNtfF7VLfGyvNSDziU_iCztBpKSa4aZ/view?usp=sharing)  
@@ -287,7 +288,7 @@ export default function DistanceLearning() {
 ** Українська мова **  
 **03.12** [Тема: Ставлю питання до назв предметів. Розпізнаю слова — назви предметів за питаннями хто? що?](https://drive.google.com/file/d/1x-mt1ERC1wF1vB7K6oGvzZ8HFU79x8MZ/view?usp=sharing)  
 **11.01** [Тема: Досліджую прикметники. Розпізнаю слова – назви ознак](https://drive.google.com/file/d/1LeSCFzAqxiBoTuYpKa2b4KewOU6ni1jP/view?usp=sharing)  
-**11.01** [Тема: Добираю прикметники](https://drive.google.com/file/d/1vHaygY39MZbkl421hxq3BxjmtcTLHrgi/view?usp=sharing)  
+**12.01** [Тема: Добираю прикметники](https://drive.google.com/file/d/1vHaygY39MZbkl421hxq3BxjmtcTLHrgi/view?usp=sharing)  
 **14.01** [Тема: Утворюю прикметники. Складання речень](https://drive.google.com/file/d/1jUj-Zan45G7RYmwXgER99CjJw5GBaKrc/view?usp=sharing)  
 
 ** Читання **  
@@ -308,6 +309,7 @@ export default function DistanceLearning() {
 
 ** Англійська мова **  
 **13.01** [Тема: My morning](https://drive.google.com/file/d/1vpbyTwi6FC9IfW1Sasq_FZDKZLfMtt1g/view?usp=sharing)  
+**15.01** [Тема: Що в мене на сніданок](https://drive.google.com/file/d/134syhENfVS8KVlIDURnLlhQqncvpsn2P/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **15.01** [Тема: Виготовлення новорічної прикраси](https://drive.google.com/file/d/1FLM5RFfhrQBWmx9rxMiXcz1ZSLHnBPmH/view?usp=sharing)  
@@ -660,6 +662,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Уявлення про звичайні дроби](https://drive.google.com/file/d/15TW2iX6PdzFOQlI9kIhhov_wwiGd9eFY/view?usp=sharing)  
 **12.01** [Тема: Дроби і ділення натуральних чисел](https://drive.google.com/file/d/1iq9PeQcl8FHCpHrsXCO1vw7ir-GkAN5k/view?usp=sharing)  
 **13.01** [Тема: Порівняння звичайних дробів](https://drive.google.com/file/d/1T3PXdjQWXS-2itvWkz51NW6iKlGctOVG/view?usp=sharing)  
+**15.01** [Тема: Правильні та неправильні дроби](https://drive.google.com/file/d/1jmNhzrXpi_OinX6a6GQ4UdmXz3dzVqBN/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
@@ -797,6 +800,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Розв’язування задач. Повторення](https://drive.google.com/file/d/1GqmdTYb1tvgWkB_hP-_i1tTMCatd2TqE/view?usp=sharing)  
 **11.01** [Тема: Iнертнiсть. Маса](https://drive.google.com/file/d/1DeS0Ba5UNJ0cDpKHxos2kV3tVpUA1nG9/view?usp=sharing)  
 **14.01** [7-Б. Тема: Густина речовини](https://drive.google.com/file/d/1GhZzz15RS3FPzjBVAxEH5NL_7xkqEadU/view?usp=sharing)  
+**15.01** [7-А. Тема: Густина речовини](https://drive.google.com/file/d/1e7fu6OdHJmW2aLeE5aU3bGfa8pC1eVFh/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)  
@@ -1090,6 +1094,7 @@ export default function DistanceLearning() {
 **08.12** [Тема: Електромагнітне поле](https://drive.google.com/file/d/1EfXMUGu05I7gJxeY_VOnUyFSvDNKXFWi/view?usp=sharing)  
 **08.12** [Тема: Звукові хвилі](https://drive.google.com/file/d/126g0uZowIP3iR08iTKfkKfQ_HqjU3VHf/view?usp=sharing)  
 **12.01** [Тема: Модель атома](https://drive.google.com/file/d/1qUzWy-DnK5zTjgJ5rWTaCWiqCLd54CrA/view?usp=sharing)  
+**15.01** [Тема: Радіоактивність](https://drive.google.com/file/d/1zyfT3xZ2s9SF9QqOwVPCY_A1IZGoCc5r/view?usp=sharing)  
 
 ** Мистецтво **  
 **04.12** [Тема: Сюрреалізм](https://drive.google.com/file/d/1NifrDQX_ktjFsE6qmEyUdO5CkcjpReOn/view?usp=sharing)  
