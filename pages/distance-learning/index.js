@@ -893,7 +893,9 @@ export default function DistanceLearning() {
 **12.01** [Тема: Види дизайну. Промисловий дизайн. Проектування предметів побуту](https://drive.google.com/file/d/1E2YpfNEiT7Pc2NJucY1Ljco3On99jjva/view?usp=sharing)  
 
 ** Українська література **  
-**13.01** [7-А,Б. Тема: Григір Тютюнник. Коротко про дитинство письменника. «Климко» - автобіографічна основа твору](https://drive.google.com/file/d/1FVGnicieGXVOTeJ_XWiD9Y-VfmPokNuN/view?usp=sharing)  
+**13.01** [Алтинбаєва Л. М. Тема: Григір Тютюнник. Коротко про дитинство письменника. «Климко» - автобіографічна основа твору](https://drive.google.com/file/d/1FVGnicieGXVOTeJ_XWiD9Y-VfmPokNuN/view?usp=sharing)  
+**15.01** [Алтинбаєва Л. М. Тема: Григір Тютюнник «Климко». Морально-етичні уроки доброти, чуйності, турботи про рідних»](https://drive.google.com/file/d/1C6JAUftojU1EgFFwpR16DseRtwF0ouSg/view?usp=sharing)  
+
 `}</Md>
       </Tab>
       <Tab title="8 клас">
