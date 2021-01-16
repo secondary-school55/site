@@ -170,10 +170,6 @@ export default function DistanceLearning() {
 **03.12** [Тема: Святкові перетворення. Малювання композиції «Сніговик».](https://drive.google.com/file/d/1rlUqnf0AgrfiqQwAQPdXXIJ3NZeyQoPc/view?usp=sharing)  
 **14.01** [Тема: Мандри Країною Мистецтв. Цирк](https://drive.google.com/file/d/1HnkSVKqiKPr0goTh-U_pMtA34oWgR2BO/view?usp=sharing)  
 
-** Фізична культура **  
-**03.12** [Тема: Вправи для опанування навичок пересувань](https://drive.google.com/file/d/1tJ12GuU1ETqGGV3dHiag95-YTGcWnvkT/view?usp=sharing)  
-**14.01** [Тема: Спорядження лижника. Організовуючі команди і прийоми](https://drive.google.com/file/d/11UrNM_PEYkxK6qqqNDwA2SICj5ZOvfAU/view?usp=sharing)  
-
 ** Я досліджую світ **  
 **03.12** [Тема: Досліджуємо властивості води](https://drive.google.com/file/d/1zSrcxlsg-qgp2oEBI4mKsxRWZ8TGzIxn/view?usp=sharing)  
 **07.12** [Тема: Дослiджуeмо властивостi води](https://drive.google.com/file/d/1UrWSVX3VyelYCB-UF8EGO-bTU_Rul64_/view?usp=sharing)  
@@ -207,9 +203,11 @@ export default function DistanceLearning() {
 **15.01** [Тема: Вимірюємо довжини відрізків](https://drive.google.com/file/d/1O2CXXNBuKA9Y_h2xup5tr5anraMBBST-/view?usp=sharing)  
 
 ** Фізична культура **  
+**03.12** [Тема: Вправи для опанування навичок пересувань](https://drive.google.com/file/d/1tJ12GuU1ETqGGV3dHiag95-YTGcWnvkT/view?usp=sharing)  
 **04.12** [Тема: Руханка](https://drive.google.com/file/d/1RkX4RdRjUCfWP_g6BVHXam7oKvMP7jS2/view?usp=sharing)  
 **08.12** [Тема: Руханка](https://drive.google.com/file/d/1PPRQqUPMy3j6GrSJpCcIL7hNOF7C7cJ5/view?usp=sharing)  
 **12.01** [Тема: Руханка](https://drive.google.com/file/d/1c6HC2tJuzr2pAdKSf5HJhx-1EfaBG0Lo/view?usp=sharing)  
+**14.01** [Тема: Спорядження лижника. Організовуючі команди і прийоми](https://drive.google.com/file/d/11UrNM_PEYkxK6qqqNDwA2SICj5ZOvfAU/view?usp=sharing)  
 **15.01** [Тема: Організовуючі вправи. Комплекс ранкової гімнастики](https://drive.google.com/file/d/15jSyFx-fAZ6DreEtPE4r1ObxE4jOOixN/view?usp=sharing)  
 
 ** Англійська мова **  
