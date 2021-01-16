@@ -206,7 +206,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Вправи для опанування навичок пересувань](https://drive.google.com/file/d/1tJ12GuU1ETqGGV3dHiag95-YTGcWnvkT/view?usp=sharing)  
 **04.12** [Тема: Руханка](https://drive.google.com/file/d/1RkX4RdRjUCfWP_g6BVHXam7oKvMP7jS2/view?usp=sharing)  
 **08.12** [Тема: Руханка](https://drive.google.com/file/d/1PPRQqUPMy3j6GrSJpCcIL7hNOF7C7cJ5/view?usp=sharing)  
-**12.01** [Тема: Руханка](https://drive.google.com/file/d/1c6HC2tJuzr2pAdKSf5HJhx-1EfaBG0Lo/view?usp=sharing)  
+**12.01** [Тема: Організовуючі вправи. Комплекс ранкової гімнастики](https://drive.google.com/file/d/1c6HC2tJuzr2pAdKSf5HJhx-1EfaBG0Lo/view?usp=sharing)  
 **14.01** [Тема: Спорядження лижника. Організовуючі команди і прийоми](https://drive.google.com/file/d/11UrNM_PEYkxK6qqqNDwA2SICj5ZOvfAU/view?usp=sharing)  
 **15.01** [Тема: Організовуючі вправи. Комплекс ранкової гімнастики](https://drive.google.com/file/d/15jSyFx-fAZ6DreEtPE4r1ObxE4jOOixN/view?usp=sharing)  
 
