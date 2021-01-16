@@ -910,7 +910,8 @@ export default function DistanceLearning() {
 **15.01** [7-Б. Тема: Вибір об'єкта проєктування. Планування проєктної діяльності. Комбінування композиції для панно з мозаїки](https://drive.google.com/file/d/1NQaJyhVEQHkDuJuEkBG9s6TGlVvIpiRZ/view?usp=sharing)  
 
 ** Зарубіжна література **  
-**11.01** [Тема: Уславлення дружби й вірності у вірші](https://drive.google.com/file/d/1q_z-piiacmGpZ4P54I9aoZJtOZp1NpwI/view?usp=sharing)  
+**11.01** [7-Б. Тема: Уславлення дружби й вірності у вірші](https://drive.google.com/file/d/1q_z-piiacmGpZ4P54I9aoZJtOZp1NpwI/view?usp=sharing)  
+**12.01** [7-А. Тема: Уславлення дружби й вірності у вірші](https://drive.google.com/file/d/1q_z-piiacmGpZ4P54I9aoZJtOZp1NpwI/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1LYMqo8lKOm-bCK_MHTKKwk0WLaRKPTEK/view?usp=sharing)  
