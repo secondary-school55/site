@@ -701,10 +701,10 @@ export default function DistanceLearning() {
 **04.12** [Тема: Аналіз контрольної роботи. Види кутів. Вимірювання кутів](https://drive.google.com/file/d/1d8YTI_NUHB38Jtw7fLmJ7ZvtROh6ltEi/view?usp=sharing)  
 **07.12** [Тема: Величина кута. Вимірювання та побудова кутів](https://drive.google.com/file/d/1S-jvWe03UfILGtbRhqqWJjSjTwlo8Fm0/view?usp=sharing)  
 **08.12** [Тема: Величина кута. Вимірювання та побудова кутів](https://drive.google.com/file/d/1fM_JZHlzjYUsp9fmJKv_FQvwTYRaGFCu/view?usp=sharing)  
-**12.01** [Тема: Уявлення про звичайні дроби](https://drive.google.com/file/d/15TW2iX6PdzFOQlI9kIhhov_wwiGd9eFY/view?usp=sharing)  
-**12.01** [Тема: Дроби і ділення натуральних чисел](https://drive.google.com/file/d/1iq9PeQcl8FHCpHrsXCO1vw7ir-GkAN5k/view?usp=sharing)  
-**13.01** [Тема: Порівняння звичайних дробів](https://drive.google.com/file/d/1T3PXdjQWXS-2itvWkz51NW6iKlGctOVG/view?usp=sharing)  
-**15.01** [Тема: Правильні та неправильні дроби](https://drive.google.com/file/d/1jmNhzrXpi_OinX6a6GQ4UdmXz3dzVqBN/view?usp=sharing)  
+**11.01** [5-А,Б. Тема: Уявлення про звичайні дроби](https://drive.google.com/file/d/15TW2iX6PdzFOQlI9kIhhov_wwiGd9eFY/view?usp=sharing)  
+**12.01** [5-А,Б. Тема: Дроби і ділення натуральних чисел](https://drive.google.com/file/d/1iq9PeQcl8FHCpHrsXCO1vw7ir-GkAN5k/view?usp=sharing)  
+**13.01** [5-А,Б. Тема: Порівняння звичайних дробів](https://drive.google.com/file/d/1T3PXdjQWXS-2itvWkz51NW6iKlGctOVG/view?usp=sharing)  
+**15.01** [5-А,Б. Тема: Правильні та неправильні дроби](https://drive.google.com/file/d/1jmNhzrXpi_OinX6a6GQ4UdmXz3dzVqBN/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
@@ -737,6 +737,7 @@ export default function DistanceLearning() {
 **13.01** [5-Б. Тема: Особливості поетичних загадок, роль у них казкових елементів, фольклорної основи](https://drive.google.com/file/d/110bEXNQcZPr28UcQf2FpkCqhBwL2ajSQ/view?usp=sharing)  
 
 ** Зарубіжна література **  
+**12.01** [Тема: Світ дорослих і світ дітей у повісті](https://drive.google.com/file/d/1cHfohaV_CYmsTVX2Oi9yxl94CcrBcDaO/view?usp=sharing)  
 **14.01** [Тема: Провідні ідеї твору](https://drive.google.com/file/d/1fBCYM8AhXrIkc3c6sZDM8Z3YrdTy9EMS/view?usp=sharing)  
 **15.01** [5-А. Тема: Провідні ідеї твору](https://drive.google.com/file/d/1m2n0G6s6WSmiV8vApaHnE8hEZ84eZpz1/view?usp=sharing)  
 
@@ -773,10 +774,10 @@ export default function DistanceLearning() {
 **07.12** [Тема: Коло і круг](https://drive.google.com/file/d/11XLOszKBM3EPjpsUE9-kjuBm-VknuNNh/view?usp=sharing)  
 **08.12** [Тема: Кругові діаграми](https://drive.google.com/file/d/19LSENrV3FXVR2jmo-d-1vpJw-wMGGJ-B/view?usp=sharing)  
 **08.12** [Тема: Відсоткові розрахунки](https://drive.google.com/file/d/1R7T_knhcfnSJK-SUJhbyMBMbN2reVCCL/view?usp=sharing)  
-**11.01** [Тема: Додатні та від'ємні числа. Число нуль](https://drive.google.com/file/d/1gOKmuC88hemTuFmWTczbbKmy0ARznYe7/view?usp=sharing)  
-**11.01** [Тема: Відсоткові розрахунки](https://drive.google.com/file/d/1Zfytcvvdeup5d3a0lOcHbHt69x-OkZnS/view?usp=sharing)  
-**12.01** [Тема: Координатна пряма](https://drive.google.com/file/d/1YflD_mgVismDEdHMBSHlleHy_YUiuRjp/view?usp=sharing)  
-**12.01** [Тема: Коло і круг](https://drive.google.com/file/d/1A4aNKpPgWQcl3V_iheHpKRaUf-svqYDz/view?usp=sharing)  
+**11.01** [6-А,В. Тема: Додатні та від'ємні числа. Число нуль](https://drive.google.com/file/d/1gOKmuC88hemTuFmWTczbbKmy0ARznYe7/view?usp=sharing)  
+**11.01** [6-Б. Тема: Відсоткові розрахунки](https://drive.google.com/file/d/1Zfytcvvdeup5d3a0lOcHbHt69x-OkZnS/view?usp=sharing)  
+**12.01** [6-А,В. Тема: Координатна пряма](https://drive.google.com/file/d/1YflD_mgVismDEdHMBSHlleHy_YUiuRjp/view?usp=sharing)  
+**12.01** [6-Б. Тема: Коло і круг](https://drive.google.com/file/d/1A4aNKpPgWQcl3V_iheHpKRaUf-svqYDz/view?usp=sharing)  
 **13.01** [6-А,В. Тема: Координатна пряма](https://drive.google.com/file/d/1jhgoyy_vxgcS0cfRKdpu0zzOCydH5biD/view?usp=sharing)  
 **13.01** [6-Б. Тема: Кругові та стовпчасті діаграми](https://drive.google.com/file/d/1tYxB-pYC32fSWaIUQzrFiX8mTA1ti22s/view?usp=sharing)  
 **13.01** [6-Б. Презентація. Тема: Кругові та стовпчасті діаграми](https://drive.google.com/file/d/1XnTl3NwsLlBSJnPNDF9oMJhcatT2XI40/view?usp=sharing)  
@@ -940,6 +941,7 @@ export default function DistanceLearning() {
 **15.01** [Алтинбаєва Л. М. Тема: Григір Тютюнник «Климко». Морально-етичні уроки доброти, чуйності, турботи про рідних»](https://drive.google.com/file/d/1C6JAUftojU1EgFFwpR16DseRtwF0ouSg/view?usp=sharing)  
 
 ** Російська мова **  
+**12.01** [7-А. Тема: Наречие](https://drive.google.com/file/d/17WUW3pPf4_MoiIAr_Yl6k_R7OfcG-rsF/view?usp=sharing)  
 **13.01** [7-Б. Тема: Наречие. Значение, вопросы, роль в предложении](https://drive.google.com/file/d/11wftWB5eji91n4akTf-93xE99cc_QVqv/view?usp=sharing)  
 `}</Md>
       </Tab>
@@ -1043,6 +1045,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Електризація. Електричний заряд](https://drive.google.com/file/d/1jgAI2QMnq0wL6_T1Qc5G4e1Op7hPX_RP/view?usp=sharing)  
 
 ** Зарубіжна література **  
+**12.01** [Тема: Відродження](https://drive.google.com/file/d/1vbMlF-Ynn34DuybFY31ZAfQSuHiLDv2o/view?usp=sharing)  
 **14.01** [Тема: Франческо Петрарка – видатний італійський поет – гуманіст. Багатство](https://drive.google.com/file/d/12MAcf2F1hiRml9oSUVzZizGeYKy_Nt1V/view?usp=sharing)  
 
 ** Трудове навчання **  
