@@ -649,8 +649,11 @@ export default function DistanceLearning() {
 ** Природознавство **  
 **03.12** [5-Б. Тема: Поняття про сузір’я. Зорі.](https://drive.google.com/file/d/1R7UCQIPSK5QBTiTtfQ6qKkuGD4RD3D5G/view?usp=sharing)  
 **07.12** [5-Б. Тема: Планети. Сонячна система. Відмінності між планетами](https://drive.google.com/file/d/19GFMmi7yCI24Cm4kS8cYlhJLU6BNtJcj/view?usp=sharing)  
+**08.12** [5-А. Тема: Астрономія як наука](https://drive.google.com/file/d/17ou9n3HZoSLpPQGQzsl4kZLQpwa_3ZRx/view?usp=sharing)  
 **11.01** [5-Б. Тема: Будова Землi](https://drive.google.com/file/d/1AHmg1RAPP8z-jAJEepqDTf6qckrexjiR/view?usp=sharing)  
+**12.01** [5-А. Тема: Форма і розміри землі. Внутрішня будова Землі](https://drive.google.com/file/d/1IluFsIaDapgGVLVl60xD23aY7q968SNU/view?usp=sharing)  
 **14.01** [5-Б. Тема: Рухи Землі](https://drive.google.com/file/d/1n9Ts6EEEAIf0G-ip-BD26qMxe-byJElC/view?usp=sharing)  
+**15.01** [5-А. Тема: Рухи землі. Пори року](https://drive.google.com/file/d/1g1U2c18ig-Rho7SAaMLL4wfs_plofZ3N/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
@@ -699,9 +702,6 @@ export default function DistanceLearning() {
 **11.01** [Тема: Попередження травм під час рухливих ігор. Правила безпечної поведінки в басейні та на льоду](https://drive.google.com/file/d/1dAALP8mt62Hpr92U2kwKr2iAXyzH5xqa/view?usp=sharing)  
 **14.01** [5-А. Тема: Правила людських стосунків](https://drive.google.com/file/d/14LYHk8grt7X0xAplYGuLp7J_DLSPb48I/view?usp=sharing)  
 
-** Астрономія **  
-**08.12** [5-А. Тема: Астрономія як наука](https://drive.google.com/file/d/17ou9n3HZoSLpPQGQzsl4kZLQpwa_3ZRx/view?usp=sharing)  
-
 ** Англійська мова **  
 **11.01** [Тема: Особливі дні](https://drive.google.com/file/d/1JWLFqKvZ8MmH-ISBimbICHoGNIvdTYP4/view?usp=sharing)  
 **11.01** [Тема: Особливі дні](https://drive.google.com/file/d/1orExTKQz_YKfCTcCdNcqXnxC00DgbnD7/view?usp=sharing)  
@@ -720,10 +720,6 @@ export default function DistanceLearning() {
 ** Образотворче мистецтво **  
 **11.01** [Тема: Скульптура космонавт](https://drive.google.com/file/d/1mvaqrrkGEY-U7MTH9WrLW-q_fnGKRq6A/view?usp=sharing)  
 **13.01** [Тема: Скульптура космонавт](https://drive.google.com/file/d/1uE_G_RJH4nHcJ1QfM06A98ien9RVb-Xh/view?usp=sharing)  
-
-** Біологія **  
-**12.01** [Тема: Форма і розміри землі. Внутрішня будова Землі](https://drive.google.com/file/d/1IluFsIaDapgGVLVl60xD23aY7q968SNU/view?usp=sharing)  
-**15.01** [5-А. Тема: Рухи землі. Пори року](https://drive.google.com/file/d/1g1U2c18ig-Rho7SAaMLL4wfs_plofZ3N/view?usp=sharing)  
 
 ** Українська література **  
 **11.01** [Тема: Л.Глібов. "Химерний, маленький...", "Що за птиця?"](https://drive.google.com/file/d/1PfhpTVhihBn22ZZafAJ0UAig2vydUWqH/view?usp=sharing)  
