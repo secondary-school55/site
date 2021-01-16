@@ -995,6 +995,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
 **12.01** [8-Б. Тема: Арифметичний корінь](https://drive.google.com/file/d/111JNeChYNr9ccJKOwYv_E0JvDNlebSHP/view?usp=sharing)  
 **13.01** [8-А. Тема: Функція у=х2, її графік і властитвості](https://drive.google.com/file/d/1a1CBk2F9c0dwjajS5bSjf5mVTANkQP8g/view?usp=sharing)  
+**13.01** [8-Б. Тема: Раціональні числа. Ірраціональні числа](https://drive.google.com/file/d/1qbzY_IkBq86ERmeYM-n2CFZQWNjVlMKq/view?usp=sharing)  
 **14.01** [8-А. Тема: Розв'язування вправ](https://drive.google.com/file/d/1NwltdqxK6UUT_10duiGdEo4vhB9YKygI/view?usp=sharing)  
 
 ** Географія **  
@@ -1026,7 +1027,6 @@ export default function DistanceLearning() {
 **08.12** [Тема: Подібність прямокутних трикутників. Властивість бісектриси. Метричні співвідношення](https://drive.google.com/file/d/1P4n2CeJ0hOGemlmT2Z8di8FAmWrYIIhI/view?usp=sharing)  
 **12.01** [8-А. Тема: Теорема Піфагора. Розв'язування задач](https://drive.google.com/file/d/1UEMLd_yzP8g0PgmQvwv6Zh3v2_CpgQ1G/view?usp=sharing)  
 **12.01** [8-Б. Тема: Теорема Піфагора](https://drive.google.com/file/d/1UqIOb1Yck4KipmrXn1L2m21aCcPdsoQC/view?usp=sharing)  
-**13.01** [8-Б. Тема: Раціональні числа. Ірраціональні числа](https://drive.google.com/file/d/1qbzY_IkBq86ERmeYM-n2CFZQWNjVlMKq/view?usp=sharing)  
 **14.01** [8-Б. Тема: Розвязування задач на застосування Теореми Піфагора](https://drive.google.com/file/d/1KcE0rSknuk6Tz9BP0GiW5YavbpLwvj3U/view?usp=sharing)  
 
 ** Інформатика **  
