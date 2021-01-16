@@ -941,7 +941,7 @@ export default function DistanceLearning() {
 **15.01** [Алтинбаєва Л. М. Тема: Григір Тютюнник «Климко». Морально-етичні уроки доброти, чуйності, турботи про рідних»](https://drive.google.com/file/d/1C6JAUftojU1EgFFwpR16DseRtwF0ouSg/view?usp=sharing)  
 
 ** Російська мова **  
-**12.01** [7-А. Тема: Наречие](https://drive.google.com/file/d/17WUW3pPf4_MoiIAr_Yl6k_R7OfcG-rsF/view?usp=sharing)  
+**12.01** [7-А. Тема: Наречие. Значение, вопросы, роль в предложении](https://drive.google.com/file/d/17WUW3pPf4_MoiIAr_Yl6k_R7OfcG-rsF/view?usp=sharing)  
 **13.01** [7-Б. Тема: Наречие. Значение, вопросы, роль в предложении](https://drive.google.com/file/d/11wftWB5eji91n4akTf-93xE99cc_QVqv/view?usp=sharing)  
 `}</Md>
       </Tab>
@@ -1045,7 +1045,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Електризація. Електричний заряд](https://drive.google.com/file/d/1jgAI2QMnq0wL6_T1Qc5G4e1Op7hPX_RP/view?usp=sharing)  
 
 ** Зарубіжна література **  
-**12.01** [Тема: Відродження](https://drive.google.com/file/d/1vbMlF-Ynn34DuybFY31ZAfQSuHiLDv2o/view?usp=sharing)  
+**12.01** [Тема: Епоха Відродження в Європі. Гуманізм. Культ античності. Характерні ознаки ренесансної культури і літератури](https://drive.google.com/file/d/1vbMlF-Ynn34DuybFY31ZAfQSuHiLDv2o/view?usp=sharing)  
 **14.01** [Тема: Франческо Петрарка – видатний італійський поет – гуманіст. Багатство](https://drive.google.com/file/d/12MAcf2F1hiRml9oSUVzZizGeYKy_Nt1V/view?usp=sharing)  
 
 ** Трудове навчання **  
