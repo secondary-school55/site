@@ -502,7 +502,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Площа фігури. Квадратний сантиметр. Задачі, аналогічні до задач на спільну роботу](https://drive.google.com/file/d/1ebG8YmnygnEXqrMSc-XqHmwL8h-vordu/view?usp=sharing)  
 
 ** Основи здоров’я **  
-**03.12** [Тема: Профілактика порушень зору, слуху, опорно-рухового апарату у школярів. Вправи для профілактики плоскостопості](https://drive.google.com/file/d/1qcNOK9BdFA-j7Fyo2JrNI_GEvJJfZ-46/view?usp=sharing)
+**03.12** [Тема: Профілактика порушень зору, слуху, опорно-рухового апарату у школярів. Вправи для профілактики плоскостопості](https://drive.google.com/file/d/1qcNOK9BdFA-j7Fyo2JrNI_GEvJJfZ-46/view?usp=sharing)  
 **14.01** [Тема: Звички і здоров'я. Практична робота виконання проєкту з формування корисної звички](https://drive.google.com/file/d/1xEd-tGuSGbtz4h8z3_0ZxZRI4Iy5hmoQ/view?usp=sharing)  
 
 ** Українська мова **  
@@ -510,7 +510,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Змінювання прикметників за родами та числами у сполученні з іменниками. Родові закінчення прикметників](https://drive.google.com/file/d/1HylTHma9uCpPG01X7M4w3scD7l2NZg1v/view?usp=sharing)  
 **07.12** [Тема: Вiдмiнювання прикметникiв у сполученнi з iменниками в однинi та множинi](https://drive.google.com/file/d/1ikqCNKAa13tzSpHz2mHTK32XN_cRgUcA/view?usp=sharing)  
 **08.12** [Тема: Зіставлення закінчень прикметників з основою на твердий та м’який приголосний в однині і множині](https://drive.google.com/file/d/1cVNaVJgTH328DxQd2XE-6f03MqZZ1OHm/view?usp=sharing)  
-**11.01** [І підгрупа. Тема: Закріплення знань про правопис прикметників у множині](https://drive.google.com/file/d/14qbPNoQu9_vL5B8d9KpV6EnGGNuWFx1o/view?usp=sharing)
+**11.01** [І підгрупа. Тема: Закріплення знань про правопис прикметників у множині](https://drive.google.com/file/d/14qbPNoQu9_vL5B8d9KpV6EnGGNuWFx1o/view?usp=sharing)  
 **11.01** [ІІ підгрупа. Тема: Закріплення знань про правопис прикметників у множині](https://drive.google.com/file/d/11h-wGePdXFhvZHdp8oNjT1preTJAPl-l/view?usp=sharing)  
 **12.01** [Тема: Побудова сполучень слів і речень із прикметниками, уведення їх у текст](https://drive.google.com/file/d/14o18tm2HqXl1qf9ffXA458-RGfKYdZLT/view?usp=sharing)  
 **14.01** [Тема: Закріплення вивченого про прикметник](https://drive.google.com/file/d/1ptbzNmJ-eUTbkfiII5PmjWEIJqR9BisR/view?usp=sharing)  
@@ -1199,7 +1199,7 @@ export default function DistanceLearning() {
 **15.01** [Хоменко А. Ю. Тема: Комунікативні технології](https://drive.google.com/file/d/19a_t5bm9uQxiL0ssYYiyzCnd_p5lw8Mg/view?usp=sharing)  
 
 ** Захист України**  
-**07.12** [Хлопці. Тема: Статути Збройних Сил України. Військові звання військовослужбовців Збройних Сил України](https://drive.google.com/file/d/1OzU2dwv875YIu-Owskc3Irad1zmIoqE9/view?usp=sharing)
+**07.12** [Хлопці. Тема: Статути Збройних Сил України. Військові звання військовослужбовців Збройних Сил України](https://drive.google.com/file/d/1OzU2dwv875YIu-Owskc3Irad1zmIoqE9/view?usp=sharing)  
 **11.01** [Хлопці. Тема: Вогнева підготовка](https://drive.google.com/file/d/190Hpb8Hc2f1DXFKG1XJdIfRWQKXTefWM/view?usp=sharing)  
 **11.01** [Дівчата. Тема: Потенційно небезпечні місця. Вибухонебезпечні предмети](https://drive.google.com/file/d/1onH0OCXfhI6qW2YA2RZo6xsNgkVifZKR/view?usp=sharing)  
 
