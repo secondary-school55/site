@@ -82,8 +82,10 @@ export default function DistanceLearning() {
 **14.01** [Тема: Читання Звук ґ, позначеня його буквою ґе](https://drive.google.com/file/d/1qH8vagA0iXgFMd8xEeJEg51Ko-sooPRQ/view?usp=sharing)  
 
 ** Англійська мова **  
-**04.12** [1-А. Тема: Школа](https://drive.google.com/file/d/1dVzlit8c58ztKuqNk70e7sNuMCzAQzqZ/view?usp=sharing)  
+**04.12** [Тема: Школа](https://drive.google.com/file/d/1dVzlit8c58ztKuqNk70e7sNuMCzAQzqZ/view?usp=sharing)  
 **07.12** [Тема: Моя родина](https://drive.google.com/file/d/1tHi4PcA9O7IS2KKBnV2xnGPoD9KJ7ESr/view?usp=sharing)  
+**11.01** [Тема: Я можу стрибати](https://drive.google.com/file/d/1TLstAd2Z6IDuV9KpJ5HsqfmC1Y7Y7Tan/view?usp=sharing)  
+**15.01** [Тема: Я можу читати](https://drive.google.com/file/d/10lHbHxGgVBxLDjU5jqUalRlXbamcJcfr/view?usp=sharing)  
 
 ** Навчання грамоти **  
 **04.12** [Тема: Звуки д, д’, позначення їх буквою «де». Практичне засвоєння дзвін-кої вимови звуків у кінці складів і слів. Словниково-логічні вправи](https://drive.google.com/file/d/1ZAOClYQ8HSOzVHbQ4qSlFuvsrc27sgkS/view?usp=sharing)  
@@ -146,6 +148,10 @@ export default function DistanceLearning() {
 
 ** Фізична культура **  
 **11.01** [Тема: Перегляд відео](https://drive.google.com/file/d/1B2Wpovo6YBxECDsKgjZmw8b9dJMWldZt/view?usp=sharing)  
+
+** Англійська мова **  
+**13.01** [Тема: Я можу стрибати](https://drive.google.com/file/d/1qRZsU0FHl8VPDip11pjJLjrFYIU2YUuV/view?usp=sharing)  
+**15.01** [Тема: Я можу читати](https://drive.google.com/file/d/1GriTlSFgXAtOjB_ZIK5561KBFzHr8xh7/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="1-В">
@@ -204,6 +210,7 @@ export default function DistanceLearning() {
 ** Англійська мова **  
 **03.12** [Тема: Школа](https://drive.google.com/file/d/1ioY_Y8l-j2E4qXlL4MVnyRt9Z5ND_f4z/view?usp=sharing)  
 **07.12** [Тема: Моя родина](https://drive.google.com/file/d/1tHi4PcA9O7IS2KKBnV2xnGPoD9KJ7ESr/view?usp=sharing)  
+**11.01** [Тема: Я можу стрибати](https://drive.google.com/file/d/1HSi7uDssbld0qzIZ1DBfQEoWSeGyqrkI/view?usp=sharing)  
 **14.01** [Тема: Я можу читати](https://drive.google.com/file/d/15FtlYh_MLY_vk6T369trmLK5p8jYw6cO/view?usp=sharing)  
 
 ** Дизайн і технології **  
