@@ -384,9 +384,9 @@ export default function DistanceLearning() {
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1CbxkNJHRP-O8TfHLE4mA0__Mu-56Ovd3/view?usp=sharing)  
 **04.12** [Тема: Розбираю слова за будовою. Написання розгорнутої відповіді на запитання (с.69-70)](https://drive.google.com/file/d/16_6Ij1Yc7d1SGifm2jkPij2prkgHWPoQ/view?usp=sharing)  
 **13.01** [Тема: Власні і загальні назви](https://drive.google.com/file/d/1LsFG2UyWn_yMVmtq4-TU1E5ATvdSSvEQ/view?usp=drive_web)  
-**13.01** [Тема: Назви істот, неістот](https://drive.google.com/file/d/1y8gWgHhxirlZ-vYV0TVOsH6n-bBjML1k/view?usp=sharing)  
+**13.01** [Тема: Назви істот, неістот. Розрізняю іменники — назви істот і неістот. Складання речень](https://drive.google.com/file/d/1y8gWgHhxirlZ-vYV0TVOsH6n-bBjML1k/view?usp=sharing)  
 **14.01** [Тема: Власні і загальні назви](https://drive.google.com/file/d/1TOxVV0MkrKphWBwUsWNzD_Ac7CGvW3gU/view?usp=drive_web)  
-**14.01** [Тема: Власні і загальні іменники](https://drive.google.com/file/d/1VptiTesOLhtBzEJVVLOxPKMiqieU2lTn/view?usp=sharing)  
+**14.01** [Тема: Розрізняю власні і загальні іменники. Написання тексту за поданими запитаннями ](https://drive.google.com/file/d/1VptiTesOLhtBzEJVVLOxPKMiqieU2lTn/view?usp=sharing)  
 **15.01** [Тема: Записую власні назви з великої букви](https://drive.google.com/file/d/1JPKEx9QfO8glADERLElpOkm-14dhDgBc/view?usp=sharing)  
 **15.01** [Презентація. Тема: Записую власні назви з великої букви](https://drive.google.com/file/d/1c-Wcyl6PAMaxbarOVQn6BYykyrY6EkZc/view?usp=drive_web)  
 
@@ -415,13 +415,14 @@ export default function DistanceLearning() {
 **11.01** [Тема: Робота з рiзними джерелами iнформацii](https://drive.google.com/file/d/15MB--TNyROHh7Nyt4cHBIHHl38mK9F6Y/view?usp=sharing)  
 **12.01** [Тема: Як не любить свій край](https://drive.google.com/file/d/1fyvy3vyBDoh0-mQM2gF4SIGEag3_AY8t/view?usp=sharing)  
 **14.01** [Тема: Вірші вихованців Павлиської школи. Д. Телкова «Героям». М. Малолітко «Воїнові, який захищає Вітчизну»](https://drive.google.com/file/d/1KcAOfGQO32LdRrc4E7Dtmp37uh3JymRn/view?usp=sharing)  
-**15.01** [Тема: Україна в мініатюрі. О. Кротюк «Наші скарби»](https://drive.google.com/file/d/13t8HbYEGFhaTMPTJAnc_sAK0iX-3Zpjs/view?usp=drive_web)  
+**15.01** [Тема: Україна в мініатюрі. О. Кротюк «Наші скарби»](https://drive.google.com/file/d/10jRWJSqkkMVrq547c9Y_Ri7z_E1ffWkw/view?usp=sharing)  
 **15.01** [Презентація. Тема: Україна в мініатюрі. О. Кротюк «Наші скарби»](https://drive.google.com/file/d/1WP49MEiGvctx0KGVHGbKzQng3u5TrQPN/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
 **11.01** [Тема: Бесiда "Режим дня". Правила рухливих вправ](https://drive.google.com/file/d/1dpXjU3C0zkfVkRpK7S3EQksti2P-sVKV/view?usp=sharing)  
-**15.01** [Тема: Бесіда «Правила безпеки під час занять стрибковими вправами». Загальнорозвивальні вправи. Комплекс ранкової гігієнічної гімнастики. Вправи на координацію. Стрибки на місці на одній, двох ногах, із поворотами, кругом. Рухлива гра «Хто більше»](https://drive.google.com/file/d/1xlKyxzxA3WYPhRo-DmV-5jelcBDRCAeo/view?usp=sharing)  
+**12.01** [Тема: Бесіда «Правила безпеки під час занять стрибковими вправами». Загальнорозвивальні вправи. Комплекс ранкової гігієнічної гімнастики. Вправи на координацію. Стрибки на місці на одній, двох ногах, із поворотами, кругом. Рухлива гра «Хто більше»](https://drive.google.com/file/d/1kKvUwm7nY6KyxaASh7WO14WyeFOIQ1Li/view?usp=sharing)  
+**15.01** [Тема: Правила безпеки на заняттях. Організовуючі і загально розвивальні вправи.  Комплекс вправ ранкової гімнастики. Різновиди ходьби, бігу. Вправи для розвитку сили. Рухлива гра](https://drive.google.com/file/d/1jZCjQak44c_UXXylkPTreJjxtytl-Gae/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **11.01** [Тема: Композицiя "Полiт Карлсона над мiстом"](https://drive.google.com/file/d/1dhQA_ZrWUo6aZiE1XqG-YzOCjyXhezeo/view?usp=sharing)  
@@ -443,16 +444,16 @@ export default function DistanceLearning() {
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1aMckvGtRntg_f6p15jt_-ws3qUiS-4DC/view?usp=sharing)  
 **07.12** [Тема: Значення грибів для природи](https://drive.google.com/file/d/1Z87OcfgT8kpP-vnBcQgqIdGmF5Q3yotj/view?usp=sharing)  
 **11.01** [Тема: Яку будову маe наше тiло](https://drive.google.com/file/d/1IK6Sfs52ilvhYjSJ259JRnlNvGMARzsr/view?usp=sharing)  
-**12.01** [Тема: Яка роль шкіри в організмі людини](https://drive.google.com/file/d/1BAanqDO3-hFhvdH9p5qrRc5gVE3HNNZl/view?usp=sharing)  
+**12.01** [Тема: Яка роль шкіри в організмі людини](https://drive.google.com/file/d/1OKxa43QovYvTQ7C1GVHa_PuFWF6jzwSK/view?usp=sharing)  
 **14.01** [Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/12eabUC4ooag9i17nbwTAm_MQScczHy8B/view?usp=sharing)  
 **14.01** [Презентація. Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/1SHWkESDP1T9s1K3btiXyhNfdLUDD4gIv/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1xXi1QIpOVQ295yrr8H3iHctB9Z8m8Wsv/view?usp=sharing)  
 **04.12** [Тема: Розбираю слова за будовою. Написання розгорнутої відповіді на запитання (с.69-70)](https://drive.google.com/file/d/16_6Ij1Yc7d1SGifm2jkPij2prkgHWPoQ/view?usp=sharing)  
-**13.01** [Тема: Назви істот, неістот](https://drive.google.com/file/d/1uEJCwjDuA7r9rHIpg2qXO6G7PHJJRHAp/view?usp=sharing)  
+**13.01** [Тема: Назви істот, неістот. Розрізняю іменники — назви істот і неістот. Складання речень](https://drive.google.com/file/d/1uEJCwjDuA7r9rHIpg2qXO6G7PHJJRHAp/view?usp=sharing)  
 **14.01** [Тема: Власні і загальні назви](https://drive.google.com/file/d/1nUejfmE2fnJdB128Uzm4vAse_Ekh6CjV/view?usp=drive_web)  
-**14.01** [Тема: Власні і загальні іменники](https://drive.google.com/file/d/1ung7hM9hvh7sU-AUWTpWQ2V4M5br_gtg/view?usp=sharing)  
+**14.01** [Тема: Розрізняю власні і загальні іменники. Написання тексту за поданими запитаннями ](https://drive.google.com/file/d/1VptiTesOLhtBzEJVVLOxPKMiqieU2lTn/view?usp=sharing)  
 **15.01** [Тема: Записую власні назви з великої букви](https://drive.google.com/file/d/1gb5pm25yarGbQtAJtSnl9nlqE01swa2K/view?usp=sharing)  
 **15.01** [Презентація. Тема: Записую власні назви з великої букви](https://drive.google.com/file/d/13t6mxKQZxTPnwT1UHdiu_mA2W0DPubG1/view?usp=sharing)  
 
@@ -471,7 +472,8 @@ export default function DistanceLearning() {
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
 **11.01** [Тема: Бесiда "Режим дня". Правила рухливих вправ.](https://drive.google.com/file/d/18kxrIqQ2I0Q5VxtDf3KnNoA_kGn7MGVf/view?usp=sharing)  
-**15.01** [Тема: Бесіда «Правила безпеки під час занять стрибковими вправами». Загальнорозвивальні вправи. Комплекс ранкової гігієнічної гімнастики. Вправи на координацію. Стрибки на місці на одній, двох ногах, із поворотами, кругом. Рухлива гра «Хто більше»](https://drive.google.com/file/d/1bTrQF-IR6mQSIrstMQ9DrYHO-pnmzf8a/view?usp=sharing)  
+**12.01** [Тема: Бесіда «Правила безпеки під час занять стрибковими вправами». Загальнорозвивальні вправи. Комплекс ранкової гігієнічної гімнастики. Вправи на координацію. Стрибки на місці на одній, двох ногах, із поворотами, кругом. Рухлива гра «Хто більше»](https://drive.google.com/file/d/1kKvUwm7nY6KyxaASh7WO14WyeFOIQ1Li/view?usp=sharing)  
+**15.01** [Тема: Правила безпеки на заняттях. Організовуючі і загально розвивальні вправи.  Комплекс вправ ранкової гімнастики. Різновиди ходьби, бігу. Вправи для розвитку сили. Рухлива гра](https://drive.google.com/file/d/1jZCjQak44c_UXXylkPTreJjxtytl-Gae/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
@@ -479,6 +481,8 @@ export default function DistanceLearning() {
 **08.12** [Тема: Робота з дитячою книжкою. Григорій Фалькович Щедрий комар](https://drive.google.com/file/d/12XfDi8NrKlTWoyvenOm9zGeNjAIZy4Mr/view?usp=sharing)  
 **11.01** [Тема: Робота з рiзними джерелами iнформацiї](https://drive.google.com/file/d/1995wPMnPsYhmPVIA0JaBYNlH4yFLhkwJ/view?usp=sharing)  
 **12.01** [Тема: Як не любить свій край](https://drive.google.com/file/d/1fJTtljffcbD6o8M6q8Pa2AagteO25NG_/view?usp=sharing)  
+**15.01** [Тема: Україна в мініатюрі. О. Кротюк «Наші скарби»](https://drive.google.com/file/d/10jRWJSqkkMVrq547c9Y_Ri7z_E1ffWkw/view?usp=sharing)  
+**15.01** [Презентація. Тема: Україна в мініатюрі. О. Кротюк «Наші скарби»](https://drive.google.com/file/d/1WP49MEiGvctx0KGVHGbKzQng3u5TrQPN/view?usp=sharing)  
 
 ** Англійська мова **  
 **11.01** [Тема: Мандрівка у великий будинок](https://drive.google.com/file/d/1mDmTRC20f27VBAhPwomQs6pzHS9MPezV/view?usp=sharing)  
