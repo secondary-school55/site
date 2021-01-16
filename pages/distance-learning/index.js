@@ -1221,7 +1221,6 @@ export default function DistanceLearning() {
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Західноукраїнська Народна Республіка.](https://drive.google.com/file/d/1UX5pzPnYGVUlJs01kyXsn3UxARYrvB_5/view?usp=sharing)  
-**11.01** [Тема: Поява демократії](https://drive.google.com/file/d/1YA97w93ZHBb5qcSDRkOUixfJySWwWlCo/view?usp=sharing)  
 **12.01** [Тема: Утворення Радянського Союзу. Запровадження нової економічної політики](https://drive.google.com/file/d/198gM5KftrRB-qm_6-x-cMHKym0YSwwkJ/view?usp=sharing)  
 **15.01** [Тема: Індустріалізація радянської України](https://drive.google.com/file/d/1y7gqpHTvG35p49P0Z2L4rEvwv6ODZHOB/view?usp=sharing)  
 
@@ -1255,6 +1254,7 @@ export default function DistanceLearning() {
 **15.01** [ІІ підгрупа. Тема: Основні етапи проєктування виробу. Складання технологічної послідовності виготовлення виробу](https://drive.google.com/file/d/18MlAOoYQgjuWYSYIBDqGnbhcjFX9MGS2/view?usp=sharing)  
 
 ** Громадянська освіта **  
+**11.01** [Тема: Поява демократії](https://drive.google.com/file/d/1YA97w93ZHBb5qcSDRkOUixfJySWwWlCo/view?usp=sharing)  
 **12.01** [Тема: Вибори. Референдум](https://drive.google.com/file/d/1p44UiEvXNtX23HI7yctZKF41JCkohMMb/view?usp=sharing)  
 
 ** Зарубіжна література **  
