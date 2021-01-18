@@ -88,6 +88,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Моя родина](https://drive.google.com/file/d/1tHi4PcA9O7IS2KKBnV2xnGPoD9KJ7ESr/view?usp=sharing)  
 **11.01** [Тема: Я можу стрибати](https://drive.google.com/file/d/1TLstAd2Z6IDuV9KpJ5HsqfmC1Y7Y7Tan/view?usp=sharing)  
 **15.01** [Тема: Я можу читати](https://drive.google.com/file/d/10lHbHxGgVBxLDjU5jqUalRlXbamcJcfr/view?usp=sharing)  
+**18.01** [Тема: Час із родиною](https://drive.google.com/file/d/12xvSL2u_EUz_3FL3ML-aF2MLqu5J_oAh/view?usp=sharing)  
 
 ** Навчання грамоти **  
 **04.12** [Тема: Звуки д, д’, позначення їх буквою «де». Практичне засвоєння дзвін-кої вимови звуків у кінці складів і слів. Словниково-логічні вправи](https://drive.google.com/file/d/1ZAOClYQ8HSOzVHbQ4qSlFuvsrc27sgkS/view?usp=sharing)  
@@ -225,6 +226,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Моя родина](https://drive.google.com/file/d/1tHi4PcA9O7IS2KKBnV2xnGPoD9KJ7ESr/view?usp=sharing)  
 **11.01** [Тема: Я можу стрибати](https://drive.google.com/file/d/1HSi7uDssbld0qzIZ1DBfQEoWSeGyqrkI/view?usp=sharing)  
 **14.01** [Тема: Я можу читати](https://drive.google.com/file/d/15FtlYh_MLY_vk6T369trmLK5p8jYw6cO/view?usp=sharing)  
+**18.01** [Тема: Час із родиною](https://drive.google.com/file/d/1mq0nJnbAAKx-92ZHma1GVkEmF8AgKeY_/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **13.01** [Тема: Розумна сова](https://drive.google.com/file/d/19FWahGX0oRWdtGQ4MSksjVWrnhEIDgeu/view?usp=sharing)  
@@ -779,6 +781,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/19JpbGmIRyTMoW5R2LWURakA-bIZX3U6_/view?usp=sharing)  
 **14.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/12aDjzZNcQ5pIg84_LJOowtmnEJbU-jGD/view?usp=sharing)  
 **15.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1Og43cbmenI2GgRbINuVhkQmLUNnPDyii/view?usp=sharing)  
+**18.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1M5NyXKDRbrKRvePxBYCfLSSIfEFQvUvX/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **11.01** [Тема: Скульптура космонавт](https://drive.google.com/file/d/1mvaqrrkGEY-U7MTH9WrLW-q_fnGKRq6A/view?usp=sharing)  
@@ -791,6 +794,7 @@ export default function DistanceLearning() {
 **13.01** [5-А. Тема: Особливості поетичних загадок. Л. Глібов, роль у них казкових елементів, фольклорної основи, гумору, пестливих слів](https://drive.google.com/file/d/1O8kDBu5GJo2wRO4Mtwcx0srs_KQ43xy-/view?usp=sharing)  
 **13.01** [5-Б. Тема: Особливості поетичних загадок, роль у них казкових елементів, фольклорної основи](https://drive.google.com/file/d/110bEXNQcZPr28UcQf2FpkCqhBwL2ajSQ/view?usp=sharing)  
 **18.01** [5-А. Тема: «Повість минулих літ» - найдавніший літопис нашого народу](https://drive.google.com/file/d/1D3Pk4Ib_c9eZHq1mzWSn_ZzS2Yf8VL-n/view?usp=sharing)  
+**18.01** [5-Б. Тема: Повість минулих літ-найдавніший літопис нашого народу. Літописні оповіді  Три брати- Кий, Щек, Хорив і сестра їхня Либідь,  Святослав укладає мир з греками і повертається до Києва. Смерть Святослава](https://drive.google.com/file/d/1VNGKOWDlrwDmSKB2KvJ3QpS6nhcP91GL/view?usp=sharing)  
 
 ** Зарубіжна література **  
 **12.01** [Тема: Світ дорослих і світ дітей у повісті](https://drive.google.com/file/d/1cHfohaV_CYmsTVX2Oi9yxl94CcrBcDaO/view?usp=sharing)  
@@ -839,6 +843,7 @@ export default function DistanceLearning() {
 **13.01** [6-Б. Презентація. Тема: Кругові та стовпчасті діаграми](https://drive.google.com/file/d/1XnTl3NwsLlBSJnPNDF9oMJhcatT2XI40/view?usp=sharing)  
 **15.01** [6-Б. Тема: Ймовірність випадкової події](https://drive.google.com/file/d/1GfILiSRpplxvzgeQgHwsBnff8Uo32ADF/view?usp=sharing)  
 **15.01** [6-А,В. Тема: Розв'язування вправ](https://drive.google.com/file/d/1vlD1lBEG3vAIS-s6lkCKKfMQD16vH-X0/view?usp=sharing)  
+**18.01** [6-Б. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1vM6ZHcMvA5jIjXgb3Vo663wecYdANDur/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
@@ -896,6 +901,7 @@ export default function DistanceLearning() {
 **11.01** [6-А. Тема: А.П.Чехов Хамелеон](https://drive.google.com/file/d/1PfhpTVhihBn22ZZafAJ0UAig2vydUWqH/view?usp=sharing)  
 **12.01** [6-Б,В. Тема: А.П.Чехов Хамелеон](https://drive.google.com/file/d/1PfhpTVhihBn22ZZafAJ0UAig2vydUWqH/view?usp=sharing)  
 **14.01** [6-А,Б,В. Тема: А.П.Чехов Товстий і тонкий](https://drive.google.com/file/d/1RpnTytzDvTUDxd-fOmTv0_p9DSV4fNE6/view?usp=sharing)  
+**18.01** [6-А. Тема: Викриття пристосуванства, підлабузництва в оповіданнях А.П. Чехова. Діалог як основна форма розкриття сюжету](https://drive.google.com/file/d/19mtPuXVlE9fmhJdQOKjWh5WKMFc2xdm8/view?usp=sharing)  
 
 ** Російська мова **  
 **13.01** [6-А. Тема: Правописание не с глаголами. Правописание -тся, -ться на конце глаголов](https://drive.google.com/file/d/1HvuduB6zBZNOhSh61W8TlOppA2vsTaC8/view?usp=sharing)  
@@ -940,6 +946,7 @@ export default function DistanceLearning() {
 **14.01** [7-А. Тема: Символіка олімпійських ігор](https://drive.google.com/file/d/1UaFF3KYrmmJXmXIGxSwZsHvnPF4N2DLB/view?usp=sharing)  
 **14.01** [7-А. Тема: Символіка олімпійських ігор](https://drive.google.com/file/d/1lV_IYsZZzYdUbyI2gfEKuM04zvlAAKla/view?usp=sharing)  
 **18.01** [7-А. І група. Тема: Сучасні міжнародні спортивні події](https://drive.google.com/file/d/1Vuo7HeRt43SUWmiUpXcbjqwHfHwqVcH9/view?usp=sharing)  
+**18.01** [7-А. ІІ група. Тема: Сучасні міжнародні спортивні події](https://drive.google.com/file/d/1wKGbo-UqgGDDBbRlgltM4IEH4h_BXpBL/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Створення моделей для розв’язування задач](https://drive.google.com/file/d/129xZiYVeZFgltMSzdCWdQEco6wnXtbuw/view?usp=drive_web)  
@@ -996,6 +1003,7 @@ export default function DistanceLearning() {
 **11.01** [7-Б. Тема: Уславлення дружби й вірності у вірші](https://drive.google.com/file/d/1q_z-piiacmGpZ4P54I9aoZJtOZp1NpwI/view?usp=sharing)  
 **12.01** [7-А. Тема: Уславлення дружби й вірності у вірші](https://drive.google.com/file/d/1q_z-piiacmGpZ4P54I9aoZJtOZp1NpwI/view?usp=sharing)  
 **15.01** [7-А,Б. Тема: Олександр Грін. Пурпурові вітрила. Поєднання реального і фантастичного в повісті](https://drive.google.com/file/d/1z_IXKzjO-Q4Sjp72qSTGPz6yZ9Oj3yrL/view?usp=sharing)  
+**18.01** [7-Б. Тема: Пурпурові вітрила. Основний конфлікт твору](https://drive.google.com/file/d/1HMKzaHlgHsNKKyv9X7M-KvIDUjD9DRmi/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1LYMqo8lKOm-bCK_MHTKKwk0WLaRKPTEK/view?usp=sharing)  
@@ -1087,7 +1095,8 @@ export default function DistanceLearning() {
 **13.01** [8-А. Тема: Удосконалення та закріплення елементів гри з баскетболу: розвиток основних фізичних якостей (швидкісно-силових здібностей, витривалості)](https://drive.google.com/file/d/1g6AxfxGJ4GjlN7YqoKUfbx7597Y5RhmI/view?usp=sharing)  
 **15.01** [8-А. Тема: Техніка та тактика гри в баскетбол (обігрування суперника, індивідуальні та групові тактичні дії у нападі та захисті)](https://drive.google.com/file/d/1IcIBT7dhnNc7ZAPpX5l_vuZ0Oyamp42x/view?usp=sharing)  
 **15.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1kQZxPeZF08yoII2V4fLwpHT1GErWRMZM/view?usp=sharing)  
-**18.01** [Тема: Школа м’яча. Пересування гравця; ловіння м’яча двома та однією руками на різних рівнях і напрямках](https://drive.google.com/file/d/14HWjGv-C6VNCApzvUCkNDERwipX8-c0z/view?usp=sharing)  
+**18.01** [8-А. Тема: Школа м’яча. Пересування гравця; ловіння м’яча двома та однією руками на різних рівнях і напрямках](https://drive.google.com/file/d/14HWjGv-C6VNCApzvUCkNDERwipX8-c0z/view?usp=sharing)  
+**18.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/13CnmyXH0MC5LyZNTTKw7WJt_0YhnFtW_/view?usp=sharing)  
 
 ** Біологія **  
 **04.12** [Тема: Значення дихання. Будови і функції органів дихання](https://drive.google.com/file/d/1h8oxnpA9mSto58NfYV2yjRUNRFcB1z3B/view?usp=sharing)  
@@ -1180,6 +1189,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Майбутнє у наших руках](https://drive.google.com/file/d/1RQ-Ma6rgOg1rLoWxmBrVVPGzAFZlzyvU/view?usp=sharing)  
 **14.01** [ІІ група. Тема: Тварини в небезпеці](https://drive.google.com/file/d/1tuTnvhxgYkqvSWILFxeMwLlyyEcC_JGC/view?usp=sharing)  
 **14.01** [Тема: Тварини в небезпеці](https://drive.google.com/file/d/1RhjgxlUaPmZAh5Kdb-XIYURiQ3cwV0Ej/view?usp=sharing)  
+**18.01** [9-А. ІІ група. Тема: Тварини у небезпеці](https://drive.google.com/file/d/1DVYs-NtkpwMi6eFR3TZPt4OUi1bj8Ocx/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
@@ -1300,6 +1310,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Техніка та тактика гри в баскетбол (ловіння та передача м’яча однією рукою)](https://drive.google.com/file/d/1zHiHuL5Jat8ofChJR_Is7jn7-C27tgAe/view?usp=sharing)  
 **15.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1v4HR7NuYOa6mprDOaN7MkRKzhTDHzI_T/view?usp=sharing)  
 **18.01** [Тема: Школа м’яча. Персональний та позиційний захист, тактика захисту і атаки](https://drive.google.com/file/d/1A-3PxAP7p7Gp_aZGGubCxLH7K4srdSm6/view?usp=sharing)  
+**18.01** [Тема: Комплекс ранкової гігієнічної гімнастики](https://drive.google.com/file/d/1J1Dok0FbCEcBFm-RprKoPTeZJnk7perA/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Західноукраїнська Народна Республіка.](https://drive.google.com/file/d/1UX5pzPnYGVUlJs01kyXsn3UxARYrvB_5/view?usp=sharing)  
