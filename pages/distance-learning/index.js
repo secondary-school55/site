@@ -1247,6 +1247,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Стислий усний переказ тексту публіцистичного стилю](https://drive.google.com/file/d/1-DHsHbSTpEuQ412tstPEzrnv1nLCz9mE/view?usp=sharing)  
 **13.01** [Тема: Стислий усний переказ тексту публіцистичного стилю](https://drive.google.com/file/d/119DO-0LnY3dxpYHlGpQ0eLCuXWmcZ7Zn/view?usp=sharing)  
 **18.01** [Тема: Розділові знаки в складнопідрядному реченні з кількома підрядними](https://drive.google.com/file/d/1joBxsLiM5ZDCty8Lp7qGKCmkBA-cWRVy/view?usp=sharing)  
+**18.01** [9-А. І група. Тема: СПР з кількома підрядними](https://drive.google.com/file/d/1Vhga5wTyBdJ5Z_IGUmuNF0WWRyfFMyMT/view?usp=sharing)  
 
 ** Фізика **  
 **04.12** [Тема: Механічні хвилі](https://drive.google.com/file/d/1gFUenJvZoiJfbG2dXxl35x6LtqAUs2RB/view?usp=sharing)  
@@ -1288,6 +1289,7 @@ export default function DistanceLearning() {
 **12.01** [Стрембицька Л.А. Тема: Фразеологічні одиниці української мови. Основні ознаки фразеологізмів. Основні групи фразеологізмів](https://drive.google.com/file/d/1DCFJyJyqINXzaCZp-2S93IiZUjW1crQ7/view?usp=sharing)  
 **12.01** [Добровольська В. Е. Тема: Фразеологічні одиниці української мови](https://drive.google.com/file/d/12Gg5S1uZiL_BMtWqhjqycUxbHLE-AUXB/view?usp=sharing)  
 **13.01** [Стрембицька Л.А. Тема: Стилістична система української мови](https://drive.google.com/file/d/1Q1zBK4NY0K616pLOemT_3nVGop_JrVve/view?usp=sharing)  
+**13.01** [Добровольська В. Е. Тема: РМ Розмовний стиль](https://drive.google.com/file/d/1CvxSCzdlEvg7Dt8a0B4tHu6efUZ3aMyp/view?usp=sharing)  
 **14.01** [Стрембицька Л.А. Тема: Джерела формування фразеологізмів української мови. Використання фразеологізмів у різних стилях мови](https://drive.google.com/file/d/1Uc8ivagU7hWMI6UuVO8Txfk3QaMsqBl1/view?usp=sharing)  
 **14.01** [Добровольська В. Е. Тема: Джерела фразеологізмів](https://drive.google.com/file/d/1AKggzxQ39uJ1YgAY2qtbdaBpewTI5b06/view?usp=sharing)  
 **15.01** [Стрембицька Л.А. Тема: Прислів’я та приказки, крилаті вислови. Стійкі народні порівняння. Побажання, приповідки, каламбури, їх оцінний зміст](https://drive.google.com/file/d/1mCaengvxqaLZZYreUqZ1gVI1qnJSXLfV/view?usp=sharing)  
