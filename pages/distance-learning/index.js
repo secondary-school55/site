@@ -302,6 +302,7 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **11.01** [Тема: Правила безпечної роботи з цифровими ґаджетами](https://drive.google.com/file/d/1imDvg8zWf_m6OUAjHJrFWbh4t2qlk2p0/view?usp=drive_web)  
+**18.01** [Тема: Пошук зображень в Інтернеті](https://drive.google.com/file/d/1ne-LYW0myt7WTxBw9g124_TnY2JuKS_I/view?usp=drive_web)  
 `}</Md>
           </Tab>
           <Tab title="2-Б">
@@ -352,6 +353,7 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **11.01** [Тема: Правила безпечної роботи з цифровими ґаджетами](https://drive.google.com/file/d/1imDvg8zWf_m6OUAjHJrFWbh4t2qlk2p0/view?usp=drive_web)  
+**18.01** [Тема: Пошук зображень в Інтернеті](https://drive.google.com/file/d/1ne-LYW0myt7WTxBw9g124_TnY2JuKS_I/view?usp=drive_web)  
 
 ** Фізична культура **  
 **11.01** [Тема: Комплекс вправ ранкової гімнастики](https://drive.google.com/file/d/1lA8PSuCBEqf4v0pEPZPTer_x3nrgvP3u/view?usp=sharing)  
@@ -639,6 +641,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Множення багатоцифрових чисел, що закінчуються нулями. Задачі на спільну роботу](https://drive.google.com/file/d/10kc67ej04CgihVsMUF8hxTqekjxFW5mP/view?usp=sharing)  
 **14.01** [Тема: Множення одноцифрових чисел на багатоцифрові. Знахо¬дження значень виразів на сумісні дії різного ступеня. Задачі на спільну роботу](https://drive.google.com/file/d/1hcNuZJsrJ9Q5HT2qzadWW3ShO3UyTI17/view?usp=sharing)  
 **15.01** [Тема: Площа фігури. Квадратний сантиметр. Задачі, аналогічні до задач на спільну роботу](https://drive.google.com/file/d/12ssI3W5dGJEyR-BXUZYiESSqWlD5IOHa/view?usp=sharing)  
+**18.01** [Тема: Правило обчислення площі прямокутника та його застосування. Знаходження значень виразів на сумісні дії. Задачі на спільну роботу](https://drive.google.com/file/d/1sH1vA4Pi6uYCVqOViW7nebHFd7gvqBpS/view?usp=sharing)  
 
 ** Природознавство **  
 **03.12** [Тема: Рослинний і тваринний світ Євразії](https://drive.google.com/file/d/19B5F0TdlKF4LUvAQpcxKbDVSHyyTeqsP/view?usp=sharing)  
@@ -820,6 +823,7 @@ export default function DistanceLearning() {
 **11.01** [6-Б. Тема: Керування об’єктами у середовищі виконання алгоритмів](https://drive.google.com/file/d/1VNV5qeK5yBI5RGBGqKm1F47MW3EZT6_o/view?usp=drive_web)  
 **14.01** [6-В. Тема: Редагування програмних об’єктів.](https://drive.google.com/file/d/16uK94BEboljVzcud-sfI-BgczQk6SqYY/view?usp=drive_web)  
 **15.01** [6-В. Тема: Редагування програмних об’єктів.](https://drive.google.com/file/d/16uK94BEboljVzcud-sfI-BgczQk6SqYY/view?usp=drive_web)  
+**18.01** [6-Б. Тема: Програмування процесів з повторенням і розгалуженням](https://drive.google.com/file/d/1xUUMZus4_T25XqvnlY_t1nHPp6259_Vx/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
