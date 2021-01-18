@@ -169,12 +169,12 @@ export default function DistanceLearning() {
           </Tab>
           <Tab title="1-В">
             <Md>{`
-** Музичне мистецтво **  
+** Мистецтво: музичне мистецтво **  
 **08.12** [Тема: Казкові пригоди](https://drive.google.com/file/d/1MdrGUQErQR9z4-v2mhl98pkNzoyjjcTv/view?usp=sharing)  
 **12.01** [Тема: Музика розповідає про людину](https://drive.google.com/file/d/1IDBGPlGC99GoOMpWx7NFZ-nsH4QRmR2H/view?usp=sharing)  
 **13.01** [Тема: Музика розповідає про людину](https://drive.google.com/file/d/1IDBGPlGC99GoOMpWx7NFZ-nsH4QRmR2H/view?usp=sharing)  
 
-** Мистецтво **  
+** Мистецтво: образотворче мистецтво **  
 **03.12** [Тема: Святкові перетворення. Малювання композиції «Сніговик».](https://drive.google.com/file/d/1rlUqnf0AgrfiqQwAQPdXXIJ3NZeyQoPc/view?usp=sharing)  
 **14.01** [Тема: Мандри Країною Мистецтв. Цирк](https://drive.google.com/file/d/1HnkSVKqiKPr0goTh-U_pMtA34oWgR2BO/view?usp=sharing)  
 
@@ -279,7 +279,6 @@ export default function DistanceLearning() {
 **12.01** [Тема: Як утворюється лід на водоймах](https://drive.google.com/file/d/1k7CY147uyNx8kolwpn4iQQEc2bmyqnf1/view?usp=sharing)  
 **13.01** [Тема: Безпека взимку](https://drive.google.com/file/d/1zAWE1B6AprES8BjJHuORaGRiyDxnRTe2/view?usp=sharing)  
 **14.01** [Тема: Хто такий споживач. Реклама. Корисна і шкідлива реклама. Як розповсюджується реклама? Створення реклами продукту, товару](https://drive.google.com/file/d/1nmCDJoBRf8sd2iUyeoa1vqp3WWeWBjlg/view?usp=sharing)  
-**15.01** [ТЕО. Тема: Виготовлення новорічної прикраси «Ковзани». За зразком чи власним задумом](https://drive.google.com/file/d/1le_N-81nntYdpb9mTjRlsjnnlWe_BCmu/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Пори року](https://drive.google.com/file/d/1km6oHMaL5aPtsb5vpLoEVftKb8SYvoBa/view?usp=sharing)  
@@ -303,6 +302,9 @@ export default function DistanceLearning() {
 ** Інформатика **  
 **11.01** [Тема: Правила безпечної роботи з цифровими ґаджетами](https://drive.google.com/file/d/1imDvg8zWf_m6OUAjHJrFWbh4t2qlk2p0/view?usp=drive_web)  
 **18.01** [Тема: Пошук зображень в Інтернеті](https://drive.google.com/file/d/1ne-LYW0myt7WTxBw9g124_TnY2JuKS_I/view?usp=drive_web)  
+
+** Дизайн і технології **  
+**15.01** [Тема: Виготовлення новорічної прикраси «Ковзани». За зразком чи власним задумом](https://drive.google.com/file/d/1VknlhG_ElQ7wvpuFF4pLoh5aWwnbJta8/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="2-Б">
@@ -522,6 +524,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Що знаходиться всередині будинку](https://drive.google.com/file/d/1a_xhvqRrMsLjNRzElbRQjQOerc2ERGuM/view?usp=sharing)  
 **15.01** [Тема: Мої домашні меблі](https://drive.google.com/file/d/1zhy6QcwEwTR1wNLkj975g61R4EYljhdb/view?usp=sharing)  
 **18.01** [І група. Тема: Ставлю питання і відповідаю](https://drive.google.com/file/d/1DRO0h182AJArBrm_UFCuOiaWBN5lponH/view?usp=sharing)  
+**18.01** [ІІ група. Тема: Home, sweet home](https://drive.google.com/file/d/1bEz6df9yTf-tKbnPfuyv1HTL9pbxOyuK/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
@@ -729,6 +732,7 @@ export default function DistanceLearning() {
 **14.01** [5-А. І група. Тема: Префікси роз-, без-](https://drive.google.com/file/d/1Xw7dLcsOcU_enXRfI4GLcnlQNCOfgao2/view?usp=sharing)  
 **14.01** [5-Б. Тема: Спрощення у групах приголосних](https://drive.google.com/file/d/1ZkJ_wlvPGVl12T_XdVVRapmR7EpylLEW/view?usp=sharing)  
 **18.01** [5-А. І група. Тема: Спрощення в групах приголосних](https://drive.google.com/file/d/1gEui2fI0NS11F0MibSAI4-Js95H0Xv6V/view?usp=sharing)  
+**18.01** [5-А. ІІ група. Тема: Спрощення в групах приголосних](https://drive.google.com/file/d/1xeV__dfDZ9d3_EI-njpIdHPUr14HvEVz/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -761,6 +765,7 @@ export default function DistanceLearning() {
 **12.01** [5-А,Б. Тема: Дроби і ділення натуральних чисел](https://drive.google.com/file/d/1iq9PeQcl8FHCpHrsXCO1vw7ir-GkAN5k/view?usp=sharing)  
 **13.01** [5-А,Б. Тема: Порівняння звичайних дробів](https://drive.google.com/file/d/1T3PXdjQWXS-2itvWkz51NW6iKlGctOVG/view?usp=sharing)  
 **15.01** [5-А,Б. Тема: Правильні та неправильні дроби](https://drive.google.com/file/d/1jmNhzrXpi_OinX6a6GQ4UdmXz3dzVqBN/view?usp=sharing)  
+**18.01** [5-А,Б. Тема: Порівняння дробів. Самостійна робота](https://drive.google.com/file/d/16cz0VHDM2tY9D0xyIIn3qgrdyurgHg0N/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
@@ -848,6 +853,7 @@ export default function DistanceLearning() {
 **15.01** [6-Б. Тема: Ймовірність випадкової події](https://drive.google.com/file/d/1GfILiSRpplxvzgeQgHwsBnff8Uo32ADF/view?usp=sharing)  
 **15.01** [6-А,В. Тема: Розв'язування вправ](https://drive.google.com/file/d/1vlD1lBEG3vAIS-s6lkCKKfMQD16vH-X0/view?usp=sharing)  
 **18.01** [6-Б. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1vM6ZHcMvA5jIjXgb3Vo663wecYdANDur/view?usp=sharing)  
+**18.01** [6-А,В. Тема: Модуль числа](https://drive.google.com/file/d/1QgruIa1AxkapdNlQscNBdwSVy4dAdD_2/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
@@ -973,9 +979,11 @@ export default function DistanceLearning() {
 **11.01** [Тема: Дієприслівник як особлива форма дієслова](https://drive.google.com/file/d/1tY7xYqFrYmmDStV1_-5VY8TG7mt2Z7p-/view?usp=sharing)  
 **11.01** [7-А. Алтинбаєва Л. М. (ІІ група), 7-Б. Тема: Дієприслівник як особлива форма дієслова: загальне значення, морфологічні ознаки, синтаксична роль](https://drive.google.com/file/d/1wPUmizPfvrk8xvxlFnAR8ZaVzBONigsU/view?usp=sharing)  
 **13.01** [7-Б. Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1FVGnicieGXVOTeJ_XWiD9Y-VfmPokNuN/view?usp=sharing)  
-**14.01** [7-А Алтинбаєва Л. М. (ІІ група). Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1Mq_8VvHeAosR-u4f10lV055P09CFZpiv/view?usp=sharing)  
+**14.01** [7-А. Алтинбаєва Л. М. (ІІ група). Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1Mq_8VvHeAosR-u4f10lV055P09CFZpiv/view?usp=sharing)  
 **14.01** [7-Б. Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1VgKvWkZNIO6CZ6_ajIX05r7kqVzo1oRV/view?usp=sharing)  
-**14.01** [7-А Харенко Ю. А. (І група). Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1CFk4BBR7Gt_3su7EHFQyV3ji27A5cM_8/view?usp=sharing)  
+**14.01** [7-А. Харенко Ю. А. (І група). Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1CFk4BBR7Gt_3su7EHFQyV3ji27A5cM_8/view?usp=sharing)  
+**18.01** [7-А. Алтинбаєва Л. М. (ІІ група). Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1vAo32W8bXqlHKojUKKpNCVqGTNikS2ZI/view?usp=sharing)  
+**18.01** [7-Б. Алтинбаєва Л. М. (ІІ група). Тема: Дієприслівник доконаного і недоконаного виду, їх творення](https://drive.google.com/file/d/1kyc76mCbTERuLk_WWD6L6ZN8oANncG7D/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -989,6 +997,7 @@ export default function DistanceLearning() {
 **11.01** [7-А,Б. Тема: Розкладання многочлена на множники винесенням спільного множника за дужки](https://drive.google.com/file/d/15Ks4kkI-K7biOkyD3OHBw3XxxecwUq1S/view?usp=sharing)  
 **12.01** [7-Б. Тема: Розкладання многочлена на множники способом группування](https://drive.google.com/file/d/1D4MCUIOU1zUx4AJTxJD47fPeY_RFL5Bh/view?usp=sharing)  
 **13.01** [7-А. Тема: Розкладання многочлена на множники способом группування](https://drive.google.com/file/d/1D4MCUIOU1zUx4AJTxJD47fPeY_RFL5Bh/view?usp=sharing)  
+**18.01** [7-А,Б. Тема: Використання формул скороченого множення для розкладання многочлена](https://drive.google.com/file/d/1yOyVNUGRVZtOVEdOi1xqbXLK-NErdJTu/view?usp=sharing)  
 
 ** Географія **  
 **11.01** [Тема: Географічне положення. Відкриття і дослідження антарктиди](https://drive.google.com/file/d/1lIgDyXiWc38CJRLGqbQqjvOiuHOlwgot/view?usp=sharing)  
@@ -1072,10 +1081,11 @@ export default function DistanceLearning() {
 **08.12** [Тема: Контроль письма](https://drive.google.com/file/d/1Mtr3VOv_jK9HV4uAjHEkvRY5IKCnIiBM/view?usp=sharing)  
 **11.01** [Тема: Засоби масової інформації](https://drive.google.com/file/d/136W2jAuyhX9m2W0DwW6CCuhywkrx2Llw/view?usp=sharing)  
 **12.01** [8-А. Тема: Преса у житті людини](https://drive.google.com/file/d/1VIKe0ChnQHLEJ7fANcVOWs6cZ2Za3b_y/view?usp=sharing)  
-**12.01** [8-А,В. Тема: Ukrainian press](https://drive.google.com/file/d/1sNb3tvMXXMQpgWoHJL7SpiE7OR-aEqei/view?usp=sharing)  
+**12.01** [8-А,Б. Тема: Ukrainian press](https://drive.google.com/file/d/1sNb3tvMXXMQpgWoHJL7SpiE7OR-aEqei/view?usp=sharing)  
 **14.01** [8-А. Тема: Активізація граматичних навичок](https://drive.google.com/file/d/1wYjzr1m_qWett4OTBJ2_7ibjKEaLUumG/view?usp=sharing)  
 **14.01** [8-А. Тема: Активізація граматичних навичок](https://drive.google.com/file/d/1vmRRhqyIHbPnZVVLCkHYoL2gLZAREWi3/view?usp=sharing)  
 **18.01** [8-А. Тема: Місця проведення вільного часу](https://drive.google.com/file/d/1CkVCBWtpuAKPRHbLNT9FpEQhdqDRY8i4/view?usp=sharing)  
+**18.01** [8-А,Б. Хоменко А.Ю. Тема: Місця, де ти проводиш час з книжкою](https://drive.google.com/file/d/1yJQf4UPd6jXNajw2tgAj_xgbWIXi0ROo/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -1194,6 +1204,7 @@ export default function DistanceLearning() {
 **14.01** [ІІ група. Тема: Тварини в небезпеці](https://drive.google.com/file/d/1tuTnvhxgYkqvSWILFxeMwLlyyEcC_JGC/view?usp=sharing)  
 **14.01** [Тема: Тварини в небезпеці](https://drive.google.com/file/d/1RhjgxlUaPmZAh5Kdb-XIYURiQ3cwV0Ej/view?usp=sharing)  
 **18.01** [9-А. ІІ група. Тема: Тварини у небезпеці](https://drive.google.com/file/d/1DVYs-NtkpwMi6eFR3TZPt4OUi1bj8Ocx/view?usp=sharing)  
+**18.01** [9-А,Б. Тема: Тварини в небезпеці. Захист навколишнього середовища](https://drive.google.com/file/d/1Caz032sz1dDMEqTfTUaDxL9fjjsGqUMo/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
