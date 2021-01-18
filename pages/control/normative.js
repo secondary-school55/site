@@ -254,6 +254,7 @@ export default function Normative() {
 1. [Положення про дистанційне навчання](https://drive.google.com/file/d/1kZ93fjRC0NNuyqYM1XtbvCrm3UTHOcRr/view?usp=sharing)
 1. [КЗШ №55. Положення про дистанційну форму здобуття (повної)  загальної середньої освіти в КЗШ № 55 КМР ДО](https://drive.google.com/file/d/1_NYrMvjnVHFkAzyToO1oPkllvfq4mR2M/view?usp=sharing)
 1. [Про затвердження протиепідемічник заходів у закладах освіти на період карантину у зв'язку поширенням коронавірусної хвороби (COVID-19)](https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2050.pdf)
+1. [Про запровадження карантинних обмежень](https://drive.google.com/file/d/1HmaH-2SeIwVYnFidmX4VMxskvdbiHYsW/view?usp=sharing)
 `}</Md>
       </Tab>
     </Tabs>
