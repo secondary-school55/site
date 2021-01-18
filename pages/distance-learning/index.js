@@ -300,12 +300,14 @@ export default function DistanceLearning() {
 **13.01** [Тема: Вправи і задачі на засвоєння таблиці множення числа 3](https://drive.google.com/file/d/1sBJdh3RmGVbwhkmOnYmU2Y_Rd_DZNPGl/view?usp=sharing)  
 **14.01** [Тема: Вправи і задачі на засвоєння таблиць множення на 2 і 3](https://drive.google.com/file/d/1oJVEXCEoqAKIutDsMRdDs04-ww_ezoas/view?usp=sharing)  
 **15.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1wkMxXAk7PPuQTJqsyvnFyjYmJMln68O-/view?usp=sharing)  
+**18.01** [Тема: Коло і круг та їх елементи](https://drive.google.com/file/d/18UcKyU_rz5p-ja14YZMfosC99GRhna0_/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Ставлю питання до назв предметів. Розпізнаю слова — назви предметів за питаннями хто? що?](https://drive.google.com/file/d/1x-mt1ERC1wF1vB7K6oGvzZ8HFU79x8MZ/view?usp=sharing)  
 **11.01** [Тема: Досліджую прикметники. Розпізнаю слова – назви ознак](https://drive.google.com/file/d/1LeSCFzAqxiBoTuYpKa2b4KewOU6ni1jP/view?usp=sharing)  
 **12.01** [Тема: Добираю прикметники](https://drive.google.com/file/d/1vHaygY39MZbkl421hxq3BxjmtcTLHrgi/view?usp=sharing)  
 **14.01** [Тема: Утворюю прикметники. Складання речень](https://drive.google.com/file/d/1jUj-Zan45G7RYmwXgER99CjJw5GBaKrc/view?usp=sharing)  
+**18.01** [Тема: Малюю зимові розваги](https://drive.google.com/file/d/1lbXLXEqIkEAE9zHwpq_MIcNxdYkK5SXg/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Щастя. М. Морозенко «Мій тато повернувся із війни»](https://drive.google.com/file/d/1IohkwNNl7ln_Lo29wlZgDCzqGnIG84Iy/view?usp=sharing)  
@@ -313,6 +315,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Ознайомлення з життям і творчістю  Тамари Коломієць. Т. Коломієць «Хиталочка-гойдалочка», «Біле поле полотняне..»](https://drive.google.com/file/d/1MPInbt3fQLQqJ58EDK1DTcsHD4Bs33vs/view?usp=sharing)  
 **14.01** [Тема: Ознайомлення з життям і творчістю Ліни Костенко. Л. Костенко «Пряля», «Польові дзвіночки». Прислів'я](https://drive.google.com/file/d/1NJrLIS7KKM4rjJIrPFVrkpEp6UfWMqoK/view?usp=sharing)  
 **15.01** [Тема: Ознайомлення з життям і творчістю Анатолія Качана. А. Качан «Хвилювалось море», «Розмова з пароплавом». Читання в особах](https://drive.google.com/file/d/1lM6iKKv6V-JsLw3uvOzCLK_Z6iPpe-YB/view?usp=sharing)  
+**18.01** [Тема: В. Сухомлинський «Глуха дівчинка»](https://drive.google.com/file/d/1WIo33Q1EYSlVkqQJk43n0H_yX1yZQJ7f/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Дослідження сніжинок](https://drive.google.com/file/d/1iwAU41FzR28Lcm4x5twjg4NwG-tufv1g/view?usp=sharing)  
@@ -338,6 +341,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Комплекс вправ ранкової гімнастики](https://drive.google.com/file/d/1lA8PSuCBEqf4v0pEPZPTer_x3nrgvP3u/view?usp=sharing)  
 **12.01** [Тема: Комплекс вправ ранкової гімнастики](https://drive.google.com/file/d/10XuqnvSSkNpnuzbtVRPBDRZBjeWgfarf/view?usp=sharing)  
 **14.01** [Тема: Комплекс вправ ранкової гімнастики](https://drive.google.com/file/d/1d0mG6EfzCO-K5lJLIKMPLO8tkRHoVWXb/view?usp=sharing)  
+**18.01** [Тема: Вправи для формування правильної постави](https://drive.google.com/file/d/1XwPWkr70PWgc_NBNjmr00vrDImBjqo1S/view?usp=sharing)  
 `}</Md>
           </Tab>
         </Tabs>
@@ -571,6 +575,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Т. Шевченко «Реве та стогне Дніпр широкий»](https://drive.google.com/file/d/1jdBuZZhKcYhJqVXI2F2OqNQV_tGwlUx0/view?usp=sharing)  
 **15.01** [Горевич Л. В. Тема: Музей Заповіту Т. Шевченка](https://drive.google.com/file/d/1ye9H-wnIx79cXvUhI7rvhEckBg3xjJ2K/view?usp=sharing)  
 **15.01** [Тема: Пам'ятаємо про Шевченка. "Музей "Заповіт" Тараса Григоровича Шевченка в Переяславі"](https://drive.google.com/file/d/1WQU5rWn5S0DTtPkpyKpUtPt-hzmbUFKf/view?usp=sharing)  
+**18.01** [Горевич Л. В. Тема: УПЧ. «Видатні письменники» Тарас Шевченко « За сонцем хмаронька пливе», «Сонце гріє, вітер віє». Іван Франко «Червона калина, чого в лузі гнешся?», «Порада». Леся Українка «Талого снігу платочки сивенькі». Микола Вінграновський «Наша річка»](https://drive.google.com/file/d/1KUo41UKUrsxDX5jLKRhv84egAvfy6ith/view?usp=sharing)  
 
 ** Природознавство **  
 **08.12** [Тема: Рослинний та тваринний світ Євразії](https://drive.google.com/file/d/12dq2cy7xWbmzcqgIBieKcuquvoJs3jDe/view?usp=sharing)  
