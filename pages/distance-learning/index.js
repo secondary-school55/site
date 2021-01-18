@@ -645,7 +645,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Закріплення знань про правопис прикметників у множині](https://drive.google.com/file/d/17ZPnL2xTbr37Zcka30jzUsW_ZyvtYjs7/view?usp=sharing)  
 **12.01** [Тема: Побудова сполучень слів і речень із прикметниками, уведення їх у текст](https://drive.google.com/file/d/1PTQfBwJkXFd3YtEKPTqNs_zR9mZxoVMg/view?usp=sharing)  
 **13.01** [Тема: Закріплення вивченого про прикметник](https://drive.google.com/file/d/1UWeDPMNkgo7Y8P4qWCn5xYL1SoVTitZD/view?usp=sharing)  
-**18.01** [І підгрупа. Тема: Розбір прикметника як частини мови]()  
+**18.01** [І підгрупа. Тема: Розбір прикметника як частини мови](https://drive.google.com/file/d/1GjJX24X_Vo_XQx4vmrOg7otHnu9TAZ1W/view?usp=sharing)  
 
 ** Я у світі **  
 **04.12** [Тема: Культура поведінки учня](https://drive.google.com/file/d/1uW5654jU6K1rkEnbTDFy_8sCJ2kafQLS/view?usp=sharing)  
