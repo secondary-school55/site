@@ -720,6 +720,7 @@ export default function DistanceLearning() {
 **12.01** [5-А. Тема: Форма і розміри землі. Внутрішня будова Землі](https://drive.google.com/file/d/1IluFsIaDapgGVLVl60xD23aY7q968SNU/view?usp=sharing)  
 **14.01** [5-Б. Тема: Рухи Землі](https://drive.google.com/file/d/1n9Ts6EEEAIf0G-ip-BD26qMxe-byJElC/view?usp=sharing)  
 **15.01** [5-А. Тема: Рухи землі. Пори року](https://drive.google.com/file/d/1g1U2c18ig-Rho7SAaMLL4wfs_plofZ3N/view?usp=sharing)  
+**18.01** [5-Б. Тема: Місяць – супутник Землі. Сонячні та місячні затемнення](https://drive.google.com/file/d/1pVVUC3ISxMSobRqYdl59f_NzW7waFaP7/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
@@ -927,6 +928,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Iнертнiсть. Маса](https://drive.google.com/file/d/1DeS0Ba5UNJ0cDpKHxos2kV3tVpUA1nG9/view?usp=sharing)  
 **14.01** [7-Б. Тема: Густина речовини](https://drive.google.com/file/d/1GhZzz15RS3FPzjBVAxEH5NL_7xkqEadU/view?usp=sharing)  
 **15.01** [7-А. Тема: Густина речовини](https://drive.google.com/file/d/1e7fu6OdHJmW2aLeE5aU3bGfa8pC1eVFh/view?usp=sharing)  
+**18.01** [7-А,Б. Тема: Взаємодія тіл. Сила](https://drive.google.com/file/d/15LAgo4lLcByMmLVVTaZt1IeRn5GXSMJV/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)  
@@ -1422,6 +1424,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Досліди М.Фарадея. Електромагнітна індукція. Закон електромагнітної індукції. Правило Ленца](https://drive.google.com/file/d/1sj3YVP7d9jBZHf15nSJBU6EKpNTATAIe/view?usp=sharing)  
 **11.01** [Тема: Коливальний контур. Виникнення вільних електромагнітних коливань. Перетворення енергії під час вільних електромагнітних коливань](https://drive.google.com/file/d/1hl7jWNW6gvHTIyF_VtSVg_pJ304kN2Dn/view?usp=sharing)  
 **13.01** [Тема: Гармонічні електромагнітні коливання](https://drive.google.com/file/d/1SRLJJvZR5aumZVgxAqipha4mhmFw8Q9_/view?usp=sharing)  
+**18.01** [Тема: Змінний струм](https://drive.google.com/file/d/1bD74Aqij3uqUMc4XbJU1RX1gnB69KX8g/view?usp=sharing)  
 
 ** Хімія **  
 **08.12** [Тема: Поняття про гальванічний елемент як хімічне джерело електричного струму](https://drive.google.com/file/d/1-18C_qtNZmcyKNShpSVNgHdP_43NAkoS/view?usp=sharing)  
