@@ -852,6 +852,7 @@ export default function DistanceLearning() {
 **18.01** [5-А. ІІ група. Тема: Свята в Україні](https://drive.google.com/file/d/1hvD_7ezPvZWfclzVUUVXwmSIcKVpPCLF/view?usp=sharing)  
 **19.01** [5-А. І група. Тема: День Подяки](https://drive.google.com/file/d/1IcDNUvL8b1VxABjMjkKovilFQLVCvbjc/view?usp=sharing)  
 **19.01** [5-Б. Тема: Свята в Україні](https://drive.google.com/file/d/1lljaYkdWxL3XSxXo_3VfZs7StvBP12_T/view?usp=sharing)  
+**19.01** [5-А. ІІ група. Тема: День Подяки](https://drive.google.com/file/d/1xsd82vdTLFo2vD1rPmzY4-exgcXujNPv/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -1039,6 +1040,7 @@ export default function DistanceLearning() {
 **14.01** [7-А. Тема: Символіка олімпійських ігор](https://drive.google.com/file/d/1lV_IYsZZzYdUbyI2gfEKuM04zvlAAKla/view?usp=sharing)  
 **18.01** [7-А. І група. Тема: Сучасні міжнародні спортивні події](https://drive.google.com/file/d/1Vuo7HeRt43SUWmiUpXcbjqwHfHwqVcH9/view?usp=sharing)  
 **18.01** [7-А. ІІ група. Тема: Сучасні міжнародні спортивні події](https://drive.google.com/file/d/1wKGbo-UqgGDDBbRlgltM4IEH4h_BXpBL/view?usp=sharing)  
+**19.01** [7-Б. І група. Тема: Сучасні міжнародні спортивні події](https://drive.google.com/file/d/1sQYWIwyNrM9WAui0x-epezEX4DWdUAVK/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Створення моделей для розв’язування задач](https://drive.google.com/file/d/129xZiYVeZFgltMSzdCWdQEco6wnXtbuw/view?usp=drive_web)  
