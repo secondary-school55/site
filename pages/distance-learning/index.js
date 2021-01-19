@@ -432,6 +432,8 @@ export default function DistanceLearning() {
 **15.01** [Тема: Письмове віднімання двоцифрових чисел](https://drive.google.com/file/d/1gDOoVZvU6uwyd5TKIYxNmTXZDKDicFsC/view?usp=sharing)  
 **18.01** [Тема: Письмове віднімання двоцифрових чисел. Розширена задача на зведення до одиниці, що містить буквені дані](https://drive.google.com/file/d/1KlhUiNC9mZZJXUALU170sxnbHbjiOJwD/view?usp=drive_web)  
 **18.01** [Презентація. Тема: Письмове віднімання двоцифрових чисел. Розширена задача на зведення до одиниці, що містить буквені дані](https://drive.google.com/file/d/1--GQAKmd7q8M87iwnXD4UWeJjKKzLYwz/view?usp=drive_web)  
+**19.01** [Тема: Письмове віднімання трицифрових чисел. Вправи і задачі на застосування вивчених випадків арифметичних дій. Види трикутників. (№67-76)](https://drive.google.com/file/d/1JV3mT2Vwtt9n4RcR0OH1AyguIw6fHmA8/view?usp=sharing)  
+**19.01** [Презентація. Тема: Письмове віднімання трицифрових чисел. Вправи і задачі на застосування вивчених випадків арифметичних дій. Види трикутників. (№67-76)](https://drive.google.com/file/d/1nM73uhh09cgxbx3S4-yg8xlrseDPzfTr/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1CbxkNJHRP-O8TfHLE4mA0__Mu-56Ovd3/view?usp=sharing)  
@@ -477,13 +479,16 @@ export default function DistanceLearning() {
 **15.01** [Тема: Україна в мініатюрі. О. Кротюк «Наші скарби»](https://drive.google.com/file/d/10jRWJSqkkMVrq547c9Y_Ri7z_E1ffWkw/view?usp=sharing)  
 **15.01** [Презентація. Тема: Україна в мініатюрі. О. Кротюк «Наші скарби»](https://drive.google.com/file/d/1WP49MEiGvctx0KGVHGbKzQng3u5TrQPN/view?usp=sharing)  
 **19.01** [ІІ група. Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус) «Український лицар». Навчальне аудіювання (Ч.2, с. 85-86)](https://drive.google.com/file/d/1f9uBwuX_Go8cCQ4nOVcdKUbNFgaWgOYY/view?usp=sharing)  
+**19.01** [І група. Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус) «Український лицар». Навчальне аудіювання (Ч.2, с. 85-86)](https://drive.google.com/file/d/1tgYGGthDrt-DPE2iZrqrTboT4Ss27sJf/view?usp=sharing)  
+**19.01** [Презентація. Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус) «Український лицар». Навчальне аудіювання (Ч.2, с. 85-86)](https://drive.google.com/file/d/1s7LwmS2CmkfcSLrfeqYGcz9pKmB0ymOO/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
 **11.01** [Тема: Бесiда "Режим дня". Правила рухливих вправ](https://drive.google.com/file/d/1dpXjU3C0zkfVkRpK7S3EQksti2P-sVKV/view?usp=sharing)  
 **12.01** [Тема: Бесіда «Правила безпеки під час занять стрибковими вправами». Загальнорозвивальні вправи. Комплекс ранкової гігієнічної гімнастики. Вправи на координацію. Стрибки на місці на одній, двох ногах, із поворотами, кругом. Рухлива гра «Хто більше»](https://drive.google.com/file/d/1kKvUwm7nY6KyxaASh7WO14WyeFOIQ1Li/view?usp=sharing)  
-**15.01** [Тема: Правила безпеки на заняттях. Організовуючі і загально розвивальні вправи.  Комплекс вправ ранкової гімнастики. Різновиди ходьби, бігу. Вправи для розвитку сили. Рухлива гра](https://drive.google.com/file/d/1jZCjQak44c_UXXylkPTreJjxtytl-Gae/view?usp=sharing)  
+**15.01** [Тема: Правила безпеки на заняттях. Організовуючі і загально розвивальні вправи. Комплекс вправ ранкової гімнастики. Різновиди ходьби, бігу. Вправи для розвитку сили. Рухлива гра](https://drive.google.com/file/d/1jZCjQak44c_UXXylkPTreJjxtytl-Gae/view?usp=sharing)  
 **18.01** [Тема: Правила рухливих ігор та безпеки на уроках фізичної культури та під час самостійних занять фізичними вправами. Організовуючі вправи, ЗРВ. Різновиди ходьби. Різновиди бігу. Рухлива гра.](https://drive.google.com/file/d/1rEuBGivVyzOl3-e3eDEDAOzTwNtMasXT/view?usp=drive_web)  
+**19.01** [Тема: Руховий режим молодшого школяра та його вплив на формування правильної постави](https://drive.google.com/file/d/1pFgNh7_07QJcNU4QOXi9EjPFDMNRjYVU/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **11.01** [Тема: Композицiя "Полiт Карлсона над мiстом"](https://drive.google.com/file/d/1dhQA_ZrWUo6aZiE1XqG-YzOCjyXhezeo/view?usp=sharing)  
@@ -511,6 +516,8 @@ export default function DistanceLearning() {
 **14.01** [Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/12eabUC4ooag9i17nbwTAm_MQScczHy8B/view?usp=sharing)  
 **14.01** [Презентація. Тема: Надання першої домедичної допомоги собі та іншим при незначних ушкодження шкіри](https://drive.google.com/file/d/1SHWkESDP1T9s1K3btiXyhNfdLUDD4gIv/view?usp=sharing)  
 **18.01** [Тема: Що утворює опорно-рухову систему](https://drive.google.com/file/d/1QHSg-LRoZdpkz6NqVDpADA2Z9ExoAt6y/view?usp=drive_web)  
+**19.01** [Тема: Як ми пересуваємося (ст. 19-21)](https://drive.google.com/file/d/10zT8FHYv4mRgQgHEei2_vMpPcFeq5A4I/view?usp=sharing)  
+**19.01** [Презентація. Тема: Як ми пересуваємося (ст. 19-21)](https://drive.google.com/file/d/1L5ufmE3FuV_W0o37MBZCXEj9NGmBmui0/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1xXi1QIpOVQ295yrr8H3iHctB9Z8m8Wsv/view?usp=sharing)  
@@ -535,6 +542,8 @@ export default function DistanceLearning() {
 **15.01** [Тема: Письмове віднімання двоцифрових чисел](https://drive.google.com/file/d/1tWGIoeYm_7jCPw3pCwHCT3ws9fRke-02/view?usp=sharing)  
 **18.01** [Тема: Письмове віднімання двоцифрових чисел. Розширена задача на зведення до одиниці, що містить буквені дані](https://drive.google.com/file/d/1tLZ-dNIYk54UJyRJbvJaLgTUjbZK-ic4/view?usp=drive_web)  
 **18.01** [Презентація. Тема: Письмове віднімання двоцифрових чисел. Розширена задача на зведення до одиниці, що містить буквені дані](https://drive.google.com/file/d/1KpZtLWdA6Fu2DNnSfOLSyJwwRI-ic5FY/view?usp=drive_web)  
+**19.01** [Тема: Письмове віднімання трицифрових чисел. Вправи і задачі на застосування вивчених випадків арифметичних дій. Види трикутників. (№67-76)](https://drive.google.com/file/d/15Pfd2crDNJRL4nORiRXfQUAwT8jgJmhh/view?usp=sharing)  
+**19.01** [Презентація. Тема: Письмове віднімання трицифрових чисел. Вправи і задачі на застосування вивчених випадків арифметичних дій. Види трикутників. (№67-76)](https://drive.google.com/file/d/1jZM-2WoOZ1b7OR7EQPs9oNX0uVz-z_s8/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -542,6 +551,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Бесіда «Правила безпеки під час занять стрибковими вправами». Загальнорозвивальні вправи. Комплекс ранкової гігієнічної гімнастики. Вправи на координацію. Стрибки на місці на одній, двох ногах, із поворотами, кругом. Рухлива гра «Хто більше»](https://drive.google.com/file/d/1kKvUwm7nY6KyxaASh7WO14WyeFOIQ1Li/view?usp=sharing)  
 **15.01** [Тема: Правила безпеки на заняттях. Організовуючі і загально розвивальні вправи.  Комплекс вправ ранкової гімнастики. Різновиди ходьби, бігу. Вправи для розвитку сили. Рухлива гра](https://drive.google.com/file/d/1jZCjQak44c_UXXylkPTreJjxtytl-Gae/view?usp=sharing)  
 **18.01** [Тема: Правила рухливих ігор та безпеки на уроках фізичної культури та під час самостійних занять фізичними вправами. Організовуючі вправи, ЗРВ. Різновиди ходьби. Різновиди бігу. Рухлива гра.](https://drive.google.com/file/d/1Vj2BvAtov4A-dF3EfzWPPKsNRHw9Cesi/view?usp=drive_web)  
+**19.01** [Тема: Руховий режим молодшого школяра та його вплив на формування правильної постави](https://drive.google.com/file/d/1di93Ywq816VHfbQZfrEpPAnK7kWW6Wcu/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
@@ -551,6 +561,8 @@ export default function DistanceLearning() {
 **12.01** [Тема: Як не любить свій край](https://drive.google.com/file/d/1fJTtljffcbD6o8M6q8Pa2AagteO25NG_/view?usp=sharing)  
 **15.01** [Тема: Україна в мініатюрі. О. Кротюк «Наші скарби»](https://drive.google.com/file/d/10jRWJSqkkMVrq547c9Y_Ri7z_E1ffWkw/view?usp=sharing)  
 **15.01** [Презентація. Тема: Україна в мініатюрі. О. Кротюк «Наші скарби»](https://drive.google.com/file/d/1WP49MEiGvctx0KGVHGbKzQng3u5TrQPN/view?usp=sharing)  
+**19.01** [Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус), Український лицар.  (Ч.2, с.85-86)](https://drive.google.com/file/d/1hfK9M01dhYqV8vqmtWhjTHjyRNuM3Vt9/view?usp=sharing)  
+**19.01** [Презентація. Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус), Український лицар.  (Ч.2, с.85-86)](https://drive.google.com/file/d/1ksi4d18yPLVOMTwGhEhI4Ln2ZBc9edWt/view?usp=sharing)  
 
 ** Англійська мова **  
 **11.01** [Тема: Мандрівка у великий будинок](https://drive.google.com/file/d/1mDmTRC20f27VBAhPwomQs6pzHS9MPezV/view?usp=sharing)  
