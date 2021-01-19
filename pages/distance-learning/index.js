@@ -738,6 +738,7 @@ export default function DistanceLearning() {
 **08.12** [Презентація: Дизайн годинника](https://drive.google.com/file/d/12gYiiJa404TLX0Yq4d4pUZr3L5eo2Fjq/view?usp=sharing)  
 **12.01** [Горевич Л. В. Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
 **19.01** [Горевич Л. В. Тема: Караван у пустелі](https://drive.google.com/file/d/1FdfAvojx8X9IRtXwhB6iAMegd3KZXQp8/view?usp=sharing)  
+**19.01** [Горевич Л. В. Презентація. Тема: Караван у пустелі](https://drive.google.com/file/d/1WvjLMudcsO79sogzpvvWM0pMS9UFsaIQ/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **11.01** [Тема: Звички і здоров'я. Практична робота: виконання проєкту з формування корисної звички](https://drive.google.com/file/d/1hEFNVYpZOEiC_Q8FM2xIroBvJI9HgWwE/view?usp=sharing)  
@@ -1420,7 +1421,8 @@ export default function DistanceLearning() {
 **13.01** [Тема: Комунікаційні технології](https://drive.google.com/file/d/1lMDro9_nrNQROhmbxxwvxtkCw_xfette/view?usp=sharing)  
 **13.01** [Тема: Communication technologies](https://drive.google.com/file/d/1JnKfi4N11v4Jc5Fey5IMmp3lZE30yeMy/view?usp=sharing)  
 **15.01** [Тема: Комунікативні технології](https://drive.google.com/file/d/1IZLD7Wgocw8j788iwBPfs1JeC8u5YWVT/view?usp=sharing)  
-**15.01** [Хоменко А. Ю. Тема: Комунікативні технології](https://drive.google.com/file/d/19a_t5bm9uQxiL0ssYYiyzCnd_p5lw8Mg/view?usp=sharing)  
+**15.01** [Тема: Комунікативні технології](https://drive.google.com/file/d/19a_t5bm9uQxiL0ssYYiyzCnd_p5lw8Mg/view?usp=sharing)  
+**19.01** [Тема: Проблеми екології та пошук шляхів їх вирішення](https://drive.google.com/file/d/1UL3epNr1RGHEVEu-j5aRMQKHd3n3nA4d/view?usp=sharing)  
 
 ** Захист України**  
 **07.12** [Хлопці. Тема: Статути Збройних Сил України. Військові звання військовослужбовців Збройних Сил України](https://drive.google.com/file/d/1OzU2dwv875YIu-Owskc3Irad1zmIoqE9/view?usp=sharing)  
