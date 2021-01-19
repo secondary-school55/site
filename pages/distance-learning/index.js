@@ -158,7 +158,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Зимова мозаїка. «Сипле,сипле сніг…»](https://drive.google.com/file/d/1AERA7DfM5Lc708yBsknO2y1BMta2evIW/view?usp=sharing)  
 **11.01** [Тема: Розумна сова. Робота з пластиліном. Виготовлення із пластиліну плоских зображень. Ліплення сови за зразком](https://drive.google.com/file/d/1gGmVSNx13vkIb_HuIgeGzgX226uj706_/view?usp=sharing)  
 **13.01** [Тема: Мандри Країною Мистецтв. Цирк. Циркова афіша. Створення аплікації веселого циркового клоуна](https://drive.google.com/file/d/1vkFJEZU4JQNAwMC1H6mOrM9_nqpVGufL/view?usp=sharing)  
-**18.01** [Тема: Леопардик і тигрик.  Робота з папером. Згинання і складання паперу. Виготовлення леопардика або тигрика в техніці оригамі за зразком]()  
+**18.01** [Тема: Леопардик і тигрик.  Робота з папером. Згинання і складання паперу. Виготовлення леопардика або тигрика в техніці оригамі за зразком](https://drive.google.com/file/d/1uwly2Fce3gwINDMRE11cK_ENnOOq8rS9/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **08.12** [Тема: Властивості грунту](https://drive.google.com/file/d/1Xl5mQJ5IJvUtov2BDrAGZ1jhm2OaDm3k/view?usp=sharing)  
@@ -340,6 +340,8 @@ export default function DistanceLearning() {
 **12.01** [Тема: Добираю прикметники](https://drive.google.com/file/d/1vHaygY39MZbkl421hxq3BxjmtcTLHrgi/view?usp=sharing)  
 **14.01** [Тема: Утворюю прикметники. Складання речень](https://drive.google.com/file/d/1jUj-Zan45G7RYmwXgER99CjJw5GBaKrc/view?usp=sharing)  
 **18.01** [Тема: Малюю зимові розваги](https://drive.google.com/file/d/1lbXLXEqIkEAE9zHwpq_MIcNxdYkK5SXg/view?usp=sharing)  
+**19.01** [Тема: Поєдную прикметники з іменниками](https://drive.google.com/file/d/1jt5c-2AMCIVSG6QTJWAYAD0GIb6-_bwT/view?usp=sharing)  
+**19.01** [Презентація. Тема: Поєдную прикметники з іменниками](https://drive.google.com/file/d/1M5gT4smscQz80bCptL-jmCXZpQyGDP9v/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Щастя. М. Морозенко «Мій тато повернувся із війни»](https://drive.google.com/file/d/1IohkwNNl7ln_Lo29wlZgDCzqGnIG84Iy/view?usp=sharing)  
@@ -354,6 +356,8 @@ export default function DistanceLearning() {
 **12.01** [Тема: Як утворюється лід на водоймах. Дослідження властивостей льоду](https://drive.google.com/file/d/1gRQEGcS5X-DJClQp2KqTBnk4jWfZ60MU/view?usp=sharing)  
 **13.01** [Тема: Правила безпечної поведінки взимку. Створення малюнку – плаката «Зимові застереження»](https://drive.google.com/file/d/1xo2XWck7_Y1V7Ni2l9RsKjjpINnzMnt9/view?usp=sharing)  
 **14.01** [Тема: Хто такий споживач](https://drive.google.com/file/d/1ADmhjMrM7-fNC1805vLiEBiNKg9ZCbDN/view?usp=sharing)  
+**19.01** [Тема: Хто такий споживач](https://drive.google.com/file/d/1AychzafA2JeKeTxRuT1pQ_TjFhZ119k6/view?usp=sharing)  
+**19.01** [Презентація. Тема: Хто такий споживач](https://drive.google.com/file/d/17yiQ-IPOLl83vBnEbgIE9WGp0n58T8V-/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **13.01** [Тема: Чарівні дерева](https://drive.google.com/file/d/1Z7wrkKXFdjqb0_uRZVY4BqOopNlNk1OD/view?usp=sharing)  
@@ -375,6 +379,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Комплекс вправ ранкової гімнастики](https://drive.google.com/file/d/10XuqnvSSkNpnuzbtVRPBDRZBjeWgfarf/view?usp=sharing)  
 **14.01** [Тема: Комплекс вправ ранкової гімнастики](https://drive.google.com/file/d/1d0mG6EfzCO-K5lJLIKMPLO8tkRHoVWXb/view?usp=sharing)  
 **18.01** [Тема: Вправи для формування правильної постави](https://drive.google.com/file/d/1XwPWkr70PWgc_NBNjmr00vrDImBjqo1S/view?usp=sharing)  
+**19.01** [Тема: Вправи для формування правильної постави](https://drive.google.com/file/d/1n7o-RgnidmMnn9UccEu5toL2CiA8Joo3/view?usp=sharing)  
 `}</Md>
           </Tab>
         </Tabs>
@@ -477,6 +482,7 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **12.01** [Тема: Ключові слова для пошуку](https://drive.google.com/file/d/1QlGE5KvyZa31pzE4sfqWeFZfbYDxUTQE/view?usp=drive_web)  
+**19.01** [Тема: Авторське право та Інтернет](https://drive.google.com/file/d/1eWEgxh4-UqLhpwbqOEmHasJNVEIpYZ_B/view?usp=drive_web)  
 `}</Md>
           </Tab>
           <Tab title="3-Б">
@@ -546,6 +552,7 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **12.01** [Тема: Ключові слова для пошуку](https://drive.google.com/file/d/1QlGE5KvyZa31pzE4sfqWeFZfbYDxUTQE/view?usp=drive_web)  
+**19.01** [Тема: Авторське право та Інтернет](https://drive.google.com/file/d/1eWEgxh4-UqLhpwbqOEmHasJNVEIpYZ_B/view?usp=drive_web)  
 
 ** Образотворче мистецтво **  
 **13.01** [Тема: Мандрівка у світ фантастики. Композиція «Політ Карлсона над містом» (гуаш, акварельні фарби чи кольорові олівці й фломастери) або малювання «Фантастичний персонаж»](https://drive.google.com/file/d/1VG1op6Triu328N7wEyEzC_COIP3cxeAl/view?usp=drive_web)  
@@ -1178,6 +1185,7 @@ export default function DistanceLearning() {
 ** Інформатика **  
 **08.12** [Тема: Логічні вирази. Оператори розгалуження. Вкладені розгалуження](https://drive.google.com/file/d/1UIkiDcQ0uWpgiOSN8HPQe0On15gl7hh0/view?usp=sharing)  
 **12.01** [Тема: Графічні побудови](https://drive.google.com/file/d/1tl_MXuI4EZtqUfnMDEYHdtpT0tzGpUN_/view?usp=drive_web)  
+**19.01** [Тема: Циклічні побудови](https://drive.google.com/file/d/1c_bZhxF8-Hh5lebFhNYMc-sjwFM3-C3v/view?usp=drive_web)  
 
 ** Мистецтво **  
 **03.12** [Тема: Ідеали й образи Ренесансу](https://drive.google.com/file/d/1biA9w5C0Tq2_npKhtO7uwph7Jpz5Q6-g/view?usp=sharing)  
