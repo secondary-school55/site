@@ -1024,7 +1024,7 @@ export default function DistanceLearning() {
 **14.01** [7-Б. Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1VgKvWkZNIO6CZ6_ajIX05r7kqVzo1oRV/view?usp=sharing)  
 **14.01** [7-А. Харенко Ю. А. (І група). Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1CFk4BBR7Gt_3su7EHFQyV3ji27A5cM_8/view?usp=sharing)  
 **18.01** [7-А. Алтинбаєва Л. М. (ІІ група). Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1vAo32W8bXqlHKojUKKpNCVqGTNikS2ZI/view?usp=sharing)  
-**18.01** [7-Б. Алтинбаєва Л. М. (ІІ група). Тема: Дієприслівник доконаного і недоконаного виду, їх творення](https://drive.google.com/file/d/1kyc76mCbTERuLk_WWD6L6ZN8oANncG7D/view?usp=sharing)  
+**18.01** [7-Б. Алтинбаєва Л. М. Тема: Дієприслівник доконаного і недоконаного виду, їх творення](https://drive.google.com/file/d/1kyc76mCbTERuLk_WWD6L6ZN8oANncG7D/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
