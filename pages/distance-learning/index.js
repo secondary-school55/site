@@ -623,6 +623,7 @@ export default function DistanceLearning() {
 **18.01** [Горевич Л. В. Тема: УПЧ. «Видатні письменники» Тарас Шевченко « За сонцем хмаронька пливе», «Сонце гріє, вітер віє». Іван Франко «Червона калина, чого в лузі гнешся?», «Порада». Леся Українка «Талого снігу платочки сивенькі». Микола Вінграновський «Наша річка»](https://drive.google.com/file/d/1KUo41UKUrsxDX5jLKRhv84egAvfy6ith/view?usp=sharing)  
 **18.01** [Тема: Урок позакласного читання «Видатні письменники»](https://drive.google.com/file/d/1aye5eekD3O40o939-ka8J83rhgR-pIax/view?usp=sharing)  
 **19.01** [Тема: Роман Завадович «Поет-Каменяр»](https://drive.google.com/file/d/1_i3WmIH0WD-H7p4o5fiUmZfUi9AamICO/view?usp=sharing)  
+**19.01** [Горевич Л. В. Тема: Іван Франко. Роман Завадович. Поет-Каменяр (скорочено)](https://drive.google.com/file/d/1pBdsL8yz0yiau7vIw5zIx09D1YXQaaq6/view?usp=sharing)  
 
 ** Природознавство **  
 **08.12** [Тема: Рослинний та тваринний світ Євразії](https://drive.google.com/file/d/12dq2cy7xWbmzcqgIBieKcuquvoJs3jDe/view?usp=sharing)  
@@ -639,7 +640,8 @@ export default function DistanceLearning() {
 **12.01** [Тема: Улюблена пора року](https://drive.google.com/file/d/13wF_z37_jA6pDq5U6QmdB-mvuMSjxZ7I/view?usp=sharing)  
 **14.01** [Тема: Погода учора](https://drive.google.com/file/d/1izpL-TiXEgFA2fkYzNC5GAdFng5tYXBj/view?usp=sharing)  
 **14.01** [І група. Тема: Погода учора](https://drive.google.com/file/d/1OcLRtbZuRZBWhMeWwFGTWOwLCWN0BzO8/view?usp=sharing)  
-**19.01** [І група. Тема: Узимку](https://drive.google.com/file/d/1u3ZB5A2FETykSEukf0XSo18uPAOq7Xaj/view?usp=sharing)  
+**19.01** [І група. Тема: Узимку](https://drive.google.com/file/d/1CmG5HXgv6PTumbZdtgCQRRqrrbXlg20t/view?usp=sharing)  
+**19.01** [ІІ група. Тема: Узимку](https://drive.google.com/file/d/1u3ZB5A2FETykSEukf0XSo18uPAOq7Xaj/view?usp=sharing)  
 
 ** Основи мовознавства **  
 **15.01** [Тема: Тренувальні вправи на побудову речень з прикметниками. Складання тексту-опису за малюнком](https://drive.google.com/file/d/10Y0DfvUD_nzi63CeOtKn8LQ_Z6dQ0fWy/view?usp=sharing)  
@@ -693,6 +695,8 @@ export default function DistanceLearning() {
 **03.12** [Тема: Покупки](https://drive.google.com/file/d/1vJe5h3cSMsODOLKX_hlLazFw6AvQAr-L/view?usp=sharing)  
 **12.01** [Тема: Улюблена пора року](https://drive.google.com/file/d/1_kfoGwLBw19Ll9VlO4Fjwk8Ny3Mh4Hdw/view?usp=sharing)  
 **14.01** [Тема: Погода учора](https://drive.google.com/file/d/15wSaQmW5zZoUMHk0RxXdNIasTtRAvwwt/view?usp=sharing)  
+**19.01** [І група. Тема: Узимку](https://drive.google.com/file/d/1_azVP1BKPhiIv0m364gULF-ILzdsmvqh/view?usp=sharing)  
+**19.01** [ІІ група. Тема: Узимку](https://drive.google.com/file/d/1KkCV9O8rLfRRZQKqZzcaj-Ogy0mMI2Iv/view?usp=sharing)  
 
 ** Літературне читання **  
 **07.12** [Тема: Марко Вовчок «Літній ранок», Михайло Коцюбинський «Літній день»](https://drive.google.com/file/d/1XgJrjALeSBPNQ_Qy5nIsx0yLyZXI39WL/view?usp=sharing)  
@@ -708,11 +712,13 @@ export default function DistanceLearning() {
 **18.01** [Горевич Л. В. Тема: УПЧ. «Видатні письменники» Тарас Шевченко « За сонцем хмаронька пливе», «Сонце гріє, вітер віє». Іван Франко «Червона калина, чого в лузі гнешся?», «Порада». Леся Українка «Талого снігу платочки сивенькі». Микола Вінграновський «Наша річка»](https://drive.google.com/file/d/1KUo41UKUrsxDX5jLKRhv84egAvfy6ith/view?usp=sharing)  
 **18.01** [Тема: Урок позакласного читання «Видатні письменники»](https://drive.google.com/file/d/14rqc6HRb9EcO08bnmBpQMA8TsVMssmZO/view?usp=sharing)  
 **19.01** [І група. Тема: Роман Завадович «Поет-Каменяр»](https://drive.google.com/file/d/1-5rpa-gi8LlG7-8cseBBwVBM5VDxwJER/view?usp=sharing)  
+**19.01** [Горевич Л. В. Тема: Іван Франко. Роман Завадович. Поет-Каменяр (скорочено)](https://drive.google.com/file/d/1pBdsL8yz0yiau7vIw5zIx09D1YXQaaq6/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **08.12** [Тема: Дизайн годинника](https://drive.google.com/file/d/1gMGKFcVJS20q8y2uKGv8Y2kvwBbrkVJB/view?usp=sharing)  
 **08.12** [Презентація: Дизайн годинника](https://drive.google.com/file/d/12gYiiJa404TLX0Yq4d4pUZr3L5eo2Fjq/view?usp=sharing)  
 **12.01** [Горевич Л. В. Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
+**19.01** [Горевич Л. В. Тема: Караван у пустелі](https://drive.google.com/file/d/1FdfAvojx8X9IRtXwhB6iAMegd3KZXQp8/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **11.01** [Тема: Звички і здоров'я. Практична робота: виконання проєкту з формування корисної звички](https://drive.google.com/file/d/1hEFNVYpZOEiC_Q8FM2xIroBvJI9HgWwE/view?usp=sharing)  
@@ -925,6 +931,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Атмосферний тиск](https://drive.google.com/file/d/1u9nZSjAC2oCx31K_5venZlJt142B94GB/view?usp=sharing)  
 **15.01** [Тема: Атмосферний тиск](https://drive.google.com/file/d/1Oga8FbAW6SN2K-Yprr_0dtQu0XssiHaT/view?usp=sharing)  
 **18.01** [Тема: Північна Америка](https://drive.google.com/file/d/11cEiCvZoTkiPnLDYMDbalQNOG9iBxzN0/view?usp=sharing)  
+**19.01** [Тема: Вітер](https://drive.google.com/file/d/13RgOuRoni47jtrSjFaLvI2Yd1TR7egNG/view?usp=sharing)  
 
 ** Історія **  
 **13.01** [6-А,Б. Тема: Історія Підкорення Греції Філіппом ІІ](https://drive.google.com/file/d/1vSz07K60HtR64gGO7ZCeYoDOXPyjHbey/view?usp=sharing)  
@@ -943,6 +950,7 @@ export default function DistanceLearning() {
 **12.01** [6-Б,В. Тема: А.П.Чехов Хамелеон](https://drive.google.com/file/d/1PfhpTVhihBn22ZZafAJ0UAig2vydUWqH/view?usp=sharing)  
 **14.01** [6-А,Б,В. Тема: А.П.Чехов Товстий і тонкий](https://drive.google.com/file/d/1RpnTytzDvTUDxd-fOmTv0_p9DSV4fNE6/view?usp=sharing)  
 **18.01** [6-А. Тема: Викриття пристосуванства, підлабузництва в оповіданнях А.П. Чехова. Діалог як основна форма розкриття сюжету](https://drive.google.com/file/d/19mtPuXVlE9fmhJdQOKjWh5WKMFc2xdm8/view?usp=sharing)  
+**19.01** [6-Б,В. Тема: Викриття пристосуванства, підлабузництва в оповіданнях А.П. Чехова. Діалог як основна форма розкриття сюжету](https://drive.google.com/file/d/16lj3yh1wT32FaNg6l52P6Y-oW7RyiuVv/view?usp=sharing)  
 
 ** Російська мова **  
 **13.01** [6-А. Тема: Правописание не с глаголами. Правописание -тся, -ться на конце глаголов](https://drive.google.com/file/d/1HvuduB6zBZNOhSh61W8TlOppA2vsTaC8/view?usp=sharing)  
@@ -969,6 +977,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Походи вікінгів та їх завоювання](https://drive.google.com/file/d/10SKWwFRat3yT2mp-XidaaXIqylc7hV62/view?usp=sharing)  
 **11.01** [Тема: Правління Ярославичів](https://drive.google.com/file/d/1KblQ7S0ICu_ekaXFnVFyVI7uDohlUwY-/view?usp=sharing)  
 **14.01** [Тема: Правління В. Мономаха](https://drive.google.com/file/d/1TF74sWB5fZZ2558syT__C8ChMlBN0D8D/view?usp=sharing)  
+**19.01** [Тема: Київське, Переяславське, Чернігівське князівства](https://drive.google.com/file/d/19reMQXluo7gLq8-uhovC-_vNDvmrWbIw/view?usp=sharing)  
 
 ** Геометрія **  
 **03.12** [Тема: Кути, утворені при перетині двох паралельних прямих січною. Властивості кутів, утворених при перетині паралельних прямих січною.](https://drive.google.com/file/d/1fFJnhdfAIKT66YiMKbNvDSv4onIhFgb3/view?usp=sharing)  
@@ -1050,6 +1059,7 @@ export default function DistanceLearning() {
 **12.01** [7-А. Тема: Уславлення дружби й вірності у вірші](https://drive.google.com/file/d/1q_z-piiacmGpZ4P54I9aoZJtOZp1NpwI/view?usp=sharing)  
 **15.01** [7-А,Б. Тема: Олександр Грін. Пурпурові вітрила. Поєднання реального і фантастичного в повісті](https://drive.google.com/file/d/1z_IXKzjO-Q4Sjp72qSTGPz6yZ9Oj3yrL/view?usp=sharing)  
 **18.01** [7-Б. Тема: Пурпурові вітрила. Основний конфлікт твору](https://drive.google.com/file/d/1HMKzaHlgHsNKKyv9X7M-KvIDUjD9DRmi/view?usp=sharing)  
+**19.01** [7-А. Тема: О.Грін. "Пурпурові вітрила". Основний конфлікт твору](https://drive.google.com/file/d/18RhX0DpSPyTsjagFjiTCjP2EviV0q7pA/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1LYMqo8lKOm-bCK_MHTKKwk0WLaRKPTEK/view?usp=sharing)  
@@ -1196,6 +1206,8 @@ export default function DistanceLearning() {
 **03.12** [Тема: Видобування металічних руд](https://drive.google.com/file/d/1nLsYYlfSAhh_c-YzVUL8iJaKDekY1NXc/view?usp=sharing)  
 **12.01** [Тема: Значення металургійного виробництва](https://drive.google.com/file/d/1GCcuhzaV9QvOaSJ6EoyfV0d1YywlEzZK/view?usp=sharing)  
 **14.01** [Тема: Виробництво чавуну, сталі, прокату](https://drive.google.com/file/d/18jyFjfipbqmj_b8KXq9glkjIG57rcYCN/view?usp=sharing)  
+**19.01** [9-А. Тема: Виробництво чавуну, сталі, прокату в україні: домінувальні технології, сукупність чинників розміщення підприємств, основні центри, місце україни на світовому ринку чорних металів](https://drive.google.com/file/d/11QeXAnS9NooghKyv0Kdem3uMJHuh-xj8/view?usp=sharing)  
+**19.01** [9-Б. Тема: Металургійне виробництво світу. Найбільші країни-виробники та країни-споживачі чорних металів. Сучасні тенденції розміщення виробництв чавуну, сталі, прокату. Найбільші країни-виробники та країни-споживачі кольорових металів у світі](https://drive.google.com/file/d/1Hsoq6_W-tF1Ccg7XT23Lx2fYBMWtSqdn/view?usp=sharing)  
 
 ** Хімія **  
 **03.12** [Тема: Реакції оборотні й необоротні](https://drive.google.com/file/d/1J2DYha0BrqewRn0sm7Yn2UbvM5hr7tu0/view?usp=sharing)  
@@ -1222,6 +1234,7 @@ export default function DistanceLearning() {
 **13.01** [9-А. Тема: Україна і Східна війна. Ліквідація кріпацтва](https://drive.google.com/file/d/1PO5TGAAbHBieaJkKeWaqXLf7jumYfAvF/view?usp=sharing)  
 **14.01** [9-Б. Тема: Ліквідація кріпацтва. Реформи 1860-1870рр](https://drive.google.com/file/d/129GBaXSaThZbYXwCrv2ESVZMDPt1KKuu/view?usp=sharing)  
 **15.01** [9-Б. Тема: Модернізація промисловості і сільського господарства](https://drive.google.com/file/d/15_ZJI_4dAwSMQYzaCCbCMCV-Hf_c_Lg7/view?usp=sharing)  
+**19.01** [9-Б. Тема: Місто і село в пореформений період](https://drive.google.com/file/d/1Wwuw2TvGBUS54vFZfq-VbS4pN5dVl3As/view?usp=sharing)  
 
 ** Геометрія **  
 **03.12** [9-Б. Тема: Вектори. Розв’язування задач](https://drive.google.com/file/d/1ykrS5YhJf-ggic_8ad1LHgVjfAVZtKBF/view?usp=sharing)  
@@ -1252,6 +1265,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Романтизм](https://drive.google.com/file/d/1k0j1k6Gq5-mJ0o6xnUM0hwBAQDBfUZ0E/view?usp=sharing)  
 **15.01** [Тема: П. Гулак-Артемовський “Рибалка”](https://drive.google.com/file/d/1YJQV5s5RgZCwcq0x4PnLWI4J6K8st_wq/view?usp=sharing)  
 **15.01** [9-А. Тема: Поет-романтик П. Гулак-Артемовський. Коротко про письменника. Балада «Рибалка»](https://drive.google.com/file/d/1jhsOB11YGUCQh6C8Oxh49GemkdAR3NAT/view?usp=sharing)  
+**19.01** [Тема: Євген Гребінка. Висока оцінка І. Франком байкарської майстерності Гребінки. Вірш «Човен»](https://drive.google.com/file/d/1E3rC2ZVSrYFvyIWnVti8H_dltF1Rj8zK/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/10ODZR-UG7C9YAJv3bPb-eKqe7kwsjJA4/view?usp=sharing)  
@@ -1333,6 +1347,7 @@ export default function DistanceLearning() {
 **14.01** [Добровольська В. Е. Тема: Джерела фразеологізмів](https://drive.google.com/file/d/1AKggzxQ39uJ1YgAY2qtbdaBpewTI5b06/view?usp=sharing)  
 **15.01** [Стрембицька Л.А. Тема: Прислів’я та приказки, крилаті вислови. Стійкі народні порівняння. Побажання, приповідки, каламбури, їх оцінний зміст](https://drive.google.com/file/d/1mCaengvxqaLZZYreUqZ1gVI1qnJSXLfV/view?usp=sharing)  
 **15.01** [Добровольська В. Е. Тема: Прислів′я і приказки, крилаті вислови. Стійкі народні порівняння. Побажання, приповідки, каламбури, їх оцінний зміст](https://drive.google.com/file/d/1RhH0E_O7-KnvF8JDlWHKaLRu4xMOIz7C/view?usp=sharing)  
+**19.01** [Стрембицька Л.А. Тема: Багатозначність, синонімія, антонімія фразеологічних одиниць](https://drive.google.com/file/d/1WNq8vlMZb67Lc1kwWcI-uF5xxmjirbj9/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
@@ -1344,6 +1359,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Зіставлення двох світів. «Психологічно переконливе розкриття внутрішнього стану людини в новелі М. Коцюбинського «Intermezzo». Символічні образи. Поетика імпресіонізму](https://drive.google.com/file/d/1e7EddY4g5DcGMUuCCJR6ICPUTmxVwTdP/view?usp=sharing)  
 **15.01** [Тема: Поетика імпресіонізму. М.Коцюбинський "Тіні забутих предків"](https://drive.google.com/file/d/1KGKBca-JFOpnPvZ0sLn-nSM8sj_nkvXt/view?usp=sharing)  
 **18.01** [Тема: Система образів твору. Образи-символи як засоби індивідуалізації героїв. Самобутність модерної поетики повісті «Тіні забутих предків»](https://drive.google.com/file/d/12g7c6HrRUjHK4g-18O0_sYubgLisG4Th/view?usp=sharing)  
+**19.01** [Тема: Кохання Івана та Марічки в повісті Коцюбинського «Тіні забутих предків»](https://drive.google.com/file/d/1tigsUScY8FYjgXJbxIWyEGqUmEM10Se-/view?usp=sharing)  
 
 ** Фізика **  
 **03.12** [Тема: Механічна робота. Потужність. Кінетична енергія.](https://drive.google.com/file/d/13ktDbpkU-YGMFOs3KRcYIqKot5LfswUQ/view?usp=sharing)  
@@ -1372,6 +1388,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Західноукраїнська Народна Республіка.](https://drive.google.com/file/d/1UX5pzPnYGVUlJs01kyXsn3UxARYrvB_5/view?usp=sharing)  
 **12.01** [Тема: Утворення Радянського Союзу. Запровадження нової економічної політики](https://drive.google.com/file/d/198gM5KftrRB-qm_6-x-cMHKym0YSwwkJ/view?usp=sharing)  
 **15.01** [Тема: Індустріалізація радянської України](https://drive.google.com/file/d/1y7gqpHTvG35p49P0Z2L4rEvwv6ODZHOB/view?usp=sharing)  
+**19.01** [Тема: Колективізація](https://drive.google.com/file/d/1UJaQNgdKWW9NA8KQSCCYJqeNoBVfjKyz/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Reading](https://drive.google.com/file/d/1ks5tAkLDNz6WXJjOfcN97bWqpuTajWmp/view?usp=sharing)  
@@ -1411,6 +1428,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Поява демократії](https://drive.google.com/file/d/1YA97w93ZHBb5qcSDRkOUixfJySWwWlCo/view?usp=sharing)  
 **12.01** [Тема: Вибори. Референдум](https://drive.google.com/file/d/1p44UiEvXNtX23HI7yctZKF41JCkohMMb/view?usp=sharing)  
 **18.01** [Тема: Політичні партії, громадські організації і їх вплив на демократію](https://drive.google.com/file/d/1FB1oV8XvlFR_vLa8NFni5iuETwS7MvJS/view?usp=sharing)  
+**19.01** [Тема: Громадянське суспільство та правова держава](https://drive.google.com/file/d/1VQPif4kMQHidmsIS8MEg7FWDcjSslDwa/view?usp=sharing)  
 
 ** Зарубіжна література **  
 **13.01** [Тема: Особливості роману 19 століття](https://drive.google.com/file/d/1a-QzVjMDxjhOfN9iYQ16Xrv7kaxMQ2w5/view?usp=sharing)  
@@ -1455,6 +1473,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Інтонування речень із прямою мовою, діалогом. Цитування](https://drive.google.com/file/d/1UTUZTJzfvGP_ol-XjjKdZOKBqwGMzbsr/view?usp=sharing)  
 **13.01** [Тема: Ділові папери. Офіційний лист. Доручення. Розписка](https://drive.google.com/file/d/1LES1JRn6fSklV3SiBMiPhpmwu2Zla_Ji/view?usp=sharing)  
 **18.01** [Тема: Телефонна розмова як один із видів усного ділового мовлення. Лист електронною поштою і мобільним телефоном (sms). Основні вимоги до культури спілкування по телефону і в Інтернеті](https://drive.google.com/file/d/1zz_F1Kkn0vXItnqLmuQI6e21qF4o6JFS/view?usp=sharing)  
+**19.01** [Тема: Зміст і будова тексту. Складне синтаксичне ціле. Актуальне членування речення. Способи зв’язку речень у тексті](https://drive.google.com/file/d/1CDHa-M2SC20K_SJKHfafSv_bFx8HhRZ0/view?usp=sharing)  
 
 ** Фізика **  
 **07.12** [Тема: Досліди М.Фарадея. Електромагнітна індукція. Закон електромагнітної індукції. Правило Ленца](https://drive.google.com/file/d/1sj3YVP7d9jBZHf15nSJBU6EKpNTATAIe/view?usp=sharing)  
