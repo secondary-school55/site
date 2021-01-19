@@ -1268,6 +1268,7 @@ export default function DistanceLearning() {
 **08.12** [Тема: Класифікація хімічних реакцій. Реакції сполучення, розкладу, заміщення, обміну](https://drive.google.com/file/d/1tfQyElQnK1SBSHg-jwM8HbxB1pdGYWaP/view?usp=sharing)  
 **12.01** [Тема: Вступ до органічної хімії](https://drive.google.com/file/d/1QhyD_QZTlrWJ69b4zgRBD2efL1V3LOWx/view?usp=sharing)  
 **14.01** [Тема: Метан і його гомологи](https://drive.google.com/file/d/1WMQk6LicSO7c09zsJzkzeFvucHwb2Ebs/view?usp=sharing)  
+**19.01** [Тема: Властивості алканів](https://drive.google.com/file/d/1HLuMIzTs7jnDRWKYV6tTXJ2bCyx322DS/view?usp=sharing)  
 
 ** Правознавство **  
 **03.12** [Тема: Конституційні права і свободи людини і громадянина](https://drive.google.com/file/d/15aef0Tzl_ip_KxMQal1xDjVIK8mWwNyg/view?usp=sharing)  
@@ -1363,6 +1364,7 @@ export default function DistanceLearning() {
 **08.12** [Тема: Звукові хвилі](https://drive.google.com/file/d/126g0uZowIP3iR08iTKfkKfQ_HqjU3VHf/view?usp=sharing)  
 **12.01** [Тема: Модель атома](https://drive.google.com/file/d/1qUzWy-DnK5zTjgJ5rWTaCWiqCLd54CrA/view?usp=sharing)  
 **15.01** [Тема: Радіоактивність](https://drive.google.com/file/d/1zyfT3xZ2s9SF9QqOwVPCY_A1IZGoCc5r/view?usp=sharing)  
+**19.01** [Тема: Активність радіонуклідів](https://drive.google.com/file/d/1E1x-YRRxexT9mj-MO77yTu9c1e2CaTHo/view?usp=sharing)  
 
 ** Мистецтво **  
 **04.12** [Тема: Сюрреалізм](https://drive.google.com/file/d/1NifrDQX_ktjFsE6qmEyUdO5CkcjpReOn/view?usp=sharing)  
@@ -1403,6 +1405,7 @@ export default function DistanceLearning() {
 **15.01** [Стрембицька Л.А. Тема: Прислів’я та приказки, крилаті вислови. Стійкі народні порівняння. Побажання, приповідки, каламбури, їх оцінний зміст](https://drive.google.com/file/d/1mCaengvxqaLZZYreUqZ1gVI1qnJSXLfV/view?usp=sharing)  
 **15.01** [Добровольська В. Е. Тема: Прислів′я і приказки, крилаті вислови. Стійкі народні порівняння. Побажання, приповідки, каламбури, їх оцінний зміст](https://drive.google.com/file/d/1RhH0E_O7-KnvF8JDlWHKaLRu4xMOIz7C/view?usp=sharing)  
 **19.01** [Стрембицька Л.А. Тема: Багатозначність, синонімія, антонімія фразеологічних одиниць](https://drive.google.com/file/d/1WNq8vlMZb67Lc1kwWcI-uF5xxmjirbj9/view?usp=sharing)  
+**19.01** [Добровольська В. Е. Тема: Багатозначність, синонімія, антонімія фразеологічних одиниць](https://drive.google.com/file/d/1mErG-XEZUBOJKeLho6obuqOAlnaZc6Bn/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
@@ -1422,6 +1425,7 @@ export default function DistanceLearning() {
 **08.12** [Тема: Імпульс.Реактивний рух](https://drive.google.com/file/d/1c_MGIN_B14rayQ-AG2VHjGcWjTZaSSNg/view?usp=sharing)  
 **12.01** [Тема: Механічні коливання](https://drive.google.com/file/d/1D_PrdzvuncDuJY0hpPy2A8SMK1Vi5Vwu/view?usp=sharing)  
 **14.01** [Тема: Маятники](https://drive.google.com/file/d/1oRzPzDYiJgMeQ7AL0Gp0jovmr9Xdg9Ln/view?usp=sharing)  
+**19.01** [Тема: Найпростіші коливальні системи](https://drive.google.com/file/d/11BprS-cSRHUsbswcWxaJYs_HWkMYT2yQ/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)  
@@ -1540,6 +1544,7 @@ export default function DistanceLearning() {
 ** Хімія **  
 **08.12** [Тема: Поняття про гальванічний елемент як хімічне джерело електричного струму](https://drive.google.com/file/d/1-18C_qtNZmcyKNShpSVNgHdP_43NAkoS/view?usp=sharing)  
 **12.01** [Тема: Загальна характеристика неметалічних елементів](https://drive.google.com/file/d/116iy1q2Om11OkB2Xr2vkKKIGomEWe2pI/view?usp=sharing)  
+**19.01** [Тема: Галогени](https://drive.google.com/file/d/1k5ct8mdHwfewxzUHBtm6Ai1-0twGjPN4/view?usp=sharing)  
 
 ** Алгебра **  
 **11.01** [Тема: Первісна та її властивості](https://drive.google.com/file/d/1L324DYGv9LNfmQRPdS-EqyuIWCETnm6O/view?usp=sharing)  
