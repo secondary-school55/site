@@ -1178,7 +1178,9 @@ export default function DistanceLearning() {
 **14.01** [8-А. Тема: Активізація граматичних навичок](https://drive.google.com/file/d/1vmRRhqyIHbPnZVVLCkHYoL2gLZAREWi3/view?usp=sharing)  
 **18.01** [8-А. Тема: Місця проведення вільного часу](https://drive.google.com/file/d/1CkVCBWtpuAKPRHbLNT9FpEQhdqDRY8i4/view?usp=sharing)  
 **18.01** [8-А,Б. Хоменко А.Ю. Тема: Місця, де ти проводиш час з книжкою](https://drive.google.com/file/d/1yJQf4UPd6jXNajw2tgAj_xgbWIXi0ROo/view?usp=sharing)  
+**19.01** [8-А. І група. Тема: Газети та журнали України](https://drive.google.com/file/d/1Rkjk7TH2Amd93dcIstNTgvh_JlSZ8LZy/view?usp=sharing)  
 **19.01** [8-А. ІІ група. Тема: Газети та журнали України](https://drive.google.com/file/d/1ErE7a0kqZxWc5-eLsdyfrV1kjUD3QMoT/view?usp=sharing)  
+**19.01** [8-Б. Тема: Газети та журнали України](https://drive.google.com/file/d/1Rkjk7TH2Amd93dcIstNTgvh_JlSZ8LZy/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
