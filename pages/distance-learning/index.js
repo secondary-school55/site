@@ -862,6 +862,7 @@ export default function DistanceLearning() {
 **18.01** [5-А. ІІ група. Тема: Спрощення в групах приголосних](https://drive.google.com/file/d/1xeV__dfDZ9d3_EI-njpIdHPUr14HvEVz/view?usp=sharing)  
 **19.01** [5-Б. Тема: Чергування голосних](https://drive.google.com/file/d/1z5OaGQQ9cXDn0Arb4r081jekEzBZqVbN/view?usp=sharing)  
 **20.01** [5-А. І група. Тема: Найпоширеніші випадки чергування голосних і приголосних звуків](https://drive.google.com/file/d/1-MmUSM3j1ffrQqYpE9sdEDIipj2rdhm9/view?usp=sharing)  
+**20.01** [5-А. ІІ група. Тема: Найпоширеніші випадки чергування голосних і приголосних звуків](https://drive.google.com/file/d/1RcuMEabmsNEQ05v7m5LccAuHl8oE4CW0/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -1060,6 +1061,7 @@ export default function DistanceLearning() {
 
 ** Основи здоров’я **  
 **13.01** [Тема: Види рішень](https://drive.google.com/file/d/1Ic241cRLf0OHQiJDlEFwiHeGkWpJTBc9/view?usp=sharing)  
+**20.01** [Тема: Вплив реклами на рішення людини. Види реклами](https://drive.google.com/file/d/1NbtevUO8Mhl3b43N5955q54r68Lf1nS2/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **14.01** [Тема: Побутовий жанр. Історія виникнення та розвитку](https://drive.google.com/file/d/1XYvXwACQ4PgoG10yrkiNui7Ho97oaw35/view?usp=sharing)  
@@ -1118,9 +1120,11 @@ export default function DistanceLearning() {
 **14.01** [7-А. Тема: Символіка олімпійських ігор](https://drive.google.com/file/d/1lV_IYsZZzYdUbyI2gfEKuM04zvlAAKla/view?usp=sharing)  
 **18.01** [7-А. І група. Тема: Сучасні міжнародні спортивні події](https://drive.google.com/file/d/1Vuo7HeRt43SUWmiUpXcbjqwHfHwqVcH9/view?usp=sharing)  
 **18.01** [7-А. ІІ група. Тема: Сучасні міжнародні спортивні події](https://drive.google.com/file/d/1wKGbo-UqgGDDBbRlgltM4IEH4h_BXpBL/view?usp=sharing)  
-**19.01** [7-Б. І група. Тема: Сучасні міжнародні спортивні події](https://drive.google.com/file/d/1sQYWIwyNrM9WAui0x-epezEX4DWdUAVK/view?usp=sharing)  
+**19.01** [7-Б. Тема: Сучасні міжнародні спортивні події](https://drive.google.com/file/d/1JfxiNjK9NUN7xfliZ-T2piIBeCIugzoz/view?usp=sharing)  
+**20.01** [7-А. І група. Тема: Сучасні міжнародні спортивні події](https://drive.google.com/file/d/1vSzoN6AbnEFYS3dOUO3txpxpP7UZpS4B/view?usp=sharing)  
 **20.01** [7-А. ІІ група. Тема: Міжнародні спортивні події](https://drive.google.com/file/d/1OSIJkAJJSfKBGWBzqzOBG2eRsfCBRh1R/view?usp=sharing)  
 **20.01** [7-А. ІІ група. Презентація](https://drive.google.com/file/d/1qB9k8e5H9yk0p5GJzQQ3_ThVliba6Ae5/view?usp=sharing)  
+**20.01** [7-Б. Тема: Сучасні міжнародні спортивні події](https://drive.google.com/file/d/1M9gydlbh_RNqye0DmBiwrLP8F85JiTVX/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Створення моделей для розв’язування задач](https://drive.google.com/file/d/129xZiYVeZFgltMSzdCWdQEco6wnXtbuw/view?usp=drive_web)  
@@ -1150,6 +1154,7 @@ export default function DistanceLearning() {
 **18.01** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Дієприслівниковий зворот. Розділові знаки при дієприслівниковому звороті й одиничному дієприслівникові](https://drive.google.com/file/d/1vAo32W8bXqlHKojUKKpNCVqGTNikS2ZI/view?usp=sharing)  
 **18.01** [7-Б. Алтинбаєва Л. М. Тема: Дієприслівник доконаного і недоконаного виду, їх творення](https://drive.google.com/file/d/1kyc76mCbTERuLk_WWD6L6ZN8oANncG7D/view?usp=sharing)  
 **20.01** [7-А. Харенко Ю. А. І група. Тема: Вид і час дієприслівників. Творення дієприслівників недоконаного і доконаного виду](https://drive.google.com/file/d/1J2cDntiuMJc0nz9-3h70aOWUkQtgkFZl/view?usp=sharing)  
+**20.01** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Дієприслівник доконаного і недоконаного виду, їх творення](https://drive.google.com/file/d/1udfhzyxDQ52VrFQJui2h55-L2gnB975a/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -1277,6 +1282,8 @@ export default function DistanceLearning() {
 **13.01** [8-А. Тема: Функція у=х2, її графік і властитвості](https://drive.google.com/file/d/1a1CBk2F9c0dwjajS5bSjf5mVTANkQP8g/view?usp=sharing)  
 **13.01** [8-Б. Тема: Раціональні числа. Ірраціональні числа](https://drive.google.com/file/d/1qbzY_IkBq86ERmeYM-n2CFZQWNjVlMKq/view?usp=sharing)  
 **14.01** [8-А. Тема: Розв'язування вправ](https://drive.google.com/file/d/1NwltdqxK6UUT_10duiGdEo4vhB9YKygI/view?usp=sharing)  
+**19.01** [8-Б. Тема: Рівняння x^2=a](https://drive.google.com/file/d/1hhxl7A63lq0oWg-7lj36WvxcikoDzuFF/view?usp=sharing)  
+**20.01** [8-Б. Тема: Властивості арифметичного квадратного корення](https://drive.google.com/file/d/1fe7ayuDm0znP1Q4PVCyncgVaWUpbi5xR/view?usp=sharing)  
 
 ** Географія **  
 **04.12** [Тема: Вплив погодно-кліматичних умов на здоров'я і господарську діяльність людини. Охорона атмосферного повітря. Кліматичні особливості своєї місцевості](https://drive.google.com/file/d/1vYAwfOrYGHF59NtP26e4W9X-6BdlSoxY/view?usp=sharing)
@@ -1315,6 +1322,7 @@ export default function DistanceLearning() {
 **12.01** [8-Б. Тема: Теорема Піфагора](https://drive.google.com/file/d/1UqIOb1Yck4KipmrXn1L2m21aCcPdsoQC/view?usp=sharing)  
 **14.01** [8-Б. Тема: Розвязування задач на застосування Теореми Піфагора](https://drive.google.com/file/d/1KcE0rSknuk6Tz9BP0GiW5YavbpLwvj3U/view?usp=sharing)  
 **19.01** [8-А. Тема: Перпендикуляр і похила, їх властивості. Розв'язування задач](https://drive.google.com/file/d/1gdNA-tv0jx7MnbtWdcfdngWi8TVfvztz/view?usp=sharing)  
+**19.01** [8-Б. Тема: Перпендикуляр і похила, їх властивості](https://drive.google.com/file/d/1UQya_4xSBHWL4XGhBcrPGHV9wOM2jO8s/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Логічні вирази. Оператори розгалуження. Вкладені розгалуження](https://drive.google.com/file/d/1UIkiDcQ0uWpgiOSN8HPQe0On15gl7hh0/view?usp=sharing)  
@@ -1389,6 +1397,7 @@ export default function DistanceLearning() {
 **13.01** [9-А. Тема: Розв'язування трикутників](https://drive.google.com/file/d/1Y5WUNQHrr86e5dR0fjLd9nCYzCup6n0-/view?usp=sharing)  
 **14.01** [9-Б. Тема: Розв'язування задач](https://drive.google.com/file/d/1FNR6AishVUxDstAxc3vhJZut5oaKpg2s/view?usp=sharing)  
 **15.01** [9-А. Тема: Розвязування трикутників. Прикладні задачі](https://drive.google.com/file/d/1fkKupj8BvSo4p8nGTMT5vjSetjXaW9Dy/view?usp=sharing)  
+**20.01** [9-А. Тема: Розвязування трикутників](https://drive.google.com/file/d/1Doc46sNCXT17l8jkh1jM83LRjhb8ouA_/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1_YPlRDOzxWAHMorqZAt9hTRsefrTjAo4/view?usp=sharing)  
@@ -1476,9 +1485,12 @@ export default function DistanceLearning() {
 **12.01** [9-А. Тема: Квадратні нерівності](https://drive.google.com/file/d/1wA9BKwoKXWPgwQgDQcOQVkvRB8w4_JkE/view?usp=sharing)  
 **14.01** [9-А. Тема: Квадратні нерівності](https://drive.google.com/file/d/1j8Agoad-KOkTKyPhKyLUK63FOnH9iYmW/view?usp=sharing)  
 **15.01** [9-Б. Тема: Квадратні нерівності](https://drive.google.com/file/d/1vE8vcvucUl_AN0E_QYuXj8DesWr4X7R1/view?usp=sharing)  
+**18.01** [9-Б. Тема: Розв'язування систем рівнянь](https://drive.google.com/file/d/1mxfFjyKHSMrUkIAQvPcRHvEVjfFcdaQ3/view?usp=sharing)  
+**19.01** [9-А. Тема: Розв'язування систем рівнянь](https://drive.google.com/file/d/1J8VrUC7p6eUpU8PMucMLhzzvKSgNsro1/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
+**18.01** [Тема: Уміння вчитися](https://drive.google.com/file/d/1ai-kazBS4jh5AsIaA_5FKPGm_d5tqqS1/view?usp=sharing)  
 
 ** Зарубіжна література **  
 **11.01** [Тема: Новаторство М. Ю. Лермонтова в жанрі роману](https://drive.google.com/file/d/1O7MBHYMIcNsH9Y8VbzFlsfs0J1K0xx64/view?usp=sharing)  
@@ -1569,7 +1581,9 @@ export default function DistanceLearning() {
 **11.01** [Хлопці. Тема: Вогнева підготовка](https://drive.google.com/file/d/190Hpb8Hc2f1DXFKG1XJdIfRWQKXTefWM/view?usp=sharing)  
 **11.01** [Дівчата. Тема: Потенційно небезпечні місця. Вибухонебезпечні предмети](https://drive.google.com/file/d/1onH0OCXfhI6qW2YA2RZo6xsNgkVifZKR/view?usp=sharing)  
 **18.01** [Хлопці. Тема: Вогнева підготовка. Стрілецька зброя та поводження з нею. Порядок неповного розбирання і складання та обслуговування автомата. Заходи безпеки при поводженні зі зброєю](https://drive.google.com/file/d/1NyvNcaDGZzFLmZXCG5YE_u5-6CL5iVPs/view?usp=sharing)  
+**18.01** [Дівчата. Тема: Види кровотеч. Ознаки та швидке розпізнавання загрозливої для життя кровотечі](https://drive.google.com/file/d/1OCi1XdCixpV3FAmAlR2gkCoFN7Tel3QI/view?usp=sharing)  
 **20.01** [Хлопці. Тема: Вогнева підготовка. Стрілецька зброя та поводження з нею. Малокаліберна і пневматична гвинтівки та гладкоствольна рушниця. Загальна будова малокаліберної гвинтівки та пневматичної гвинтівки та їх характеристика](https://drive.google.com/file/d/1NE6s2E3o6mMwk0MFkb1RoqTNMCIZAEai/view?usp=sharing)  
+**20.01** [Дівчата. Тема: Техніка застосування прямого тиску на рану](https://drive.google.com/file/d/1i-ETcPcHY5NPe5A1zLujOhqhJAtfgQz5/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Насичені одноатомні спирти](https://drive.google.com/file/d/1IfJ4cpMktmfYg7JKuCp4G7s1HGHH3NaY/view?usp=sharing)  
@@ -1585,6 +1599,7 @@ export default function DistanceLearning() {
 ** Алгебра **  
 **11.01** [Тема: Радіанне вимірювання кутів](https://drive.google.com/file/d/19KcVgym3kZyvIV-SMlDCUuvdZCjmINU4/view?usp=sharing)  
 **15.01** [Тема: Властивості тригонометричних функцій](https://drive.google.com/file/d/1aoiPcJBCWstSVUwguGMZvrCz5AmL3YRl/view?usp=sharing)  
+**18.01** [Тема: Властивості тригонометричних функцій](https://drive.google.com/file/d/1z09HALI4stJDeBq9dOT5wDA8OoHXsEun/view?usp=sharing)  
 
 ** Технології **  
 **12.01** [Тема: Український суванір](https://drive.google.com/file/d/1Qjysoxx4CbkF3hvpoWE8jhs9EKJ-HX7j/view?usp=sharing)  
@@ -1605,6 +1620,7 @@ export default function DistanceLearning() {
 
 ** Геометрія **  
 **13.01** [Тема: Кути в просторі](https://drive.google.com/file/d/1rjbEKlAjKW4xBCtlEmyQmD8MwGznJaZO/view?usp=sharing)  
+**20.01** [Тема: Ортогональне проєктування](https://drive.google.com/file/d/1waidP_R9XFo2YD-fArAfYjGRzNzUM_Sc/view?usp=sharing)  
 
 ** Біологія **  
 **14.01** [Тема: Закономірності спадковості. Гібридологічний аналіз](https://drive.google.com/file/d/1FVlYRcqxhNy-PpceFMNbZ9fESAcJfw-m/view?usp=sharing)  
@@ -1661,10 +1677,12 @@ export default function DistanceLearning() {
 ** Алгебра **  
 **11.01** [Тема: Первісна та її властивості](https://drive.google.com/file/d/1L324DYGv9LNfmQRPdS-EqyuIWCETnm6O/view?usp=sharing)  
 **14.01** [Тема: Правила знаходження первісних](https://drive.google.com/file/d/1UDcLsFF-566T45qpyzx9so_S6L3zEydu/view?usp=sharing)  
+**18.01** [Тема: Правила знаходження первісних](https://drive.google.com/file/d/131gyL6Us88QJs0uOmSfwilpKoUyqUMEc/view?usp=sharing)  
 
 ** Захист України **  
 **11.01** [Тема: Повний огляд пораненого, зупинка всіх інших видів кровотеч](https://drive.google.com/file/d/1vGeJ4yYdwbxW2fG2x-JbPlzplwwwZNlL/view?usp=sharing)  
 **13.01** [Тема: Надання домедичної допомоги в разі переломів](https://drive.google.com/file/d/17jAfhMnAnx6-iSSVpvLulBTVmTNv45UT/view?usp=sharing)  
+**18.01** [Тема: Надання домедичної допомоги в разі опіків і проникного поранення ока](https://drive.google.com/file/d/1b6sDoJFOBEPWtu6g2ko71Bjq1ywCx6Sy/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Комплекс ранкової гігієнічної гімнастики](https://drive.google.com/file/d/1jMHOn2adK6L881jeXPQpOB7TgJflIDGt/view?usp=sharing)  
