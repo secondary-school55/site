@@ -284,7 +284,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Ознайомлення з походженням деяких жіночих і чоловічих імен та прізвищ](https://drive.google.com/file/d/1cdMTQM2Iac_prYeaQwbhpST7qVUtsrm-/view?usp=sharing)  
 **11.01** [Тема: Досліджую прикметники. Розпізнаю слова – назви ознак](https://drive.google.com/file/d/1Rbv2ekF_6ya8yEzY3rRdcSgQee9BvIH8/view?usp=sharing)  
 **13.01** [Тема: Добираю прикметники](https://drive.google.com/file/d/1l1roeb8eJ0wws1f4iGfRe1xUM0vf6crT/view?usp=sharing)  
-**14.01** [Тема: Утворюю прикметники](https://drive.google.com/file/d/1_IYYKV3vaRkXFxd2vKuFbLAGB5zizks1/view?usp=sharing)  
+**14.01** [Тема: Утворюю прикметники](https://drive.google.com/file/d/1Xcn5oT8Ald6TziHaGMoYTXA1oWQO27-B/view?usp=sharing)  
 **18.01** [Тема: Поєдную прикметники з іменниками](https://drive.google.com/file/d/1AvuB7MpQsMJs16IfyQFk-JA0Drd7clD1/view?usp=sharing)  
 **20.01** [І група. Тема: Змінюю прикметники за числами](https://drive.google.com/file/d/1IFTKBVDY34c_hjFgz8D7qB5d3MwaEhD0/view?usp=sharing)  
 **20.01** [ІІ група. Тема: Змінюю прикметники за числами](https://drive.google.com/file/d/1gxYcXtPnwFrq0cC4D4l5sn-W4mRMDpY8/view?usp=sharing)  
@@ -1556,6 +1556,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Комунікативні технології](https://drive.google.com/file/d/1IZLD7Wgocw8j788iwBPfs1JeC8u5YWVT/view?usp=sharing)  
 **15.01** [Тема: Комунікативні технології](https://drive.google.com/file/d/19a_t5bm9uQxiL0ssYYiyzCnd_p5lw8Mg/view?usp=sharing)  
 **19.01** [Тема: Проблеми екології та пошук шляхів їх вирішення](https://drive.google.com/file/d/1UL3epNr1RGHEVEu-j5aRMQKHd3n3nA4d/view?usp=sharing)  
+**20.01** [І група. Тема: Сучасні засоби комунікації. Корисні винаходи](https://drive.google.com/file/d/14putPFNvVyAclzZ-qkVhjc3NLXVzTf8J/view?usp=sharing)  
 **20.01** [ІІ група. Тема: Комунікаційні технології](https://drive.google.com/file/d/1yAZELyuHJft20qGVuhteZmlERLvPeYA2/view?usp=sharing)  
 
 ** Захист України**  
