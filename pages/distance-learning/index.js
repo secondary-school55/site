@@ -1401,7 +1401,9 @@ export default function DistanceLearning() {
 **18.01** [9-А. ІІ група. Тема: Тварини у небезпеці](https://drive.google.com/file/d/1DVYs-NtkpwMi6eFR3TZPt4OUi1bj8Ocx/view?usp=sharing)  
 **18.01** [9-А,Б. Тема: Тварини в небезпеці. Захист навколишнього середовища](https://drive.google.com/file/d/1Caz032sz1dDMEqTfTUaDxL9fjjsGqUMo/view?usp=sharing)  
 **20.01** [9-А. ІІ група. Тема: Граматика](https://drive.google.com/file/d/1LCOfNk_ChcEQ8ir6dmWHJBKGpd7GuUh9/view?usp=sharing)  
+**20.01** [9-А. І група. Тема: Grammar: Conditional 1](https://drive.google.com/file/d/17sfeGmwD9CtkjHNj5XnBfCniaUVumF9r/view?usp=sharing)  
 **20.01** [9-А. ІІ група. Презентація](https://drive.google.com/file/d/1sk1imLP5o7riRefT_plN3_AqUm4Zfa4K/view?usp=sharing)  
+**20.01** [9-Б. Тема: Grammar: Conditional 1](https://drive.google.com/file/d/17sfeGmwD9CtkjHNj5XnBfCniaUVumF9r/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
@@ -1452,7 +1454,8 @@ export default function DistanceLearning() {
 **13.01** [Тема: Стислий усний переказ тексту публіцистичного стилю](https://drive.google.com/file/d/1-DHsHbSTpEuQ412tstPEzrnv1nLCz9mE/view?usp=sharing)  
 **13.01** [Тема: Стислий усний переказ тексту публіцистичного стилю](https://drive.google.com/file/d/119DO-0LnY3dxpYHlGpQ0eLCuXWmcZ7Zn/view?usp=sharing)  
 **18.01** [Тема: Розділові знаки в складнопідрядному реченні з кількома підрядними](https://drive.google.com/file/d/1joBxsLiM5ZDCty8Lp7qGKCmkBA-cWRVy/view?usp=sharing)  
-**18.01** [9-А. І група. Тема: СПР з кількома підрядними](https://drive.google.com/file/d/1Vhga5wTyBdJ5Z_IGUmuNF0WWRyfFMyMT/view?usp=sharing)  
+**18.01** [9-А. І група. Тема: Розділові знаки в складнопідрядному реченні з кількома підрядними](https://drive.google.com/file/d/1bFgbR8JUAnS1dkKsMguCpJoOlOs6Csl3/view?usp=sharing)  
+**20.01** [9-А. І група. Тема: Розділові знаки у СПР з кількома підрядними](https://drive.google.com/file/d/1XGSk_Gawn5MQZC-Oe4xsujcYWCQ9DPlZ/view?usp=sharing)  
 
 ** Фізика **  
 **04.12** [Тема: Механічні хвилі](https://drive.google.com/file/d/1gFUenJvZoiJfbG2dXxl35x6LtqAUs2RB/view?usp=sharing)  
