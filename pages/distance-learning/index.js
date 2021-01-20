@@ -738,6 +738,7 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **13.01** [Тема: Електронна пошта](https://drive.google.com/file/d/1KyFCawBMzLggZl_i87HzBarHmFnhAAoK/view?usp=drive_web)  
+**20.01** [Тема: Інформаційні ресурси Інтернету. Пошук навчальних матеріалів в мережі. Навчальна діяльність учня в Інтернеті. Рівні доступу до навчальних матеріалів.](https://drive.google.com/file/d/1e5L-kjkqik3vDlfm2jIA1Ne2RuMPdS2g/view?usp=drive_web)  
 `}</Md>
           </Tab>
           <Tab title="4-Б">
@@ -830,6 +831,7 @@ export default function DistanceLearning() {
 
 ** Інформатика **  
 **13.01** [Тема: Електронна пошта](https://drive.google.com/file/d/1KyFCawBMzLggZl_i87HzBarHmFnhAAoK/view?usp=drive_web)  
+**20.01** [Тема: Інформаційні ресурси Інтернету. Пошук навчальних матеріалів в мережі. Навчальна діяльність учня в Інтернеті. Рівні доступу до навчальних матеріалів.](https://drive.google.com/file/d/1e5L-kjkqik3vDlfm2jIA1Ne2RuMPdS2g/view?usp=drive_web)  
 `}</Md>
           </Tab>
         </Tabs>
@@ -1130,6 +1132,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Створення моделей для розв’язування задач](https://drive.google.com/file/d/129xZiYVeZFgltMSzdCWdQEco6wnXtbuw/view?usp=drive_web)  
 **13.01** [7-Б. Тема: Створення комп'ютерної моделі рівномірного прямолінійного руху](https://drive.google.com/file/d/1eEhezYQyhBuwJkm7r1QrzZF_b1rQ0hBC/view?usp=drive_web)  
 **15.01** [7-А. Тема: Створення комп'ютерної моделі рівномірного прямолінійного руху](https://drive.google.com/file/d/1eEhezYQyhBuwJkm7r1QrzZF_b1rQ0hBC/view?usp=drive_web)  
+**20.01** [Тема: Створення комп’ютерної моделі процесу взаємопов’язаного функціонування об’єктів](https://drive.google.com/file/d/1ebt5P6lRYllgG-E5yVvgtguMgKRpMfFm/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Різноманітність птахів, їх роль у природі та значення в житті людини](https://drive.google.com/file/d/1yE8Ay4YmvkBD_Dh23t4NCf8q2Jox4_Ou/view?usp=sharing)  
@@ -1446,6 +1449,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Розроблення програми. Виконання арифметичних обчислень. Уведення, виконання й налагодження програм](https://drive.google.com/file/d/1dpekkJgkf59EosU2y6jtD_cr9PnqzdpZ/view?usp=drive_web)  
 **13.01** [9-Б. Тема: Виконання індивідуальних і групових навчальних проектів із дослідження предметної галузі.](https://drive.google.com/file/d/1OvX1LpPoxgOfNDojztLYgVV3OOs7Vjz3/view?usp=drive_web)  
 **15.01** [9-А. Тема: Виконання індивідуальних і групових навчальних проектів із дослідження предметної галузі.](https://drive.google.com/file/d/1OvX1LpPoxgOfNDojztLYgVV3OOs7Vjz3/view?usp=drive_web)  
+**20.01** [Тема: Оформлення матеріалів про виконання індивідуальних і групових навчальних проектів із дослідження предметної галузі. Захист проекту](https://drive.google.com/file/d/1f_jiARPznbXRurKma5BGNmZHXSsfSOFj/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Фотосинтез: світлова та темнова фази](https://drive.google.com/file/d/1AP4SBbE-Wl8PoIH4LiQXBqO2b-ri70gl/view?usp=sharing)  
@@ -1520,6 +1524,7 @@ export default function DistanceLearning() {
 **19.01** [Стрембицька Л.А. Тема: Багатозначність, синонімія, антонімія фразеологічних одиниць](https://drive.google.com/file/d/1WNq8vlMZb67Lc1kwWcI-uF5xxmjirbj9/view?usp=sharing)  
 **19.01** [Добровольська В. Е. Тема: Багатозначність, синонімія, антонімія фразеологічних одиниць](https://drive.google.com/file/d/1mErG-XEZUBOJKeLho6obuqOAlnaZc6Bn/view?usp=sharing)  
 **20.01** [Стрембицька Л.А. Тема: Фразеологізми власне українського походження та фразеологічні запозичення з інших мов. Національно-мовний колорит фразеології. Фразеологічні відповідники в різних мовах](https://drive.google.com/file/d/1_HRwch7I3bwosObnWT39PUIbtlSZ_2yt/view?usp=sharing)  
+**20.01** [Добровольська В. Е. Тема: Фразеологізми власне українського походження та фразеологічні запозичення з інших мов. Національно-мовний колорит фразеології. Фразеологічні відповідники в різних мовах](https://drive.google.com/file/d/1f1zoaGVsZTCAHbQteR_Q9wsYZyJCm27o/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
