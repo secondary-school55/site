@@ -286,7 +286,8 @@ export default function DistanceLearning() {
 **13.01** [Тема: Добираю прикметники](https://drive.google.com/file/d/1l1roeb8eJ0wws1f4iGfRe1xUM0vf6crT/view?usp=sharing)  
 **14.01** [Тема: Утворюю прикметники](https://drive.google.com/file/d/1_IYYKV3vaRkXFxd2vKuFbLAGB5zizks1/view?usp=sharing)  
 **18.01** [Тема: Поєдную прикметники з іменниками](https://drive.google.com/file/d/1AvuB7MpQsMJs16IfyQFk-JA0Drd7clD1/view?usp=sharing)  
-**20.01** [Тема: Змінюю прикметники за числами](https://drive.google.com/file/d/1gxYcXtPnwFrq0cC4D4l5sn-W4mRMDpY8/view?usp=sharing)  
+**20.01** [І група. Тема: Змінюю прикметники за числами](https://drive.google.com/file/d/1IFTKBVDY34c_hjFgz8D7qB5d3MwaEhD0/view?usp=sharing)  
+**20.01** [ІІ група. Тема: Змінюю прикметники за числами](https://drive.google.com/file/d/1gxYcXtPnwFrq0cC4D4l5sn-W4mRMDpY8/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
@@ -478,6 +479,8 @@ export default function DistanceLearning() {
 **18.01** [ІІ група. Тема: Розвиток зв'язного мовлення. Складання розповіді про враження від свята. Тема для спілкування: "Як я святкував/святкувала Новий Рік"](https://drive.google.com/file/d/1SC1yRX_yFwsvUJlWXANIEuNTaMS3ZRNC/view?usp=sharing)  
 **20.01** [І група. Тема: Розпізнавання іменників, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1uP8eZg1IWoaILzGqN5wAFd9hlSMr1Inu/view?usp=sharing)  
 **20.01** [І група. Презентація. Тема: Розпізнавання іменників, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1KjaKxGVB9IlaHGVFc8DlICFytQpVPpo5/view?usp=sharing)  
+**20.01** [ІІ група. Тема: Розпізнаю іменники, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1HXOjNAstK9HTG5knxuJ2czrYWNEoYCgS/view?usp=sharing)  
+**20.01** [ІІ група. Презентація. Тема: Розпізнаю іменники, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1l7c0HKIA_8srD2m8kd1_SM2DwYoLyE0Y/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -670,6 +673,7 @@ export default function DistanceLearning() {
 **18.01** [ІІ група. Тема: Розбір прикметника як частини мови](https://drive.google.com/file/d/1DNYDJeZ5ONmFVCtpvZiHNfFsgo-0PoEC/view?usp=sharing)  
 **19.01** [ІІ група. Тема: Поширення речень прикметниками](https://drive.google.com/file/d/1wEykTcQSrOCuD4oCiJRvteFC5K9e-Wy1/view?usp=sharing)  
 **19.01** [І група. Тема: Поширення речень прикметниками](https://drive.google.com/file/d/1qpRR-qCNxIXrGudADdt_W3Zvg9OYK1LH/view?usp=sharing)  
+**20.01** [ІІ група. Тема: Узагальнення та систематизація знань і вмінь за темою](https://drive.google.com/file/d/1lpUM2BjXrsgd9TiBT1JpR4yAj76W6XXR/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Завдання](https://drive.google.com/file/d/13py1-ZctKCGOs4nnf8wgTevIB_Fvh90v/view?usp=sharing)  
@@ -922,9 +926,10 @@ export default function DistanceLearning() {
 **19.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1KZ16zz8E6htrYtBcPwvoAiEwM9HMj7wg/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
-**11.01** [Тема: Скульптура космонавт](https://drive.google.com/file/d/1mvaqrrkGEY-U7MTH9WrLW-q_fnGKRq6A/view?usp=sharing)  
-**13.01** [Тема: Скульптура космонавт](https://drive.google.com/file/d/1uE_G_RJH4nHcJ1QfM06A98ien9RVb-Xh/view?usp=sharing)  
-**18.01** [Тема: Скульптура. Фантастична тварина](https://drive.google.com/file/d/1AgFVNevFmTlspT3quYBICcA-SvFXibLa/view?usp=sharing)  
+**11.01** [5-Б. Тема: Скульптура космонавт](https://drive.google.com/file/d/1mvaqrrkGEY-U7MTH9WrLW-q_fnGKRq6A/view?usp=sharing)  
+**13.01** [5-А. Тема: Скульптура космонавт](https://drive.google.com/file/d/1uE_G_RJH4nHcJ1QfM06A98ien9RVb-Xh/view?usp=sharing)  
+**18.01** [5-Б. Тема: Скульптура. Фантастична тварина](https://drive.google.com/file/d/1AgFVNevFmTlspT3quYBICcA-SvFXibLa/view?usp=sharing)  
+**20.01** [5-А. Тема: Скульптура. Фантастична тварина](https://drive.google.com/file/d/1FfZOhyZGsuDlTgh7NdvsWUV97ziLPqIK/view?usp=sharing)  
 
 ** Українська література **  
 **11.01** [5-А. Тема: Л.Глібов. "Химерний, маленький...", "Що за птиця?"](https://drive.google.com/file/d/1PfhpTVhihBn22ZZafAJ0UAig2vydUWqH/view?usp=sharing)  
@@ -969,6 +974,7 @@ export default function DistanceLearning() {
 **13.01** [6-В. Тема: Камерно-інструментальна музика](https://drive.google.com/file/d/1f3sF5UGPjrOw2R3C4ldPBl5A3mBu81Ly/view?usp=sharing)  
 **15.01** [6-А. Тема: Камерно-інструментальна музика](https://drive.google.com/file/d/1f3sF5UGPjrOw2R3C4ldPBl5A3mBu81Ly/view?usp=sharing)  
 **15.01** [6-Б. Тема: Камерно-інструментальна музика](https://drive.google.com/file/d/1f3sF5UGPjrOw2R3C4ldPBl5A3mBu81Ly/view?usp=sharing)  
+**20.01** [6-В. Тема: Ноктюрн](https://drive.google.com/file/d/1HemtQnEbD4wTarcy0cNSlqP0eTDDWWhL/view?usp=sharing)  
 
 ** Математика **  
 **04.12** [Тема: Пряма та обернена пропорційна залежність](https://drive.google.com/file/d/1wvfb4nJOgeV9QnldpeYtGn2_kDzpbtmu/view?usp=sharing)  
@@ -991,6 +997,7 @@ export default function DistanceLearning() {
 **19.01** [6-А,В. Тема: Модуль числа](https://drive.google.com/file/d/1zQV0bWxO4PzaHNQUl5dFEkAzxSknlMas/view?usp=sharing)  
 **19.01** [6-Б. Тема: Підсумковий урок з теми «Довжина кола. Площа круга. Тіла обертання. Діаграми.» Контрольна робота](https://drive.google.com/file/d/1dsQblVn0v8lfgU5gK-iIHyZ2sXZylb5V/view?usp=sharing)  
 **20.01** [6-Б. Тема: Додатні та від'ємні числа. Число нуль](https://drive.google.com/file/d/1x0mYBP9AI-Pl8UL4CwKcqdSlp9Xg7Au_/view?usp=sharing)  
+**20.01** [6-А,В. Тема: Розв'язування вправ](https://drive.google.com/file/d/1vBiY5-vOIWJloc6XoJu-OETr3--SEZeW/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
@@ -1155,6 +1162,7 @@ export default function DistanceLearning() {
 **13.01** [7-А. Тема: Розкладання многочлена на множники способом группування](https://drive.google.com/file/d/1D4MCUIOU1zUx4AJTxJD47fPeY_RFL5Bh/view?usp=sharing)  
 **18.01** [7-А,Б. Тема: Використання формул скороченого множення для розкладання многочлена](https://drive.google.com/file/d/1yOyVNUGRVZtOVEdOi1xqbXLK-NErdJTu/view?usp=sharing)  
 **19.01** [7-Б. Тема: Застосування кількох способів розкладання многочленів на множники](https://drive.google.com/file/d/190rTQeDp3sY8fmPJ2h_5reTRfxBIiHCt/view?usp=sharing)  
+**20.01** [7-А. Тема: Застосування кількох способів розкладання многочленів на множники](https://drive.google.com/file/d/1jdfVMDBx6lvfpyX_3jjAv9WqDv6JfLAa/view?usp=sharing)  
 
 ** Географія **  
 **11.01** [Тема: Географічне положення. Відкриття і дослідження антарктиди](https://drive.google.com/file/d/1lIgDyXiWc38CJRLGqbQqjvOiuHOlwgot/view?usp=sharing)  
@@ -1257,6 +1265,7 @@ export default function DistanceLearning() {
 **19.01** [8-А. І група. Тема: Газети та журнали України](https://drive.google.com/file/d/1Rkjk7TH2Amd93dcIstNTgvh_JlSZ8LZy/view?usp=sharing)  
 **19.01** [8-А. ІІ група. Тема: Газети та журнали України](https://drive.google.com/file/d/1ErE7a0kqZxWc5-eLsdyfrV1kjUD3QMoT/view?usp=sharing)  
 **19.01** [8-Б. Тема: Газети та журнали України](https://drive.google.com/file/d/1Rkjk7TH2Amd93dcIstNTgvh_JlSZ8LZy/view?usp=sharing)  
+**20.01** [8-А. Тема: Арифметичний квадратний корінь](https://drive.google.com/file/d/14nw_oFLbH8vRnyKj3R0TVq0EDbSx6W6L/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -1312,6 +1321,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Ідеали й образи Ренесансу](https://drive.google.com/file/d/1biA9w5C0Tq2_npKhtO7uwph7Jpz5Q6-g/view?usp=sharing)  
 **13.01** [Тема: Бароко](https://drive.google.com/file/d/1vSmu-ezDNaD-gyqWA9aIGJ34CVkJ3ZvS/view?usp=sharing)  
 **14.01** [Тема: Бароко](https://drive.google.com/file/d/1_VBKRJCQ4-GeVhiRdasRq86zeqppDQ6b/view?usp=sharing)  
+**20.01** [8-Б. Тема: Живопис Бароко](https://drive.google.com/file/d/1ubKg5kUk1WcJ8pVNfk0HVa2gyBb-4HVw/view?usp=sharing)  
 
 ** Російська мова **  
 **13.01** [Тема: Параллельная связь между предложениями в тексте](https://drive.google.com/file/d/1kI1EqW4xoE3j_M4DUEWxgqBji3bQfjXp/view?usp=sharing)  
@@ -1430,6 +1440,8 @@ export default function DistanceLearning() {
 **13.01** [9-Б. Тема: Біосинтез білка](https://drive.google.com/file/d/1IvcZ6lohy5m0b28pvc0rRmOkad4MkB4o/view?usp=sharing)  
 **15.01** [9-А. Тема: Біосинтез білка](https://drive.google.com/file/d/1YPDmhYf6PlsQV9BKsA4Q8vw6gfVXIxgW/view?usp=sharing)  
 **19.01** [9-А. Тема: Поділ клітини](https://drive.google.com/file/d/1iCMwRs27S5p25ZKNX7t-zVU9jRySgti4/view?usp=sharing)  
+**20.01** [9-А. Тема: Мейоз](https://drive.google.com/file/d/1TMdyIJV-B-zceJiZyTmTVX_MutNWcJx-/view?usp=sharing)  
+**20.01** [9-Б. Тема: Поділ клітини](https://drive.google.com/file/d/1lhuNTrGDFdYfKsINzAS6JT55RIbgwsRE/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Усний твір-роздум у публіцистичному стилі мовлення на суспільну тему](https://drive.google.com/file/d/1B1Pj9K4LkO41bylzM2_PTvUpGMqRtovG/view?usp=sharing)  
@@ -1661,6 +1673,8 @@ export default function DistanceLearning() {
 ** Біологія **  
 **13.01** [Тема: Екологічні чинники](https://drive.google.com/file/d/1KC52fpGn1EwDad_-OthY7mp_YCefBRLf/view?usp=sharing)  
 **13.01** [Тема: Завдання та методи екології](https://drive.google.com/file/d/1x0_L7PhRfIFdPkvMYp_y_nZFtmRRHu4E/view?usp=sharing)  
+**20.01** [Тема: Механізми регуляції чисельності популяцій](https://drive.google.com/file/d/1MkHA8KUxWyhb7E9H1Fh7hyjll5e9amM9/view?usp=sharing)  
+**20.01** [Тема: Популяції. Класифікація популяцій](https://drive.google.com/file/d/1EXkb_TdUrpzqX-0L6OW_lg6xYbTOpawz/view?usp=sharing)  
 
 ** Астрономія **  
 **13.01** [Тема: Планети-гіганти](https://drive.google.com/file/d/1ELiTkJtJebQ2sSuVQQT5vZ4a9rgadhbU/view?usp=sharing)  
