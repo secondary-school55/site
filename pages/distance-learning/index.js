@@ -335,6 +335,7 @@ export default function DistanceLearning() {
 **19.01** [І група. Тема: Дорога до школи](https://drive.google.com/file/d/1awxCjNnG-SAaEqbLMDGWlV3gRvVVaiyl/view?usp=sharing)  
 **19.01** [ІІ група. Тема: Дорога до школи](https://drive.google.com/file/d/1l332iZLyAvjWidOKEp-AA1pQ0v6OLtZV/view?usp=sharing)  
 **20.01** [І група. Тема: Що у моєму ланчбоксі](https://drive.google.com/file/d/1zGYzcWbgn35nfrQNRU-96-RxbUiSzY7G/view?usp=sharing)  
+**20.01** [ІІ група. Тема: Що у моєму ланчбоксі](https://drive.google.com/file/d/1M51TsarBfBAcnpFe4PQLssuPoK5vLq4q/view?usp=sharing)  
 
 ** Математика **  
 **11.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1VwNtfF7VLfGyvNSDziU_iCztBpKSa4aZ/view?usp=sharing)  
@@ -408,6 +409,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Що в мене на сніданок](https://drive.google.com/file/d/134syhENfVS8KVlIDURnLlhQqncvpsn2P/view?usp=sharing)  
 **15.01** [Тема: Kids vocabulary - My Day - Daily Routine](https://www.youtube.com/watch?v=qD1pnquN_DM&feature=youtu.be)  
 **19.01** [Тема: Дорога до школи](https://drive.google.com/file/d/1l332iZLyAvjWidOKEp-AA1pQ0v6OLtZV/view?usp=sharing)  
+**20.01** [Тема: Що у моєму ланчбоксі](https://drive.google.com/file/d/1M51TsarBfBAcnpFe4PQLssuPoK5vLq4q/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **15.01** [Тема: Виготовлення новорічної прикраси](https://drive.google.com/file/d/1FLM5RFfhrQBWmx9rxMiXcz1ZSLHnBPmH/view?usp=sharing)  
