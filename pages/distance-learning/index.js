@@ -620,6 +620,7 @@ export default function DistanceLearning() {
 **18.01** [І група. Тема: Ставлю питання і відповідаю](https://drive.google.com/file/d/1DRO0h182AJArBrm_UFCuOiaWBN5lponH/view?usp=sharing)  
 **18.01** [ІІ група. Тема: Home, sweet home](https://drive.google.com/file/d/1bEz6df9yTf-tKbnPfuyv1HTL9pbxOyuK/view?usp=sharing)  
 **20.01** [І група. Тема: Хто мешкає у цьому будинку](https://drive.google.com/file/d/1cRc4x_5ZaT0r_43Oxbm7sFZEZAPT575_/view?usp=sharing)  
+**20.01** [ІІ група. Тема: Хто мешкає зі мною. Мій дім](https://drive.google.com/file/d/1ZT1iit3p8WJ_fFbhOVWej2PAnOiaDM7U/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
