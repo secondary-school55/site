@@ -319,7 +319,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Безпека взимку](https://drive.google.com/file/d/1zAWE1B6AprES8BjJHuORaGRiyDxnRTe2/view?usp=sharing)  
 **14.01** [Тема: Хто такий споживач. Реклама. Корисна і шкідлива реклама. Як розповсюджується реклама? Створення реклами продукту, товару](https://drive.google.com/file/d/1nmCDJoBRf8sd2iUyeoa1vqp3WWeWBjlg/view?usp=sharing)  
 **19.01** [Тема: Хто такий споживач. Реклама. Корисна і шкідлива реклама. Як розповсюджується реклама? Створення реклами продукту, товару](https://drive.google.com/file/d/1KugUuTg6NdHmtL9gj4FIpBUyZQPkQaqm/view?usp=sharing)  
-**20.01** [Тема: Як почуваються рослини взимку](https://drive.google.com/file/d/1j21OleEFlWGBKwBD12tcmil2_1TfIlvc/view?usp=sharing)  
+**20.01** [Тема: Як почуваються рослини взимку](https://drive.google.com/file/d/1wqH3FUh9-gpGqOo1Js44U1lQrXeBUPVs/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Пори року](https://drive.google.com/file/d/1km6oHMaL5aPtsb5vpLoEVftKb8SYvoBa/view?usp=sharing)  
@@ -1235,7 +1235,7 @@ export default function DistanceLearning() {
 **14.01** [Добровольська В. Е. Тема: Конспект прочитаного](https://drive.google.com/file/d/154NdIbN6BD-WBUHGmFjPigsPxYweYJFq/view?usp=sharing)  
 **15.01** [Добровольська В. Е. Тема: Конспект прочитаного науково-навчального тексту. Тематичні виписки](https://drive.google.com/file/d/14PXaTBqeKwdUsGIEM6c_MUboLHBOxr9o/view?usp=sharing)  
 **18.01** [Стрембицька Л. А. Тема: Кома між однорідними членами речення](https://drive.google.com/file/d/13OGJK9YVUQcl44r8Bog6KBomQt6uhETd/view?usp=sharing)  
-**18.01** [Добровольська В. Е. І група. Тема: Речення з кількома рядами однорідних членів](https://drive.google.com/file/d/1C6_fYqCdsMLv5EWMjCcqx5XL1yvyDGEl/view?usp=sharing)  
+**18.01** [Добровольська В. Е. І група. 8-А. Тема: Кома  між однорідними членами речення](https://drive.google.com/file/d/1RhlXDCw2Hev75iMHK7CH1OVn8Db-ikB0/view?usp=sharing)  
 **19.01** [Добровольська В. Е. І група. 8-Б. Тема: Речення з кількома рядами однорідних членів](https://drive.google.com/file/d/1ZX0ac6KzptOt5yPXHSsO_thldcTDuuQW/view?usp=sharing)  
 
 ** Українська література **  
