@@ -535,6 +535,8 @@ export default function DistanceLearning() {
 
 ** Дизайн і технології **  
 **13.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1wXPpoNe_jfqNM4kFY-MRqF-hrwlWWYwI/view?usp=sharing)  
+**20.01** [Тема: Виготовлення лепбука «Моє тіло» (продовження)](https://drive.google.com/file/d/1LvQWfL4OCChAH4adYlgN5EWccp31TEvM/view?usp=sharing)  
+**20.01** [Презентація. Тема: Виготовлення лепбука «Моє тіло» (продовження)](https://drive.google.com/file/d/1fqhU_VYFpuK8pj-UkS2JrnOwwsVo_q81/view?usp=sharing)  
 
 ** Інформатика **  
 **12.01** [Тема: Ключові слова для пошуку](https://drive.google.com/file/d/1QlGE5KvyZa31pzE4sfqWeFZfbYDxUTQE/view?usp=drive_web)  
