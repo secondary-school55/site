@@ -1145,6 +1145,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1jm9dPqtOM5-L1OzB0IOBkJ_1pKbsG4oz/view?usp=sharing)  
 **14.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1JQ0c8HoeaLvHCuU0gmXQVOHdVBRvmzj5/view?usp=sharing)  
 **19.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1gL64WbYYkVrM1ftVjesKRnPmi1stenI5/view?usp=sharing)  
+**20.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/186IGOELjm4-36ctk1q5uqLgaB1Vc8rKX/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **12.01** [Тема: Види дизайну. Промисловий дизайн. Проектування предметів побуту](https://drive.google.com/file/d/1E2YpfNEiT7Pc2NJucY1Ljco3On99jjva/view?usp=sharing)  
@@ -1231,17 +1232,18 @@ export default function DistanceLearning() {
 **15.01** [Тема: Різноманітність тваринного світу. Закономірності поширення тваринного світу в україні](https://drive.google.com/file/d/1XyaWmfjpAlK3WytHBDwcVJONYRtS-98P/view?usp=sharing)  
 
 ** Фізична культура **  
-**04.12** [Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1_7s0JREx_prAAOorgG0U9tFW_D6w5mlE/view?usp=sharing)  
-**07.12** [Тема: Розвиток сили та силової витривалості учнів](https://drive.google.com/file/d/157g18UgHRVX1WUAJEuvJFVW_Ij2SQQVz/view?usp=sharing)  
-**11.01** [Тема: Розвиток спритності та швидкісно-силових якостей учнів](https://drive.google.com/file/d/16XPh-b-LCDLvnnLrJ_IB0wDfmPWAGX-F/view?usp=sharing)  
-**11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1Eochp0AGgZTCZaGcJ9EtaA1d-jKhKO2d/view?usp=sharing)  
-**13.01** [Тема: Удосконалення та закріплення елементів гри з баскетболу](https://drive.google.com/file/d/1op1q0EuhTO25dfx7ukJRMRWJuUoqhpSq/view?usp=sharing)  
-**13.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/12vrsqqoPhoEa-2J0Z4tp0UUQu2ib30Yo/view?usp=sharing)  
+**04.12** [8-А. Тема: Розвиток сили та силової витривалості учнів](https://drive.google.com/file/d/1_7s0JREx_prAAOorgG0U9tFW_D6w5mlE/view?usp=sharing)  
+**07.12** [8-А. Тема: Розвиток сили та силової витривалості учнів](https://drive.google.com/file/d/157g18UgHRVX1WUAJEuvJFVW_Ij2SQQVz/view?usp=sharing)  
+**11.01** [8-А. Тема: Розвиток спритності та швидкісно-силових якостей учнів](https://drive.google.com/file/d/16XPh-b-LCDLvnnLrJ_IB0wDfmPWAGX-F/view?usp=sharing)  
+**11.01** [8-Б. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1Eochp0AGgZTCZaGcJ9EtaA1d-jKhKO2d/view?usp=sharing)  
+**13.01** [8-А. Тема: Удосконалення та закріплення елементів гри з баскетболу](https://drive.google.com/file/d/1op1q0EuhTO25dfx7ukJRMRWJuUoqhpSq/view?usp=sharing)  
+**13.01** [8-Б. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/12vrsqqoPhoEa-2J0Z4tp0UUQu2ib30Yo/view?usp=sharing)  
 **13.01** [8-А. Тема: Удосконалення та закріплення елементів гри з баскетболу: розвиток основних фізичних якостей (швидкісно-силових здібностей, витривалості)](https://drive.google.com/file/d/1g6AxfxGJ4GjlN7YqoKUfbx7597Y5RhmI/view?usp=sharing)  
 **15.01** [8-А. Тема: Техніка та тактика гри в баскетбол (обігрування суперника, індивідуальні та групові тактичні дії у нападі та захисті)](https://drive.google.com/file/d/1IcIBT7dhnNc7ZAPpX5l_vuZ0Oyamp42x/view?usp=sharing)  
-**15.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1kQZxPeZF08yoII2V4fLwpHT1GErWRMZM/view?usp=sharing)  
+**15.01** [8-Б. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1kQZxPeZF08yoII2V4fLwpHT1GErWRMZM/view?usp=sharing)  
 **18.01** [8-А. Тема: Школа м’яча. Пересування гравця; ловіння м’яча двома та однією руками на різних рівнях і напрямках](https://drive.google.com/file/d/14HWjGv-C6VNCApzvUCkNDERwipX8-c0z/view?usp=sharing)  
-**18.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/13CnmyXH0MC5LyZNTTKw7WJt_0YhnFtW_/view?usp=sharing)  
+**18.01** [8-Б. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/13CnmyXH0MC5LyZNTTKw7WJt_0YhnFtW_/view?usp=sharing)  
+**20.01** [8-Б. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1LD36V_9O8XBk3X-ZreDg0U154Fasvrsx/view?usp=sharing)  
 
 ** Біологія **  
 **04.12** [Тема: Значення дихання. Будови і функції органів дихання](https://drive.google.com/file/d/1h8oxnpA9mSto58NfYV2yjRUNRFcB1z3B/view?usp=sharing)  
@@ -1358,17 +1360,18 @@ export default function DistanceLearning() {
 **19.01** [Тема: Євген Гребінка «Ведмежий суд», «Човен»](https://drive.google.com/file/d/11ps9Z2TU5yvz-TU9aOMYxKpCd8CHnMsB/view?usp=sharing)  
 
 ** Фізична культура **  
-**04.12** [Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/10ODZR-UG7C9YAJv3bPb-eKqe7kwsjJA4/view?usp=sharing)  
-**07.12** [Тема: Розвиток сили та силової витривалості учнів](https://drive.google.com/file/d/12k27PIaN2ZzIUK3lutBO1zOTVn6UWo2s/view?usp=sharing)  
-**11.01** [Тема: Розвиток спритності та швидкісно-силових якостей учнів](https://drive.google.com/file/d/1WTy3mT3CjJ4sdcOuh6bBKbXIxEsMY4uD/view?usp=sharing)  
-**12.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1YICGzoCACuWwxD_o5BlATFzE7rF5BhFy/view?usp=sharing)  
-**13.01** [Тема: Удосконалення та закріплення елементів гри з баскетболу](https://drive.google.com/file/d/1yXSdD8La-0ZbP6xy3uYyL9KkldKupl5e/view?usp=sharing)  
-**13.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1GDiGGV6CEt1dKN9to9EufjKydZ_hxn-p/view?usp=sharing)  
+**04.12** [9-А. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/10ODZR-UG7C9YAJv3bPb-eKqe7kwsjJA4/view?usp=sharing)  
+**07.12** [9-А. Тема: Розвиток сили та силової витривалості учнів](https://drive.google.com/file/d/12k27PIaN2ZzIUK3lutBO1zOTVn6UWo2s/view?usp=sharing)  
+**11.01** [9-А. Тема: Розвиток спритності та швидкісно-силових якостей учнів](https://drive.google.com/file/d/1WTy3mT3CjJ4sdcOuh6bBKbXIxEsMY4uD/view?usp=sharing)  
+**12.01** [9-Б. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1YICGzoCACuWwxD_o5BlATFzE7rF5BhFy/view?usp=sharing)  
+**13.01** [9-А. Тема: Удосконалення та закріплення елементів гри з баскетболу](https://drive.google.com/file/d/1yXSdD8La-0ZbP6xy3uYyL9KkldKupl5e/view?usp=sharing)  
+**13.01** [9-Б. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1GDiGGV6CEt1dKN9to9EufjKydZ_hxn-p/view?usp=sharing)  
 **15.01** [9-А. Тема: Удосконалення та закріплення елементів гри з баскетболу: розвиток основних фізичних якостей (швидкісно-силових здібностей, витривалості)](https://drive.google.com/file/d/1S1X4xkLvClnjSwsyEKpa5SJUO11x08Hq/view?usp=sharing)  
 **15.01** [9-А. Тема: Техніка та тактика гри в баскетбол (передача м’яча в 3-х зі зміною місця(вісімка)](https://drive.google.com/file/d/1k6DH_xYSy8tPWnpwvxmBVDuD8fzlZcOj/view?usp=sharing)  
-**15.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/18gNfD87sKpIpZF92qq53quX-Iy-advY0/view?usp=sharing)  
+**15.01** [9-Б. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/18gNfD87sKpIpZF92qq53quX-Iy-advY0/view?usp=sharing)  
 **18.01** [9-А. Тема: Техніка та тактика гри в баскетбол (передача і ловіння м’яча у русі; ведення м’яча зі зміною швидкості, напрямку та висоти відскоку м’яча)](https://drive.google.com/file/d/19K9a387H88YK9fvnowuwMya5NsCZUA3E/view?usp=sharing)  
-**19.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1tULEl2hfmkS_HI-TGgEidZ0N_jxIYRLn/view?usp=sharing)  
+**19.01** [9-Б. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1tULEl2hfmkS_HI-TGgEidZ0N_jxIYRLn/view?usp=sharing)  
+**20.01** [9-Б. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1jg_teXvNRHhh5x1uAqdWRUY6hLFczlKl/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Розроблення програми. Виконання арифметичних обчислень. Уведення, виконання й налагодження програм](https://drive.google.com/file/d/1dpekkJgkf59EosU2y6jtD_cr9PnqzdpZ/view?usp=drive_web)  
@@ -1467,16 +1470,17 @@ export default function DistanceLearning() {
 **14.01** [Тема: Проектування та створення об&#39;єктів мультимедіа. Системи керування вмістом для веб-ресурсів](https://drive.google.com/file/d/1TUh59OvfXa2-OyOCefAftOHTBf9rN_hJ/view?usp=drive_web)  
 
 ** Фізична культура **  
-**04.12** [Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1SBvvvI6L7-usEP0lkbxvVs85UtZqhjpJ/view?usp=sharing)  
-**07.12** [Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1bVDhnNBqQ35HurKBFbklf2gkmX5fxABN/view?usp=sharing)  
-**11.01** [Тема: Розвиток спритності та швидкісно-силових якостей учнів](https://drive.google.com/file/d/1rZFJfznJNx8mZNT-cfDQDT3LpAEMvpIe/view?usp=sharing)  
-**11.01** [Тема: Комплекс ранкової гігієнічної гімнастики](https://drive.google.com/file/d/1ULJ_VGIr9_kERv7sVpw3JX_j2349NwRY/view?usp=sharing)  
-**13.01** [Тема: Удосконалення та закріплення елементів гри з баскетболу](https://drive.google.com/file/d/111Xat5coKa7CDGGxIcQAyOW-k9MpLult/view?usp=sharing)  
-**13.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1BIgERmEclZSLLns6pGJmR79UQvuahvx6/view?usp=sharing)  
-**15.01** [Тема: Техніка та тактика гри в баскетбол (ловіння та передача м’яча однією рукою)](https://drive.google.com/file/d/1zHiHuL5Jat8ofChJR_Is7jn7-C27tgAe/view?usp=sharing)  
-**15.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1v4HR7NuYOa6mprDOaN7MkRKzhTDHzI_T/view?usp=sharing)  
-**18.01** [Тема: Школа м’яча. Персональний та позиційний захист, тактика захисту і атаки](https://drive.google.com/file/d/1A-3PxAP7p7Gp_aZGGubCxLH7K4srdSm6/view?usp=sharing)  
-**18.01** [Тема: Комплекс ранкової гігієнічної гімнастики](https://drive.google.com/file/d/1J1Dok0FbCEcBFm-RprKoPTeZJnk7perA/view?usp=sharing)  
+**04.12** [І група. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1SBvvvI6L7-usEP0lkbxvVs85UtZqhjpJ/view?usp=sharing)  
+**07.12** [І група. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1bVDhnNBqQ35HurKBFbklf2gkmX5fxABN/view?usp=sharing)  
+**11.01** [І група. Тема: Розвиток спритності та швидкісно-силових якостей учнів](https://drive.google.com/file/d/1rZFJfznJNx8mZNT-cfDQDT3LpAEMvpIe/view?usp=sharing)  
+**11.01** [ІІ група. Тема: Комплекс ранкової гігієнічної гімнастики](https://drive.google.com/file/d/1ULJ_VGIr9_kERv7sVpw3JX_j2349NwRY/view?usp=sharing)  
+**13.01** [І група. Тема: Удосконалення та закріплення елементів гри з баскетболу](https://drive.google.com/file/d/111Xat5coKa7CDGGxIcQAyOW-k9MpLult/view?usp=sharing)  
+**13.01** [ІІ група. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1BIgERmEclZSLLns6pGJmR79UQvuahvx6/view?usp=sharing)  
+**15.01** [І група. Тема: Техніка та тактика гри в баскетбол (ловіння та передача м’яча однією рукою)](https://drive.google.com/file/d/1zHiHuL5Jat8ofChJR_Is7jn7-C27tgAe/view?usp=sharing)  
+**15.01** [ІІ група. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1v4HR7NuYOa6mprDOaN7MkRKzhTDHzI_T/view?usp=sharing)  
+**18.01** [І група. Тема: Школа м’яча. Персональний та позиційний захист, тактика захисту і атаки](https://drive.google.com/file/d/1A-3PxAP7p7Gp_aZGGubCxLH7K4srdSm6/view?usp=sharing)  
+**18.01** [ІІ група. Тема: Комплекс ранкової гігієнічної гімнастики](https://drive.google.com/file/d/1J1Dok0FbCEcBFm-RprKoPTeZJnk7perA/view?usp=sharing)  
+**20.01** [ІІ група. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1FL1r3DQURSSd-qmOIy8fu-D9RW8-Q9YS/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Західноукраїнська Народна Республіка.](https://drive.google.com/file/d/1UX5pzPnYGVUlJs01kyXsn3UxARYrvB_5/view?usp=sharing)  
