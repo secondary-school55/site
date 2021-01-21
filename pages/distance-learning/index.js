@@ -954,6 +954,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Середовище описання і виконання алгоритмів](https://drive.google.com/file/d/1q0xiG0DzjVzhH_uJxaHAUIu8-fawm6LK/view?usp=drive_web)  
 **14.01** [5-Б. Тема: Алгоритмічна структура розгалуження](https://drive.google.com/file/d/1jBQsWtaU5zGcXpFe7L1TfMOdNnPuDkBn/view?usp=drive_web)  
 **15.01** [5-А. Тема: Алгоритмічна структура розгалуження](https://drive.google.com/file/d/1jBQsWtaU5zGcXpFe7L1TfMOdNnPuDkBn/view?usp=drive_web)  
+**21.01** [5-Б. Тема: Повна та коротка форми розгалуження](https://drive.google.com/file/d/1BaAz7HaFcPKxsB8fKNtDRnBBBfxV5WQv/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
@@ -1052,6 +1053,7 @@ export default function DistanceLearning() {
 **14.01** [6-В. Тема: Редагування програмних об’єктів.](https://drive.google.com/file/d/16uK94BEboljVzcud-sfI-BgczQk6SqYY/view?usp=drive_web)  
 **15.01** [6-В. Тема: Редагування програмних об’єктів.](https://drive.google.com/file/d/16uK94BEboljVzcud-sfI-BgczQk6SqYY/view?usp=drive_web)  
 **18.01** [6-Б. Тема: Програмування процесів з повторенням і розгалуженням](https://drive.google.com/file/d/1xUUMZus4_T25XqvnlY_t1nHPp6259_Vx/view?usp=drive_web)  
+**21.01** [6-Б. Тема: Програмування процесів з повторенням і розгалуженням](https://drive.google.com/file/d/1xUUMZus4_T25XqvnlY_t1nHPp6259_Vx/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -1483,6 +1485,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Метан і його гомологи](https://drive.google.com/file/d/1WMQk6LicSO7c09zsJzkzeFvucHwb2Ebs/view?usp=sharing)  
 **19.01** [Тема: Властивості алканів](https://drive.google.com/file/d/1HLuMIzTs7jnDRWKYV6tTXJ2bCyx322DS/view?usp=sharing)  
 **21.01** [9-А. Тема: Закон об'ємних відношень газів](https://drive.google.com/file/d/1a7O8xKrh5JMjiqZfa-vVZp-WcXuwhkLb/view?usp=sharing)  
+**21.01** [9-Б. Тема: Закон об'ємних відношень газів](https://drive.google.com/file/d/1wI4AbjJ5W3ATUxZNbTZWvtFsqQ4sUBGj/view?usp=sharing)  
 
 ** Правознавство **  
 **03.12** [Тема: Конституційні права і свободи людини і громадянина](https://drive.google.com/file/d/15aef0Tzl_ip_KxMQal1xDjVIK8mWwNyg/view?usp=sharing)  
@@ -1537,7 +1540,9 @@ export default function DistanceLearning() {
 **20.01** [9-А. І група. Тема: Grammar: Conditional 1](https://drive.google.com/file/d/17sfeGmwD9CtkjHNj5XnBfCniaUVumF9r/view?usp=sharing)  
 **20.01** [9-А. ІІ група. Презентація](https://drive.google.com/file/d/1sk1imLP5o7riRefT_plN3_AqUm4Zfa4K/view?usp=sharing)  
 **20.01** [9-Б. Тема: Grammar: Conditional 1](https://drive.google.com/file/d/17sfeGmwD9CtkjHNj5XnBfCniaUVumF9r/view?usp=sharing)  
+**21.01** [9-А. І група. Тема: Як вберегти довкілля](https://drive.google.com/file/d/1LaT-dr8Rd4VOq_CFpERwVnHIIn99e-Aq/view?usp=sharing)  
 **21.01** [9-А. ІІ група. Тема: Як вберегти довкілля](https://drive.google.com/file/d/1TIDcHij7SPWwh8rHyswMRZo29EI23tlP/view?usp=sharing)  
+**21.01** [9-Б. Тема: Як вберегти довкілля](https://drive.google.com/file/d/1LaT-dr8Rd4VOq_CFpERwVnHIIn99e-Aq/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
@@ -1675,6 +1680,7 @@ export default function DistanceLearning() {
 ** Інформатика **  
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)  
 **14.01** [Тема: Проектування та створення об&#39;єктів мультимедіа. Системи керування вмістом для веб-ресурсів](https://drive.google.com/file/d/1TUh59OvfXa2-OyOCefAftOHTBf9rN_hJ/view?usp=drive_web)  
+**21.01** [Тема: Створення та адміністрування сайту](https://drive.google.com/file/d/1KaMqozJplWnh-PZMifkSWKBese5cwykZ/view?usp=drive_web)  
 
 ** Фізична культура **  
 **04.12** [І група. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1SBvvvI6L7-usEP0lkbxvVs85UtZqhjpJ/view?usp=sharing)  
@@ -1719,6 +1725,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Насичені одноатомні спирти](https://drive.google.com/file/d/1IfJ4cpMktmfYg7JKuCp4G7s1HGHH3NaY/view?usp=sharing)  
 **11.01** [Тема: Фенол](https://drive.google.com/file/d/1GBj55S5WQcQ1tAkfGdVC6YBTIiYejAmR/view?usp=sharing)  
 **18.01** [Тема: Альдегіди](https://drive.google.com/file/d/1R46IAepRqo3fiGFeigqSGH0Bh4t6JnjQ/view?usp=sharing)  
+**21.01** [Тема: Карбонові кислоти](https://drive.google.com/file/d/1mNFcSoR326mipDSK0ytVy2_i5VJ4ODdu/view?usp=sharing)  
 
 ** Географія **  
 **11.01** [Тема: Третинний сектор економіки. Нерівномірність економічного розвитку субрегіонів азії та особливості їх участі в міжнародному поділі праці. Зв’язки україни з країнами Азії.](https://drive.google.com/file/d/1uEjvyC_mFoXDQP-tFUQKQ63GqB7vXnQg/view?usp=sharing)  
@@ -1772,6 +1779,7 @@ export default function DistanceLearning() {
 ** Інформатика **  
 **03.12** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)  
 **14.01** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)  
+**21.01** [Тема: Прикладний програмний інтерфейс. Планування веб-сайту та етапи роботи над ним](https://drive.google.com/file/d/1BaAz7HaFcPKxsB8fKNtDRnBBBfxV5WQv/view?usp=drive_web)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Опозиційний рух в Україні 60-80-х рр. ХХ ст.](https://drive.google.com/file/d/1BRFbeZezM4EQBXfjdEyCgfPXCTltDMaR/view?usp=sharing)  
