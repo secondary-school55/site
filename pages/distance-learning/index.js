@@ -1376,7 +1376,8 @@ export default function DistanceLearning() {
 **19.01** [8-А. І група. Тема: Газети та журнали України](https://drive.google.com/file/d/1Rkjk7TH2Amd93dcIstNTgvh_JlSZ8LZy/view?usp=sharing)  
 **19.01** [8-А. ІІ група. Тема: Газети та журнали України](https://drive.google.com/file/d/1ErE7a0kqZxWc5-eLsdyfrV1kjUD3QMoT/view?usp=sharing)  
 **19.01** [8-Б. Тема: Газети та журнали України](https://drive.google.com/file/d/1Rkjk7TH2Amd93dcIstNTgvh_JlSZ8LZy/view?usp=sharing)  
-**20.01** [8-А. Тема: Арифметичний квадратний корінь](https://drive.google.com/file/d/14nw_oFLbH8vRnyKj3R0TVq0EDbSx6W6L/view?usp=sharing)  
+**21.01** [8-А. І група. Тема: Газети і журнали](https://drive.google.com/file/d/1WYwiytG2hHXzvWNNFiLsxoOgqHxIbNOV/view?usp=sharing)  
+**21.01** [8-Б. Тема: Газети і журнали](https://drive.google.com/file/d/1WYwiytG2hHXzvWNNFiLsxoOgqHxIbNOV/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -1385,6 +1386,7 @@ export default function DistanceLearning() {
 **13.01** [8-Б. Тема: Раціональні числа. Ірраціональні числа](https://drive.google.com/file/d/1qbzY_IkBq86ERmeYM-n2CFZQWNjVlMKq/view?usp=sharing)  
 **14.01** [8-А. Тема: Розв'язування вправ](https://drive.google.com/file/d/1NwltdqxK6UUT_10duiGdEo4vhB9YKygI/view?usp=sharing)  
 **19.01** [8-Б. Тема: Рівняння x^2=a](https://drive.google.com/file/d/1hhxl7A63lq0oWg-7lj36WvxcikoDzuFF/view?usp=sharing)  
+**20.01** [8-А. Тема: Арифметичний квадратний корінь](https://drive.google.com/file/d/14nw_oFLbH8vRnyKj3R0TVq0EDbSx6W6L/view?usp=sharing)  
 **20.01** [8-Б. Тема: Властивості арифметичного квадратного корення](https://drive.google.com/file/d/1fe7ayuDm0znP1Q4PVCyncgVaWUpbi5xR/view?usp=sharing)  
 **21.01** [8-А. Тема: Розв'язування вправ](https://drive.google.com/file/d/1cc0k4tJrMiZWm5hfD7sUvWaUc4-wLJ6m/view?usp=sharing)  
 
