@@ -911,6 +911,7 @@ export default function DistanceLearning() {
 **15.01** [5-А. Тема: Рухи землі. Пори року](https://drive.google.com/file/d/1g1U2c18ig-Rho7SAaMLL4wfs_plofZ3N/view?usp=sharing)  
 **18.01** [5-Б. Тема: Місяць – супутник Землі. Сонячні та місячні затемнення](https://drive.google.com/file/d/1pVVUC3ISxMSobRqYdl59f_NzW7waFaP7/view?usp=sharing)  
 **19.01** [5-А. Тема: Місяць - супутник Землі](https://drive.google.com/file/d/1A9VpeqXXv2LFZ0Ixqvj12_ZQMnnisgUR/view?usp=sharing)  
+**21.01** [5-Б. Тема: Способи зображення Землі](https://drive.google.com/file/d/13_mKEu1vupF1PsqR9rVwSLd570HKjUSA/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
@@ -928,6 +929,7 @@ export default function DistanceLearning() {
 **19.01** [5-Б. Тема: Чергування голосних](https://drive.google.com/file/d/1z5OaGQQ9cXDn0Arb4r081jekEzBZqVbN/view?usp=sharing)  
 **20.01** [5-А. І група. Тема: Найпоширеніші випадки чергування голосних і приголосних звуків](https://drive.google.com/file/d/1-MmUSM3j1ffrQqYpE9sdEDIipj2rdhm9/view?usp=sharing)  
 **20.01** [5-А. ІІ група. Тема: Найпоширеніші випадки чергування голосних і приголосних звуків](https://drive.google.com/file/d/1RcuMEabmsNEQ05v7m5LccAuHl8oE4CW0/view?usp=sharing)  
+**21.01** [5-А. І група. Тема: Укладання пам’ятки найпоширеніших випадків чергування голосних і приголосних звуків](https://drive.google.com/file/d/1qxrv9aEkYLCOJAH-RdpT4MJT0vO4NUPP/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -1036,6 +1038,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Дитинство письменника. Федько-халамидник](https://drive.google.com/file/d/1TPmdXHROH0TZNiX3SOC5qabHfbIepGDA/view?usp=sharing)  
 **15.01** [Тема: Щедрий на добро внутрішній світ героя. Федько як особистість. Федько як особистість. Образи Федька і Толі](https://drive.google.com/file/d/1ChlYlpWB26EycVcTECHuHVN9TNaQBrk2/view?usp=sharing)  
 **19.01** [Тема: Роль художніх засобів у творі](https://drive.google.com/file/d/1fDfGQFAi9CsVKi4CQOXMfjg2vehxnskX/view?usp=sharing)  
+**21.01** [Тема: УПЧ. В.Винниченко «Кумедія з Костем»](https://drive.google.com/file/d/1qsDlgrA3xDsc_nHW-0SUQQ9gNe73gBwA/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/14u2a-Fbfs2UVhKlYPdZQYEyak9uKZs1T/view?usp=sharing)  
@@ -1167,6 +1170,7 @@ export default function DistanceLearning() {
 **14.01** [7-Б. Тема: Густина речовини](https://drive.google.com/file/d/1GhZzz15RS3FPzjBVAxEH5NL_7xkqEadU/view?usp=sharing)  
 **15.01** [7-А. Тема: Густина речовини](https://drive.google.com/file/d/1e7fu6OdHJmW2aLeE5aU3bGfa8pC1eVFh/view?usp=sharing)  
 **18.01** [7-А,Б. Тема: Взаємодія тіл. Сила](https://drive.google.com/file/d/15LAgo4lLcByMmLVVTaZt1IeRn5GXSMJV/view?usp=sharing)  
+**21.01** [7-А,Б. Тема: Деформація. Сила Пружності](https://drive.google.com/file/d/1RAAimiRbetxS2_4x2cn-Z0bWxQHZ6-05/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)  
@@ -1240,6 +1244,7 @@ export default function DistanceLearning() {
 **18.01** [7-Б. Алтинбаєва Л. М. Тема: Дієприслівник доконаного і недоконаного виду, їх творення](https://drive.google.com/file/d/1kyc76mCbTERuLk_WWD6L6ZN8oANncG7D/view?usp=sharing)  
 **20.01** [7-А. Харенко Ю. А. І група. Тема: Вид і час дієприслівників. Творення дієприслівників недоконаного і доконаного виду](https://drive.google.com/file/d/1J2cDntiuMJc0nz9-3h70aOWUkQtgkFZl/view?usp=sharing)  
 **20.01** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Дієприслівник доконаного і недоконаного виду, їх творення](https://drive.google.com/file/d/1udfhzyxDQ52VrFQJui2h55-L2gnB975a/view?usp=sharing)  
+**21.01** [7-А. Харенко Ю. А. І група. Тема: РМ. Усний твір розповідного характеру в художньому стилі про виконання певних дій на основі власних спостережень з використанням дієприслівникових зворотів (за складним планом)](https://drive.google.com/file/d/19ZXdcXZO5gRukHO7ZSEmuTT_Fs_U_Khp/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -1339,6 +1344,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Узагальнення знань з теми](https://drive.google.com/file/d/1V9TH_kS1OI3-q-VWjeMBggTIfS4L0Pp6/view?usp=sharing)  
 **14.01** [8-Б. Тема: Узагальнення знань](https://drive.google.com/file/d/1p1ysEaHh2QQtwpt2xejRIsOKCmCFeko4/view?usp=sharing)  
 **18.01** [8-А,Б. Тема: Перевірка знань з теми «Кількість речовини. Розрахунки за хімічними формулами»](https://drive.google.com/file/d/1u4Q3Z7iYKUXiq7KyRVC-ddOB1hGbjvn5/view?usp=sharing)  
+**21.01** [8-Б. Тема: Оксиди](https://drive.google.com/file/d/1Jqqw6_7c3kCBrSgvLsWE58Ph-dTmV8Lm/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Абсолютизм і громадянські війни у Франції](https://drive.google.com/file/d/1LjHnyvIvkFpsROshHXQx8bzKyHRS6yRz/view?usp=sharing)  
@@ -1462,6 +1468,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Вступ до органічної хімії](https://drive.google.com/file/d/1QhyD_QZTlrWJ69b4zgRBD2efL1V3LOWx/view?usp=sharing)  
 **14.01** [Тема: Метан і його гомологи](https://drive.google.com/file/d/1WMQk6LicSO7c09zsJzkzeFvucHwb2Ebs/view?usp=sharing)  
 **19.01** [Тема: Властивості алканів](https://drive.google.com/file/d/1HLuMIzTs7jnDRWKYV6tTXJ2bCyx322DS/view?usp=sharing)  
+**21.01** [9-А. Тема: Закон об'ємних відношень газів](https://drive.google.com/file/d/1a7O8xKrh5JMjiqZfa-vVZp-WcXuwhkLb/view?usp=sharing)  
 
 ** Правознавство **  
 **03.12** [Тема: Конституційні права і свободи людини і громадянина](https://drive.google.com/file/d/15aef0Tzl_ip_KxMQal1xDjVIK8mWwNyg/view?usp=sharing)  
@@ -1647,6 +1654,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Механічні коливання](https://drive.google.com/file/d/1D_PrdzvuncDuJY0hpPy2A8SMK1Vi5Vwu/view?usp=sharing)  
 **14.01** [Тема: Маятники](https://drive.google.com/file/d/1oRzPzDYiJgMeQ7AL0Gp0jovmr9Xdg9Ln/view?usp=sharing)  
 **19.01** [Тема: Найпростіші коливальні системи](https://drive.google.com/file/d/11BprS-cSRHUsbswcWxaJYs_HWkMYT2yQ/view?usp=sharing)  
+**21.01** [Тема: Механічні хвилі](https://drive.google.com/file/d/1seb4d2I5eGXellmfXvlcQm_-Ss3cKr8k/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)  
@@ -1823,6 +1831,7 @@ export default function DistanceLearning() {
 
 ** Зарубіжна література **  
 **14.01** [Тема: Срібна доба російської поезії тенденції, здобутки,долі митців](https://drive.google.com/file/d/1bdigwZW9uVPUwn3_l4F0jiY8sCZPsh4K/view?usp=sharing)  
+**21.01** [Тема: Розвиток жанру антиутопії. Поетика](https://drive.google.com/file/d/1pTl_pAaZW_6nOmp2Zh0L5K8WApo7qFsK/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="Онлайн уроки">
