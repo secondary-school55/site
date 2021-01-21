@@ -302,7 +302,8 @@ export default function DistanceLearning() {
 **18.01** [Тема: Поєдную прикметники з іменниками](https://drive.google.com/file/d/1AvuB7MpQsMJs16IfyQFk-JA0Drd7clD1/view?usp=sharing)  
 **20.01** [І група. Тема: Змінюю прикметники за числами](https://drive.google.com/file/d/1IFTKBVDY34c_hjFgz8D7qB5d3MwaEhD0/view?usp=sharing)  
 **20.01** [ІІ група. Тема: Змінюю прикметники за числами](https://drive.google.com/file/d/1gxYcXtPnwFrq0cC4D4l5sn-W4mRMDpY8/view?usp=sharing)  
-**21.01** [Тема: Розпізнаю близькі за значенням прикметники(с.80-81)](https://drive.google.com/file/d/1bm1d7RCF9qynJfDgrq7ZkNzwGv_nZlCW/view?usp=sharing)  
+**21.01** [І група. Тема: Розпізнаю близькі за значенням прикметники(с.80-81)](https://drive.google.com/file/d/1sfsBIMyAu7szjSzG3-5dAsKYNiaF9yiA/view?usp=sharing)  
+**21.01** [ІІ група. Тема: Розпізнаю близькі за значенням прикметники(с.80-81)](https://drive.google.com/file/d/1bm1d7RCF9qynJfDgrq7ZkNzwGv_nZlCW/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
@@ -327,7 +328,8 @@ export default function DistanceLearning() {
 **18.01** [Тема: Співець моря і степу. Анатолій Качан «Хвилювалось море». «Розмова з пароплавом»](https://drive.google.com/file/d/17y3NiH6931vtLDqINkzsHiHkTJLBJ4yK/view?usp=sharing)  
 **19.01** [І група. Тема: Оповідання. Василь Сухомлинський «Глуха дівчинка»](https://drive.google.com/file/d/1DOvR4h6tAKrLC3bKjgbEtyYNIuNbDl8K/view?usp=sharing)  
 **19.01** [ІІ група. Тема: Оповідання. Василь Сухомлинський «Глуха дівчинка»](https://drive.google.com/file/d/10HO6qsl9Re6IhFzAfP0hDMuApb7DNeYv/view?usp=sharing)  
-**21.01** [Тема: Медіавіконце: вистава. Василь Сухомлинський «Покинуте кошеня»](https://drive.google.com/file/d/1uoi9MuQfAg0qKPNFUxjHDjP02HCHo1s5/view?usp=sharing)  
+**21.01** [І група. Тема: Медіавіконце: вистава. Василь Сухомлинський «Покинуте кошеня»](https://drive.google.com/file/d/1Qzp8QohoQcsLwYfU0bNfyk-ggV4bWCA0/view?usp=sharing)  
+**21.01** [ІІ група. Тема: Медіавіконце: вистава. Василь Сухомлинський «Покинуте кошеня»](https://drive.google.com/file/d/1uoi9MuQfAg0qKPNFUxjHDjP02HCHo1s5/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)  
