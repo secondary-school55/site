@@ -493,6 +493,7 @@ export default function DistanceLearning() {
 **19.01** [Презентація. Тема: Письмове віднімання трицифрових чисел. Вправи і задачі на застосування вивчених випадків арифметичних дій. Види трикутників. (№67-76)](https://drive.google.com/file/d/1nM73uhh09cgxbx3S4-yg8xlrseDPzfTr/view?usp=sharing)  
 **20.01** [Тема: Письмове додавання трицифрових чисел, коли сума одиниць дорівнює 10 або сума десятків дорівнює](https://drive.google.com/file/d/1rwhM_rmDUHc6ScD4DfDaWi84Uza7_WGQ/view?usp=sharing)  
 **20.01** [Презентація. Тема: Письмове додавання трицифрових чисел, коли сума одиниць дорівнює 10 або сума десятків дорівнює](https://drive.google.com/file/d/1xRBv_2D_EjvORLwOukYmFVGQ7fs6AR2X/view?usp=sharing)  
+**21.01** [Тема: Письмове віднімання трицифрових чисел, коли в запису зменшуваного є нуль. (№88-98)](https://drive.google.com/file/d/1DFZabMu2ftw7NlMVUyZKnDO5nwWC784P/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1CbxkNJHRP-O8TfHLE4mA0__Mu-56Ovd3/view?usp=sharing)  
@@ -509,8 +510,10 @@ export default function DistanceLearning() {
 **20.01** [І група. Презентація. Тема: Розпізнавання іменників, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1KjaKxGVB9IlaHGVFc8DlICFytQpVPpo5/view?usp=sharing)  
 **20.01** [ІІ група. Тема: Розпізнаю іменники, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1HXOjNAstK9HTG5knxuJ2czrYWNEoYCgS/view?usp=sharing)  
 **20.01** [ІІ група. Презентація. Тема: Розпізнаю іменники, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1l7c0HKIA_8srD2m8kd1_SM2DwYoLyE0Y/view?usp=sharing)  
+**21.01** [І група. Презентація. Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/1WFjyqBLx--mr29n-FfyVnWHe5_vjbMvr/view?usp=sharing)  
 **21.01** [ІІ група. Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/1ycTZMmzcT1VePzFS5gZLecsKzVGiAmX9/view?usp=sharing)  
 **21.01** [ІІ група. Презентація. Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/14Jw0uvRHkjuYmoapJ6kHOvfxA6BDMQ2W/view?usp=sharing)  
+**21.01** [І група. Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/11Zt5dSQUfTN6QNCF9IocPy1u2AsPdtiy/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -522,6 +525,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Що утворює опорно-рухову систему](https://drive.google.com/file/d/1sRbdHNL8a-VDN01_2v1jPY7sqLCfDoRd/view?usp=drive_web)  
 **18.01** [Презентація. Тема: Що утворює опорно-рухову систему](https://drive.google.com/file/d/1iTEdfrBxaM5_tcAL-igoAVaQkw3TjdfT/view?usp=drive_web)  
 **20.01** [Тема: Як ми пересуваємося (ст. 19-21)](https://drive.google.com/file/d/1MTE7mao5Rd1apWm2BCPxH_4WaGkCAVf8/view?usp=sharing)  
+**21.01** [Тема: Яке значення має кровоносна система. Вимірювання частоти свого пульсу (с. 22-25)](https://drive.google.com/file/d/1GT3OKlIDUnRKfEkAMU8dow_H-vXuyGui/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: День мого друга](https://drive.google.com/file/d/1yU9sYPWGtUCczw7fgugLg-4SLhC0rBqE/view?usp=sharing)  
@@ -551,6 +555,8 @@ export default function DistanceLearning() {
 **19.01** [І група. Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус) «Український лицар». Навчальне аудіювання (Ч.2, с. 85-86)](https://drive.google.com/file/d/1tgYGGthDrt-DPE2iZrqrTboT4Ss27sJf/view?usp=sharing)  
 **19.01** [Презентація. Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус) «Український лицар». Навчальне аудіювання (Ч.2, с. 85-86)](https://drive.google.com/file/d/1s7LwmS2CmkfcSLrfeqYGcz9pKmB0ymOO/view?usp=sharing)  
 **21.01** [ІІ група. Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/1jcTFUn7Y0OJZeq3aspL0G9wDX4teHqSG/view?usp=sharing)  
+**21.01** [І група. Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/1-Sosy2_sgbxXvLIwBkfXr5a0MDUnAXwL/view?usp=sharing)  
+**21.01** [І група. Презентація. Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/10Gz5OeYAiNdJlY9knJF88T9p5ZYSjt7V/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -590,6 +596,8 @@ export default function DistanceLearning() {
 **18.01** [Тема: Що утворює опорно-рухову систему](https://drive.google.com/file/d/1QHSg-LRoZdpkz6NqVDpADA2Z9ExoAt6y/view?usp=drive_web)  
 **19.01** [Тема: Як ми пересуваємося (ст. 19-21)](https://drive.google.com/file/d/10zT8FHYv4mRgQgHEei2_vMpPcFeq5A4I/view?usp=sharing)  
 **19.01** [Презентація. Тема: Як ми пересуваємося (ст. 19-21)](https://drive.google.com/file/d/1L5ufmE3FuV_W0o37MBZCXEj9NGmBmui0/view?usp=sharing)  
+**21.01** [Тема: Яке значення має кровоносна система. Вимірювання частоти свого пульсу (с. 22-25)](https://drive.google.com/file/d/1HnhIaVhId3gxPGUahbaKJ4t04l9Cz5Ts/view?usp=sharing)  
+**21.01** [Презентація. Тема: Яке значення має кровоносна система. Вимірювання частоти свого пульсу (с. 22-25)](https://drive.google.com/file/d/1VMJ5UR3ztJdIQiiB0Do36sfPmsJlW6vw/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1xXi1QIpOVQ295yrr8H3iHctB9Z8m8Wsv/view?usp=sharing)  
@@ -602,6 +610,8 @@ export default function DistanceLearning() {
 **18.01** [Тема: Розвиток зв'язного мовлення. Складання розповіді про враження від свята. Тема для спілкування: "Як я святкував/святкувала Новий Рік"](https://drive.google.com/file/d/1zmligS8SxUSVuS4x24AwfBRhzOpdZIZn/view?usp=drive_web)  
 **20.01** [Тема: Розпізнавання іменників, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1nl1U36BbNzglDGNhfnP72PB5A2Yv2nWy/view?usp=sharing)  
 **20.01** [Презентація. Тема: Розпізнавання іменників, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1iJzXvBNLmAX-GAVr9ZJ75Wwuzgv8OH61/view?usp=sharing)  
+**21.01** [Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/1vTcQWg1rXohFzHNAnboPPWTEWxLDLQLZ/view?usp=sharing)  
+**21.01** [Презентація. Тема: Визначення роду іменників](https://drive.google.com/file/d/1yUNsXKtEHOkKiz0Z8dJW5d0AvK1wUUDc/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
@@ -620,6 +630,8 @@ export default function DistanceLearning() {
 **19.01** [Презентація. Тема: Письмове віднімання трицифрових чисел. Вправи і задачі на застосування вивчених випадків арифметичних дій. Види трикутників. (№67-76)](https://drive.google.com/file/d/1jZM-2WoOZ1b7OR7EQPs9oNX0uVz-z_s8/view?usp=sharing)  
 **20.01** [Тема: Письмове додавання трицифрових чисел, коли сума одиниць дорівнює 10 або сума десятків дорівнює](https://drive.google.com/file/d/15_KFd9HzacsUaItamxV7nOtcqn_pKn1s/view?usp=sharing)  
 **20.01** [Презентація. Тема: Письмове додавання трицифрових чисел, коли сума одиниць дорівнює 10 або сума десятків дорівнює](https://drive.google.com/file/d/1za2HeZme7UZhSj1R8wkBqwDKbzJJf3Md/view?usp=sharing)  
+**21.01** [Тема: Письмове віднімання трицифрових чисел, коли в запису зменшуваного є нуль. (№88-98)](https://drive.google.com/file/d/166pefQbwPnN8DM5PeYROAs5480T5XnjE/view?usp=sharing)  
+**21.01** [Презентація. Тема: Письмове віднімання трицифрових чисел, коли в запису зменшуваного є нуль. (№88-98)](https://drive.google.com/file/d/1dF5reZGjhm56Ek4SsmjURcBuLmk6fnKb/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -653,6 +665,8 @@ export default function DistanceLearning() {
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
+**21.01** [Тема: Виготовлення лепбука Моє тіло (продовження)](https://drive.google.com/file/d/1cwOooVTgNW8qizJYmTbMido1M-w6kwST/view?usp=sharing)  
+**21.01** [Презентація. Тема: Виготовлення лепбука Моє тіло (продовження)](https://drive.google.com/file/d/1_BSZzyovthaY41OhOKtIO0g16MW9er2r/view?usp=sharing)  
 
 ** Інформатика **  
 **12.01** [Тема: Ключові слова для пошуку](https://drive.google.com/file/d/1QlGE5KvyZa31pzE4sfqWeFZfbYDxUTQE/view?usp=drive_web)  
@@ -690,10 +704,12 @@ export default function DistanceLearning() {
 **15.01** [Тема: Площа фігури. Квадратний сантиметр. Задачі, аналогічні до задач на спільну роботу](https://drive.google.com/file/d/1ebG8YmnygnEXqrMSc-XqHmwL8h-vordu/view?usp=sharing)  
 **18.01** [Тема: Правило обчислення площі прямокутника та його застосування. Знаходження значень виразів на сумісні дії. Задачі на спільну роботу](https://drive.google.com/file/d/1CcFIoa2kCLwouqw6ANVWdztId8xJFhrO/view?usp=sharing)  
 **20.01** [Тема: Обчислення площі прямокутника. Розв'язування задач, пов'язаних із площею прямокутника](https://drive.google.com/file/d/1Fyu499IbG80h3q6AKX12vJNhbarNgD4t/view?usp=sharing)  
+**21.01** [Тема: Одиниці вимірювання площі. Задачі, які містять дії над ве¬личинами, вираженими в одиницях площі](https://drive.google.com/file/d/1teiHYaFJHDxlLYa-t5hFwczGAtF5JaR_/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **03.12** [Тема: Профілактика порушень зору, слуху, опорно-рухового апарату у школярів. Вправи для профілактики плоскостопості](https://drive.google.com/file/d/1qcNOK9BdFA-j7Fyo2JrNI_GEvJJfZ-46/view?usp=sharing)  
 **14.01** [Тема: Звички і здоров'я. Практична робота виконання проєкту з формування корисної звички](https://drive.google.com/file/d/1xEd-tGuSGbtz4h8z3_0ZxZRI4Iy5hmoQ/view?usp=sharing)  
+**21.01** [Тема: Шкідливі звички і здоров'я. Небезпека куріння, вживання алкогольних, наркотичних і токсичних речовин](https://drive.google.com/file/d/1FLirvrEm_fdACL3e1D83szp9ohuXXdPa/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Спостереження за вживанням прикметників у текстах різних стилів: науковому і художньому](https://drive.google.com/file/d/1zxmnnFCg8sk7b3GKFYGAdGdevlCnU8Ph/view?usp=sharing)  
@@ -712,7 +728,7 @@ export default function DistanceLearning() {
 **20.01** [ІІ група. Тема: Узагальнення та систематизація знань і вмінь за темою](https://drive.google.com/file/d/1lpUM2BjXrsgd9TiBT1JpR4yAj76W6XXR/view?usp=sharing)  
 **21.01** [І група. Тема: Узагальнення та систематизація знань і вмінь за темою](https://drive.google.com/file/d/1aOkqog-gIP6IYw5TtJWEp4joSBWmm-ar/view?usp=sharing)  
 **21.01** [І група. Презентація. Тема: Значення прикметників у мові](https://drive.google.com/file/d/1s74sqrKyLwhhSHYkus8e_6EoeFlfMoKl/view?usp=sharing)  
-
+**21.01** [ІІ група. Тема: Узагальнення та систематизація знань і вмінь за темою](https://drive.google.com/file/d/1TWRdjJgfNuu3hGDB3puFZ6dPcAmIpTmV/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Завдання](https://drive.google.com/file/d/13py1-ZctKCGOs4nnf8wgTevIB_Fvh90v/view?usp=sharing)  
@@ -792,6 +808,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Площа фігури. Квадратний сантиметр. Задачі, аналогічні до задач на спільну роботу](https://drive.google.com/file/d/12ssI3W5dGJEyR-BXUZYiESSqWlD5IOHa/view?usp=sharing)  
 **18.01** [Тема: Правило обчислення площі прямокутника та його застосування. Знаходження значень виразів на сумісні дії. Задачі на спільну роботу](https://drive.google.com/file/d/1sH1vA4Pi6uYCVqOViW7nebHFd7gvqBpS/view?usp=sharing)  
 **20.01** [Тема: Обчислення площі прямокутника. Розв'язування задач, пов'язаних із площею прямокутника](https://drive.google.com/file/d/1-JX1qwBNi6kb3y52mGveK8UgmuQF3xSE/view?usp=sharing)  
+**21.01** [Тема: Одиниці вимірювання площі. Задачі, які містять дії над величинами, вираженими в одиницях площі](https://drive.google.com/file/d/1U8lkWCq-E_ow3SSzkyg531F_Ee3cEXDi/view?usp=sharing)  
 
 ** Природознавство **  
 **03.12** [Тема: Рослинний і тваринний світ Євразії](https://drive.google.com/file/d/19B5F0TdlKF4LUvAQpcxKbDVSHyyTeqsP/view?usp=sharing)  
@@ -799,6 +816,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Особливості природи Північної Америки](https://drive.google.com/file/d/1eA4jM4nlw23Fdoq3S26XnI1TMMbST8gJ/view?usp=sharing)  
 **14.01** [Тема: Рослинний і тваринний світ Північної Америки](https://drive.google.com/file/d/1-BVJOltDc5MFjelOkqXwRBMy6w8UKBAC/view?usp=sharing)  
 **19.01** [Тема: Найбільші країни Північної Америки. Діяльність людей та охорона природи](https://drive.google.com/file/d/1nCp2Ugn80cz4WuDzRHpytrBR5j_UYekv/view?usp=sharing)  
+**21.01** [Тема: Особливості природи Південної Америки](https://drive.google.com/file/d/1yrP4lzcVgz7eSEphcoX4Mro0zFAXgNPB/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Змінювання прикметників за родами та числами у сполученні з іменниками. Родові закінчення прикметників](https://drive.google.com/file/d/1k2OS5tmdSqS9U0ESF0N_D7h9kb-thQbt/view?usp=sharing)  
@@ -864,6 +882,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Комплекс ранкової гімнастики зі скакалкою. Визначення динаміки змін показників розвитку фізичних якостей учнів. Рухливі ігри](https://drive.google.com/file/d/1NTOa7Bd7emw5GwL8xzzoMLcVegC1VQIs/view?usp=sharing)  
 **15.01** [Тема: Комплекс ранкової гімнастики. Визначення динаміки змін показників розвитку фізичних якостей учнів . Рухливі ігри «Переміна місць», “Піймай жабу”](https://drive.google.com/file/d/1PVlGxI1zb8K-vcja88GB5i92n8eIXy7c/view?usp=sharing)  
 **20.01** [Тема: Підготовчі вправи. ЗРВ. Різновиди ходьби та бігу. Елементи рівноваги: ходьба по гімнастичній лаві, (поєднання кроків  польки з різними положеннями рук.). Комбінація із 4 акробатичних елементів (на вибір). Вис кутом. Рухлива гра «Переміна місць», “Виклик”, “Наступ”, “Естафета по колу»](https://drive.google.com/file/d/1CPe_owTr058h4m5EQS7CEEz4iVBbfFCu/view?usp=sharing)  
+**21.01** [Тема: Елементи акробатики: “міст” із положення стоячи (з допомогою); стійка на голові і руках із зігнутими ногами; комбінація із 4 акробатичних елементів.Вис на зігнутих руках.Рухливі ігри«Фігури», «Займи вільне місце», “Естафета звірів”](https://drive.google.com/file/d/1Ms4GuQ7W-2fBor9EwiczDTTWSV7j3xgl/view?usp=sharing)  
 
 ** Інформатика **  
 **13.01** [Тема: Електронна пошта](https://drive.google.com/file/d/1KyFCawBMzLggZl_i87HzBarHmFnhAAoK/view?usp=drive_web)  
@@ -969,6 +988,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1Og43cbmenI2GgRbINuVhkQmLUNnPDyii/view?usp=sharing)  
 **18.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1M5NyXKDRbrKRvePxBYCfLSSIfEFQvUvX/view?usp=sharing)  
 **19.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1KZ16zz8E6htrYtBcPwvoAiEwM9HMj7wg/view?usp=sharing)  
+**21.01** [5-А. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1dkT_slE_qb6n_BXvBdhyzB2VkXIPf-Tq/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **11.01** [5-Б. Тема: Скульптура космонавт](https://drive.google.com/file/d/1mvaqrrkGEY-U7MTH9WrLW-q_fnGKRq6A/view?usp=sharing)  
@@ -1250,6 +1270,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1JQ0c8HoeaLvHCuU0gmXQVOHdVBRvmzj5/view?usp=sharing)  
 **19.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1gL64WbYYkVrM1ftVjesKRnPmi1stenI5/view?usp=sharing)  
 **20.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/186IGOELjm4-36ctk1q5uqLgaB1Vc8rKX/view?usp=sharing)  
+**21.01** [Тема: Урок фізичної культури №3 (Дистанційне навчання)](https://drive.google.com/file/d/1_bP7_UuYF7Vlf7SAFbovNtM6IGWMEYlS/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **12.01** [Тема: Види дизайну. Промисловий дизайн. Проектування предметів побуту](https://drive.google.com/file/d/1E2YpfNEiT7Pc2NJucY1Ljco3On99jjva/view?usp=sharing)  
@@ -1758,6 +1779,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1uu-VCkoPaK6Mt7Hh6UAFze7DItJ7al4U/view?usp=sharing)  
 **15.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1_1WXlbqeLPi1XIu0MQfWKRCT0K5DzRpQ/view?usp=sharing)  
 **19.01** [Тема: Комплекс ранкової гігієнічної гімнастики](https://drive.google.com/file/d/1ILmTrJyCfBsy-jsjh0X787l1tmdikX8j/view?usp=sharing)  
+**21.01** [Тема: Урок фізичної культури №3 (Дистанційне навчання)](https://drive.google.com/file/d/1CGsVipO3oWkzUKiyeAC5wfZ1XaEgFn76/view?usp=sharing)  
 
 ** Геометрія **  
 **12.01** [Тема: Об'єм піраміди](https://drive.google.com/file/d/1UWQ8LaxxQqgKUAnUq2pLPtpH5B30dHy6/view?usp=sharing)  
