@@ -1191,6 +1191,8 @@ export default function DistanceLearning() {
 **03.12** [Презентація: Кути при січній](https://drive.google.com/file/d/14HC1AtZFrH7uzWDvLnEClidQ-lvEiuWB/view?usp=sharing)  
 **14.01** [Тема: Трикутник та його елементи. Медіана, бісектриса та висота трикутника. Нерівність трикутника](https://drive.google.com/file/d/1CMiLXvMy8GArmsffQw2V0O65MEzmrRl0/view?usp=sharing)  
 **15.01** [7-А,Б. Тема: Властивості кутів трикутника. Сума кутів трикутника](https://drive.google.com/file/d/1c4p70km5T9P5tdfaJWCj-rqMP1oM_6gW/view?usp=sharing)  
+**21.01** [7-А. Тема: Сума кутів трикутника. Зовнішній кут трикутника](https://drive.google.com/file/d/1RZVFkgKquMYaTNN10tgi-ZSiHAfC4LPL/view?usp=sharing)  
+**21.01** [7-Б. Тема: Сума кутів трикутника. Зовнішній кут трикутника](https://drive.google.com/file/d/1wnBMHmEa5I-cTkpo7PFpWqxkg6j_73iJ/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Страви](https://drive.google.com/file/d/1yC2uOR3TM0u3iNRhyux5e6-eVAAwOQei/view?usp=sharing)  
@@ -1245,6 +1247,8 @@ export default function DistanceLearning() {
 **20.01** [7-А. Харенко Ю. А. І група. Тема: Вид і час дієприслівників. Творення дієприслівників недоконаного і доконаного виду](https://drive.google.com/file/d/1J2cDntiuMJc0nz9-3h70aOWUkQtgkFZl/view?usp=sharing)  
 **20.01** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Дієприслівник доконаного і недоконаного виду, їх творення](https://drive.google.com/file/d/1udfhzyxDQ52VrFQJui2h55-L2gnB975a/view?usp=sharing)  
 **21.01** [7-А. Харенко Ю. А. І група. Тема: РМ. Усний твір розповідного характеру в художньому стилі про виконання певних дій на основі власних спостережень з використанням дієприслівникових зворотів (за складним планом)](https://drive.google.com/file/d/19ZXdcXZO5gRukHO7ZSEmuTT_Fs_U_Khp/view?usp=sharing)  
+**21.01** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Усний твір розповідного характеру в художньому стилі про виконання певних дій на основі власних спостережень з використанням дієприслівникових зворотів (за складним планом)](https://drive.google.com/file/d/1tOERPu6A8XHDv9FtHXUYPjsT7oXMO5r2/view?usp=sharing)  
+**21.01** [7-Б. Алтинбаєва Л. М. Тема: Усний твір розповідного характеру в художньому стилі про виконання певних дій на основі власних спостережень з використанням дієприслівникових зворотів (за складним планом)](https://drive.google.com/file/d/1ypZVGuIzUWop7gPGRfa5ROtShW9Fabsq/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -1380,6 +1384,7 @@ export default function DistanceLearning() {
 **14.01** [8-А. Тема: Розв'язування вправ](https://drive.google.com/file/d/1NwltdqxK6UUT_10duiGdEo4vhB9YKygI/view?usp=sharing)  
 **19.01** [8-Б. Тема: Рівняння x^2=a](https://drive.google.com/file/d/1hhxl7A63lq0oWg-7lj36WvxcikoDzuFF/view?usp=sharing)  
 **20.01** [8-Б. Тема: Властивості арифметичного квадратного корення](https://drive.google.com/file/d/1fe7ayuDm0znP1Q4PVCyncgVaWUpbi5xR/view?usp=sharing)  
+**21.01** [8-А. Тема: Розв'язування вправ](https://drive.google.com/file/d/1cc0k4tJrMiZWm5hfD7sUvWaUc4-wLJ6m/view?usp=sharing)  
 
 ** Географія **  
 **04.12** [Тема: Вплив погодно-кліматичних умов на здоров'я і господарську діяльність людини. Охорона атмосферного повітря. Кліматичні особливості своєї місцевості](https://drive.google.com/file/d/1vYAwfOrYGHF59NtP26e4W9X-6BdlSoxY/view?usp=sharing)
@@ -1505,6 +1510,7 @@ export default function DistanceLearning() {
 **14.01** [9-Б. Тема: Розв'язування задач](https://drive.google.com/file/d/1FNR6AishVUxDstAxc3vhJZut5oaKpg2s/view?usp=sharing)  
 **15.01** [9-А. Тема: Розвязування трикутників. Прикладні задачі](https://drive.google.com/file/d/1fkKupj8BvSo4p8nGTMT5vjSetjXaW9Dy/view?usp=sharing)  
 **20.01** [9-А. Тема: Розвязування трикутників](https://drive.google.com/file/d/1Doc46sNCXT17l8jkh1jM83LRjhb8ouA_/view?usp=sharing)  
+**21.01** [9-Б. Тема: Розв'язування трикутників. Прикладні задачі](https://drive.google.com/file/d/1cJ6DzQIlbHzh9m4O3GwxtZvOAxKK2l5Q/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1_YPlRDOzxWAHMorqZAt9hTRsefrTjAo4/view?usp=sharing)  
