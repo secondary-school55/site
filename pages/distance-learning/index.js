@@ -141,6 +141,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Вимірюємо довжини відрізків](https://drive.google.com/file/d/1248YDFV2r0BQpUOytj8_JGanCw96feVB/view?usp=sharing)  
 **18.01** [Тема: Будуємо відрізки](https://drive.google.com/file/d/15FL79EsHDBgV_n0yCebGcNUHe2vxXXmu/view?usp=sharing)  
 **19.01** [Тема: Вивчаємо вирази на дві дії](https://drive.google.com/file/d/1T29NLqDFqysXz_gp9ukajG-SJ7I0iGhF/view?usp=sharing)  
+**21.01** [Тема: Додаємо і віднімаємо число 3](https://drive.google.com/file/d/1pgm8-sW4nhzufcJ_gLbXl9vo4YUxcAvm/view?usp=sharing)  
 
 ** Письмо **  
 **03.12** [Тема: Написання рядкової букви "т" (те), складів, слів з нею](https://drive.google.com/file/d/1gsIdnoi5dQYR7EUT3bzl3PpepuFbdQXk/view?usp=sharing)  
@@ -160,6 +161,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1crDAVt7RUgm4gZ41SaAnn0yDoCRqcvop/view?usp=sharing)  
 **15.01** [Тема: Дистанційне навчання на уроці фізичної культури](https://drive.google.com/file/d/16iW-B-bxwz5U53maOG8B4W0qaxRW6Y7s/view?usp=sharing)  
 **18.01** [Тема: Організовуючі вправи. Комплекс вправ ранкової гімнастики](https://drive.google.com/file/d/1AilRgz09v2eKkLRRL_Kd5J7Xu2RfXRhX/view?usp=sharing)  
+**21.01** [Тема: Організовуючі вправи. Комплекс вправ ранкової гімнастики](https://drive.google.com/file/d/1Axs1eyTY0EVwyrUBOW4on5qA1LyFAEHt/view?usp=sharing)  
 
 ** Читання **  
 **04.12** [Тема: Велика буква т. Читання слів, речень і тексту з вивченими літерами](https://drive.google.com/file/d/1-j7zPCcPLUsNpLGKPI9Z91e5oTld9ob8/view?usp=sharing)  
@@ -169,6 +171,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Велика буква г. Читання слів, речень і тексту з вивченими літерами](https://drive.google.com/file/d/1jcTL3toDDq5XM-jaRDkHr_1pRc8TtVNU/view?usp=sharing)  
 **19.01** [Тема: Закріплення вміння читати](https://drive.google.com/file/d/1RyXClkVcd9ivWzftmqn2VUt4p972ngjF/view?usp=sharing)  
 **20.01** [Тема: Звук [ж]. Мала буква ж. Читання слів і тексту з вивченими літерами](https://drive.google.com/file/d/15TWRAvtjeI9toQOsbcjwRqLy5Mat0I08/view?usp=sharing)  
+**21.01** [Тема: Велика буква ж. Читання складів, слів, речень і тексту з вивченими літерами](https://drive.google.com/file/d/1rH4hcWWVpyEYmeY5HCk_Dxu1O4d6kvfJ/view?usp=sharing)  
 
 ** Дизайн і технологія **  
 **07.12** [Тема: Зимова мозаїка. «Сипле,сипле сніг…»](https://drive.google.com/file/d/1AERA7DfM5Lc708yBsknO2y1BMta2evIW/view?usp=sharing)  
@@ -183,6 +186,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Дикорослі та культурні рослини](https://drive.google.com/file/d/1qRhS4_KR3lm8sIiJbZWJWldrTMa8BNVV/view?usp=sharing)  
 **19.01** [Тема: Соняшник — квітка сонця. Практична робота «дослідження насіння соняшника»](https://drive.google.com/file/d/1i0hycAHCkvkeUe2fbNGgfOlVRStqSIu0/view?usp=sharing)  
 **20.01** [Тема: Різноманітність тварин. Дикі і свійські тварини](https://drive.google.com/file/d/1bwm1dQ_Zhjz3sctomtu9qdPTiV3kxnzZ/view?usp=sharing)  
+**21.01** [Тема: Комахи](https://drive.google.com/file/d/1tld7g9Nl6Fp_UBtarOjo0lMhDiKczw9F/view?usp=sharing)  
 
 ** Англійська мова **  
 **13.01** [Тема: Я можу стрибати](https://drive.google.com/file/d/1qRZsU0FHl8VPDip11pjJLjrFYIU2YUuV/view?usp=sharing)  
@@ -205,6 +209,7 @@ export default function DistanceLearning() {
 ** Мистецтво: образотворче мистецтво **  
 **03.12** [Тема: Святкові перетворення. Малювання композиції «Сніговик».](https://drive.google.com/file/d/1rlUqnf0AgrfiqQwAQPdXXIJ3NZeyQoPc/view?usp=sharing)  
 **14.01** [Тема: Мандри Країною Мистецтв. Цирк](https://drive.google.com/file/d/1HnkSVKqiKPr0goTh-U_pMtA34oWgR2BO/view?usp=sharing)  
+**21.01** [Тема: Зустріч з театром. Ляльковий театр](https://drive.google.com/file/d/1fVMjgHOvES9gaOHHN8CK7YVpHxG_0TXa/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Досліджуємо властивості води](https://drive.google.com/file/d/1zSrcxlsg-qgp2oEBI4mKsxRWZ8TGzIxn/view?usp=sharing)  
@@ -215,6 +220,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Дикорослі та культурні рослини](https://drive.google.com/file/d/1RwtkgcZD_q7GchT-BMNJZDJloO-1kYSc/view?usp=sharing)  
 **18.01** [Тема: Значення культурних рослин. Дослідження насіння соняшника](https://drive.google.com/file/d/1vX-WZAsPBlaJ1C82C0AseMeD6bDMGrZQ/view?usp=sharing)  
 **19.01** [Тема: Різноманітність тварин. Дикі та свійські тварини](https://drive.google.com/file/d/1YszTy5ofIbvbLBR6KBy0qoGT51xLmQ0k/view?usp=sharing)  
+**21.01** [Тема: Комахи](https://drive.google.com/file/d/1-GlV4wBycWWC47jwOVpA8HnmFrcIYy_K/view?usp=sharing)  
 
 ** Навчання грамоти **  
 **04.12** [Тема: Закріплення звукових значень букви «те». Велика буква Т. Читання слів, речень. Опрацювання тексту](https://drive.google.com/file/d/19GvR-lVr91Ryt02ABFtcoQRKSqGXcuo8/view?usp=sharing)  
@@ -256,6 +262,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Спорядження лижника. Організовуючі команди і прийоми](https://drive.google.com/file/d/11UrNM_PEYkxK6qqqNDwA2SICj5ZOvfAU/view?usp=sharing)  
 **15.01** [Тема: Організовуючі вправи. Комплекс ранкової гімнастики](https://drive.google.com/file/d/15jSyFx-fAZ6DreEtPE4r1ObxE4jOOixN/view?usp=sharing)  
 **19.01** [Тема: Уроки фізичної культури онлайн](https://drive.google.com/file/d/1kHacSEVCv9XZKcIy3P-ILRZ_crD0sVJt/view?usp=sharing)  
+**21.01** [Тема: Техніка безпеки під час виконання фізичних вправ вдома під час дистанційного навчання. Руханка](https://drive.google.com/file/d/1FDOKpwbIl7XKfDxtKv39yrUxlomYlKOU/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Школа](https://drive.google.com/file/d/1ioY_Y8l-j2E4qXlL4MVnyRt9Z5ND_f4z/view?usp=sharing)  
@@ -294,10 +301,12 @@ export default function DistanceLearning() {
 **18.01** [Тема: Поєдную прикметники з іменниками](https://drive.google.com/file/d/1AvuB7MpQsMJs16IfyQFk-JA0Drd7clD1/view?usp=sharing)  
 **20.01** [І група. Тема: Змінюю прикметники за числами](https://drive.google.com/file/d/1IFTKBVDY34c_hjFgz8D7qB5d3MwaEhD0/view?usp=sharing)  
 **20.01** [ІІ група. Тема: Змінюю прикметники за числами](https://drive.google.com/file/d/1gxYcXtPnwFrq0cC4D4l5sn-W4mRMDpY8/view?usp=sharing)  
+**21.01** [Тема: Розпізнаю близькі за значенням прикметники(с.80-81)](https://drive.google.com/file/d/1bm1d7RCF9qynJfDgrq7ZkNzwGv_nZlCW/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
 **14.01** [Тема: Малювання композиції «Зимова казка» у  художніх техніках](https://drive.google.com/file/d/1I8MUg8VNUDnbWgDj-JNQrc653tYZZx16/view?usp=sharing)  
+**21.01** [Тема: Анімалістичний жанр. Зображення веселого лева або мрійливого ведмедика(фарби або фломастери)](https://drive.google.com/file/d/1S4xqZY2UgW5skmtu2I0jC5j8Q7PIyLyD/view?usp=sharing)  
 
 ** Фізична культура **  
 **03.12** [Тема: Організовуючі вправи. Загальнорозвивальні вправи для формування правильної постави. Підтягування у висі тта увисі лежачи (хлопці). Танцювальні кроки. Рухлива гра](https://drive.google.com/file/d/1rKgpV07GqvgZd17tYjA0P9Ayeami6TO8/view?usp=sharing)  
@@ -306,6 +315,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Уроки фізичної культури онлайн](https://drive.google.com/file/d/1C0w5Q87Mz8YIc0W53Gg-PP94ZUa5M4X2/view?usp=sharing)  
 **18.01** [Тема: Техніка безпеки під час виконання фізичних вправ вдома  під час дистанційного навчання. Руханка](https://drive.google.com/file/d/1TFOfzIptXgjSZ1k9CjhadXWUb7DgkqLJ/view?usp=sharing)  
 **20.01** [Тема: Техніка безпеки під час виконання фізичних вправ вдома  під час дистанційного навчання. Руханка](https://drive.google.com/file/d/1bKqdk22vNgTM0tqWAqMbX68kGE0q1spY/view?usp=sharing)  
+**21.01** [Тема: Техніка безпеки під час виконання фізичних вправ вдома  під час дистанційного навчання. Руханка](https://drive.google.com/file/d/1p_gSlsvsHICbW0uk_nlxkErZU98fPDit/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Досліджуємо текст. Василь Чухліб «Зимова казка» Зачарувала все зима...](https://drive.google.com/file/d/1lO76PM1u99sp3Ey7vKjtOBd5_zP2NEEX/view?usp=sharing)  
@@ -316,6 +326,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Співець моря і степу. Анатолій Качан «Хвилювалось море». «Розмова з пароплавом»](https://drive.google.com/file/d/17y3NiH6931vtLDqINkzsHiHkTJLBJ4yK/view?usp=sharing)  
 **19.01** [І група. Тема: Оповідання. Василь Сухомлинський «Глуха дівчинка»](https://drive.google.com/file/d/1DOvR4h6tAKrLC3bKjgbEtyYNIuNbDl8K/view?usp=sharing)  
 **19.01** [ІІ група. Тема: Оповідання. Василь Сухомлинський «Глуха дівчинка»](https://drive.google.com/file/d/10HO6qsl9Re6IhFzAfP0hDMuApb7DNeYv/view?usp=sharing)  
+**21.01** [Тема: Медіавіконце: вистава. Василь Сухомлинський «Покинуте кошеня»](https://drive.google.com/file/d/1uoi9MuQfAg0qKPNFUxjHDjP02HCHo1s5/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)  
@@ -324,6 +335,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Хто такий споживач. Реклама. Корисна і шкідлива реклама. Як розповсюджується реклама? Створення реклами продукту, товару](https://drive.google.com/file/d/1nmCDJoBRf8sd2iUyeoa1vqp3WWeWBjlg/view?usp=sharing)  
 **19.01** [Тема: Хто такий споживач. Реклама. Корисна і шкідлива реклама. Як розповсюджується реклама? Створення реклами продукту, товару](https://drive.google.com/file/d/1KugUuTg6NdHmtL9gj4FIpBUyZQPkQaqm/view?usp=sharing)  
 **20.01** [Тема: Як почуваються рослини взимку](https://drive.google.com/file/d/1wqH3FUh9-gpGqOo1Js44U1lQrXeBUPVs/view?usp=sharing)  
+**21.01** [Тема: Як зимують комахи та риби?(c.16-18)](https://drive.google.com/file/d/1TiUqcsF-Yfi6SYaz8pjMHolD17w72flw/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Пори року](https://drive.google.com/file/d/1km6oHMaL5aPtsb5vpLoEVftKb8SYvoBa/view?usp=sharing)  
@@ -374,6 +386,8 @@ export default function DistanceLearning() {
 **18.01** [Тема: Коло і круг та їх елементи](https://drive.google.com/file/d/18UcKyU_rz5p-ja14YZMfosC99GRhna0_/view?usp=sharing)  
 **20.01** [Тема: Вправи і задачі на засвоєння таблиць](https://drive.google.com/file/d/1qTDAwEwXT22ziVKSDhwctAuRQa8GD0kZ/view?usp=sharing)  
 **20.01** [Презентація. Тема: Вправи і задачі на засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1YmrMKFYp3XAlta1Kpgmq86vINzGuXi5d/view?usp=sharing)  
+**21.01** [Тема: Таблиця ділення на 3](https://drive.google.com/file/d/1UdPHuTYBOkoA6NPe9uxXLTKRscNLpTK8/view?usp=sharing)  
+**21.01** [Презентація. Тема: Таблиця ділення на 3](https://drive.google.com/file/d/1TmIcMaswmHLuzdrdOBxXUjpRgnHLd2Kg/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Ставлю питання до назв предметів. Розпізнаю слова — назви предметів за питаннями хто? що?](https://drive.google.com/file/d/1x-mt1ERC1wF1vB7K6oGvzZ8HFU79x8MZ/view?usp=sharing)  
@@ -383,6 +397,8 @@ export default function DistanceLearning() {
 **18.01** [Тема: Малюю зимові розваги](https://drive.google.com/file/d/1lbXLXEqIkEAE9zHwpq_MIcNxdYkK5SXg/view?usp=sharing)  
 **19.01** [Тема: Поєдную прикметники з іменниками](https://drive.google.com/file/d/1jt5c-2AMCIVSG6QTJWAYAD0GIb6-_bwT/view?usp=sharing)  
 **19.01** [Презентація. Тема: Поєдную прикметники з іменниками](https://drive.google.com/file/d/1M5gT4smscQz80bCptL-jmCXZpQyGDP9v/view?usp=sharing)  
+**21.01** [Тема: Змінюю прикметники за числами](https://drive.google.com/file/d/10LVVZzZjQEfWGOSjtivd99ePmlZx75_U/view?usp=sharing)  
+**21.01** [Презентація. Тема: Змінюю прикметники за числами](https://drive.google.com/file/d/1j_OXH-qlszO9o7TW7J67Yb15Q11yCOhC/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Щастя. М. Морозенко «Мій тато повернувся із війни»](https://drive.google.com/file/d/1IohkwNNl7ln_Lo29wlZgDCzqGnIG84Iy/view?usp=sharing)  
@@ -393,6 +409,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: В. Сухомлинський «Глуха дівчинка»](https://drive.google.com/file/d/1WIo33Q1EYSlVkqQJk43n0H_yX1yZQJ7f/view?usp=sharing)  
 **20.01** [Тема: Медіавіконце: вистава. Василь Сухомлинський «Покинуте кошеня». Вистава «Хто зігріє кошеня?»](https://drive.google.com/file/d/1zx5GM-8TFmut9jF7EVbv0SsCxvvEyYwW/view?usp=sharing)  
 **20.01** [Презентація. Тема: Медіавіконце: вистава. Василь Сухомлинський «Покинуте кошеня». Вистава «Хто зігріє кошеня?»](https://drive.google.com/file/d/1qmMD_-O3gwiIORNGlF4MkuL7dZ3YeEl6/view?usp=sharing)  
+**21.01** [Тема: Зима білосніжна](https://drive.google.com/file/d/1Bo2j7tWOmiXGQUE1xsYvaaWnlzjLA1m2/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Дослідження сніжинок](https://drive.google.com/file/d/1iwAU41FzR28Lcm4x5twjg4NwG-tufv1g/view?usp=sharing)  
@@ -403,6 +420,8 @@ export default function DistanceLearning() {
 **19.01** [Презентація. Тема: Хто такий споживач](https://drive.google.com/file/d/17yiQ-IPOLl83vBnEbgIE9WGp0n58T8V-/view?usp=sharing)  
 **20.01** [Тема: Як почуваються рослини взимку](https://drive.google.com/file/d/1L84xRnAKtf6g57TssyawBw2LGpjeXODh/view?usp=sharing)  
 **20.01** [Презентація. Тема: Як почуваються рослини взимку](https://drive.google.com/file/d/1_YCebdxV3B1SMgKdikoH2rDkgP2l1w0h/view?usp=sharing)  
+**21.01** [Тема: Як зимують комахи та риби](https://drive.google.com/file/d/1L_dGrbk1UMS3fMLlU0WgiddnE3uHAfZ9/view?usp=sharing)  
+**21.01** [Презентація. Тема: Як зимують комахи та риби](https://drive.google.com/file/d/1Zb9M9wSMKayXb80utiEZ1p-thzegdXly/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **13.01** [Тема: Чарівні дерева](https://drive.google.com/file/d/1Z7wrkKXFdjqb0_uRZVY4BqOopNlNk1OD/view?usp=sharing)  
@@ -428,6 +447,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Комплекс вправ ранкової гімнастики](https://drive.google.com/file/d/1d0mG6EfzCO-K5lJLIKMPLO8tkRHoVWXb/view?usp=sharing)  
 **18.01** [Тема: Вправи для формування правильної постави](https://drive.google.com/file/d/1XwPWkr70PWgc_NBNjmr00vrDImBjqo1S/view?usp=sharing)  
 **19.01** [Тема: Вправи для формування правильної постави](https://drive.google.com/file/d/1n7o-RgnidmMnn9UccEu5toL2CiA8Joo3/view?usp=sharing)  
+**21.01** [Тема: Вправи для розвитку гнучкості](https://drive.google.com/file/d/189IaKX_Zl-wfRIbAOoae0VieUCPQDNjS/view?usp=sharing)  
 `}</Md>
           </Tab>
         </Tabs>
@@ -489,6 +509,8 @@ export default function DistanceLearning() {
 **20.01** [І група. Презентація. Тема: Розпізнавання іменників, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1KjaKxGVB9IlaHGVFc8DlICFytQpVPpo5/view?usp=sharing)  
 **20.01** [ІІ група. Тема: Розпізнаю іменники, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1HXOjNAstK9HTG5knxuJ2czrYWNEoYCgS/view?usp=sharing)  
 **20.01** [ІІ група. Презентація. Тема: Розпізнаю іменники, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1l7c0HKIA_8srD2m8kd1_SM2DwYoLyE0Y/view?usp=sharing)  
+**21.01** [ІІ група. Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/1ycTZMmzcT1VePzFS5gZLecsKzVGiAmX9/view?usp=sharing)  
+**21.01** [ІІ група. Презентація. Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/14Jw0uvRHkjuYmoapJ6kHOvfxA6BDMQ2W/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -528,6 +550,7 @@ export default function DistanceLearning() {
 **19.01** [ІІ група. Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус) «Український лицар». Навчальне аудіювання (Ч.2, с. 85-86)](https://drive.google.com/file/d/1f9uBwuX_Go8cCQ4nOVcdKUbNFgaWgOYY/view?usp=sharing)  
 **19.01** [І група. Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус) «Український лицар». Навчальне аудіювання (Ч.2, с. 85-86)](https://drive.google.com/file/d/1tgYGGthDrt-DPE2iZrqrTboT4Ss27sJf/view?usp=sharing)  
 **19.01** [Презентація. Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус) «Український лицар». Навчальне аудіювання (Ч.2, с. 85-86)](https://drive.google.com/file/d/1s7LwmS2CmkfcSLrfeqYGcz9pKmB0ymOO/view?usp=sharing)  
+**21.01** [ІІ група. Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/1jcTFUn7Y0OJZeq3aspL0G9wDX4teHqSG/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -801,6 +824,7 @@ export default function DistanceLearning() {
 **19.01** [І група. Тема: Узимку](https://drive.google.com/file/d/1_azVP1BKPhiIv0m364gULF-ILzdsmvqh/view?usp=sharing)  
 **19.01** [І група. Тема: Узимку](https://drive.google.com/file/d/1bAcyO6UNvKl_4KJs3VNvuFYHx28kiaMr/view?usp=sharing)  
 **19.01** [ІІ група. Тема: Узимку](https://drive.google.com/file/d/1KkCV9O8rLfRRZQKqZzcaj-Ogy0mMI2Iv/view?usp=sharing)  
+**21.01** [І група. Тема: Порівнюємо погоду](https://drive.google.com/file/d/138omnOvZ7E2DAFKqmtqRJYRksKLSMo04/view?usp=sharing)  
 
 ** Літературне читання **  
 **07.12** [Тема: Марко Вовчок «Літній ранок», Михайло Коцюбинський «Літній день»](https://drive.google.com/file/d/1XgJrjALeSBPNQ_Qy5nIsx0yLyZXI39WL/view?usp=sharing)  
