@@ -681,6 +681,9 @@ export default function DistanceLearning() {
 **19.01** [ІІ група. Тема: Поширення речень прикметниками](https://drive.google.com/file/d/1wEykTcQSrOCuD4oCiJRvteFC5K9e-Wy1/view?usp=sharing)  
 **19.01** [І група. Тема: Поширення речень прикметниками](https://drive.google.com/file/d/1qpRR-qCNxIXrGudADdt_W3Zvg9OYK1LH/view?usp=sharing)  
 **20.01** [ІІ група. Тема: Узагальнення та систематизація знань і вмінь за темою](https://drive.google.com/file/d/1lpUM2BjXrsgd9TiBT1JpR4yAj76W6XXR/view?usp=sharing)  
+**21.01** [І група. Тема: Узагальнення та систематизація знань і вмінь за темою](https://drive.google.com/file/d/1aOkqog-gIP6IYw5TtJWEp4joSBWmm-ar/view?usp=sharing)  
+**21.01** [І група. Презентація. Тема: Значення прикметників у мові](https://drive.google.com/file/d/1s74sqrKyLwhhSHYkus8e_6EoeFlfMoKl/view?usp=sharing)  
+
 
 ** Фізична культура **  
 **04.12** [Завдання](https://drive.google.com/file/d/13py1-ZctKCGOs4nnf8wgTevIB_Fvh90v/view?usp=sharing)  
@@ -956,6 +959,7 @@ export default function DistanceLearning() {
 **14.01** [5-Б. Тема: Провідні ідеї твору](https://drive.google.com/file/d/1fBCYM8AhXrIkc3c6sZDM8Z3YrdTy9EMS/view?usp=sharing)  
 **15.01** [5-А. Тема: Провідні ідеї твору](https://drive.google.com/file/d/1m2n0G6s6WSmiV8vApaHnE8hEZ84eZpz1/view?usp=sharing)  
 **19.01** [Тема: Ставлення автора до своїх героїв](https://drive.google.com/file/d/1eF6Ew5I8qza01ktwm1YTkYI1Yn9fy3b2/view?usp=sharing)  
+**21.01** [5-Б. Тема: Том Сойєр і Гекльберрі Фінн. Характеристика образів](https://drive.google.com/file/d/1VCnXbA7xlIwgiHyejNaVQr01qx7yh8j1/view?usp=sharing)  
 
 ** Історія **  
 **15.01** [Тема: Пам’ятки і пам’ятники історії](https://drive.google.com/file/d/1gF97W2MBDi0FNUAUUw8fytyNDAjAz01z/view?usp=sharing)  
@@ -1021,6 +1025,7 @@ export default function DistanceLearning() {
 **18.01** [6-А,В. Тема: Букви е, и, і в суфіксах іменників](https://drive.google.com/file/d/1LmkshuXNDyFV-7fSUjfaC2xxttoiopYC/view?usp=sharing)  
 **19.01** [Тема: Написання не з іменниками](https://drive.google.com/file/d/1d3W4t9j5XWprCHT14yRiyDcvZocv5pKS/view?usp=sharing)  
 **20.01** [Тема: Написання не з іменниками](https://drive.google.com/file/d/1wonRT9TJ_3xEuXYKgFzxIKjymSP7cMpt/view?usp=sharing)  
+**21.01** [Тема: Написання не з іменниками](https://drive.google.com/file/d/1JulWsr9cMaLhUsnSC6o8OACDKSVH25Qm/view?usp=sharing)  
 
 ** Геометрія **  
 **04.12** [Тема: Властивості та ознаки паралельних прямих](https://drive.google.com/file/d/1HNWgOmuryqTAgAijrgyBQ3k_E7c_gKyK/view?usp=sharing)  
@@ -1055,6 +1060,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Атмосферний тиск](https://drive.google.com/file/d/1Oga8FbAW6SN2K-Yprr_0dtQu0XssiHaT/view?usp=sharing)  
 **18.01** [Тема: Північна Америка](https://drive.google.com/file/d/11cEiCvZoTkiPnLDYMDbalQNOG9iBxzN0/view?usp=sharing)  
 **19.01** [Тема: Вітер](https://drive.google.com/file/d/13RgOuRoni47jtrSjFaLvI2Yd1TR7egNG/view?usp=sharing)  
+**21.01** [Тема: Вода в атмосфері](https://drive.google.com/file/d/1ZRDP84t-rVrjAY-CUIinz3g5Zc08jQQj/view?usp=sharing)  
 
 ** Історія **  
 **13.01** [6-А,Б. Тема: Історія Підкорення Греції Філіппом ІІ](https://drive.google.com/file/d/1vSz07K60HtR64gGO7ZCeYoDOXPyjHbey/view?usp=sharing)  
@@ -1070,6 +1076,7 @@ export default function DistanceLearning() {
 
 ** Образотворче мистецтво **  
 **14.01** [Тема: Побутовий жанр. Історія виникнення та розвитку](https://drive.google.com/file/d/1XYvXwACQ4PgoG10yrkiNui7Ho97oaw35/view?usp=sharing)  
+**21.01** [Тема: Домашній інтер'єр](https://drive.google.com/file/d/1eK99iCcgZY7eYNzWoC1X7G3yCTBqZ7OI/view?usp=sharing)  
 
 ** Зарубіжна література **  
 **11.01** [6-А. Тема: А.П.Чехов Хамелеон](https://drive.google.com/file/d/1PfhpTVhihBn22ZZafAJ0UAig2vydUWqH/view?usp=sharing)  
@@ -1105,6 +1112,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Правління Ярославичів](https://drive.google.com/file/d/1KblQ7S0ICu_ekaXFnVFyVI7uDohlUwY-/view?usp=sharing)  
 **14.01** [Тема: Правління В. Мономаха](https://drive.google.com/file/d/1TF74sWB5fZZ2558syT__C8ChMlBN0D8D/view?usp=sharing)  
 **19.01** [Тема: Київське, Переяславське, Чернігівське князівства](https://drive.google.com/file/d/19reMQXluo7gLq8-uhovC-_vNDvmrWbIw/view?usp=sharing)  
+**21.01** [Тема: Галицьке та Волинське князівства в 12ст.](https://drive.google.com/file/d/195Xb4LDi6Fjn4tTi_VM3tl3X2C_WrMNJ/view?usp=sharing)  
 
 ** Геометрія **  
 **03.12** [Тема: Кути, утворені при перетині двох паралельних прямих січною. Властивості кутів, утворених при перетині паралельних прямих січною.](https://drive.google.com/file/d/1fFJnhdfAIKT66YiMKbNvDSv4onIhFgb3/view?usp=sharing)  
@@ -1238,6 +1246,7 @@ export default function DistanceLearning() {
 **18.01** [Стрембицька Л. А. Тема: Кома між однорідними членами речення](https://drive.google.com/file/d/13OGJK9YVUQcl44r8Bog6KBomQt6uhETd/view?usp=sharing)  
 **18.01** [Добровольська В. Е. І група. 8-А. Тема: Кома  між однорідними членами речення](https://drive.google.com/file/d/1RhlXDCw2Hev75iMHK7CH1OVn8Db-ikB0/view?usp=sharing)  
 **19.01** [Добровольська В. Е. І група. 8-Б. Тема: Речення з кількома рядами однорідних членів](https://drive.google.com/file/d/1ZX0ac6KzptOt5yPXHSsO_thldcTDuuQW/view?usp=sharing)  
+**21.01** [Стрембицька Л. А. Тема: Речення поширені й непоширені. Другорядні члени речення. Означення — другорядний член речення](https://drive.google.com/file/d/1PODdit4j4Ncjzq0EmCV5x1YCbMtvEo2z/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1Q8mIXGFf9Qrm1fqus0UoNSE-0gA4qN9q/view?usp=sharing)  
@@ -1266,6 +1275,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Українська козацька держава](https://drive.google.com/file/d/1VC_qj6xu4bO5FLWC1yqwZuQQXGJnBxxK/view?usp=sharing)  
 **15.01** [Тема: Україно-московський договір 1654 р.](https://drive.google.com/file/d/13RUYXRMP9zK36mxMD8ty7OoSGCVYq2yD/view?usp=sharing)  
 **18.01** [Тема: Воєнно-політичні події 1654-1657рр.](https://drive.google.com/file/d/1PZqj15YI0WVXxP6WA4aPviGKmA_Wc40g/view?usp=sharing)  
+**21.01** [8-А. Тема: Воєнно-політичні події 1654-1657рр.](https://drive.google.com/file/d/1YV2oTyrn8DMnC2TZr6Hg4DbPcNnYHUqI/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Музика в нашому житті. Відомі українські виконавці.](https://drive.google.com/file/d/1vZrqAEL9AOaGZyKMNjDM_F2so579-b7m/view?usp=sharing)  
@@ -1341,6 +1351,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Бароко](https://drive.google.com/file/d/1vSmu-ezDNaD-gyqWA9aIGJ34CVkJ3ZvS/view?usp=sharing)  
 **14.01** [Тема: Бароко](https://drive.google.com/file/d/1_VBKRJCQ4-GeVhiRdasRq86zeqppDQ6b/view?usp=sharing)  
 **20.01** [8-Б. Тема: Живопис Бароко](https://drive.google.com/file/d/1ubKg5kUk1WcJ8pVNfk0HVa2gyBb-4HVw/view?usp=sharing)  
+**21.01** [8-А. Тема: Живопис Бароко](https://drive.google.com/file/d/1e866-_P0fjnSPIWMyR5p6UEHhqHPpYxQ/view?usp=sharing)  
 
 ** Російська мова **  
 **13.01** [Тема: Параллельная связь между предложениями в тексте](https://drive.google.com/file/d/1kI1EqW4xoE3j_M4DUEWxgqBji3bQfjXp/view?usp=sharing)  
@@ -1354,6 +1365,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Епоха Відродження в Європі. Гуманізм. Культ античності. Характерні ознаки ренесансної культури і літератури](https://drive.google.com/file/d/1vbMlF-Ynn34DuybFY31ZAfQSuHiLDv2o/view?usp=sharing)  
 **14.01** [Тема: Франческо Петрарка – видатний італійський поет – гуманіст. Багатство](https://drive.google.com/file/d/12MAcf2F1hiRml9oSUVzZizGeYKy_Nt1V/view?usp=sharing)  
 **19.01** [Тема: Ф. Петрарка. Сонет 61. Історія кохання в сонеті Петрарки. Образ ліричного героя і героїні. Втілення гуманістичних ідеалів у поезії митця. Структура сонетів Петрарки](https://drive.google.com/file/d/1KFhVRs2vIOEQUSQP5h5jgNtkwlPtXRhb/view?usp=sharing)  
+**21.01** [Тема: Ф. Петрарка. Сонет 132. Історія кохання в сонетах Петрарки](https://drive.google.com/file/d/1PBHH04adxiGnE_3XFYtqk5dNKLjcWaBR/view?usp=sharing)  
 
 ** Трудове навчання **  
 **15.01** [Тема: Добір матеріалів, інструментів та обладнання. Технологічний процес нанесення ескізу виробу](https://drive.google.com/file/d/19EmWgL5wR9n3jNLQZ1-K42qE4r3OzN_7/view?usp=sharing)  
@@ -1368,6 +1380,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Виробництво чавуну, сталі, прокату](https://drive.google.com/file/d/18jyFjfipbqmj_b8KXq9glkjIG57rcYCN/view?usp=sharing)  
 **19.01** [9-А. Тема: Виробництво чавуну, сталі, прокату в україні: домінувальні технології, сукупність чинників розміщення підприємств, основні центри, місце україни на світовому ринку чорних металів](https://drive.google.com/file/d/11QeXAnS9NooghKyv0Kdem3uMJHuh-xj8/view?usp=sharing)  
 **19.01** [9-Б. Тема: Металургійне виробництво світу. Найбільші країни-виробники та країни-споживачі чорних металів. Сучасні тенденції розміщення виробництв чавуну, сталі, прокату. Найбільші країни-виробники та країни-споживачі кольорових металів у світі](https://drive.google.com/file/d/1Hsoq6_W-tF1Ccg7XT23Lx2fYBMWtSqdn/view?usp=sharing)  
+**21.01** [9-А. Тема: Металургійне виробництво світу](https://drive.google.com/file/d/1TX5gWYZ3Wi15JufANp3sCIilAR_fioK5/view?usp=sharing)  
 
 ** Хімія **  
 **03.12** [Тема: Реакції оборотні й необоротні](https://drive.google.com/file/d/1J2DYha0BrqewRn0sm7Yn2UbvM5hr7tu0/view?usp=sharing)  
@@ -1381,6 +1394,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Конституційні права і свободи людини і громадянина](https://drive.google.com/file/d/15aef0Tzl_ip_KxMQal1xDjVIK8mWwNyg/view?usp=sharing)  
 **12.01** [Тема: Неповнолітні в цивільних правовідносинах](https://drive.google.com/file/d/1mkKrkJBESGcP4uahN5398wU37m9WLJwk/view?usp=sharing)  
 **14.01** [Тема: Неповнолітні в цивільних правовідносинах](https://drive.google.com/file/d/1vkk7Xp8pTOkE-PJMm4FWrN9DQ6rKfpAl/view?usp=sharing)  
+**21.01** [Тема: Практичне заняття «Власність неповнолітніх»](https://drive.google.com/file/d/1SmtEqdOh-rV6ZwhgBKObPKRjeavnDJsG/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Технологічний процес виготовлення обраного об’єкта проєктування. Самоконтроль якості виконання технологічних операцій](https://drive.google.com/file/d/1qgNcVbtUgtnpbvFGkulfNExXQBMM8zsC/view?usp=sharing)  
@@ -1388,6 +1402,9 @@ export default function DistanceLearning() {
 **14.01** [Тема: Проєкт «Нове життя старим речам»](https://drive.google.com/file/d/1_dYxvYKyftsuKH-eQv6Ky6DkzNwSo3b5/view?usp=drive_web)  
 **14.01** [Тема: Ниткографія](https://drive.google.com/file/d/1bvsmvNVymCoYQZ6xZGUbcYQ2MCdzgzcU/view?usp=sharing)  
 **14.01** [Тема: Визначення завдань для виконання проєкту. Основи біоніки в проєктуванні. Вибір об’єкта проєктування](https://drive.google.com/file/d/13y4Fm0kHftZtxTMAcjrrjCakCdnptoLu/view?usp=sharing)  
+
+** Обслуговуюча праця **  
+**21.01** [9-А. Тема: Технологія ниткографії](https://drive.google.com/file/d/18rfdNGgXAKdKIlXGFAK3QtrlyCRFJJly/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Повсякденне життя та побут українців у 19 ст.](https://drive.google.com/file/d/1I_2vKC2eCScwYuNW-zNiV13rTHkryuUI/view?usp=sharing)  
@@ -1397,6 +1414,7 @@ export default function DistanceLearning() {
 **15.01** [9-Б. Тема: Модернізація промисловості і сільського господарства](https://drive.google.com/file/d/15_ZJI_4dAwSMQYzaCCbCMCV-Hf_c_Lg7/view?usp=sharing)  
 **19.01** [9-Б. Тема: Місто і село в пореформений період](https://drive.google.com/file/d/1Wwuw2TvGBUS54vFZfq-VbS4pN5dVl3As/view?usp=sharing)  
 **20.01** [9-А. Тема: Модернізація промисловості і сільського господарства. Місто і село в пореформений період](https://drive.google.com/file/d/15tt7ERzpdn24JblsvTN6E0KqNKJRh3EN/view?usp=sharing)  
+**21.01** [9-А. Тема: Національний рух: громади, хлопомани](https://drive.google.com/file/d/1gyodBX4-OkYUoLEkCYRbTEPB466-V3QO/view?usp=sharing)  
 
 ** Геометрія **  
 **03.12** [9-Б. Тема: Вектори. Розв’язування задач](https://drive.google.com/file/d/1ykrS5YhJf-ggic_8ad1LHgVjfAVZtKBF/view?usp=sharing)  
@@ -1476,6 +1494,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Розділові знаки в складнопідрядному реченні з кількома підрядними](https://drive.google.com/file/d/1joBxsLiM5ZDCty8Lp7qGKCmkBA-cWRVy/view?usp=sharing)  
 **18.01** [9-А. І група. Тема: Розділові знаки в складнопідрядному реченні з кількома підрядними](https://drive.google.com/file/d/1bFgbR8JUAnS1dkKsMguCpJoOlOs6Csl3/view?usp=sharing)  
 **20.01** [9-А. І група. Тема: Розділові знаки у СПР з кількома підрядними](https://drive.google.com/file/d/1XGSk_Gawn5MQZC-Oe4xsujcYWCQ9DPlZ/view?usp=sharing)  
+**21.01** [Тема: Розділові знаки в складнопідрядному реченні з кількома підрядними](https://drive.google.com/file/d/18XofWzo_-_tw1Z3HI1Errfaut1a57TTx/view?usp=sharing)  
 
 ** Фізика **  
 **04.12** [Тема: Механічні хвилі](https://drive.google.com/file/d/1gFUenJvZoiJfbG2dXxl35x6LtqAUs2RB/view?usp=sharing)  
@@ -1505,6 +1524,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Новаторство М. Ю. Лермонтова в жанрі роману](https://drive.google.com/file/d/1O7MBHYMIcNsH9Y8VbzFlsfs0J1K0xx64/view?usp=sharing)  
 **14.01** [Тема: Порівняння образів Євгенія Онєгіна і Печоріна](https://drive.google.com/file/d/1pJyFbhj2u9Dv-3F78b4JEwnI0wb89CYr/view?usp=sharing)  
 **18.01** [Тема: Позакласне читання. Бальзак Шагренева шкіра](https://drive.google.com/file/d/1yWxy4HRd0L9GTdiqfNOsoEf6Q_-PKVYB/view?usp=sharing)  
+**21.01** [Тема: Том Сойєр і Гекльберрі Фінн. Характеристика образів](https://drive.google.com/file/d/1i1duE91RvLnRgcOfv5niYnMVz4XezEDT/view?usp=sharing)  
 
 ** Російська мова **  
 **11.01** [Тема: Наречие. Разнообразие значений наречий](https://drive.google.com/file/d/1Nwu87ha1mFSJoL72GbG5UDd7PnJ-ZWpl/view?usp=sharing)  
@@ -1530,6 +1550,7 @@ export default function DistanceLearning() {
 **19.01** [Добровольська В. Е. Тема: Багатозначність, синонімія, антонімія фразеологічних одиниць](https://drive.google.com/file/d/1mErG-XEZUBOJKeLho6obuqOAlnaZc6Bn/view?usp=sharing)  
 **20.01** [Стрембицька Л.А. Тема: Фразеологізми власне українського походження та фразеологічні запозичення з інших мов. Національно-мовний колорит фразеології. Фразеологічні відповідники в різних мовах](https://drive.google.com/file/d/1_HRwch7I3bwosObnWT39PUIbtlSZ_2yt/view?usp=sharing)  
 **20.01** [Добровольська В. Е. Тема: Фразеологізми власне українського походження та фразеологічні запозичення з інших мов. Національно-мовний колорит фразеології. Фразеологічні відповідники в різних мовах](https://drive.google.com/file/d/1f1zoaGVsZTCAHbQteR_Q9wsYZyJCm27o/view?usp=sharing)  
+**21.01** [Стрембицька Л.А. Тема: Фразеологія художнього мовлення, наукова, публіцистична, офіційно-ділова. Фразеологізми з професійної мови](https://drive.google.com/file/d/1097wT6EZOitsO5SiZz_6hOLnc3F-FhHm/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
@@ -1644,7 +1665,8 @@ export default function DistanceLearning() {
 **03.12** [Тема: Микола Гурович Куліш](https://drive.google.com/file/d/1FMV2UWTFbPSAjYr4Gwhv4lIHsEnHucaA/view?usp=sharing)  
 **04.12** [Тема: Іван Багряний. Життєвий і творчий шлях письменника. Багряний — публіцист.](https://drive.google.com/file/d/1KjKOrRrOI3epjzcnILvSqcldr4Xbf5XZ/view?usp=sharing)  
 **14.01** [Тема: «Шістдесятництво» як суспільне і мистецьке явище](https://drive.google.com/file/d/1d3wjMUig-15_zO-1fwZmkhF1edP_lBuJ/view?usp=sharing)  
-**15.01** [Тема: Василь Симоненко.«Казка про Дурила»](https://drive.google.com/file/d/17OUsAchkRZ3LcTivpoeQewG7dMa4QZby/view?usp=sharing)  
+**15.01** [Тема: Василь Симоненко «Казка про Дурила»](https://drive.google.com/file/d/17OUsAchkRZ3LcTivpoeQewG7dMa4QZby/view?usp=sharing)  
+**21.01** [Тема: Дмитро Павличко. Основні відомості про поета, перекладача.  Пісня «два кольори», що стала народною](https://drive.google.com/file/d/1aynebUuDHKnm4fP7kz95vfu-WvRZmBni/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)  
