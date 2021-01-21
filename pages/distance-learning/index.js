@@ -932,6 +932,8 @@ export default function DistanceLearning() {
 **20.01** [5-А. І група. Тема: Найпоширеніші випадки чергування голосних і приголосних звуків](https://drive.google.com/file/d/1-MmUSM3j1ffrQqYpE9sdEDIipj2rdhm9/view?usp=sharing)  
 **20.01** [5-А. ІІ група. Тема: Найпоширеніші випадки чергування голосних і приголосних звуків](https://drive.google.com/file/d/1RcuMEabmsNEQ05v7m5LccAuHl8oE4CW0/view?usp=sharing)  
 **21.01** [5-А. І група. Тема: Укладання пам’ятки найпоширеніших випадків чергування голосних і приголосних звуків](https://drive.google.com/file/d/1qxrv9aEkYLCOJAH-RdpT4MJT0vO4NUPP/view?usp=sharing)  
+**21.01** [5-А. ІІ група. Тема: Укладання пам’ятки найпоширеніших випадків чергування голосних і приголосних звуків](https://drive.google.com/file/d/11SMZd5u79Fr6NZI4UlInFnPxppsJBZcH/view?usp=sharing)  
+**21.01** [5-Б. Тема: Основні випадки чергування у-в, і-й](https://drive.google.com/file/d/1h7qAkjGnBoRX25WFRdNFQeedv7KJMt9d/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -1327,9 +1329,10 @@ export default function DistanceLearning() {
 **14.01** [Добровольська В. Е. Тема: Конспект прочитаного](https://drive.google.com/file/d/154NdIbN6BD-WBUHGmFjPigsPxYweYJFq/view?usp=sharing)  
 **15.01** [Добровольська В. Е. Тема: Конспект прочитаного науково-навчального тексту. Тематичні виписки](https://drive.google.com/file/d/14PXaTBqeKwdUsGIEM6c_MUboLHBOxr9o/view?usp=sharing)  
 **18.01** [Стрембицька Л. А. Тема: Кома між однорідними членами речення](https://drive.google.com/file/d/13OGJK9YVUQcl44r8Bog6KBomQt6uhETd/view?usp=sharing)  
-**18.01** [Добровольська В. Е. І група. 8-А. Тема: Кома  між однорідними членами речення](https://drive.google.com/file/d/1RhlXDCw2Hev75iMHK7CH1OVn8Db-ikB0/view?usp=sharing)  
-**19.01** [Добровольська В. Е. І група. 8-Б. Тема: Речення з кількома рядами однорідних членів](https://drive.google.com/file/d/1ZX0ac6KzptOt5yPXHSsO_thldcTDuuQW/view?usp=sharing)  
+**18.01** [8-А. Добровольська В. Е. І група. Тема: Кома  між однорідними членами речення](https://drive.google.com/file/d/1RhlXDCw2Hev75iMHK7CH1OVn8Db-ikB0/view?usp=sharing)  
+**19.01** [8-Б. Добровольська В. Е. І група. Тема: Речення з кількома рядами однорідних членів](https://drive.google.com/file/d/1ZX0ac6KzptOt5yPXHSsO_thldcTDuuQW/view?usp=sharing)  
 **21.01** [Стрембицька Л. А. Тема: Речення поширені й непоширені. Другорядні члени речення. Означення — другорядний член речення](https://drive.google.com/file/d/1PODdit4j4Ncjzq0EmCV5x1YCbMtvEo2z/view?usp=sharing)  
+**21.01** [8-А. Добровольська В. Е. І група. Тема: Поширені й непоширені однорідні](https://drive.google.com/file/d/1tHkGuzRcogZjGvgtHpt8niLrmTbzXDEx/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1Q8mIXGFf9Qrm1fqus0UoNSE-0gA4qN9q/view?usp=sharing)  
@@ -1337,10 +1340,12 @@ export default function DistanceLearning() {
 **08.12** [Тема: В. Голобородько. Самобутня постать поета в українській літературі. Вірш «з дитинства: дощ» («я вплетений ...»). Вільний вірш](https://drive.google.com/file/d/1kH8xW5IXr5JrcJe5ABKwdTlprQCsOWxf/view?usp=sharing)  
 **11.01** [Тема: І. Малкович «З янголом на плечі», «З нічних молитов»](https://drive.google.com/file/d/1wkMchPjM5IxHFp_Vh0wnVPWkuCv75aFD/view?usp=sharing)  
 **12.01** [Тема: І. Малкович «З янголом на плечі», «З нічних молитов»](https://drive.google.com/file/d/1f3ckGzhIJtucoOuLQZeTF9BbUkw1DmkP/view?usp=sharing)  
-**14.01** [Тема: В. Герасим'юк. «Чоловічий танець». Розмаїття сучасної лірики. Поєднання в поезіях глибинної історичності бачення світу з відчуттям сучасної присутності в ньому](https://drive.google.com/file/d/11wKYjhbQGW1OccgI6-rHs0uIzDYVNfTp/view?usp=sharing)  
+**14.01** [Тема: В. Герасим'юк. «Чоловічий танець». Розмаїття сучасної лірики. Поєднання в поезіях глибинної історичності бачення світу з відчуттям сучасної присутності в ньому](https://drive.google.com/file/d/1S64qQM7_4RcmYWHYCn0UKULXk2hkdje4/view?usp=sharing)  
 **15.01** [Тема: В. Герасим'юк. «Чоловічий танець». Розмаїття сучасної лірики. Поєднання в поезіях глибинної історичності бачення світу з відчуттям сучасної присутності в ньому](https://drive.google.com/file/d/16OHpUS0dsC4mQtEqf4TbOUxwk4qvMN0k/view?usp=sharing)  
 **18.01** [8-Б. Тема: Іван Карпенко-Карий. Життєвий і творчий шлях митця](https://drive.google.com/file/d/1zUdjCBVeILhDjF8t3bxidhibnJUwjUzO/view?usp=sharing)  
 **19.01** [8-А. Тема: Іван Карпенко-Карий. Життєвий і творчий шлях митця](https://drive.google.com/file/d/1NkYpJH0KLdWmXwV87xA0QAIbjKbOsgke/view?usp=sharing)  
+**14.01** [Тема: В. Герасим'юк. «чоловічий танець». Розмаїття сучасної лірики. Поєднання в поезіях глибинної історичності бачення світу з відчуттям сучасної присутності в ньому](https://drive.google.com/file/d/11wKYjhbQGW1OccgI6-rHs0uIzDYVNfTp/view?usp=sharing)  
+**21.01** [Тема: Проблема влади грошей](https://drive.google.com/file/d/1LcCijiJuB4NG1GYhPR3Te9-aQzj5UVDX/view?usp=sharing)  
 
 ** Хімія **  
 **03.12** [Тема: Кількість речовини. Моль – одиниця кількості речовини. Число Авогадро.](https://drive.google.com/file/d/1Xza-GsZgxJa88JxRQB42fENhbGkA2hPj/view?usp=sharing)  
@@ -1643,6 +1648,7 @@ export default function DistanceLearning() {
 **20.01** [Стрембицька Л.А. Тема: Фразеологізми власне українського походження та фразеологічні запозичення з інших мов. Національно-мовний колорит фразеології. Фразеологічні відповідники в різних мовах](https://drive.google.com/file/d/1_HRwch7I3bwosObnWT39PUIbtlSZ_2yt/view?usp=sharing)  
 **20.01** [Добровольська В. Е. Тема: Фразеологізми власне українського походження та фразеологічні запозичення з інших мов. Національно-мовний колорит фразеології. Фразеологічні відповідники в різних мовах](https://drive.google.com/file/d/1f1zoaGVsZTCAHbQteR_Q9wsYZyJCm27o/view?usp=sharing)  
 **21.01** [Стрембицька Л.А. Тема: Фразеологія художнього мовлення, наукова, публіцистична, офіційно-ділова. Фразеологізми з професійної мови](https://drive.google.com/file/d/1097wT6EZOitsO5SiZz_6hOLnc3F-FhHm/view?usp=sharing)  
+**21.01** [Добровольська В. Е. Тема: Фразеологія художнього мовлення, наукова, публіцистична, офіційно-ділова. Фразеологізми з професійної мови](https://drive.google.com/file/d/1MbeEQlIc7gXV9OiGMTTOl2q9xiTxFrox/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
