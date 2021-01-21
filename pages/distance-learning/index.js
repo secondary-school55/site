@@ -68,6 +68,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Дерева, кущі, трав'янисті рослини. Листяні та хвойні рослини](https://drive.google.com/file/d/1m43GaJ8E_aM7IVdiIw1lxFO5EUg534mw/view?usp=sharing)  
 **15.01** [Тема: Дикорослі та культурні рослини](https://drive.google.com/file/d/1ksS6aBxXyeNpD8srp7g1cCROaVf3DhhI/view?usp=sharing)  
 **18.01** [Тема: Значення культурних рослин. Дослідження насіння соняшника](https://drive.google.com/file/d/1-X58UszfFJHtnwB--zZ3vcbGoq-fWSL0/view?usp=sharing)  
+**21.01** [Тема: Різноманітність тварин. Дикі та свійські тварини](https://drive.google.com/file/d/18KtTKyxuhTqXYe5RV1ehC3dPRQajcQBV/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Переставний закон додавання](https://drive.google.com/file/d/1BLi2UtjK2pNwLTdsbZBZQpQnam1ixVsV/view?usp=sharing)  
@@ -77,6 +78,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Додаємо і віднімаємо числа. Обчислення значень виразів двома способами](https://drive.google.com/file/d/1lUk4ycfmRWhwlDHZAwiDlKFlaOWf94lk/view?usp=sharing)  
 **19.01** [Тема: Будуємо відрізки. Вимірювання довжини відрізків лінійкою](https://drive.google.com/file/d/1KkjgsucUJoMlMyK5DcSZIzYGPg8DiBsi/view?usp=sharing)  
 **20.01** [Тема: Вивчаємо вирази на 2 дії](https://drive.google.com/file/d/1taDFJBGU4C4eHjXsMPSRvsS7x40Cz9Jf/view?usp=sharing)  
+**21.01** [Тема: Додаємо і віднімаємо число 3. Обчислення значень виразів двома способами](https://drive.google.com/file/d/10ItmpqbmKm9-ZIImnhMsi-lQIw8R_1wG/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Переглянути відео](https://drive.google.com/file/d/1D2aar6UzW4Tfu4bdRX5yZWNcV_PluYtf/view?usp=sharing)  
@@ -104,6 +106,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Письмо малої букви г](https://drive.google.com/file/d/1JDTgSjJ7Lk1aRkyT1gekTPxdXArf6-th/view?usp=sharing)  
 **19.01** [Тема: Письмо великої букви г](https://drive.google.com/file/d/1UbpofOTWPt3elNGPSdajQXCMZVQlazGy/view?usp=sharing)  
 **20.01** [Тема: Письмо малої букви ж](https://drive.google.com/file/d/1bQpu90F1j7sZ-34TCHmQqqA0NYB2vsBe/view?usp=sharing)  
+**21.01** [Тема: Письмо великої букви Ж](https://drive.google.com/file/d/11Feun46chRNuRl99M35kX9NTefIgk9A-/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Руханка](https://drive.google.com/file/d/1L4Jc2b_n8nGf6CHFQ-VBJToOsyLZUVwj/view?usp=sharing)  
@@ -113,6 +116,7 @@ export default function DistanceLearning() {
 
 ** Дизайн і технології **  
 **14.01** [Тема: Розумна сова](https://drive.google.com/file/d/1Ja33glOd8DLO8tlF8InGD6-KL2jBX0Fp/view?usp=sharing)  
+**21.01** [Тема: Леопардик і Тигрик. Робота з папером](https://drive.google.com/file/d/1JxkYpTcv9YJUsRopBOfmwj2ueWveSaN0/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **12.01** [Тема: Мандри Країною Мистецтв. Цирк](https://drive.google.com/file/d/15CcPLCvh63NS8X-dK6GCR1gH4bDpAgmT/view?usp=sharing)  
@@ -574,6 +578,7 @@ export default function DistanceLearning() {
 **15.01** [Презентація. Тема: Записую власні назви з великої букви](https://drive.google.com/file/d/13t6mxKQZxTPnwT1UHdiu_mA2W0DPubG1/view?usp=sharing)  
 **18.01** [Тема: Розвиток зв'язного мовлення. Складання розповіді про враження від свята. Тема для спілкування: "Як я святкував/святкувала Новий Рік"](https://drive.google.com/file/d/1zmligS8SxUSVuS4x24AwfBRhzOpdZIZn/view?usp=drive_web)  
 **20.01** [Тема: Розпізнавання іменників, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1nl1U36BbNzglDGNhfnP72PB5A2Yv2nWy/view?usp=sharing)  
+**20.01** [Презентація. Тема: Розпізнавання іменників, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1iJzXvBNLmAX-GAVr9ZJ75Wwuzgv8OH61/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
@@ -612,6 +617,7 @@ export default function DistanceLearning() {
 **19.01** [Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус), Український лицар.  (Ч.2, с.85-86)](https://drive.google.com/file/d/1hfK9M01dhYqV8vqmtWhjTHjyRNuM3Vt9/view?usp=sharing)  
 **19.01** [Презентація. Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус), Український лицар.  (Ч.2, с.85-86)](https://drive.google.com/file/d/1ksi4d18yPLVOMTwGhEhI4Ln2ZBc9edWt/view?usp=sharing)  
 **20.01** [Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/1dsfXYgPaCyTkTRtMCMuoLllRqyxSEYzI/view?usp=sharing)  
+**20.01** [Презентація. Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/1aOv9HuKnI3zTSXV8ywpb7OnnZkG-dXEi/view?usp=sharing)  
 
 ** Англійська мова **  
 **11.01** [Тема: Мандрівка у великий будинок](https://drive.google.com/file/d/1mDmTRC20f27VBAhPwomQs6pzHS9MPezV/view?usp=sharing)  
@@ -929,6 +935,8 @@ export default function DistanceLearning() {
 **19.01** [5-А. І група. Тема: День Подяки](https://drive.google.com/file/d/1IcDNUvL8b1VxABjMjkKovilFQLVCvbjc/view?usp=sharing)  
 **19.01** [5-Б. Тема: Свята в Україні](https://drive.google.com/file/d/1lljaYkdWxL3XSxXo_3VfZs7StvBP12_T/view?usp=sharing)  
 **19.01** [5-А. ІІ група. Тема: День Подяки](https://drive.google.com/file/d/1xsd82vdTLFo2vD1rPmzY4-exgcXujNPv/view?usp=sharing)  
+**21.01** [5-А. ІІ група. Тема: День Подяки. Повторення Друзі по листуванню](https://drive.google.com/file/d/1v8uuOBRtoYraYy7d78NLLs0gD4ID7Mba/view?usp=sharing)  
+**21.01** [Презентація. Тема: Тo be в минулому часі](https://drive.google.com/file/d/13LvuuA6bRCjXdjSg0kACklI7fFF784KB/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -1043,6 +1051,7 @@ export default function DistanceLearning() {
 **15.01** [6-А. Тема: Солодощі](https://drive.google.com/file/d/1xyXWBeFktq2LscZoQClkpzd_AYCUQk_w/view?usp=sharing)  
 **18.01** [Тема: Улюблені страви](https://drive.google.com/file/d/1UnmqixQKKt683aPbFrY8ZTjrSjl29p3S/view?usp=sharing)  
 **20.01** [Тема: Улюблені страви моєї родини. Повторення, Уподобання моїх друзів](https://drive.google.com/file/d/1Tizxr9J10TNGhllL8TnNCAet3jSeTg7O/view?usp=sharing)  
+**21.01** [Презентація. Тема: The Future Simple Tense (простий майбутній час)](https://drive.google.com/file/d/15T5P90_VFyvMBfld89LoosAuWc6tmI6o/view?usp=sharing)  
 
 ** Трудове навчання **  
 **11.01** [Тема: Правила БЖД та ОП Короткі історичні відомості про розвиток мистецтва штучних декоративних квітів. Види декоративних квітів](https://drive.google.com/file/d/16YUkvI89A0BiQETZdytpt_jrfWkzfgT8/view?usp=sharing)  
@@ -1084,6 +1093,7 @@ export default function DistanceLearning() {
 **14.01** [6-А,Б,В. Тема: А.П.Чехов Товстий і тонкий](https://drive.google.com/file/d/1RpnTytzDvTUDxd-fOmTv0_p9DSV4fNE6/view?usp=sharing)  
 **18.01** [6-А. Тема: Викриття пристосуванства, підлабузництва в оповіданнях А.П. Чехова. Діалог як основна форма розкриття сюжету](https://drive.google.com/file/d/19mtPuXVlE9fmhJdQOKjWh5WKMFc2xdm8/view?usp=sharing)  
 **19.01** [6-Б,В. Тема: Викриття пристосуванства, підлабузництва в оповіданнях А.П. Чехова. Діалог як основна форма розкриття сюжету](https://drive.google.com/file/d/16lj3yh1wT32FaNg6l52P6Y-oW7RyiuVv/view?usp=sharing)  
+**21.01** [6-А,Б,В. Тема: Майстерність письменника у змалюванні персонажів. Роль художньої деталі. Підтекст. Символічність назви](https://drive.google.com/file/d/1nCm4LqXnRliAl4vBfJUkOoDwUoNKMMuB/view?usp=sharing)  
 
 ** Російська мова **  
 **13.01** [6-А. Тема: Правописание не с глаголами. Правописание -тся, -ться на конце глаголов](https://drive.google.com/file/d/1HvuduB6zBZNOhSh61W8TlOppA2vsTaC8/view?usp=sharing)  
@@ -1138,6 +1148,8 @@ export default function DistanceLearning() {
 **20.01** [7-А. ІІ група. Тема: Міжнародні спортивні події](https://drive.google.com/file/d/1OSIJkAJJSfKBGWBzqzOBG2eRsfCBRh1R/view?usp=sharing)  
 **20.01** [7-А. ІІ група. Презентація](https://drive.google.com/file/d/1qB9k8e5H9yk0p5GJzQQ3_ThVliba6Ae5/view?usp=sharing)  
 **20.01** [7-Б. Тема: Сучасні міжнародні спортивні події](https://drive.google.com/file/d/1M9gydlbh_RNqye0DmBiwrLP8F85JiTVX/view?usp=sharing)  
+**21.01** [7-А. І група. Тема: Вступ до спортивного клубу](https://drive.google.com/file/d/1O9pC-bxymsVEVHFQVbYVs4iGSAY9mWZs/view?usp=sharing)  
+**21.01** [7-Б. Тема: Вступ до спортивного клубу](https://drive.google.com/file/d/1HlRXQ3djWZQjs6I_ylpPaV8sXDZjz6lI/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Створення моделей для розв’язування задач](https://drive.google.com/file/d/129xZiYVeZFgltMSzdCWdQEco6wnXtbuw/view?usp=drive_web)  
