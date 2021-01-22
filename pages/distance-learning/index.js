@@ -702,6 +702,7 @@ export default function DistanceLearning() {
 **20.01** [І група. Тема: Хто мешкає у цьому будинку](https://drive.google.com/file/d/1cRc4x_5ZaT0r_43Oxbm7sFZEZAPT575_/view?usp=sharing)  
 **20.01** [ІІ група. Тема: Хто мешкає зі мною. Мій дім](https://drive.google.com/file/d/1ZT1iit3p8WJ_fFbhOVWej2PAnOiaDM7U/view?usp=sharing)  
 **22.01** [І група. Тема: Завітаймо в готель Брайтон](https://drive.google.com/file/d/1repJa8ftszp6aBWS6KuM9W-NDrUIAx0s/view?usp=sharing)  
+**22.01** [ІІ група. Тема: Завітаймо в готель Брайтон](https://drive.google.com/file/d/15JLV_ICO3w9VZVRwMSChftRGEpb_pt2v/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
@@ -1202,6 +1203,7 @@ export default function DistanceLearning() {
 **15.01** [6-А,Б. Тема: Утворення імперії Александра Македонського](https://drive.google.com/file/d/1xJS1EfDK-cVx6iPd0trFf4hQj54itOpj/view?usp=sharing)  
 **20.01** [6-А,Б. Тема: Александр Македонський](https://drive.google.com/file/d/1_rDtdlkQjFDjeeqKKU-yds6DA0s-2_VM/view?usp=sharing)  
 **20.01** [6-В. Тема: Александр Македонський](https://drive.google.com/file/d/1_rDtdlkQjFDjeeqKKU-yds6DA0s-2_VM/view?usp=sharing)  
+**22.01** [6-А,Б. Тема: Елліністичні держави. Культура елліністичної доби](https://drive.google.com/file/d/10eb54TjLDnVCip8z25Qvw5nYE0-EcGue/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **13.01** [Тема: Види рішень](https://drive.google.com/file/d/1Ic241cRLf0OHQiJDlEFwiHeGkWpJTBc9/view?usp=sharing)  
@@ -1223,6 +1225,7 @@ export default function DistanceLearning() {
 **13.01** [6-А. Тема: Правописание не с глаголами. Правописание -тся, -ться на конце глаголов](https://drive.google.com/file/d/1HvuduB6zBZNOhSh61W8TlOppA2vsTaC8/view?usp=sharing)  
 **15.01** [6-Б,В. Тема: Правописание не с глаголами. Правописание -тся, -ться на конце глаголов](https://drive.google.com/file/d/1HvuduB6zBZNOhSh61W8TlOppA2vsTaC8/view?usp=sharing)  
 **20.01** [6-А. Тема: Наиболее употребительные предлоги. Союзы](https://drive.google.com/file/d/11imYKN0XAlRW4k2-cfoyFE6nSCAzhlkp/view?usp=sharing)  
+**22.01** [6-Б,В. Тема: Наиболее Употребительные предлоги. Союзы](https://drive.google.com/file/d/1RiS8M8ri6DputibpwC3u0q7iR55Ebwv6/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="7 клас">
@@ -1356,6 +1359,7 @@ export default function DistanceLearning() {
 **15.01** [7-А,Б. Тема: Олександр Грін. Пурпурові вітрила. Поєднання реального і фантастичного в повісті](https://drive.google.com/file/d/1z_IXKzjO-Q4Sjp72qSTGPz6yZ9Oj3yrL/view?usp=sharing)  
 **18.01** [7-Б. Тема: Пурпурові вітрила. Основний конфлікт твору](https://drive.google.com/file/d/1HMKzaHlgHsNKKyv9X7M-KvIDUjD9DRmi/view?usp=sharing)  
 **19.01** [7-А. Тема: О.Грін. "Пурпурові вітрила". Основний конфлікт твору](https://drive.google.com/file/d/18RhX0DpSPyTsjagFjiTCjP2EviV0q7pA/view?usp=sharing)  
+**22.01** [7-А,Б. Тема: Ассоль і Грей](https://drive.google.com/file/d/1KZ2BIwhwj90pfLn8JQYXa5BiiW-YaDkd/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1LYMqo8lKOm-bCK_MHTKKwk0WLaRKPTEK/view?usp=sharing)  
@@ -1649,6 +1653,7 @@ export default function DistanceLearning() {
 **20.01** [9-А. Тема: Техніка та тактика гри в баскетбол (передача і ловіння м’яча у русі; ведення м’яча зі зміною швидкості, напрямку та висоти відскоку м’яча)](https://drive.google.com/file/d/1O5nQqGtxrU6uf7dKkKMKElrKI4mD2pY9/view?usp=sharing)  
 **22.01** [9-Б. Тема: Урок фізичної культури №3](https://drive.google.com/file/d/1Q95O5I_-GneOngocjiLD7NA1MFq3cZN3/view?usp=sharing)  
 **22.01** [9-А. Тема: Теорія. Урок розвитку фізичних якостей, використовуючи спортивні та рухливі ігри або урок повторення пройденого матеріалу в ігровій формі](https://drive.google.com/file/d/1r-jy_IFgB3ajYrjRxuxljOyPevHzb_jF/view?usp=sharing)  
+**22.01** [Тема: Йонізаційна дія радіоактивного випромінювання](https://drive.google.com/file/d/1W0oauZiXzQjsRdIs8QryI3at36am1mKL/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Розроблення програми. Виконання арифметичних обчислень. Уведення, виконання й налагодження програм](https://drive.google.com/file/d/1dpekkJgkf59EosU2y6jtD_cr9PnqzdpZ/view?usp=drive_web)  
