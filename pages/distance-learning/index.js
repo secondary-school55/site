@@ -69,6 +69,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Дикорослі та культурні рослини](https://drive.google.com/file/d/1ksS6aBxXyeNpD8srp7g1cCROaVf3DhhI/view?usp=sharing)  
 **18.01** [Тема: Значення культурних рослин. Дослідження насіння соняшника](https://drive.google.com/file/d/1-X58UszfFJHtnwB--zZ3vcbGoq-fWSL0/view?usp=sharing)  
 **21.01** [Тема: Різноманітність тварин. Дикі та свійські тварини](https://drive.google.com/file/d/18KtTKyxuhTqXYe5RV1ehC3dPRQajcQBV/view?usp=sharing)  
+**22.01** [Тема: Я досліджую світ Комахи](https://drive.google.com/file/d/1Es5iQGJ2kcgJ6qPBzgWoVWlxq8wopY-H/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Переставний закон додавання](https://drive.google.com/file/d/1BLi2UtjK2pNwLTdsbZBZQpQnam1ixVsV/view?usp=sharing)  
@@ -79,6 +80,7 @@ export default function DistanceLearning() {
 **19.01** [Тема: Будуємо відрізки. Вимірювання довжини відрізків лінійкою](https://drive.google.com/file/d/1KkjgsucUJoMlMyK5DcSZIzYGPg8DiBsi/view?usp=sharing)  
 **20.01** [Тема: Вивчаємо вирази на 2 дії](https://drive.google.com/file/d/1taDFJBGU4C4eHjXsMPSRvsS7x40Cz9Jf/view?usp=sharing)  
 **21.01** [Тема: Додаємо і віднімаємо число 3. Обчислення значень виразів двома способами](https://drive.google.com/file/d/10ItmpqbmKm9-ZIImnhMsi-lQIw8R_1wG/view?usp=sharing)  
+**22.01** [Тема: Досліджуємо таблиці додавання і віднімання числа 3](https://drive.google.com/file/d/1kVovTr8bKw3H9cMIsxH474Hd-jWvOKBH/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Переглянути відео](https://drive.google.com/file/d/1D2aar6UzW4Tfu4bdRX5yZWNcV_PluYtf/view?usp=sharing)  
@@ -114,6 +116,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Home Workout](https://drive.google.com/file/d/12zgnhoZ-Yxfez8Ih5vqLk-uVHlUvZcS8/view?usp=sharing)  
 **19.01** [Тема: Руханка](https://drive.google.com/file/d/1UtEaGYrew7Fi1WZ6vQkFFsJcb32tOJA6/view?usp=sharing)  
 **20.01** [Тема: Руханка](https://drive.google.com/file/d/1B4FV3dddyGDmFww2dIRHpKDBR7q8D5fP/view?usp=sharing)  
+**22.01** [Тема: Руханка](https://drive.google.com/file/d/1Zf3EbNJglB0P1BjhIGFDLNOAs_mjP7KV/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Розумна сова](https://drive.google.com/file/d/1Ja33glOd8DLO8tlF8InGD6-KL2jBX0Fp/view?usp=sharing)  
@@ -516,6 +519,8 @@ export default function DistanceLearning() {
 **20.01** [Тема: Письмове додавання трицифрових чисел, коли сума одиниць дорівнює 10 або сума десятків дорівнює](https://drive.google.com/file/d/1rwhM_rmDUHc6ScD4DfDaWi84Uza7_WGQ/view?usp=sharing)  
 **20.01** [Презентація. Тема: Письмове додавання трицифрових чисел, коли сума одиниць дорівнює 10 або сума десятків дорівнює](https://drive.google.com/file/d/1xRBv_2D_EjvORLwOukYmFVGQ7fs6AR2X/view?usp=sharing)  
 **21.01** [Тема: Письмове віднімання трицифрових чисел, коли в запису зменшуваного є нуль. (№88-98)](https://drive.google.com/file/d/1DFZabMu2ftw7NlMVUyZKnDO5nwWC784P/view?usp=sharing)  
+**22.01** [Тема: Письмове додавання трицифрових чисел, коли сума одиниць більша за 10 одиниць або сума десятків більша за 10 десятків. (№99-108)](https://drive.google.com/file/d/1rJ4z76E60KpvozoV8zctdSnLBXlOFFFi/view?usp=sharing)  
+**22.01** [Презентація. Тема: Письмове додавання трицифрових чисел, коли сума одиниць більша за 10 одиниць або сума десятків більша за 10 десятків. (№99-108)](https://drive.google.com/file/d/1uRu_jGrQKn4Ilgu8ekWLjq7B6mM-o0BK/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1CbxkNJHRP-O8TfHLE4mA0__Mu-56Ovd3/view?usp=sharing)  
@@ -536,6 +541,7 @@ export default function DistanceLearning() {
 **21.01** [ІІ група. Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/1ycTZMmzcT1VePzFS5gZLecsKzVGiAmX9/view?usp=sharing)  
 **21.01** [ІІ група. Презентація. Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/14Jw0uvRHkjuYmoapJ6kHOvfxA6BDMQ2W/view?usp=sharing)  
 **21.01** [І група. Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/11Zt5dSQUfTN6QNCF9IocPy1u2AsPdtiy/view?usp=sharing)  
+**22.01** [І група. Тема: Змінювання іменників за числами. Пошук інформації в буклеті. Написання розгорнутої відповіді на запитання. (с.88-89)](https://drive.google.com/file/d/1hrPSvw_4ZXPHvruAfkpIj7UcMeH_JYfP/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -564,6 +570,7 @@ export default function DistanceLearning() {
 **20.01** [ІІ група. Тема: Хто мешкає у будинку](https://drive.google.com/file/d/13MILXeLUcz6v4WBMc5MGfYlOFSA1hk1W/view?usp=sharing)  
 **20.01** [ІІ група. Аудіозапис: U05.L05.Ex01](https://drive.google.com/file/d/17Av1Q2vFlUsKFbMAjAvSNIm-4cJJJ_A2/view?usp=sharing)  
 **22.01** [ІІ група. Тема: Завітаємо в готель Брайтон](https://drive.google.com/file/d/1S929SeiWP8SphZM0cPR3M4r4odZfUrsH/view?usp=sharing)  
+**22.01** [І група. Тема: Завітаємо в готель Брайтон](https://drive.google.com/file/d/1NXEu685XVRyQPZo67w1k2TjeYuX9N-tq/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
@@ -580,6 +587,7 @@ export default function DistanceLearning() {
 **21.01** [ІІ група. Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/1jcTFUn7Y0OJZeq3aspL0G9wDX4teHqSG/view?usp=sharing)  
 **21.01** [І група. Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/1-Sosy2_sgbxXvLIwBkfXr5a0MDUnAXwL/view?usp=sharing)  
 **21.01** [І група. Презентація. Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/10Gz5OeYAiNdJlY9knJF88T9p5ZYSjt7V/view?usp=sharing)  
+**22.01** [І група. Тема: Народні умільці. Н.Олійник ,,Гончарики з Опішного,,. Загадка-добавлянка (Ч.2, с.88-90)](https://drive.google.com/file/d/1doZMKRHZfHgq5n96rRCURaiySedgodsu/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -588,6 +596,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Правила безпеки на заняттях. Організовуючі і загально розвивальні вправи. Комплекс вправ ранкової гімнастики. Різновиди ходьби, бігу. Вправи для розвитку сили. Рухлива гра](https://drive.google.com/file/d/1jZCjQak44c_UXXylkPTreJjxtytl-Gae/view?usp=sharing)  
 **18.01** [Тема: Правила рухливих ігор та безпеки на уроках фізичної культури та під час самостійних занять фізичними вправами. Організовуючі вправи, ЗРВ. Різновиди ходьби. Різновиди бігу. Рухлива гра.](https://drive.google.com/file/d/1rEuBGivVyzOl3-e3eDEDAOzTwNtMasXT/view?usp=drive_web)  
 **19.01** [Тема: Руховий режим молодшого школяра та його вплив на формування правильної постави](https://drive.google.com/file/d/1pFgNh7_07QJcNU4QOXi9EjPFDMNRjYVU/view?usp=sharing)  
+**22.01** [Тема: Дихання під час виконання фізичних вправ. Організовуючі вправи, ЗРВ. Різновиди ходьби. Різновиди бігу. Рухлива гра](https://drive.google.com/file/d/1xi9Dbd7rjWTTDexWTE3lwLg_RkA0_ygb/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **11.01** [Тема: Композицiя "Полiт Карлсона над мiстом"](https://drive.google.com/file/d/1dhQA_ZrWUo6aZiE1XqG-YzOCjyXhezeo/view?usp=sharing)  
@@ -636,6 +645,7 @@ export default function DistanceLearning() {
 **20.01** [Презентація. Тема: Розпізнавання іменників, які утворилися від дієслів і прикметників](https://drive.google.com/file/d/1iJzXvBNLmAX-GAVr9ZJ75Wwuzgv8OH61/view?usp=sharing)  
 **21.01** [Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/1vTcQWg1rXohFzHNAnboPPWTEWxLDLQLZ/view?usp=sharing)  
 **21.01** [Презентація. Тема: Визначення роду іменників](https://drive.google.com/file/d/1yUNsXKtEHOkKiz0Z8dJW5d0AvK1wUUDc/view?usp=sharing)  
+**22.01** [Тема: Змінювання іменників за числами. Пошук інформації в буклеті. Написання розгорнутої відповіді на запитання. (с.88-89)](https://drive.google.com/file/d/1kPJBO13Oov0VC6vSruFq0vRD-o5bJpys/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
@@ -656,6 +666,8 @@ export default function DistanceLearning() {
 **20.01** [Презентація. Тема: Письмове додавання трицифрових чисел, коли сума одиниць дорівнює 10 або сума десятків дорівнює](https://drive.google.com/file/d/1za2HeZme7UZhSj1R8wkBqwDKbzJJf3Md/view?usp=sharing)  
 **21.01** [Тема: Письмове віднімання трицифрових чисел, коли в запису зменшуваного є нуль. (№88-98)](https://drive.google.com/file/d/166pefQbwPnN8DM5PeYROAs5480T5XnjE/view?usp=sharing)  
 **21.01** [Презентація. Тема: Письмове віднімання трицифрових чисел, коли в запису зменшуваного є нуль. (№88-98)](https://drive.google.com/file/d/1dF5reZGjhm56Ek4SsmjURcBuLmk6fnKb/view?usp=sharing)  
+**22.01** [Тема: Письмове додавання трицифрових чисел, коли сума одиниць більша за 10 одиниць або сума десятків більша за 10 десятків. (№99-108)](https://drive.google.com/file/d/1eZhYflWZrQGCVSJ2gDh5oM-WUa9fkwWS/view?usp=sharing)  
+**22.01** [Презентація. Тема: Письмове додавання трицифрових чисел, коли сума одиниць більша за 10 одиниць або сума десятків більша за 10 десятків. (№99-108)](https://drive.google.com/file/d/1N5HtrW_RlUA7O1aDpTWr-V_-D-AcAVBc/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -664,6 +676,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Правила безпеки на заняттях. Організовуючі і загально розвивальні вправи.  Комплекс вправ ранкової гімнастики. Різновиди ходьби, бігу. Вправи для розвитку сили. Рухлива гра](https://drive.google.com/file/d/1jZCjQak44c_UXXylkPTreJjxtytl-Gae/view?usp=sharing)  
 **18.01** [Тема: Правила рухливих ігор та безпеки на уроках фізичної культури та під час самостійних занять фізичними вправами. Організовуючі вправи, ЗРВ. Різновиди ходьби. Різновиди бігу. Рухлива гра.](https://drive.google.com/file/d/1Vj2BvAtov4A-dF3EfzWPPKsNRHw9Cesi/view?usp=drive_web)  
 **19.01** [Тема: Руховий режим молодшого школяра та його вплив на формування правильної постави](https://drive.google.com/file/d/1di93Ywq816VHfbQZfrEpPAnK7kWW6Wcu/view?usp=sharing)  
+**22.01** [Тема: Дихання під час виконання фізичних вправ. Організовуючі вправи, ЗРВ. Різновиди ходьби. Різновиди бігу. Рухлива гра](https://drive.google.com/file/d/12VF3nGK63xyQAYzj3OYfWlr7j2o4MTQn/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
@@ -677,6 +690,7 @@ export default function DistanceLearning() {
 **19.01** [Презентація. Тема: Шевченко завжди житиме серед нас. Т. Щербаченко (Стус), Український лицар.  (Ч.2, с.85-86)](https://drive.google.com/file/d/1ksi4d18yPLVOMTwGhEhI4Ln2ZBc9edWt/view?usp=sharing)  
 **20.01** [Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/1dsfXYgPaCyTkTRtMCMuoLllRqyxSEYzI/view?usp=sharing)  
 **20.01** [Презентація. Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/1aOv9HuKnI3zTSXV8ywpb7OnnZkG-dXEi/view?usp=sharing)  
+**22.01** [Тема: Народні умільці. Н.Олійник, Гончарики з Опішного. Загадка-добавлянка (Ч.2, с.88-90)](https://drive.google.com/file/d/1N2VOvtOoL-kc_xIWl62oq_N_72Qiywgf/view?usp=sharing)  
 
 ** Англійська мова **  
 **11.01** [Тема: Мандрівка у великий будинок](https://drive.google.com/file/d/1mDmTRC20f27VBAhPwomQs6pzHS9MPezV/view?usp=sharing)  
@@ -686,6 +700,7 @@ export default function DistanceLearning() {
 **18.01** [ІІ група. Тема: Home, sweet home](https://drive.google.com/file/d/1bEz6df9yTf-tKbnPfuyv1HTL9pbxOyuK/view?usp=sharing)  
 **20.01** [І група. Тема: Хто мешкає у цьому будинку](https://drive.google.com/file/d/1cRc4x_5ZaT0r_43Oxbm7sFZEZAPT575_/view?usp=sharing)  
 **20.01** [ІІ група. Тема: Хто мешкає зі мною. Мій дім](https://drive.google.com/file/d/1ZT1iit3p8WJ_fFbhOVWej2PAnOiaDM7U/view?usp=sharing)  
+**22.01** [І група. Тема: Завітаймо в готель Брайтон](https://drive.google.com/file/d/1repJa8ftszp6aBWS6KuM9W-NDrUIAx0s/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
@@ -945,6 +960,7 @@ export default function DistanceLearning() {
 **18.01** [5-Б. Тема: Місяць – супутник Землі. Сонячні та місячні затемнення](https://drive.google.com/file/d/1pVVUC3ISxMSobRqYdl59f_NzW7waFaP7/view?usp=sharing)  
 **19.01** [5-А. Тема: Місяць - супутник Землі](https://drive.google.com/file/d/1A9VpeqXXv2LFZ0Ixqvj12_ZQMnnisgUR/view?usp=sharing)  
 **21.01** [5-Б. Тема: Способи зображення Землі](https://drive.google.com/file/d/13_mKEu1vupF1PsqR9rVwSLd570HKjUSA/view?usp=sharing)  
+**22.01** [5-А. Тема: Способи зображення землі](https://drive.google.com/file/d/1Lo6BZR__i1lahcxrnb2xexgdr-RW8jMC/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
@@ -1272,6 +1288,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Живлення і травлення](https://drive.google.com/file/d/1p12j3GV8HdauDarVJmqtLZYzNj6msmaG/view?usp=sharing)  
 **15.01** [Тема: Дихання та газообмін. Органи дихання](https://drive.google.com/file/d/1O6M_gAPyeNZwHWr1GoQAuIEJmLwk9Iu3/view?usp=sharing)  
 **19.01** [Тема: Транспорт речовин у тварин](https://drive.google.com/file/d/1Avhx4pqT0479ipcy012hA7N7U5dfuRhl/view?usp=sharing)  
+**22.01** [Тема: Замкнена та незамкнена кровоносна система](https://drive.google.com/file/d/1ZeHKRTqVl2JC8UjNiU7I61o1j2ikdeNF/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **04.12** [Тема: Показники фізичного розвитку підлітків. Способи покращення фізичної форми](https://drive.google.com/file/d/1RLib8JRvGgB4ChCpFRIzK3r3e9lClYCL/view?usp=sharing)  
@@ -1375,6 +1392,7 @@ export default function DistanceLearning() {
 **19.01** [8-Б. Добровольська В. Е. І група. Тема: Речення з кількома рядами однорідних членів](https://drive.google.com/file/d/1ZX0ac6KzptOt5yPXHSsO_thldcTDuuQW/view?usp=sharing)  
 **21.01** [Стрембицька Л. А. Тема: Речення поширені й непоширені. Другорядні члени речення. Означення — другорядний член речення](https://drive.google.com/file/d/1PODdit4j4Ncjzq0EmCV5x1YCbMtvEo2z/view?usp=sharing)  
 **21.01** [8-А. Добровольська В. Е. І група. Тема: Поширені й непоширені однорідні](https://drive.google.com/file/d/1tHkGuzRcogZjGvgtHpt8niLrmTbzXDEx/view?usp=sharing)  
+**22.01** [8-Б. Добровольська В. Е. Тема: Поширені й непоширені однорідні](https://drive.google.com/file/d/1C0hlOPeDLnGF_b72XUaXm_hjVG3GNtzr/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1Q8mIXGFf9Qrm1fqus0UoNSE-0gA4qN9q/view?usp=sharing)  
@@ -1388,6 +1406,7 @@ export default function DistanceLearning() {
 **19.01** [8-А. Тема: Іван Карпенко-Карий. Життєвий і творчий шлях митця](https://drive.google.com/file/d/1NkYpJH0KLdWmXwV87xA0QAIbjKbOsgke/view?usp=sharing)  
 **14.01** [Тема: В. Герасим'юк. «чоловічий танець». Розмаїття сучасної лірики. Поєднання в поезіях глибинної історичності бачення світу з відчуттям сучасної присутності в ньому](https://drive.google.com/file/d/11wKYjhbQGW1OccgI6-rHs0uIzDYVNfTp/view?usp=sharing)  
 **21.01** [Тема: Проблема влади грошей](https://drive.google.com/file/d/1LcCijiJuB4NG1GYhPR3Te9-aQzj5UVDX/view?usp=sharing)  
+**22.01** [8-А. Тема: Проблема влади грошей](https://drive.google.com/file/d/1s9NuPeFqDgvAx6ncELK8FgoA7qtRrELu/view?usp=sharing)  
 
 ** Хімія **  
 **03.12** [Тема: Кількість речовини. Моль – одиниця кількості речовини. Число Авогадро.](https://drive.google.com/file/d/1Xza-GsZgxJa88JxRQB42fENhbGkA2hPj/view?usp=sharing)  
@@ -1464,6 +1483,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Еритроцити. Групи крові. Правила переливання крові](https://drive.google.com/file/d/1ttuNGyNu7XmVYVPYm4ERtRxs7BloGj8d/view?usp=sharing)  
 **15.01** [Тема: Лейкоцити. Тромбоцити. Зсідання крові](https://drive.google.com/file/d/14dSe9B4kHL7jXkF-YKdAqNlBRxt96_AS/view?usp=sharing)  
 **18.01** [Тема: Серце. Будова та функції](https://drive.google.com/file/d/18629rXuuW03MR3KVg8gsiL02Jld7KDcu/view?usp=sharing)  
+**22.01** [Тема: Робота серця](https://drive.google.com/file/d/1vRnSm3B5ixYZ5hvde3-b-RoLHRqnfNcM/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Становлення особистості](https://drive.google.com/file/d/1XiqqH2rvbGD9PSbehbUFOjgN9d6ssUI8/view?usp=sharing)  
@@ -1596,6 +1616,7 @@ export default function DistanceLearning() {
 **15.01** [9-А. Тема: Поет-романтик П. Гулак-Артемовський. Коротко про письменника. Балада «Рибалка»](https://drive.google.com/file/d/1jhsOB11YGUCQh6C8Oxh49GemkdAR3NAT/view?usp=sharing)  
 **19.01** [Тема: Євген Гребінка. Висока оцінка І. Франком байкарської майстерності Гребінки. Вірш «Човен»](https://drive.google.com/file/d/1E3rC2ZVSrYFvyIWnVti8H_dltF1Rj8zK/view?usp=sharing)  
 **19.01** [Тема: Євген Гребінка «Ведмежий суд», «Човен»](https://drive.google.com/file/d/11ps9Z2TU5yvz-TU9aOMYxKpCd8CHnMsB/view?usp=sharing)  
+**22.01** [9-А. Тема: Микола Гоголь. Творчість М. Гоголя, уродженця України, місце його творчості на порубіжжі культур двох народів. Вираження глибини національного духу у творах прозаїка та драматурга, українська історія та фольклор як їх джерело. Повість «Тарас Бульба. Сюжет твору](https://drive.google.com/file/d/1LCpsRXwRUtvdKs8C-1CW97BYn_llx73K/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [9-А. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/10ODZR-UG7C9YAJv3bPb-eKqe7kwsjJA4/view?usp=sharing)  
@@ -1629,6 +1650,7 @@ export default function DistanceLearning() {
 **19.01** [9-А. Тема: Поділ клітини](https://drive.google.com/file/d/1iCMwRs27S5p25ZKNX7t-zVU9jRySgti4/view?usp=sharing)  
 **20.01** [9-А. Тема: Мейоз](https://drive.google.com/file/d/1TMdyIJV-B-zceJiZyTmTVX_MutNWcJx-/view?usp=sharing)  
 **20.01** [9-Б. Тема: Поділ клітини](https://drive.google.com/file/d/1lhuNTrGDFdYfKsINzAS6JT55RIbgwsRE/view?usp=sharing)  
+**22.01** [9-Б. Тема: Мейоз](https://drive.google.com/file/d/1np9PfnwUiZatPH0cuf92BffC-vRZhJA1/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Усний твір-роздум у публіцистичному стилі мовлення на суспільну тему](https://drive.google.com/file/d/1B1Pj9K4LkO41bylzM2_PTvUpGMqRtovG/view?usp=sharing)  
@@ -1697,6 +1719,7 @@ export default function DistanceLearning() {
 **20.01** [Добровольська В. Е. Тема: Фразеологізми власне українського походження та фразеологічні запозичення з інших мов. Національно-мовний колорит фразеології. Фразеологічні відповідники в різних мовах](https://drive.google.com/file/d/1f1zoaGVsZTCAHbQteR_Q9wsYZyJCm27o/view?usp=sharing)  
 **21.01** [Стрембицька Л.А. Тема: Фразеологія художнього мовлення, наукова, публіцистична, офіційно-ділова. Фразеологізми з професійної мови](https://drive.google.com/file/d/1097wT6EZOitsO5SiZz_6hOLnc3F-FhHm/view?usp=sharing)  
 **21.01** [Добровольська В. Е. Тема: Фразеологія художнього мовлення, наукова, публіцистична, офіційно-ділова. Фразеологізми з професійної мови](https://drive.google.com/file/d/1MbeEQlIc7gXV9OiGMTTOl2q9xiTxFrox/view?usp=sharing)  
+**22.01** [Добровольська В. Е. Тема: РМ Фонетичні, інтонаційні, лексичні... особливості розмовного жанру](https://drive.google.com/file/d/1_UVzwHexCcWXLMc7hobrRDX6_lN0sHTe/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
