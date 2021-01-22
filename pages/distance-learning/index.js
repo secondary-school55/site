@@ -212,7 +212,7 @@ export default function DistanceLearning() {
 **08.12** [Тема: Казкові пригоди](https://drive.google.com/file/d/1MdrGUQErQR9z4-v2mhl98pkNzoyjjcTv/view?usp=sharing)  
 **12.01** [Тема: Музика розповідає про людину](https://drive.google.com/file/d/1IDBGPlGC99GoOMpWx7NFZ-nsH4QRmR2H/view?usp=sharing)  
 **13.01** [Тема: Музика розповідає про людину](https://drive.google.com/file/d/1IDBGPlGC99GoOMpWx7NFZ-nsH4QRmR2H/view?usp=sharing)  
-**20.01** [Тема: У країні мультфільмів2](https://drive.google.com/file/d/17doh0Zk97XOd_smp8jkZ5BOhOay7FMFC/view?usp=sharing)  
+**20.01** [Тема: У країні мультфільмів](https://drive.google.com/file/d/17doh0Zk97XOd_smp8jkZ5BOhOay7FMFC/view?usp=sharing)  
 
 ** Мистецтво: образотворче мистецтво **  
 **03.12** [Тема: Святкові перетворення. Малювання композиції «Сніговик».](https://drive.google.com/file/d/1rlUqnf0AgrfiqQwAQPdXXIJ3NZeyQoPc/view?usp=sharing)  
@@ -1379,6 +1379,7 @@ export default function DistanceLearning() {
 **13.01** [Алтинбаєва Л. М. Тема: Григір Тютюнник. Коротко про дитинство письменника. «Климко» - автобіографічна основа твору](https://drive.google.com/file/d/1FVGnicieGXVOTeJ_XWiD9Y-VfmPokNuN/view?usp=sharing)  
 **15.01** [Алтинбаєва Л. М. Тема: Григір Тютюнник «Климко». Морально-етичні уроки доброти, чуйності, турботи про рідних»](https://drive.google.com/file/d/1C6JAUftojU1EgFFwpR16DseRtwF0ouSg/view?usp=sharing)  
 **20.01** [Алтинбаєва Л. М. Тема: Ідея самопожертви. Характеристика образу Климка](https://drive.google.com/file/d/1nzvhl78tGfyH54DCB_L-WDp44_f77w5x/view?usp=sharing)  
+**22.01** [Алтинбаєва Л. М. Тема: УМР. Переказування найбільш вражаючих епізодів повісті «Климко» (з аргументуванням свого вибору)](https://drive.google.com/file/d/18A6CI3dbSmU_OaMPdylpm8cavMjNsfh-/view?usp=sharing)  
 
 ** Російська мова **  
 **12.01** [7-А. Тема: Наречие. Значение, вопросы, роль в предложении](https://drive.google.com/file/d/17WUW3pPf4_MoiIAr_Yl6k_R7OfcG-rsF/view?usp=sharing)  
@@ -1807,6 +1808,7 @@ export default function DistanceLearning() {
 **20.01** [І група. Тема: Сучасні засоби комунікації. Корисні винаходи](https://drive.google.com/file/d/14putPFNvVyAclzZ-qkVhjc3NLXVzTf8J/view?usp=sharing)  
 **20.01** [ІІ група. Тема: Комунікаційні технології](https://drive.google.com/file/d/1yAZELyuHJft20qGVuhteZmlERLvPeYA2/view?usp=sharing)  
 **22.01** [ІІ група. Тема: Природні катаклізми, як явища в природі](https://drive.google.com/file/d/1rd-orSZ1t6ebr1lEtyY52QVycl6nuHgA/view?usp=sharing)  
+**22.01** [І група. Тема: Природні катаклізми, як явища в природі](https://drive.google.com/file/d/1CqgaR_fU1mthq8f-Nv-6L-EwkpzFqoPy/view?usp=sharing)  
 
 ** Захист України**  
 **07.12** [Хлопці. Тема: Статути Збройних Сил України. Військові звання військовослужбовців Збройних Сил України](https://drive.google.com/file/d/1OzU2dwv875YIu-Owskc3Irad1zmIoqE9/view?usp=sharing)  
