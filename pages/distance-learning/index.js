@@ -543,6 +543,7 @@ export default function DistanceLearning() {
 **21.01** [ІІ група. Презентація. Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/14Jw0uvRHkjuYmoapJ6kHOvfxA6BDMQ2W/view?usp=sharing)  
 **21.01** [І група. Тема: Визначення роду іменників. Придумування заголовка до поданого тексту](https://drive.google.com/file/d/11Zt5dSQUfTN6QNCF9IocPy1u2AsPdtiy/view?usp=sharing)  
 **22.01** [І група. Тема: Змінювання іменників за числами. Пошук інформації в буклеті. Написання розгорнутої відповіді на запитання. (с.88-89)](https://drive.google.com/file/d/1hrPSvw_4ZXPHvruAfkpIj7UcMeH_JYfP/view?usp=sharing)  
+**22.01** [ІІ група. Тема: Змінювання іменників за числами. Пошук інформації в буклеті. Написання розгорнутої відповіді на запитання. (с.88-89)](https://drive.google.com/file/d/1MZ6HMIaXPh7OdzjF3FlmVMNsGLIstLDW/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -589,6 +590,7 @@ export default function DistanceLearning() {
 **21.01** [І група. Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/1-Sosy2_sgbxXvLIwBkfXr5a0MDUnAXwL/view?usp=sharing)  
 **21.01** [І група. Презентація. Тема: Земля-це книга, у якій історія твого народу. Н.Поклад ,,Гарно дити у селі,,(Ч.2, с.87-88)](https://drive.google.com/file/d/10Gz5OeYAiNdJlY9knJF88T9p5ZYSjt7V/view?usp=sharing)  
 **22.01** [І група. Тема: Народні умільці. Н.Олійник ,,Гончарики з Опішного,,. Загадка-добавлянка (Ч.2, с.88-90)](https://drive.google.com/file/d/1doZMKRHZfHgq5n96rRCURaiySedgodsu/view?usp=sharing)  
+**22.01** [ІІ група. Тема: Народні умільці. Н.Олійник ,,Гончарики з Опішного,,. Загадка-добавлянка (Ч.2, с.88-90)](https://drive.google.com/file/d/1bnURsuWdw8jJKLRE_6QsYDIhLouJe2tM/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -1203,7 +1205,7 @@ export default function DistanceLearning() {
 **15.01** [6-А,Б. Тема: Утворення імперії Александра Македонського](https://drive.google.com/file/d/1xJS1EfDK-cVx6iPd0trFf4hQj54itOpj/view?usp=sharing)  
 **20.01** [6-А,Б. Тема: Александр Македонський](https://drive.google.com/file/d/1_rDtdlkQjFDjeeqKKU-yds6DA0s-2_VM/view?usp=sharing)  
 **20.01** [6-В. Тема: Александр Македонський](https://drive.google.com/file/d/1_rDtdlkQjFDjeeqKKU-yds6DA0s-2_VM/view?usp=sharing)  
-**22.01** [6-А,Б. Тема: Елліністичні держави. Культура елліністичної доби](https://drive.google.com/file/d/10eb54TjLDnVCip8z25Qvw5nYE0-EcGue/view?usp=sharing)  
+**22.01** [6-А,Б,В. Тема: Елліністичні держави. Культура елліністичної доби](https://drive.google.com/file/d/10eb54TjLDnVCip8z25Qvw5nYE0-EcGue/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **13.01** [Тема: Види рішень](https://drive.google.com/file/d/1Ic241cRLf0OHQiJDlEFwiHeGkWpJTBc9/view?usp=sharing)  
