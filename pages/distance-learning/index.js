@@ -1006,6 +1006,7 @@ export default function DistanceLearning() {
 **14.01** [5-Б. Тема: Алгоритмічна структура розгалуження](https://drive.google.com/file/d/1jBQsWtaU5zGcXpFe7L1TfMOdNnPuDkBn/view?usp=drive_web)  
 **15.01** [5-А. Тема: Алгоритмічна структура розгалуження](https://drive.google.com/file/d/1jBQsWtaU5zGcXpFe7L1TfMOdNnPuDkBn/view?usp=drive_web)  
 **21.01** [5-Б. Тема: Повна та коротка форми розгалуження](https://drive.google.com/file/d/1BaAz7HaFcPKxsB8fKNtDRnBBBfxV5WQv/view?usp=drive_web)  
+**22.01** [Тема: Повна та коротка форми розгалуження](https://drive.google.com/file/d/1qKu2FJ6jDgjkVN2Ofm-UT0hbOss_LZ8m/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
@@ -1111,6 +1112,7 @@ export default function DistanceLearning() {
 **15.01** [6-В. Тема: Редагування програмних об’єктів.](https://drive.google.com/file/d/16uK94BEboljVzcud-sfI-BgczQk6SqYY/view?usp=drive_web)  
 **18.01** [6-Б. Тема: Програмування процесів з повторенням і розгалуженням](https://drive.google.com/file/d/1xUUMZus4_T25XqvnlY_t1nHPp6259_Vx/view?usp=drive_web)  
 **21.01** [6-Б. Тема: Програмування процесів з повторенням і розгалуженням](https://drive.google.com/file/d/1xUUMZus4_T25XqvnlY_t1nHPp6259_Vx/view?usp=drive_web)  
+**22.01** [6-В. Тема: Програмування процесів з повторенням і розгалуженням](https://drive.google.com/file/d/1xUUMZus4_T25XqvnlY_t1nHPp6259_Vx/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -1292,6 +1294,7 @@ export default function DistanceLearning() {
 **13.01** [7-Б. Тема: Створення комп'ютерної моделі рівномірного прямолінійного руху](https://drive.google.com/file/d/1eEhezYQyhBuwJkm7r1QrzZF_b1rQ0hBC/view?usp=drive_web)  
 **15.01** [7-А. Тема: Створення комп'ютерної моделі рівномірного прямолінійного руху](https://drive.google.com/file/d/1eEhezYQyhBuwJkm7r1QrzZF_b1rQ0hBC/view?usp=drive_web)  
 **20.01** [Тема: Створення комп’ютерної моделі процесу взаємопов’язаного функціонування об’єктів](https://drive.google.com/file/d/1ebt5P6lRYllgG-E5yVvgtguMgKRpMfFm/view?usp=drive_web)  
+**22.01** [Тема: Створення комп’ютерної моделі процесу взаємопов’язаного функціонування об’єктів](https://drive.google.com/file/d/1ebt5P6lRYllgG-E5yVvgtguMgKRpMfFm/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Різноманітність птахів, їх роль у природі та значення в житті людини](https://drive.google.com/file/d/1yE8Ay4YmvkBD_Dh23t4NCf8q2Jox4_Ou/view?usp=sharing)  
@@ -1664,6 +1667,7 @@ export default function DistanceLearning() {
 **13.01** [9-Б. Тема: Виконання індивідуальних і групових навчальних проектів із дослідження предметної галузі.](https://drive.google.com/file/d/1OvX1LpPoxgOfNDojztLYgVV3OOs7Vjz3/view?usp=drive_web)  
 **15.01** [9-А. Тема: Виконання індивідуальних і групових навчальних проектів із дослідження предметної галузі.](https://drive.google.com/file/d/1OvX1LpPoxgOfNDojztLYgVV3OOs7Vjz3/view?usp=drive_web)  
 **20.01** [Тема: Оформлення матеріалів про виконання індивідуальних і групових навчальних проектів із дослідження предметної галузі. Захист проекту](https://drive.google.com/file/d/1f_jiARPznbXRurKma5BGNmZHXSsfSOFj/view?usp=drive_web)  
+**22.01** [Тема: Оформлення матеріалів про виконання індивідуальних і групових навчальних проектів із дослідження предметної галузі. Захист проекту](https://drive.google.com/file/d/1f_jiARPznbXRurKma5BGNmZHXSsfSOFj/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Фотосинтез: світлова та темнова фази](https://drive.google.com/file/d/1AP4SBbE-Wl8PoIH4LiQXBqO2b-ri70gl/view?usp=sharing)  
@@ -1894,6 +1898,7 @@ export default function DistanceLearning() {
 **08.12** [Тема: Writing](https://drive.google.com/file/d/1c275FUb4T5R-xkotqqn08tbq5HkvdXX-/view?usp=sharing)  
 **12.01** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1Rm3Gy6W61WhXkbSMFLrPTydEMecqV7F9/view?usp=sharing)  
 **15.01** [Тема: Проблеми екології](https://drive.google.com/file/d/1mwtlmoDoexJ342paE9E5Iun3s-vEduu4/view?usp=sharing)  
+**22.01** [Тема: Глобальне потепління](https://drive.google.com/file/d/1mAhBiN_usDWOj3LJJLjMbtbei4Ix0xcD/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Есе «Що робить мене щасливим (щасливою)»](https://drive.google.com/file/d/1xZaYEjnfrn1_BhqFqRKVKQHtugYFExs6/view?usp=sharing)  
