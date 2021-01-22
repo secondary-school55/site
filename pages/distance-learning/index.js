@@ -1602,6 +1602,7 @@ export default function DistanceLearning() {
 **14.01** [9-Б. Тема: Розв'язування задач](https://drive.google.com/file/d/1FNR6AishVUxDstAxc3vhJZut5oaKpg2s/view?usp=sharing)  
 **15.01** [9-А. Тема: Розвязування трикутників. Прикладні задачі](https://drive.google.com/file/d/1fkKupj8BvSo4p8nGTMT5vjSetjXaW9Dy/view?usp=sharing)  
 **20.01** [9-А. Тема: Розвязування трикутників](https://drive.google.com/file/d/1Doc46sNCXT17l8jkh1jM83LRjhb8ouA_/view?usp=sharing)  
+**20.01** [9-Б. Тема: Теорема синусів. Наслідок з теореми синусів](https://drive.google.com/file/d/1i5M68udfpv2eF4nJ885eWnctntCbPtvA/view?usp=sharing)  
 **21.01** [9-Б. Тема: Розв'язування трикутників. Прикладні задачі](https://drive.google.com/file/d/1cJ6DzQIlbHzh9m4O3GwxtZvOAxKK2l5Q/view?usp=sharing)  
 
 ** Англійська мова **  
