@@ -369,6 +369,7 @@ export default function DistanceLearning() {
 **20.01** [І група. Тема: Що у моєму ланчбоксі](https://drive.google.com/file/d/1zGYzcWbgn35nfrQNRU-96-RxbUiSzY7G/view?usp=sharing)  
 **20.01** [ІІ група. Тема: Що у моєму ланчбоксі](https://drive.google.com/file/d/1M51TsarBfBAcnpFe4PQLssuPoK5vLq4q/view?usp=sharing)  
 **22.01** [І група. Тема: Читаємо, говоримо, слухаємо разом](https://drive.google.com/file/d/12QHNfI28BKofg-WvULW3hzSrVQHuYZfh/view?usp=sharing)  
+**22.01** [ІІ група. Тема: Читаємо, говоримо, слухаємо разом](https://drive.google.com/file/d/1c25NoXyiJ3iLY5zDT61QpI0BHcKWkXcM/view?usp=sharing)  
 
 ** Математика **  
 **11.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1VwNtfF7VLfGyvNSDziU_iCztBpKSa4aZ/view?usp=sharing)  
@@ -1080,9 +1081,11 @@ export default function DistanceLearning() {
 **15.01** [5-А. Тема: Провідні ідеї твору](https://drive.google.com/file/d/1m2n0G6s6WSmiV8vApaHnE8hEZ84eZpz1/view?usp=sharing)  
 **19.01** [Тема: Ставлення автора до своїх героїв](https://drive.google.com/file/d/1eF6Ew5I8qza01ktwm1YTkYI1Yn9fy3b2/view?usp=sharing)  
 **21.01** [5-Б. Тема: Том Сойєр і Гекльберрі Фінн. Характеристика образів](https://drive.google.com/file/d/1VCnXbA7xlIwgiHyejNaVQr01qx7yh8j1/view?usp=sharing)  
+**22.01** [5-А. Тема: Том Сойєр і Гекльберрі Фінн. Характеристика образів](https://drive.google.com/file/d/12Cu7WxJqKZLov56z-N_hjRCssaTEvT6R/view?usp=sharing)  
 
 ** Історія **  
 **15.01** [Тема: Пам’ятки і пам’ятники історії](https://drive.google.com/file/d/1gF97W2MBDi0FNUAUUw8fytyNDAjAz01z/view?usp=sharing)  
+**22.01** [5-А,Б. Тема: Джерела, які зберігають память про історію княжої Русі - України](https://drive.google.com/file/d/1FacLUEdPcAWEJ-XdMe0r0zLeFMkuzTkF/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="6 клас">
@@ -1094,6 +1097,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Щедрий на добро внутрішній світ героя. Федько як особистість. Федько як особистість. Образи Федька і Толі](https://drive.google.com/file/d/1ChlYlpWB26EycVcTECHuHVN9TNaQBrk2/view?usp=sharing)  
 **19.01** [Тема: Роль художніх засобів у творі](https://drive.google.com/file/d/1fDfGQFAi9CsVKi4CQOXMfjg2vehxnskX/view?usp=sharing)  
 **21.01** [Тема: УПЧ. В.Винниченко «Кумедія з Костем»](https://drive.google.com/file/d/1qsDlgrA3xDsc_nHW-0SUQQ9gNe73gBwA/view?usp=sharing)  
+**22.01** [Тема: УПЧ. В.Винниченко «Кумедія з Костем»](https://drive.google.com/file/d/1rV2Zt1g_I0VjYxZ-fvC7_TVQY55wRmE4/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/14u2a-Fbfs2UVhKlYPdZQYEyak9uKZs1T/view?usp=sharing)  
@@ -1136,6 +1140,7 @@ export default function DistanceLearning() {
 **19.01** [6-Б. Тема: Підсумковий урок з теми «Довжина кола. Площа круга. Тіла обертання. Діаграми.» Контрольна робота](https://drive.google.com/file/d/1dsQblVn0v8lfgU5gK-iIHyZ2sXZylb5V/view?usp=sharing)  
 **20.01** [6-Б. Тема: Додатні та від'ємні числа. Число нуль](https://drive.google.com/file/d/1x0mYBP9AI-Pl8UL4CwKcqdSlp9Xg7Au_/view?usp=sharing)  
 **20.01** [6-А,В. Тема: Розв'язування вправ](https://drive.google.com/file/d/1vBiY5-vOIWJloc6XoJu-OETr3--SEZeW/view?usp=sharing)  
+**22.01** [6-А,В. Тема: Цілі числа. Раціональні числа](https://drive.google.com/file/d/144hd3FwaDtauv3hlPgqn8UrdVu6skUMF/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
@@ -1150,6 +1155,7 @@ export default function DistanceLearning() {
 **19.01** [Тема: Написання не з іменниками](https://drive.google.com/file/d/1d3W4t9j5XWprCHT14yRiyDcvZocv5pKS/view?usp=sharing)  
 **20.01** [Тема: Написання не з іменниками](https://drive.google.com/file/d/1wonRT9TJ_3xEuXYKgFzxIKjymSP7cMpt/view?usp=sharing)  
 **21.01** [Тема: Написання не з іменниками](https://drive.google.com/file/d/1JulWsr9cMaLhUsnSC6o8OACDKSVH25Qm/view?usp=sharing)  
+**22.01** [Тема: Складні слова. Правопис складних слів разом і через дефіс. Написання слів із пів](https://drive.google.com/file/d/1naP4akMUVs2zQwH0Ndr6hG-e2wj9WF-i/view?usp=sharing)  
 
 ** Біологія **  
 **11.01** [Тема: Різноманітність та видозміни пагона](https://drive.google.com/file/d/1-QyLP9rc_OE-yPg9YZ7I6EDa7FmKktvz/view?usp=sharing)  
@@ -1186,6 +1192,8 @@ export default function DistanceLearning() {
 **18.01** [Тема: Північна Америка](https://drive.google.com/file/d/11cEiCvZoTkiPnLDYMDbalQNOG9iBxzN0/view?usp=sharing)  
 **19.01** [Тема: Вітер](https://drive.google.com/file/d/13RgOuRoni47jtrSjFaLvI2Yd1TR7egNG/view?usp=sharing)  
 **21.01** [Тема: Вода в атмосфері](https://drive.google.com/file/d/1ZRDP84t-rVrjAY-CUIinz3g5Zc08jQQj/view?usp=sharing)  
+**22.01** [6-А,Б. Тема: Вода в атмосфері](https://drive.google.com/file/d/16_IdXLXxzpckvq2SwgUzDmc_iT3hKLGT/view?usp=sharing)  
+**22.01** [6-В. Тема: Вода в атмосфері](https://drive.google.com/file/d/1lIA1Qf1Y_38uGVVCpogAtaqDWqdoeYxy/view?usp=sharing)  
 
 ** Історія **  
 **13.01** [6-А,Б. Тема: Історія Підкорення Греції Філіппом ІІ](https://drive.google.com/file/d/1vSz07K60HtR64gGO7ZCeYoDOXPyjHbey/view?usp=sharing)  
@@ -1250,6 +1258,7 @@ export default function DistanceLearning() {
 **15.01** [7-А,Б. Тема: Властивості кутів трикутника. Сума кутів трикутника](https://drive.google.com/file/d/1c4p70km5T9P5tdfaJWCj-rqMP1oM_6gW/view?usp=sharing)  
 **21.01** [7-А. Тема: Сума кутів трикутника. Зовнішній кут трикутника](https://drive.google.com/file/d/1RZVFkgKquMYaTNN10tgi-ZSiHAfC4LPL/view?usp=sharing)  
 **21.01** [7-Б. Тема: Сума кутів трикутника. Зовнішній кут трикутника](https://drive.google.com/file/d/1wnBMHmEa5I-cTkpo7PFpWqxkg6j_73iJ/view?usp=sharing)  
+**22.01** [7-А,Б. Тема: Розв'язування задач](https://drive.google.com/file/d/1xmssML1Z47MUINoGWBvfzhm6DpFJN1Tw/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Страви](https://drive.google.com/file/d/1yC2uOR3TM0u3iNRhyux5e6-eVAAwOQei/view?usp=sharing)  
@@ -1424,6 +1433,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Воєнно-політичні події 1654-1657рр.](https://drive.google.com/file/d/1PZqj15YI0WVXxP6WA4aPviGKmA_Wc40g/view?usp=sharing)  
 **21.01** [8-А. І група. Тема: Воєнно-політичні події 1654-1657рр.](https://drive.google.com/file/d/1YV2oTyrn8DMnC2TZr6Hg4DbPcNnYHUqI/view?usp=sharing)  
 **21.01** [8-А. ІІ група. Тема: Газети та журнали України](https://drive.google.com/file/d/1PxeF0LS8ruXCTB0MtCmpJA5RhJZVQQbv/view?usp=sharing)  
+**22.01** [Тема: Практичне заняття: історичний портрет Б.Хмельницького](https://drive.google.com/file/d/1N3i_MCVKcBkqgXkT-fyPpXu_lWbcnlF1/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Музика в нашому житті. Відомі українські виконавці.](https://drive.google.com/file/d/1vZrqAEL9AOaGZyKMNjDM_F2so579-b7m/view?usp=sharing)  
@@ -1458,6 +1468,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Різноманітність рослинності](https://drive.google.com/file/d/190SjQ3t2NADxqxF6-V5mlS3-Q1dWrfwF/view?usp=sharing)  
 **15.01** [Тема: Різноманітність тваринного світу. Закономірності поширення тваринного світу в україні](https://drive.google.com/file/d/1XyaWmfjpAlK3WytHBDwcVJONYRtS-98P/view?usp=sharing)  
 **20.01** [Тема: Ландшафти](https://drive.google.com/file/d/1kQID_dK8KbhvWM2Fcd5LEUckO_PSeSlf/view?usp=sharing)  
+**22.01** [Тема: Природні зони](https://drive.google.com/file/d/12XsPUe0oR4w7wi6MhZvpeUhshZbZYmMX/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [8-А. Тема: Розвиток сили та силової витривалості учнів](https://drive.google.com/file/d/1_7s0JREx_prAAOorgG0U9tFW_D6w5mlE/view?usp=sharing)  
@@ -1474,6 +1485,7 @@ export default function DistanceLearning() {
 **20.01** [8-Б. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1LD36V_9O8XBk3X-ZreDg0U154Fasvrsx/view?usp=sharing)  
 **20.01** [8-А. Тема: БЖД. Школа м'яча. Поєднання різних способів пересування з виконанням технічних елементів. Комплекс ранкової гігієнічної гімнастики. Загально-розвиваючі вправи](https://drive.google.com/file/d/1D29auCdGHYVS2M44lnHiEikNKNDKp8Ws/view?usp=sharing)  
 **22.01** [8-Б. Тема: Урок фізичної культури №3](https://drive.google.com/file/d/1OlVXnC6fjbHf4-NlEyEb8XxP9D6A-seU/view?usp=sharing)  
+**22.01** [8-А. Тема: Теорія. Урок розвитку фізичних якостей, використовуючи спортивні та рухливі ігри або урок повторення пройденого матеріалу в ігровій формі](https://drive.google.com/file/d/1spVlH7tCyNAhMP-wzyR71hIwz0Gbz3ju/view?usp=sharing)  
 
 ** Біологія **  
 **04.12** [Тема: Значення дихання. Будови і функції органів дихання](https://drive.google.com/file/d/1h8oxnpA9mSto58NfYV2yjRUNRFcB1z3B/view?usp=sharing)  
@@ -1524,6 +1536,9 @@ export default function DistanceLearning() {
 **15.01** [Тема: Добір матеріалів, інструментів та обладнання. Технологічний процес нанесення ескізу виробу](https://drive.google.com/file/d/19EmWgL5wR9n3jNLQZ1-K42qE4r3OzN_7/view?usp=sharing)  
 **15.01** [Тема: Нове життя старим речам](https://drive.google.com/file/d/11j3BrrOba1ZEVDbqlo98x10zfh5opziV/view?usp=sharing)  
 **22.01** [Тема: Технологічний процес вирізання корпусу годинника](https://drive.google.com/file/d/1yZ--3kf_qZYgkNyrARYdzTVbGWNhs64e/view?usp=sharing)  
+
+** Обслуговуюча праця **  
+**22.01** [8-А. Тема: Ознайомлення зі зразками виробів, виготовлених із старих речей. Види конструкційних матеріалів для їх виготовлення. Інструменти та пристосування для виготовлення](https://drive.google.com/file/d/1OS4RzsWOyuSN0C36eHSJONGlUciI7o9q/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="9 клас">
@@ -1535,6 +1550,7 @@ export default function DistanceLearning() {
 **19.01** [9-А. Тема: Виробництво чавуну, сталі, прокату в україні: домінувальні технології, сукупність чинників розміщення підприємств, основні центри, місце україни на світовому ринку чорних металів](https://drive.google.com/file/d/11QeXAnS9NooghKyv0Kdem3uMJHuh-xj8/view?usp=sharing)  
 **19.01** [9-Б. Тема: Металургійне виробництво світу. Найбільші країни-виробники та країни-споживачі чорних металів. Сучасні тенденції розміщення виробництв чавуну, сталі, прокату. Найбільші країни-виробники та країни-споживачі кольорових металів у світі](https://drive.google.com/file/d/1Hsoq6_W-tF1Ccg7XT23Lx2fYBMWtSqdn/view?usp=sharing)  
 **21.01** [9-А. Тема: Металургійне виробництво світу](https://drive.google.com/file/d/1TX5gWYZ3Wi15JufANp3sCIilAR_fioK5/view?usp=sharing)  
+**22.01** [9-А. Тема: Металургійне виробництво світу](https://drive.google.com/file/d/1c90HVScdVIRw_CwRt_oKKG7i80cFeNTO/view?usp=sharing)  
 
 ** Хімія **  
 **03.12** [Тема: Реакції оборотні й необоротні](https://drive.google.com/file/d/1J2DYha0BrqewRn0sm7Yn2UbvM5hr7tu0/view?usp=sharing)  
@@ -1572,6 +1588,7 @@ export default function DistanceLearning() {
 **19.01** [9-Б. Тема: Місто і село в пореформений період](https://drive.google.com/file/d/1Wwuw2TvGBUS54vFZfq-VbS4pN5dVl3As/view?usp=sharing)  
 **20.01** [9-А. Тема: Модернізація промисловості і сільського господарства. Місто і село в пореформений період](https://drive.google.com/file/d/15tt7ERzpdn24JblsvTN6E0KqNKJRh3EN/view?usp=sharing)  
 **21.01** [9-А. Тема: Національний рух: громади, хлопомани](https://drive.google.com/file/d/1gyodBX4-OkYUoLEkCYRbTEPB466-V3QO/view?usp=sharing)  
+**22.01** [9-Б. Тема: Національний рух: громади, хлопомани](https://drive.google.com/file/d/1ISSDUUHh0x5XZh8uzvMS5Mo7sncXyJQB/view?usp=sharing)  
 
 ** Геометрія **  
 **03.12** [9-Б. Тема: Вектори. Розв’язування задач](https://drive.google.com/file/d/1ykrS5YhJf-ggic_8ad1LHgVjfAVZtKBF/view?usp=sharing)  
@@ -1614,6 +1631,7 @@ export default function DistanceLearning() {
 **19.01** [Тема: Євген Гребінка. Висока оцінка І. Франком байкарської майстерності Гребінки. Вірш «Човен»](https://drive.google.com/file/d/1E3rC2ZVSrYFvyIWnVti8H_dltF1Rj8zK/view?usp=sharing)  
 **19.01** [Тема: Євген Гребінка «Ведмежий суд», «Човен»](https://drive.google.com/file/d/11ps9Z2TU5yvz-TU9aOMYxKpCd8CHnMsB/view?usp=sharing)  
 **22.01** [9-А. Тема: Микола Гоголь. Творчість М. Гоголя, уродженця України, місце його творчості на порубіжжі культур двох народів. Вираження глибини національного духу у творах прозаїка та драматурга, українська історія та фольклор як їх джерело. Повість «Тарас Бульба. Сюжет твору](https://drive.google.com/file/d/1LCpsRXwRUtvdKs8C-1CW97BYn_llx73K/view?usp=sharing)  
+**22.01** [9-Б. Тема: Микола Гоголь -український письменник. Вплив української культури на розвиток його творчості](https://drive.google.com/file/d/1N14_DPXV8REU31PCVvK2T6ZLsqNkBBpT/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [9-А. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/10ODZR-UG7C9YAJv3bPb-eKqe7kwsjJA4/view?usp=sharing)  
@@ -1630,6 +1648,7 @@ export default function DistanceLearning() {
 **20.01** [9-Б. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1jg_teXvNRHhh5x1uAqdWRUY6hLFczlKl/view?usp=sharing)  
 **20.01** [9-А. Тема: Техніка та тактика гри в баскетбол (передача і ловіння м’яча у русі; ведення м’яча зі зміною швидкості, напрямку та висоти відскоку м’яча)](https://drive.google.com/file/d/1O5nQqGtxrU6uf7dKkKMKElrKI4mD2pY9/view?usp=sharing)  
 **22.01** [9-Б. Тема: Урок фізичної культури №3](https://drive.google.com/file/d/1Q95O5I_-GneOngocjiLD7NA1MFq3cZN3/view?usp=sharing)  
+**22.01** [9-А. Тема: Теорія. Урок розвитку фізичних якостей, використовуючи спортивні та рухливі ігри або урок повторення пройденого матеріалу в ігровій формі](https://drive.google.com/file/d/1r-jy_IFgB3ajYrjRxuxljOyPevHzb_jF/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Розроблення програми. Виконання арифметичних обчислень. Уведення, виконання й налагодження програм](https://drive.google.com/file/d/1dpekkJgkf59EosU2y6jtD_cr9PnqzdpZ/view?usp=drive_web)  
@@ -1671,6 +1690,7 @@ export default function DistanceLearning() {
 ** Мистецтво **  
 **04.12** [Тема: Сюрреалізм](https://drive.google.com/file/d/1NifrDQX_ktjFsE6qmEyUdO5CkcjpReOn/view?usp=sharing)  
 **15.01** [Тема: Мова і види кіномистецтва](https://drive.google.com/file/d/1Rc1q_Cv4mFZU_BPZdqmkiMYbcQWqIXXv/view?usp=sharing)  
+**22.01** [Тема: Жанри кіномистецтва](https://drive.google.com/file/d/1u5JXUFCSTVlZqL2BBIA_7SS0ovzaJKfV/view?usp=sharing)  
 
 ** Алгебра **  
 **11.01** [Тема: Квадратні нерівності](https://drive.google.com/file/d/19Gm5ymTCuqJGr9_ikFVp8-WzoFccQtwD/view?usp=sharing)  
@@ -1730,6 +1750,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Система образів твору. Образи-символи як засоби індивідуалізації героїв. Самобутність модерної поетики повісті «Тіні забутих предків»](https://drive.google.com/file/d/12g7c6HrRUjHK4g-18O0_sYubgLisG4Th/view?usp=sharing)  
 **19.01** [Тема: Кохання Івана та Марічки в повісті Коцюбинського «Тіні забутих предків»](https://drive.google.com/file/d/1tigsUScY8FYjgXJbxIWyEGqUmEM10Se-/view?usp=sharing)  
 **20.01** [Тема: Значення творчої спадщини М. Коцюбинського для розвитку української літератури, її роль у загальноєвропейському контексті](https://drive.google.com/file/d/1jfgfLlP_wxhu1jAC5ex8KA7Plaez4XB2/view?usp=sharing)  
+**22.01** [Тема: Позакласне читання. М.Коцюбинський «Що записано в книгу життя»](https://drive.google.com/file/d/1zTHFdB2SkHtPTzrIN9KzpSpxtpMwCClP/view?usp=sharing)  
 
 ** Фізика **  
 **03.12** [Тема: Механічна робота. Потужність. Кінетична енергія.](https://drive.google.com/file/d/13ktDbpkU-YGMFOs3KRcYIqKot5LfswUQ/view?usp=sharing)  
@@ -1759,12 +1780,14 @@ export default function DistanceLearning() {
 **20.01** [ІІ група. Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1FL1r3DQURSSd-qmOIy8fu-D9RW8-Q9YS/view?usp=sharing)  
 **20.01** [І група. Тема: Пересування в стійці баскетболіста. Зупинка подвійним кроком без м’яча під час переміщень. Школа м’яча. Комплекс загально-розвиваючих вправ на місці](https://drive.google.com/file/d/1JVtAv6B6Q0G1b2y76JOx-T-uXz8FTGau/view?usp=sharing)  
 **22.01** [ІІ група. Тема: Урок фізичної культури №3](https://drive.google.com/file/d/1txKl9KWGjWRFdiG9ST2fH9wnqHDj6nnP/view?usp=sharing)  
+**22.01** [І група. Тема: Теорія. Урок розвитку фізичних якостей, використовуючи спортивні та рухливі ігри або урок повторення пройденого матеріалу в ігровій формі](https://drive.google.com/file/d/1OChI6d7ksJyO2ZxXkbM7fQsdlMMuBI0T/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Західноукраїнська Народна Республіка.](https://drive.google.com/file/d/1UX5pzPnYGVUlJs01kyXsn3UxARYrvB_5/view?usp=sharing)  
 **12.01** [Тема: Утворення Радянського Союзу. Запровадження нової економічної політики](https://drive.google.com/file/d/198gM5KftrRB-qm_6-x-cMHKym0YSwwkJ/view?usp=sharing)  
 **15.01** [Тема: Індустріалізація радянської України](https://drive.google.com/file/d/1y7gqpHTvG35p49P0Z2L4rEvwv6ODZHOB/view?usp=sharing)  
 **19.01** [Тема: Колективізація](https://drive.google.com/file/d/1UJaQNgdKWW9NA8KQSCCYJqeNoBVfjKyz/view?usp=sharing)  
+**22.01** [Тема: Голодомор: причини, наслідки, пам'ять](https://drive.google.com/file/d/1AO9zW6xx5HWQpXDSi9GIZJ7aQN7Kmipw/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Reading](https://drive.google.com/file/d/1ks5tAkLDNz6WXJjOfcN97bWqpuTajWmp/view?usp=sharing)  
@@ -1841,6 +1864,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: «Шістдесятництво» як суспільне і мистецьке явище](https://drive.google.com/file/d/1d3wjMUig-15_zO-1fwZmkhF1edP_lBuJ/view?usp=sharing)  
 **15.01** [Тема: Василь Симоненко «Казка про Дурила»](https://drive.google.com/file/d/17OUsAchkRZ3LcTivpoeQewG7dMa4QZby/view?usp=sharing)  
 **21.01** [Тема: Дмитро Павличко. Основні відомості про поета, перекладача.  Пісня «два кольори», що стала народною](https://drive.google.com/file/d/1aynebUuDHKnm4fP7kz95vfu-WvRZmBni/view?usp=sharing)  
+**22.01** [Тема: Іван Драч. «Балада про соняшник»](https://drive.google.com/file/d/15-WKNnoTRRl3IY47sFOKx24cteeUvNyY/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)  
@@ -1853,6 +1877,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Соціально-економічне життя 1980-90рр](https://drive.google.com/file/d/1XOz-iM24jeQC2t3Vxo0KeyPjvoAtzYNM/view?usp=sharing)  
 **18.01** [Тема: Зростання суспільно-політичної активності громадян](https://drive.google.com/file/d/1EYyybEy36lkDlqsmYvtvTPl5V4Db1HUZ/view?usp=sharing)  
 **20.01** [Тема: Проголошення Декларації про державний суверенітет України](https://drive.google.com/file/d/1Bexa2cRGSbZa6jB-ov7XI0kDcW6vwo4X/view?usp=sharing)  
+**22.01** [Тема: Утвердження незалежності України](https://drive.google.com/file/d/1GtPOklXI_qF3Rd4kb8DTG_CoNKi44H6q/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Reading](https://drive.google.com/file/d/1clNCU8I-QMXLumrUeVrrPFrlUHCobR-z/view?usp=sharing)  
