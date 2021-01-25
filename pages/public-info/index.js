@@ -37,6 +37,7 @@ export default function PublicInfo() {
    - [2019-2020 н.р.](https://youtu.be/aiY5HHIYowU)
 1. Пропозиції до проекту бюджету:
    - [2021р.](/public-info/project-budget/2021.pdf)
+1. [Штатний розпис](https://drive.google.com/file/d/1b_DOIUY_xRqDNPm6gK3JaajGYTs22Ft4/view?usp=sharing)
 1. [Правила прийому](/public-info/rules-of-admission)
 1. [Умови доступності закладу освіти для навчання осіб з особливими освітніми потребами](/public-info/conditions-of-availability)
 1. [Перелік додаткових освітніх та інших послуг](/public-info/additional-services)
