@@ -3,11 +3,11 @@ import React from "react";
 import ReactMarkdown from "react-markdown";
 import { css } from "styled-components";
 
-export default function Md({ children }) {
+export default function Md({ children, renderers }) {
   return (
     <ReactMarkdown
       source={children}
-      renderers={{ link: Link, heading: Header }}
+      renderers={{ link: Link, heading: Header, ...renderers }}
     />
   );
 }

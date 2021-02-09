@@ -22,6 +22,10 @@ const Link = (props) => {
       );
       break;
 
+    case isAnchor(to):
+      render = <a id={to.slice(1)}>{children}</a>;
+      break;
+
     default:
       render = (
         <NextLink href={to} scroll={false} shallow={true}>
@@ -35,6 +39,7 @@ const Link = (props) => {
       color={color}
       hoverColor={hoverColor}
       noDecoration={noDecoration}
+      isAnchor={isAnchor(to)}
     >
       {render}
     </LinkStyle>
@@ -48,10 +53,10 @@ Link.defaultProps = {
 const LinkStyle = styled.span`
   a {
     text-decoration: none;
-    color: ${(props) => props.color};
+    color: ${(props) => (props.isAnchor ? "inherit" : props.color)};
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: ${(props) => (props.isAnchor ? "inherit" : "underline")};
       ${(props) => props.hoverColor && { color: props.hoverColor }};
       ${(props) => props.noDecoration && "text-decoration: none;"}
     }
@@ -68,6 +73,10 @@ export function isFileLink(url) {
   if (typeof url === "object") return false;
 
   return /\.[a-zA-Z]*$/.test(url);
+}
+
+function isAnchor(url) {
+  return url.startsWith("#");
 }
 
 export default Link;

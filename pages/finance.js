@@ -58,7 +58,6 @@ export default function Finance() {
      - [2017-2018 н.р](https://1drv.ms/w/s!AvfPBDS_9g9MmxTqvfA2BYxgZwSD)
    - [2016-2017 н.р.](https://1drv.ms/w/s!AvfPBDS_9g9Mm1BDN_WXknK-6GnF)
    - [І семестр (01.09.2016 - 14.12.2016)](https://1drv.ms/w/s!AvfPBDS_9g9Mm1GshLMjjBwF4eOU)
-   - [2015-2016 н.р.](https://1drv.ms/w/s!AvfPBDS_9g9MjisnE5T4D00Ox6xb)
 `}</Md>
       </Cell>
     </Grid>
