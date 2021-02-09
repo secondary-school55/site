@@ -76,6 +76,8 @@ export function isFileLink(url) {
 }
 
 function isAnchor(url) {
+  if (typeof url === "object") return false;
+
   return url.startsWith("#");
 }
 
