@@ -81,16 +81,16 @@
       route: https://drive.google.com/open?id=1xl8bUSU9XcB6i3aWb66PB9GdtE1dze9I
 
     - title: Ліцензії на впровадження освітньої діяльності
-      route: /public-info/?n=1
+      route: /public-info?n=1
 
     - title: Структура та органи управління
       route: /public-info/structure-and-organization
 
     - title: Кадровий склад
-      route: /public-info/?n=2
+      route: /public-info?n=2
 
     - title: Освітні програми
-      route: /public-info/?n=3
+      route: /public-info?n=3
 
     - title: Територія обслуговування
       route: /public-info/territory-of-service
@@ -99,19 +99,19 @@
       route: /public-info/license
 
     - title: Наявність вакантних посад
-      route: /public-info/?n=4
+      route: /public-info?n=4
 
     - title: Матеріально-технічне забезпечення закладу освіти
-      route: /public-info/?n=5
+      route: /public-info?n=5
 
     - title: Річний звіт про діяльність закладу освіти
-      route: /public-info/?n=6
+      route: /public-info?n=6
 
     - title: Благоустрій та ремонт школи
-      route: /public-info/?n=7
+      route: /public-info?n=7
 
     - title: Пропозиції до проекту бюджету
-      route: /public-info/?n=8
+      route: /public-info?n=8
 
     - title: Штатний розпис
       route: https://drive.google.com/file/d/1b_DOIUY_xRqDNPm6gK3JaajGYTs22Ft4/view?usp=sharing
@@ -129,10 +129,10 @@
       route: /public-info/rules-of-conduct.pdf
       
     - title: Мова освітнього процесу
-      route: /public-info/?n=9
+      route: /public-info?n=9
 
     - title: Установчі документи
-      route: /public-info/?n=10
+      route: /public-info?n=10
     
 - title: Фінансово-господарська діяльність закладу
   route: /finance
