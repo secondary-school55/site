@@ -112,7 +112,11 @@ title: Єдиний урок «Небесна сотня у наших серц�
 
 <slideshow id="*6v"></slideshow>
 
+7-А клас
+
 <slideshow id="*7a"></slideshow>
+
+7-Б клас
 
 <slideshow id="*7b"></slideshow>
 
