@@ -42,15 +42,13 @@ export default function PublicInfo() {
 1. @0 [Штатний розпис](https://drive.google.com/file/d/1b_DOIUY_xRqDNPm6gK3JaajGYTs22Ft4/view?usp=sharing)
 1. @0 [Правила прийому](/public-info/rules-of-admission)
 1. @0 [Умови доступності закладу освіти для навчання осіб з особливими освітніми потребами](/public-info/conditions-of-availability)
+1. @9 Буллінг. Безпечне освітнє середовище:
+   - [Відповідальна особа за оперативне реагування у випадку щодо факту булінгу у КЗШ №55 КМР ДО](/public-info/bullying/responsible-person.pdf)
 1. @0 [Перелік додаткових освітніх та інших послуг](/public-info/additional-services)
-1. @0 [Правила поведінки здобувача освіти в закладі](/public-info/rules-of-conduct.pdf)
-1. @0 [Запобігання та протидія булінгу](/public-info/prevent-bullying.pdf)
 1. @0 [Про створення постійно діючої комісії з превентивних питань та раннього виявлення неповнолітніх, схильних до вживання психоактивних речовин, алкоголю та тютюнових виробів  і розподіл функціональних обов’язків між членами комісії](/public-info/standing-committee.pdf)
-1. @0 [Порядок надання та розгляду заяв про випадки булінгу в закладі освіти](/public-info/statement-bullying.pdf)
-1. @0 [Порядок реагування на доведені випадки булінгу](/public-info/order-of-response-bullying.pdf)
-1. @9 Мова освітнього процесу:
+1. @10 Мова освітнього процесу:
    - згідно зі Статутом школи мовою викладання навчальних предметів є українська мова. В закладі освіти як іноземна мова вивчаються англійська мова
-1. @10 Установчі документи:
+1. @11 Установчі документи:
    - [Свідотство про державну реєстрацію юридичної особи](/public-info/founding-documents/certificate-state-registration.jpg)
    - [Свідотство про право власності на нерухоме майно](/public-info/founding-documents/certificate-ownership-right.jpg)   
    - [Правила внутрішнього розпорядку](/public-info/founding-documents/rules-internal-order.pdf)

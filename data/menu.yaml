@@ -122,17 +122,17 @@
     - title: Умови доступності закладу освіти для навчання осіб з особливими освітніми потребами
       route: /public-info/conditions-of-availability
 
-    - title: Перелік додаткових освітніх та інших послуг
-      route: /public-info/additional-services
-
-    - title: Правила поведінки здобувача освіти в закладі
-      route: /public-info/rules-of-conduct.pdf
-      
-    - title: Мова освітнього процесу
+    - title: Буллінг. Безпечне освітнє середовище
       route: /public-info?n=9
 
-    - title: Установчі документи
+    - title: Перелік додаткових освітніх та інших послуг
+      route: /public-info/additional-services
+    
+    - title: Мова освітнього процесу
       route: /public-info?n=10
+
+    - title: Установчі документи
+      route: /public-info?n=11
     
 - title: Фінансово-господарська діяльність закладу
   route: /finance
