@@ -27,6 +27,7 @@ export default function Finance() {
    - [2017 рік](https://1drv.ms/x/s!AvfPBDS_9g9Mmz71ZxJUOMUhLFXs)
    - [2016 рік](https://1drv.ms/x/s!AvfPBDS_9g9Mm0GI-Q_XEbJYP2uF)
 1. Коди витрат 2210, 2220
+   - [2021 рік](https://1drv.ms/x/s!AvfPBDS_9g9MnwepwANxRxNmghRA?e=rAH4UP)
    - [2020 рік](https://1drv.ms/x/s!AvfPBDS_9g9MnUb8SvA5YISAxQWA)
    - [2019 рік](https://1drv.ms/x/s!AvfPBDS_9g9MnQGHJWJcww5cNb-T)
    - [2018 рік](https://1drv.ms/x/s!AvfPBDS_9g9MnCaD8Pvj3fwL3J3Y)
