@@ -41,6 +41,7 @@ export default function PublicInfo() {
 1. @0 [Правила прийому](/public-info/rules-of-admission)
 1. @0 [Умови доступності закладу освіти для навчання осіб з особливими освітніми потребами](/public-info/conditions-of-availability)
 1. @9 Буллінг. Безпечне освітнє середовище:
+   - **Алтинбаєва Лариса Миколаївна** - відповідальна особа за оперативне реагування у випадку звернення щодо фактів булінгу (цькування) в КЗШ №55 КМР ДО
    - [Відповідальна особа за оперативне реагування у випадку щодо факту булінгу у КЗШ №55 КМР ДО](/public-info/bullying/responsible-person.pdf)
    - [Зразок заяви щодо повідомлення про булінг (цькування)](/public-info/bullying/sample-statement-report.pdf)
    - [Інформація про відповідальність осіб, причетних до булінгу](/public-info/bullying/information-responsibility-persons.pdf)
