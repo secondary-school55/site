@@ -6,6 +6,7 @@ import Link from "components/link";
 import usePosts from "lib/posts/use";
 import { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
+import Card from "components/home/card";
 
 export default function Main() {
   const posts = usePosts();
@@ -97,6 +98,8 @@ export default function Main() {
       </Grid>
       <Header>РОЗДІЛИ САЙТУ</Header>
       <Sections />
+      <Header>КАРТКА КРИВОРІЖЦЯ</Header>
+      <Card />
       <Header>ДИСТАНЦІЙНЕ НАВЧАННЯ</Header>
       <DistanceLearning />
       {/* <Header to="/camp">ТАБІР "ВЕСЕЛКА"</Header> */}
