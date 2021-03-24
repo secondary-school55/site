@@ -1,3 +1,4 @@
+import Card from "components/home/card";
 import DistanceLearning from "components/home/distance-learning";
 import Posts from "components/home/posts";
 import Sections from "components/home/sections";
@@ -6,7 +7,6 @@ import Link from "components/link";
 import usePosts from "lib/posts/use";
 import { css } from "styled-components";
 import { Cell, Grid } from "styled-css-grid";
-import Card from "components/home/card";
 
 export default function Main() {
   const posts = usePosts();
