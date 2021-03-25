@@ -98,6 +98,9 @@
     - title: Ліцензований обсяг та фактична кількість осіб, які навчаються у закладі освіти
       route: /public-info/license
 
+    - title: Положення про академічну доброчесність учасників освітнього процесу
+      route: /public-info/academic-integrity.pdf
+
     - title: Наявність вакантних посад
       route: /public-info?n=4
 
