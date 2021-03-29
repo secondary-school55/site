@@ -70,6 +70,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Значення культурних рослин. Дослідження насіння соняшника](https://drive.google.com/file/d/1-X58UszfFJHtnwB--zZ3vcbGoq-fWSL0/view?usp=sharing)  
 **21.01** [Тема: Різноманітність тварин. Дикі та свійські тварини](https://drive.google.com/file/d/18KtTKyxuhTqXYe5RV1ehC3dPRQajcQBV/view?usp=sharing)  
 **22.01** [Тема: Я досліджую світ Комахи](https://drive.google.com/file/d/1Es5iQGJ2kcgJ6qPBzgWoVWlxq8wopY-H/view?usp=sharing)  
+**29.03** [Тема: Родиннi традиції i свята](https://drive.google.com/file/d/1wwdKALHVAvRdOVKmcAEzQkzq0Z1OCYyW/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Переставний закон додавання](https://drive.google.com/file/d/1BLi2UtjK2pNwLTdsbZBZQpQnam1ixVsV/view?usp=sharing)  
@@ -91,6 +92,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Закріплення звукових значень вивчених букв](https://drive.google.com/file/d/1TQbBDeZS7TNI1BSBc0IPHCRJzyFGBj8A/view?usp=sharing)  
 **19.01** [Тема: Звук (ж), позначення його буквою же](https://drive.google.com/file/d/1OyDkJmyvWpBIsE9pPDOfBBjw0WWYZdQW/view?usp=sharing)  
 **20.01** [Тема: Закріплення звукового значення букви же](https://drive.google.com/file/d/1QrpDF-AqT-GPNHAuIjuWQ8ZDxhBfQnnq/view?usp=sharing)  
+**29.03** [Тема: Вправи для розвитку навички читання. Загадка. Л.Голота Хто в хатцi живе](https://drive.google.com/file/d/1yO8CSOUXCRsQxaEui7UrgTTo4KirP0-J/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Школа](https://drive.google.com/file/d/1dVzlit8c58ztKuqNk70e7sNuMCzAQzqZ/view?usp=sharing)  
@@ -110,6 +112,7 @@ export default function DistanceLearning() {
 **19.01** [Тема: Письмо великої букви г](https://drive.google.com/file/d/1UbpofOTWPt3elNGPSdajQXCMZVQlazGy/view?usp=sharing)  
 **20.01** [Тема: Письмо малої букви ж](https://drive.google.com/file/d/1bQpu90F1j7sZ-34TCHmQqqA0NYB2vsBe/view?usp=sharing)  
 **21.01** [Тема: Письмо великої букви Ж](https://drive.google.com/file/d/11Feun46chRNuRl99M35kX9NTefIgk9A-/view?usp=sharing)  
+**29.03** [Тема: Удосконалення умiння писати вивченi букви, слова i речення з ними](https://drive.google.com/file/d/1NBb7CZ1FVIApw_JB4wxH6tfh3Jq-QR2o/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Руханка](https://drive.google.com/file/d/1L4Jc2b_n8nGf6CHFQ-VBJToOsyLZUVwj/view?usp=sharing)  
@@ -1004,6 +1007,7 @@ export default function DistanceLearning() {
 **20.01** [5-Б. Тема: Застосування методу фантазування для виготовлення м’якої пласкої іграшки. Створення графічного зображення](https://drive.google.com/file/d/1GYpjhoE68fcwoNyldE0bBbZN2lCdaY6Z/view?usp=sharing)  
 **20.01** [5-Б. Тема: Проведення міні-маркетингового дослідження для обґрунтування вибору виробу](https://drive.google.com/file/d/1Uj9gKpIu71l7oGWdUA3I7rzitbXNsnaA/view?usp=sharing)  
 **21.01** [5-А. Тема: Технологічна послідовність розкроювання виробу](https://drive.google.com/file/d/1RX-JlpYUuCv8_SAVqtBN8aQUYMkkJ3Mn/view?usp=sharing)  
+**29.03** [Тема: Загальні відомості про харчування, його значеннядля життя людини. Раціональне харчування. Режим харчування](https://drive.google.com/file/d/1EpJVTH1twJuBHH2t-9yvorWWzLLak4jD/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Середовище описання і виконання алгоритмів](https://drive.google.com/file/d/1v4UkLcIBNjYTNAmYwho0KhV6vbkT7CCs/view?usp=sharing)  
@@ -1197,6 +1201,8 @@ export default function DistanceLearning() {
 **18.01** [6-В. Тема: Застосування методу фантазування для виготовлення декоративних квітів.  Розроблення ескізного малюнка квітів](https://drive.google.com/file/d/17ZWUlpboSCwRXyzWOzwlhoF9QGt-dxpu/view?usp=sharing)  
 **19.01** [6-А,Б. Тема: Проведення міні-маркетингового дослідження для обґрунтування вибору виробу](https://drive.google.com/file/d/195Fe79Vml4do2NyC-N-krd1JvdSzh7gj/view?usp=sharing)  
 **19.01** [6-А,Б. Тема: Застосування методу фантазування для виготовлення декоративних квітів](https://drive.google.com/file/d/14PD-uehW5coAK_9pzmuMV6TRvZZWYgar/view?usp=sharing)  
+**29.03** [6-В. Тема: Торбинка для дрiбничок](https://drive.google.com/file/d/1wOjmFUnE-G3pQKEnWJZQ_qqUljtmaPhj/view?usp=sharing)  
+**29.03** [6-В. Тема: Модель транспортного засобу](https://drive.google.com/file/d/1yRcm7CYzoA8ywU2n6zxW6v2QAHFSQMTc/view?usp=sharing)  
 
 ** Географія **  
 **12.01** [Тема: Кліматична карта. Теплові пояси землі практичне значення вимірювання температури повітря](https://drive.google.com/file/d/1MeFviw1kCIDcwHIRPY2YtcA80_L4Q7pQ/view?usp=sharing)  
@@ -1363,6 +1369,7 @@ export default function DistanceLearning() {
 **18.01** [7-А. Тема: Матеріали для виконання мозаїкового набору. Технологія виготовлення мозаїкового набору. Добір матеріалів, інструментів для виготовлення панно](https://drive.google.com/file/d/1GNKZCogBt1i_ysO86sitEbuAflB9iAql/view?usp=sharing)  
 **22.01** [7-Б. Тема: Матеріали для виконання мозаїкового набору. Технологія виготовлення мозаїкового набору](https://drive.google.com/file/d/1z8R0o-7MnU60JGySiGWl214e2ky0qrn2/view?usp=sharing)  
 **22.01** [7-Б. Презентація. Тема: Матеріали для виконання мозаїкового набору. Технологія виготовлення мозаїкового набору](https://drive.google.com/file/d/15vNfq_nj7d8XU59fdlXz9W1xhMZz-IEK/view?usp=sharing)  
+**29.03** [Тема: Деревина, придатна для різьблення. Моделі-аналоги рамки для фото. Інструменти для різьблення](https://drive.google.com/file/d/1itbMvmwGXAXcySj8rVnBGJzmLb7trdG2/view?usp=sharing)  
 
 ** Обслуговуюча праця **  
 **18.01** [Тема: Блокнот. Технологічний етап проектування виробу. Процес виготовлення основи виробу](https://drive.google.com/file/d/1dm0ngdyFF0cEhVF6-5-5ansZG-2zaQ20/view?usp=sharing)  
