@@ -1398,6 +1398,8 @@ export default function DistanceLearning() {
 **21.01** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Усний твір розповідного характеру в художньому стилі про виконання певних дій на основі власних спостережень з використанням дієприслівникових зворотів (за складним планом)](https://drive.google.com/file/d/1tOERPu6A8XHDv9FtHXUYPjsT7oXMO5r2/view?usp=sharing)  
 **21.01** [7-Б. Алтинбаєва Л. М. Тема: Усний твір розповідного характеру в художньому стилі про виконання певних дій на основі власних спостережень з використанням дієприслівникових зворотів (за складним планом)](https://drive.google.com/file/d/1ypZVGuIzUWop7gPGRfa5ROtShW9Fabsq/view?usp=sharing)  
 **29.03** [7-А. Харенко Ю. А. І група. Тема: Прийменник як службова частина мови. Прийменник як засіб зв’язку у словосполученні](https://drive.google.com/file/d/1KHsGfwUzSErxz5vtDmfZYwEwv9jRHWcO/view?usp=sharing)  
+**29.03** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Прийменник як службова частина мови. Прийменник як засіб зв’язку у словосполученні](https://drive.google.com/file/d/1rkQNM56reTLdUmFnrE5JnpT7LcfCIhf1/view?usp=sharing)  
+**29.03** [7-Б. Алтинбаєва Л. М. Тема: Прийменник як службова частина мови. Прийменник як засіб зв’язку у словосполученні](https://drive.google.com/file/d/1rkQNM56reTLdUmFnrE5JnpT7LcfCIhf1/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
