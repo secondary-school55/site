@@ -707,6 +707,7 @@ export default function DistanceLearning() {
 **20.01** [ІІ група. Тема: Хто мешкає зі мною. Мій дім](https://drive.google.com/file/d/1ZT1iit3p8WJ_fFbhOVWej2PAnOiaDM7U/view?usp=sharing)  
 **22.01** [І група. Тема: Завітаймо в готель Брайтон](https://drive.google.com/file/d/1repJa8ftszp6aBWS6KuM9W-NDrUIAx0s/view?usp=sharing)  
 **22.01** [ІІ група. Тема: Завітаймо в готель Брайтон](https://drive.google.com/file/d/15JLV_ICO3w9VZVRwMSChftRGEpb_pt2v/view?usp=sharing)  
+**29.03** [Тема: Наш веселий літній відпочинок](https://drive.google.com/file/d/1t2zPXBKTSJ5GsBsFQ7EF51QWKD20viTn/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
@@ -811,6 +812,7 @@ export default function DistanceLearning() {
 **22.01** [Горевич Л. В. Тема: Іван Франко «Лисичка-кума»](https://drive.google.com/file/d/1poSNPwYIrzzCqrxRUyBKdkYhAYmRRPZB/view?usp=sharing)  
 **22.01** [Горевич Л. В. Презентація. Тема: Іван Франко «Лисичка-кума»](https://drive.google.com/file/d/1XdYND6WllGVWkvrYFaYth78nulN_oOvJ/view?usp=sharing)  
 **22.01** [Тема: Іван Франко «Лисичка-кума»](https://drive.google.com/file/d/1WEyhZ5C6Uqd1Lnlb_K8GcpsSvJedes74/view?usp=sharing)  
+**29.03** [Горевич Л. В. Тема: Не загубив, а знайшов](https://drive.google.com/file/d/1CHazisUMfegIkJ7tDST-m1jWoRAE5ZGu/view?usp=sharing)  
 
 ** Природознавство **  
 **08.12** [Тема: Рослинний та тваринний світ Євразії](https://drive.google.com/file/d/12dq2cy7xWbmzcqgIBieKcuquvoJs3jDe/view?usp=sharing)  
@@ -922,6 +924,7 @@ export default function DistanceLearning() {
 **22.01** [Горевич Л. В. Тема: Іван Франко «Лисичка-кума»](https://drive.google.com/file/d/1poSNPwYIrzzCqrxRUyBKdkYhAYmRRPZB/view?usp=sharing)  
 **22.01** [Горевич Л. В. Презентація. Тема: Іван Франко «Лисичка-кума»](https://drive.google.com/file/d/1XdYND6WllGVWkvrYFaYth78nulN_oOvJ/view?usp=sharing)  
 **22.01** [Тема: Іван Франко «Лисичка-кума»](https://drive.google.com/file/d/1urZlEXQnhZ9br6IKFHKQAuqrKCQ3ncgE/view?usp=sharing)  
+**29.03** [Горевич Л. В. Тема: Не загубив, а знайшов](https://drive.google.com/file/d/1CHazisUMfegIkJ7tDST-m1jWoRAE5ZGu/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **08.12** [Тема: Дизайн годинника](https://drive.google.com/file/d/1gMGKFcVJS20q8y2uKGv8Y2kvwBbrkVJB/view?usp=sharing)  
@@ -1336,6 +1339,7 @@ export default function DistanceLearning() {
 **13.01** [7-А. Тема: Склад повітря](https://drive.google.com/file/d/17cqStc7d5zs3scW7i90zEuZ8nNGdkc6q/view?usp=sharing)  
 **13.01** [7-Б. Тема: Закон збереження маси](https://drive.google.com/file/d/1cDg4l_tzfwOAXsy1ZXACo_IQSk7c6PRQ/view?usp=sharing)  
 **18.01** [7-Б. Тема: Схема хімічної реакції. Рівняння хімічних реакцій](https://drive.google.com/file/d/18BEUyTrk2EhmmahAhM-N5A6SvwlYP6KF/view?usp=sharing)  
+**29.03** [Тема: Масова частка розчиненої речовини](https://drive.google.com/file/d/1J5Pz0OeQB2B1mHRNTbwrTqat1PHsQBQX/view?usp=sharing)  
 
 ** Алгебра **  
 **07.12** [Тема: Формули квадрата двочлена, різниці квадратів, суми і різниці кубів](https://drive.google.com/file/d/1rZfpPfzYKlR_3eqiRpZImyPSKsHghooO/view?usp=sharing)  
@@ -1438,6 +1442,7 @@ export default function DistanceLearning() {
 **14.01** [8-Б. Тема: Узагальнення знань](https://drive.google.com/file/d/1p1ysEaHh2QQtwpt2xejRIsOKCmCFeko4/view?usp=sharing)  
 **18.01** [8-А,Б. Тема: Перевірка знань з теми «Кількість речовини. Розрахунки за хімічними формулами»](https://drive.google.com/file/d/1u4Q3Z7iYKUXiq7KyRVC-ddOB1hGbjvn5/view?usp=sharing)  
 **21.01** [8-Б. Тема: Оксиди](https://drive.google.com/file/d/1Jqqw6_7c3kCBrSgvLsWE58Ph-dTmV8Lm/view?usp=sharing)  
+**29.03** [Тема: Амфотерні оксиди та гідроксиди](https://drive.google.com/file/d/1U1vQkYVQGqboOjsNsztOEugwJakcahwL/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Абсолютизм і громадянські війни у Франції](https://drive.google.com/file/d/1LjHnyvIvkFpsROshHXQx8bzKyHRS6yRz/view?usp=sharing)  
@@ -1639,6 +1644,7 @@ export default function DistanceLearning() {
 **21.01** [9-А. І група. Тема: Як вберегти довкілля](https://drive.google.com/file/d/1LaT-dr8Rd4VOq_CFpERwVnHIIn99e-Aq/view?usp=sharing)  
 **21.01** [9-А. ІІ група. Тема: Як вберегти довкілля](https://drive.google.com/file/d/1TIDcHij7SPWwh8rHyswMRZo29EI23tlP/view?usp=sharing)  
 **21.01** [9-Б. Тема: Як вберегти довкілля](https://drive.google.com/file/d/1LaT-dr8Rd4VOq_CFpERwVnHIIn99e-Aq/view?usp=sharing)  
+**29.03** [Тема: Плани на майбутнє](https://drive.google.com/file/d/10yixQ0Lz7U_XDNLpwRh6NsmcS33VhCTs/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
