@@ -1656,6 +1656,7 @@ export default function DistanceLearning() {
 **20.01** [8-А. Тема: Арифметичний квадратний корінь](https://drive.google.com/file/d/14nw_oFLbH8vRnyKj3R0TVq0EDbSx6W6L/view?usp=sharing)  
 **20.01** [8-Б. Тема: Властивості арифметичного квадратного корення](https://drive.google.com/file/d/1fe7ayuDm0znP1Q4PVCyncgVaWUpbi5xR/view?usp=sharing)  
 **21.01** [8-А. Тема: Розв'язування вправ](https://drive.google.com/file/d/1cc0k4tJrMiZWm5hfD7sUvWaUc4-wLJ6m/view?usp=sharing)  
+**30.03** [8-Б. Тема: Квадратний тричлен. Розкладання квадратного тричлена на множники](https://drive.google.com/file/d/12mtGWC9vbPGVivNbYSTA0GOwiJ8r9gbf/view?usp=sharing)  
 
 ** Географія **  
 **04.12** [Тема: Вплив погодно-кліматичних умов на здоров'я і господарську діяльність людини. Охорона атмосферного повітря. Кліматичні особливості своєї місцевості](https://drive.google.com/file/d/1vYAwfOrYGHF59NtP26e4W9X-6BdlSoxY/view?usp=sharing)
@@ -1704,6 +1705,7 @@ export default function DistanceLearning() {
 **19.01** [8-Б. Тема: Перпендикуляр і похила, їх властивості](https://drive.google.com/file/d/1UQya_4xSBHWL4XGhBcrPGHV9wOM2jO8s/view?usp=sharing)  
 **30.03** [8-А. Тема: Відношення площ подібних трикутників](https://drive.google.com/file/d/19k1d7_1FrgBh_hbOxUfL4lkALZmjdtH_/view?usp=sharing)  
 **30.03** [8-А. Тема: Розв’язування задач на обчислення площі трапеції](https://drive.google.com/file/d/1XzgiovMLv3u2yO7qJmTebl9xnoBiTEXU/view?usp=sharing)  
+**30.03** [8-Б. Тема: Площа паралелограма](https://drive.google.com/file/d/1_--ReM7l8wtA3sNlhEt_TnErhE_Jq2h1/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Логічні вирази. Оператори розгалуження. Вкладені розгалуження](https://drive.google.com/file/d/1UIkiDcQ0uWpgiOSN8HPQe0On15gl7hh0/view?usp=sharing)  
@@ -2182,6 +2184,7 @@ export default function DistanceLearning() {
 
 ** Географія **  
 **13.01** [Тема: Природні зони](https://drive.google.com/file/d/1PyrmX2ocO_VPPzR6-2RqG18M9pkSWBlH/view?usp=sharing)  
+**30.03** [Тема: Повторення вивченого матеріалу. Підготовка до ЗНО](https://drive.google.com/file/d/1rVt9uWcwyVlnIIhV3Lh7PnoQE1M6hzZP/view?usp=sharing)  
 
 ** Біологія **  
 **13.01** [Тема: Екологічні чинники](https://drive.google.com/file/d/1KC52fpGn1EwDad_-OthY7mp_YCefBRLf/view?usp=sharing)  
