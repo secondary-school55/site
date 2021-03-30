@@ -1273,7 +1273,7 @@ export default function DistanceLearning() {
 **21.01** [Тема: Вода в атмосфері](https://drive.google.com/file/d/1ZRDP84t-rVrjAY-CUIinz3g5Zc08jQQj/view?usp=sharing)  
 **22.01** [6-А,Б. Тема: Вода в атмосфері](https://drive.google.com/file/d/16_IdXLXxzpckvq2SwgUzDmc_iT3hKLGT/view?usp=sharing)  
 **22.01** [6-В. Тема: Вода в атмосфері](https://drive.google.com/file/d/1lIA1Qf1Y_38uGVVCpogAtaqDWqdoeYxy/view?usp=sharing)  
-**29.03** [Тема: Біосфера](https://drive.google.com/file/d/1vZemM51I02351fLU5SKK0UWfV_rVl5pn/view?usp=sharing)  
+**30.03** [6-А,Б,В. Тема: Біосфера](https://drive.google.com/file/d/1vZemM51I02351fLU5SKK0UWfV_rVl5pn/view?usp=sharing)  
 
 ** Історія **  
 **13.01** [6-А,Б. Тема: Історія Підкорення Греції Філіппом ІІ](https://drive.google.com/file/d/1vSz07K60HtR64gGO7ZCeYoDOXPyjHbey/view?usp=sharing)  
@@ -1659,7 +1659,7 @@ export default function DistanceLearning() {
 **19.01** [9-Б. Тема: Металургійне виробництво світу. Найбільші країни-виробники та країни-споживачі чорних металів. Сучасні тенденції розміщення виробництв чавуну, сталі, прокату. Найбільші країни-виробники та країни-споживачі кольорових металів у світі](https://drive.google.com/file/d/1Hsoq6_W-tF1Ccg7XT23Lx2fYBMWtSqdn/view?usp=sharing)  
 **21.01** [9-А. Тема: Металургійне виробництво світу](https://drive.google.com/file/d/1TX5gWYZ3Wi15JufANp3sCIilAR_fioK5/view?usp=sharing)  
 **22.01** [9-А. Тема: Металургійне виробництво світу](https://drive.google.com/file/d/1c90HVScdVIRw_CwRt_oKKG7i80cFeNTO/view?usp=sharing)  
-**29.03** [Тема: Транспорт України](https://drive.google.com/file/d/1sTNH0OLgxPl9LvTVIOhnypo3rvg4MsqY/view?usp=sharing)  
+**30.03** [Тема: Транспорт України](https://drive.google.com/file/d/1sTNH0OLgxPl9LvTVIOhnypo3rvg4MsqY/view?usp=sharing)  
 
 ** Хімія **  
 **03.12** [Тема: Реакції оборотні й необоротні](https://drive.google.com/file/d/1J2DYha0BrqewRn0sm7Yn2UbvM5hr7tu0/view?usp=sharing)  
