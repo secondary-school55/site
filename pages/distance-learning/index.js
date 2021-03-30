@@ -428,6 +428,8 @@ export default function DistanceLearning() {
 **21.01** [Презентація. Тема: Таблиця ділення на 3](https://drive.google.com/file/d/1TmIcMaswmHLuzdrdOBxXUjpRgnHLd2Kg/view?usp=sharing)  
 **22.01** [Тема: Поняття рік, місяць](https://drive.google.com/file/d/1oUhZEGr_Ir5QL62yB8G_qeSozbE942lf/view?usp=sharing)  
 **22.01** [Презентація. Тема: Поняття рік, місяць](https://drive.google.com/file/d/1-cKlFoCsRCAEpr5RRBO_CtPhVzJV1G_d/view?usp=sharing)  
+**29.03** [Тема: Вправи на застосування таблицi множення i дiлення числа 7](https://drive.google.com/file/d/1l7bzqmfBnrLvPYT5wkFN7Il53fhXqG_m/view?usp=sharing)  
+**29.03** [Презентація. Тема: Вправи на застосування таблицi множення i дiлення числа 7](https://drive.google.com/file/d/1tbKWcDqkw8cXzov7LlmP-DtfG2klZmBG/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Ставлю питання до назв предметів. Розпізнаю слова — назви предметів за питаннями хто? що?](https://drive.google.com/file/d/1x-mt1ERC1wF1vB7K6oGvzZ8HFU79x8MZ/view?usp=sharing)  
@@ -441,6 +443,8 @@ export default function DistanceLearning() {
 **21.01** [Презентація. Тема: Змінюю прикметники за числами](https://drive.google.com/file/d/1j_OXH-qlszO9o7TW7J67Yb15Q11yCOhC/view?usp=sharing)  
 **22.01** [Тема: Розрізняю близькі за значенням прикметники](https://drive.google.com/file/d/1K5lFsiRjDdqaAttjOJvK25L0fWkethhe/view?usp=sharing)  
 **22.01** [Презентація. Тема: Розрізняю близькі за значенням прикметники](https://drive.google.com/file/d/1r5X1tDMnJnfIevCVUrUO_zRtSCqGBKOw/view?usp=sharing)  
+**29.03** [Тема: Дослiджую речення. Розповiднi речення](https://drive.google.com/file/d/1_o8TmOhrc_V-Rh6OM3jEUpVqJPOFMtmk/view?usp=sharing)  
+**29.03** [Презентація. Тема: Дослiджую речення. Розповiднi речення](https://drive.google.com/file/d/1IpkprMI26whMlHehvi7CKWa1Ruepd6Hn/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Щастя. М. Морозенко «Мій тато повернувся із війни»](https://drive.google.com/file/d/1IohkwNNl7ln_Lo29wlZgDCzqGnIG84Iy/view?usp=sharing)  
@@ -452,6 +456,7 @@ export default function DistanceLearning() {
 **20.01** [Тема: Медіавіконце: вистава. Василь Сухомлинський «Покинуте кошеня». Вистава «Хто зігріє кошеня?»](https://drive.google.com/file/d/1zx5GM-8TFmut9jF7EVbv0SsCxvvEyYwW/view?usp=sharing)  
 **20.01** [Презентація. Тема: Медіавіконце: вистава. Василь Сухомлинський «Покинуте кошеня». Вистава «Хто зігріє кошеня?»](https://drive.google.com/file/d/1qmMD_-O3gwiIORNGlF4MkuL7dZ3YeEl6/view?usp=sharing)  
 **21.01** [Тема: Зима білосніжна](https://drive.google.com/file/d/1Bo2j7tWOmiXGQUE1xsYvaaWnlzjLA1m2/view?usp=sharing)  
+**29.03** [Тема: Казки народiв Eвропи](https://drive.google.com/file/d/1KN8qrFVG71x8eAXvH6D5PSQ2oivSRc7X/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Дослідження сніжинок](https://drive.google.com/file/d/1iwAU41FzR28Lcm4x5twjg4NwG-tufv1g/view?usp=sharing)  
@@ -492,6 +497,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Вправи для формування правильної постави](https://drive.google.com/file/d/1XwPWkr70PWgc_NBNjmr00vrDImBjqo1S/view?usp=sharing)  
 **19.01** [Тема: Вправи для формування правильної постави](https://drive.google.com/file/d/1n7o-RgnidmMnn9UccEu5toL2CiA8Joo3/view?usp=sharing)  
 **21.01** [Тема: Вправи для розвитку гнучкості](https://drive.google.com/file/d/189IaKX_Zl-wfRIbAOoae0VieUCPQDNjS/view?usp=sharing)  
+**29.03** [Тема: Стрибки зi скакалкою. Стрибки у висоту](https://drive.google.com/file/d/1yaiU5er8QJ2E3t6DmT7Kqds-bYbkLs9m/view?usp=sharing)  
 `}</Md>
           </Tab>
         </Tabs>
@@ -1446,6 +1452,7 @@ export default function DistanceLearning() {
 **18.01** [7-Б. Тема: Пурпурові вітрила. Основний конфлікт твору](https://drive.google.com/file/d/1HMKzaHlgHsNKKyv9X7M-KvIDUjD9DRmi/view?usp=sharing)  
 **19.01** [7-А. Тема: О.Грін. "Пурпурові вітрила". Основний конфлікт твору](https://drive.google.com/file/d/18RhX0DpSPyTsjagFjiTCjP2EviV0q7pA/view?usp=sharing)  
 **22.01** [7-А,Б. Тема: Ассоль і Грей](https://drive.google.com/file/d/1KZ2BIwhwj90pfLn8JQYXa5BiiW-YaDkd/view?usp=sharing)  
+**29.03** [7-Б. Тема: О.Генрі." Останній листок". Образи дівчат (Сью, Джонсі). Особливості художньої мови новели, розповідач](https://drive.google.com/file/d/1pgmhZPOG3kxsLjtir5rG_5cnStFiINIP/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1LYMqo8lKOm-bCK_MHTKKwk0WLaRKPTEK/view?usp=sharing)  
