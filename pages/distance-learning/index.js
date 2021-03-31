@@ -668,6 +668,7 @@ export default function DistanceLearning() {
 **30.03** [І група. Тема: Наш веселий літній відпочинок](https://drive.google.com/file/d/1lJyqdP34aCyjyvHrL2mS2S3K7tGoHi2d/view?usp=sharing)  
 **30.03** [ІІ група. Тема: Наш веселий літній відпочинок](https://drive.google.com/file/d/1KQU8iH9KxNgNiQtUEwZ3Je9PPTN7fewS/view?usp=sharing)  
 **30.03** [Аудіозапис. ІІ група. Тема: Наш веселий літній відпочинок](https://drive.google.com/file/d/1aUR3qNgn3HqqVIFYXa0WLMM_0EysNOGG/view?usp=sharing)  
+**31.03** [І група. Тема: Дванадцять місяців у році](https://drive.google.com/file/d/1io4INdexrw14jP0lsDaAbLX4TRE2oQH6/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
@@ -757,6 +758,7 @@ export default function DistanceLearning() {
 **29.03** [І група. Тема: Написання розповіді за поданим планом на тему з особистого життя. Тема для спілкування: «Як я турбуюся про своє здоров’я».](https://drive.google.com/file/d/1dU_Dt7XnWpMUkZzVxf-cZnt1g6Q5nbNQ/view?usp=sharing)  
 **29.03** [ІІ група. Тема: Розвиток зв’язного мовлення. Написання розповіді за поданим планом на тему з особистого життя. Тема для спілкування: «Як я турбуюся про своє здоров’я»](https://drive.google.com/file/d/1H9xUg36NR63QWx5iKYRY56OqRdg7UgJM/view?usp=sharing)  
 **31.03** [Тема: Розпізнавання прийменників. Пошук інформації у прайс– листі. Написання розповіді про своє бажання з обґрунтуванням  власної думки](https://drive.google.com/file/d/1vNtx7BariljC-1iFWgMPU7N7VPJshz-Y/view?usp=sharing)  
+**31.03** [Тема: Розпізнавання прийменників. Пошук інформації у прайс листі. Написання розповіді про своє бажання з обґрунтування власної думки](https://drive.google.com/file/d/1HlCCyIWVHM5zUazIFNwCdcJ5wP5d9jiP/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
@@ -824,6 +826,7 @@ export default function DistanceLearning() {
 **29.03** [ІІ група. Тема: Наш веселий літній відпочинок](https://drive.google.com/file/d/1t2zPXBKTSJ5GsBsFQ7EF51QWKD20viTn/view?usp=sharing)  
 **29.03** [І група. Тема: Наш веселий літній відпочинок](https://drive.google.com/file/d/1lwwC9HoEzJ6BMUkivK0wsItG1RQG53jq/view?usp=sharing)  
 **31.03** [ІІ група. Тема: Дванадцять місяців у році](https://drive.google.com/file/d/1ib-Jx3H2ikbpm2pbAAfxAS1YY390TCdf/view?usp=sharing)  
+**31.03** [І група. Тема: Дванадцять місяців у році](https://drive.google.com/file/d/1lyejurZHTxeVvdTe12bwdw6fQ6Fdo9at/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
@@ -1603,6 +1606,7 @@ export default function DistanceLearning() {
 **20.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/186IGOELjm4-36ctk1q5uqLgaB1Vc8rKX/view?usp=sharing)  
 **21.01** [Тема: Урок фізичної культури №3 (Дистанційне навчання)](https://drive.google.com/file/d/1_bP7_UuYF7Vlf7SAFbovNtM6IGWMEYlS/view?usp=sharing)  
 **30.03** [Тема: Легка атлетика](https://drive.google.com/file/d/1iqIVr2ndtfwgI-ad3YHrI3MYAlPxEKmi/view?usp=sharing)  
+**31.03** [Тема: Легка атлетика]()  
 
 ** Образотворче мистецтво **  
 **12.01** [Тема: Види дизайну. Промисловий дизайн. Проектування предметів побуту](https://drive.google.com/file/d/1E2YpfNEiT7Pc2NJucY1Ljco3On99jjva/view?usp=sharing)  
@@ -1747,6 +1751,7 @@ export default function DistanceLearning() {
 **29.03** [8-А. Тема: Теорія. Повторити техніку виконання низького та високого старту з пробіжкою до 20м.Спортивна гра](https://drive.google.com/file/d/11TrCByx5EPW06n3QD5rqhGPEkHxFt6OK/view?usp=sharing)  
 **29.03** [8-Б. Тема: Силові тренування](https://drive.google.com/file/d/10YqpSv4732PYACMVW9YIEzzLDudXfcq1/view?usp=sharing)  
 **31.03** [8-А. Тема: Загальнорозвиваючі та спеціальні легкоатлетичні вправи. Повторити виконання команд на старт з пробіжкою до 30м. Човниковий біг. Спортивна гра](https://drive.google.com/file/d/1j-5gKSxJL3Uztk5XGTm9T4G8zyKPwsBB/view?usp=sharing)  
+**31.03** [8-Б. Тема: Силові тренування](https://drive.google.com/file/d/1nXkmE-1yfBuGNWMi9E_O4sTWElcO1lOq/view?usp=sharing)  
 
 ** Біологія **  
 **04.12** [Тема: Значення дихання. Будови і функції органів дихання](https://drive.google.com/file/d/1h8oxnpA9mSto58NfYV2yjRUNRFcB1z3B/view?usp=sharing)  
@@ -1936,6 +1941,7 @@ export default function DistanceLearning() {
 **29.03** [9-А. Тема: Вплив занять фізичими вправами на основі системи та функції організму. Загальнорозвиваючі   та спеціальні легкоатлетичні вправи](https://drive.google.com/file/d/16FvVtoTNar7hJ4sFQrQJYksU7KX8wBuX/view?usp=sharing)  
 **30.03** [9-Б. Тема: Тренування на всі групи м'язів](https://drive.google.com/file/d/1EldItnlkxPqjXltQzVHb0K6gv5USVamY/view?usp=sharing)  
 **31.03** [9-А. Тема: БЖД. Повільний біг. Загальнорозвиваючі та спеціальні легкоатлетичні вправи. Біг на відстань 15-20м з різних вихідних положень. Човниковий біг](https://drive.google.com/file/d/1I2OwkvSvZqBTuetOjwC4UOK13DJLJXVl/view?usp=sharing)  
+**31.03** [9-Б. Тема: Тренування на всі групи м'язів в домашніх умовах](https://www.youtube.com/watch?v=LF1hsGsYYH4)  
 
 ** Інформатика **  
 **04.12** [Тема: Розроблення програми. Виконання арифметичних обчислень. Уведення, виконання й налагодження програм](https://drive.google.com/file/d/1dpekkJgkf59EosU2y6jtD_cr9PnqzdpZ/view?usp=drive_web)  
@@ -2084,7 +2090,8 @@ export default function DistanceLearning() {
 **22.01** [І група. Тема: Теорія. Урок розвитку фізичних якостей, використовуючи спортивні та рухливі ігри або урок повторення пройденого матеріалу в ігровій формі](https://drive.google.com/file/d/1OChI6d7ksJyO2ZxXkbM7fQsdlMMuBI0T/view?usp=sharing)  
 **29.03** [І група. Тема: Теорія. Повторити техніку виконання низького та високого старту з пробіжкою до 20м.Спортивна гра](https://drive.google.com/file/d/1EWHRfWtQDVNhC1AmrjMvsX1yjlVVisJv/view?usp=sharing)  
 **29.03** [ІІ група. Тема: Тренування на всі групи м'язів в домашніх умовах](https://www.youtube.com/watch?v=LF1hsGsYYH4)  
-**31.03** [Тема: Загальнорозвиваючі та спеціальні легкоатлетичні вправи. Повторити  виконання команд на старт з пробіжкою до 30м. Човниковий біг](https://drive.google.com/file/d/19iMAWQTTZB4zaJvIE9yMYkw5ay086Vp7/view?usp=sharing)  
+**31.03** [І група. Тема: Загальнорозвиваючі та спеціальні легкоатлетичні вправи. Повторити  виконання команд на старт з пробіжкою до 30м. Човниковий біг](https://drive.google.com/file/d/19iMAWQTTZB4zaJvIE9yMYkw5ay086Vp7/view?usp=sharing)  
+**31.03** [ІІ група. Тема: Тренування на всі групи м'язів в домашніх умовах](https://www.youtube.com/watch?v=LF1hsGsYYH4)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Західноукраїнська Народна Республіка.](https://drive.google.com/file/d/1UX5pzPnYGVUlJs01kyXsn3UxARYrvB_5/view?usp=sharing)  
