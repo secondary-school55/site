@@ -363,7 +363,9 @@ export default function DistanceLearning() {
 **22.01** [Тема: Розвиток зв'язного мовлення. Малюю новорічну ялинку](https://drive.google.com/file/d/1kFNkJikgaeVEVMtWpqS1PXyl3J2KxBIe/view?usp=sharing)  
 **29.03** [ІІ група. Тема: Досліджую спонукальні речення](https://drive.google.com/file/d/1eaBKxtHkVDk-dgeY15nPzk57LHuwcmDd/view?usp=sharing)  
 **29.03** [І група. Тема: Досліджую спонукальні речення. Розділові знаки наприкінці спонукальних речень. Складання тексту для реклами ](https://drive.google.com/file/d/1arlO8jmNk01luzOct3tOkRcxZkfya3Ax/view?usp=sharing)  
-**31.03** [Тема: Розрізняю окличні і неокличні речення](https://drive.google.com/file/d/19XIOuq4TtlrexDg6pg3-TsUawXeezZSu/view?usp=sharing)  
+**31.03** [ІІ група. Тема: Розрізняю окличні і неокличні речення](https://drive.google.com/file/d/19XIOuq4TtlrexDg6pg3-TsUawXeezZSu/view?usp=sharing)  
+**31.03** [І група. Тема: Розрізняю окличні і неокличні речення](https://drive.google.com/file/d/1PkwT2761f5o4FqUnjL0UXj91ibJh4hxp/view?usp=sharing)  
+**31.03** [Презентація. І група. Тема: Розрізняю окличні і неокличні речення](https://drive.google.com/file/d/1sLlEbDgiEHxDZnoASZH6YbJaO3epqv_7/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
@@ -635,6 +637,8 @@ export default function DistanceLearning() {
 **22.01** [ІІ група. Тема: Змінювання іменників за числами. Пошук інформації в буклеті. Написання розгорнутої відповіді на запитання. (с.88-89)](https://drive.google.com/file/d/1MZ6HMIaXPh7OdzjF3FlmVMNsGLIstLDW/view?usp=sharing)  
 **31.03** [І група. Тема: Розпізнавання прийменників. Пошук інформації у прайс-листі. Написання розповіді про своє бажання з обґрунтуванням власної думки (с. 122-124). Повторення спільнокореневих слів](https://drive.google.com/file/d/1m_59BEeS9MVviQ7N6GDu4FZQRyiwxOeS/view?usp=sharing)  
 **31.03** [Презентація. І група. Тема: Розпізнавання прийменників. Пошук інформації у прайс-листі. Написання розповіді про своє бажання з обґрунтуванням власної думки (с. 122-124). Повторення спільнокореневих слів](https://drive.google.com/file/d/1kMrxpLL-QmTg0n2kSQx7TfSMdL-wjlYo/view?usp=sharing)  
+**31.03** [ІІ група. Тема: Розпiзнавання прийменникiв. Пошук iнформацii у прайс-листi](https://drive.google.com/file/d/1C3gZ0GGehDSoEBsQvgu8CwNleFiXqOme/view?usp=sharing)  
+**31.03** [Презентація. ІІ група. Тема: Розпiзнавання прийменникiв. Пошук iнформацii у прайс-листi](https://drive.google.com/file/d/1iaGzoMscwN7DIt3paPPKFNlQfFyPpARb/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -1040,6 +1044,7 @@ export default function DistanceLearning() {
 **30.03** [І група. Тема: Урок розвитку писемного мовлення . Детальний переказ тексту «Юрко з Тимком  – друзі» (за колективно складеним планом і поданою кінцівкою)](https://drive.google.com/file/d/1l5Y3fgE7AuVuWeO8-qcclxhyjVSmiVAG/view?usp=sharing)  
 **30.03** [ІІ група. Тема: РЗМ. Детальний переказ тексту](https://drive.google.com/file/d/19tlpQBB0Df3k41GdMPdnIzs48DqJmFZa/view?usp=sharing)  
 **31.03** [І група. Тема: Майбутній час. Змінювання дієслів майбутнього часу за особами й числами](https://drive.google.com/file/d/1Yw3mBzS9PRMekFQb-xZFRO0qQIPtLuOB/view?usp=sharing)  
+**31.03** [ІІ група. Тема: Майбутній час. Змінювання дієслів майбутнього часу за особами й числами](https://drive.google.com/file/d/1fPOmj1kbnJxSny7NjxpmPuiuLQtcJXi_/view?usp=sharing)  
 
 ** Я у світі **  
 **04.12** [Тема: Культура поведінки учня](https://drive.google.com/file/d/1uW5654jU6K1rkEnbTDFy_8sCJ2kafQLS/view?usp=sharing)  
@@ -1586,6 +1591,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Антарктида](https://drive.google.com/file/d/1c7ccaM1aL5k9X7_SGzQAfkuLUaxCawYd/view?usp=sharing)  
 **20.01** [Тема: Тектонічна структура Північної Америки](https://drive.google.com/file/d/1rW0x6jh0WhxWOYQ1OlBHNU_NOH4NON1l/view?usp=sharing)  
 **29.03** [Тема: Населення Євразія. Держави.](https://drive.google.com/file/d/1KK3tdXEhOZIEzZqi-edBTpx8s0DM7By1/view?usp=sharing)  
+**31.03** [Тема: Країни Європи](https://drive.google.com/file/d/1wCLMVuv0IudUvlsxntAMz88KfVg-itST/view?usp=sharing)  
 
 ** Трудове навчання **  
 **11.01** [Тема: Вибір об'єкта проєктування. Планування проєктної діяльності. Комбінування композиції для панно з мозаїки](https://drive.google.com/file/d/1fIqDduVTMiUAkkrR67T8l5GJk7whp_vs/view?usp=sharing)  
@@ -1743,6 +1749,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Різноманітність тваринного світу. Закономірності поширення тваринного світу в україні](https://drive.google.com/file/d/1XyaWmfjpAlK3WytHBDwcVJONYRtS-98P/view?usp=sharing)  
 **20.01** [Тема: Ландшафти](https://drive.google.com/file/d/1kQID_dK8KbhvWM2Fcd5LEUckO_PSeSlf/view?usp=sharing)  
 **22.01** [Тема: Природні зони](https://drive.google.com/file/d/12XsPUe0oR4w7wi6MhZvpeUhshZbZYmMX/view?usp=sharing)  
+**31.03** [Тема: Міські і сільські населені пункти України та країн світу](https://drive.google.com/file/d/1BGpBIK2yvb-aVE_YYnhkVs8qlqbc0i4Y/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [8-А. Тема: Розвиток сили та силової витривалості учнів](https://drive.google.com/file/d/1_7s0JREx_prAAOorgG0U9tFW_D6w5mlE/view?usp=sharing)  
@@ -2290,6 +2297,7 @@ export default function DistanceLearning() {
 ** Географія **  
 **13.01** [Тема: Природні зони](https://drive.google.com/file/d/1PyrmX2ocO_VPPzR6-2RqG18M9pkSWBlH/view?usp=sharing)  
 **30.03** [Тема: Повторення вивченого матеріалу. Підготовка до ЗНО](https://drive.google.com/file/d/1rVt9uWcwyVlnIIhV3Lh7PnoQE1M6hzZP/view?usp=sharing)  
+**31.03** [Тема: Українська держава і територія держави України](https://drive.google.com/file/d/17D2S6uZoeVsd1IAvgmrPoQzQdzbG5HVX/view?usp=sharing)  
 
 ** Біологія **  
 **13.01** [Тема: Екологічні чинники](https://drive.google.com/file/d/1KC52fpGn1EwDad_-OthY7mp_YCefBRLf/view?usp=sharing)  
