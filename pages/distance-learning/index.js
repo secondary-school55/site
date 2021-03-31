@@ -954,6 +954,7 @@ export default function DistanceLearning() {
 **30.03** [Горевич Л. В. Тема: Всеволод Нестайко. Шура i Шурко](https://drive.google.com/file/d/1-ygI851t1vkWH6Z5ZWm3RW3bm-oJ_uzg/view?usp=sharing)  
 **30.03** [Тема: Всеволод Нестайко «Шура і Шурко»](https://drive.google.com/file/d/1lVUB1jUQrUzLZLbO_S_pphQBvc5ygm_o/view?usp=sharing)  
 **31.03** [Тема: Всеволод Нестайко «Шура і Шурко»](https://drive.google.com/file/d/19DjkMMmBJvSTHTgv2j_4evAwnnj34OIe/view?usp=sharing)  
+**31.03** [Горевич Л. В. Тема: Всеволод Нестайко "Шура i Шурко"](https://drive.google.com/file/d/191gzAFDKTTvo9uLnzzGSQkW6qpQd2h4N/view?usp=sharing)  
 
 ** Природознавство **  
 **08.12** [Тема: Рослинний та тваринний світ Євразії](https://drive.google.com/file/d/12dq2cy7xWbmzcqgIBieKcuquvoJs3jDe/view?usp=sharing)  
@@ -1088,6 +1089,7 @@ export default function DistanceLearning() {
 **30.03** [Горевич Л. В. Тема: Всеволод Нестайко. Шура i Шурко](https://drive.google.com/file/d/1-ygI851t1vkWH6Z5ZWm3RW3bm-oJ_uzg/view?usp=sharing)  
 **30.03** [Тема: Всеволод Нестайко «Шура і Шурко»](https://drive.google.com/file/d/1t3h3jpUarLF977NjaSYjuRwj1WSmoUpB/view?usp=sharing)  
 **31.03** [Тема: Всеволод Нестайко «Шура і Шурко»](https://drive.google.com/file/d/1y865xqQQceTvpj0NdhrGbs2I0BkLx6O3/view?usp=sharing)  
+**31.03** [Горевич Л. В. Тема: Всеволод Нестайко "Шура i Шурко"](https://drive.google.com/file/d/191gzAFDKTTvo9uLnzzGSQkW6qpQd2h4N/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **08.12** [Тема: Дизайн годинника](https://drive.google.com/file/d/1gMGKFcVJS20q8y2uKGv8Y2kvwBbrkVJB/view?usp=sharing)  
