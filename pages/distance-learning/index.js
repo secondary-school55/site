@@ -256,6 +256,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Святкові перетворення. Малювання композиції «Сніговик».](https://drive.google.com/file/d/1rlUqnf0AgrfiqQwAQPdXXIJ3NZeyQoPc/view?usp=sharing)  
 **14.01** [Тема: Мандри Країною Мистецтв. Цирк](https://drive.google.com/file/d/1HnkSVKqiKPr0goTh-U_pMtA34oWgR2BO/view?usp=sharing)  
 **21.01** [Тема: Зустріч з театром. Ляльковий театр](https://drive.google.com/file/d/1fVMjgHOvES9gaOHHN8CK7YVpHxG_0TXa/view?usp=sharing)  
+**01.04** [Тема: Народна творчість. Вишиванка. Створення орнаменту для розпису чашки](https://drive.google.com/file/d/1lCf66pB9sBWlMVgfhyLcR5ZvdbwfKPbz/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Досліджуємо властивості води](https://drive.google.com/file/d/1zSrcxlsg-qgp2oEBI4mKsxRWZ8TGzIxn/view?usp=sharing)  
@@ -269,6 +270,7 @@ export default function DistanceLearning() {
 **21.01** [Тема: Комахи](https://drive.google.com/file/d/1-GlV4wBycWWC47jwOVpA8HnmFrcIYy_K/view?usp=sharing)  
 **29.03** [Тема: Створення дерева свого роду за зразком чи власним задумом](https://drive.google.com/file/d/1BIU50cwvLeAZJ8yImA2b7UpFiKKuRpKH/view?usp=sharing)  
 **30.03** [Тема: Родиннi традицii i свята](https://drive.google.com/file/d/12vH-j6zJU5M759zXjBfvTNXVEyiLImkg/view?usp=sharing)  
+**01.04** [Тема: Узагальнюючий урок за розділом «Моє близьке оточення»](https://drive.google.com/file/d/1mJ0A6JoK5bsR2sheEvm6qQNquYZwRPYr/view?usp=sharing)  
 
 ** Навчання грамоти **  
 **04.12** [Тема: Закріплення звукових значень букви «те». Велика буква Т. Читання слів, речень. Опрацювання тексту](https://drive.google.com/file/d/19GvR-lVr91Ryt02ABFtcoQRKSqGXcuo8/view?usp=sharing)  
@@ -324,6 +326,7 @@ export default function DistanceLearning() {
 **21.01** [Тема: Техніка безпеки під час виконання фізичних вправ вдома під час дистанційного навчання. Руханка](https://drive.google.com/file/d/1FDOKpwbIl7XKfDxtKv39yrUxlomYlKOU/view?usp=sharing)  
 **22.01** [Тема: Техніка безпеки під час виконання фізичних вправ вдома під час дистанційного навчання. Руханка](https://drive.google.com/file/d/19WYSkv-tZRVJ45hGN4lwSt7o9vQfRCth/view?usp=sharing)  
 **30.03** [Тема: Руханка](https://drive.google.com/file/d/1MiK4HaMHrC7EQ9TqU343s109hsYXVQZc/view?usp=sharing)  
+**01.04** [Тема: Руханка](https://drive.google.com/file/d/1ZSNkAx3YonMe8zcyPY7GhwwdLt9yhHLW/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Школа](https://drive.google.com/file/d/1ioY_Y8l-j2E4qXlL4MVnyRt9Z5ND_f4z/view?usp=sharing)  
@@ -377,6 +380,8 @@ export default function DistanceLearning() {
 **31.03** [І група. Тема: Розрізняю окличні і неокличні речення](https://drive.google.com/file/d/1PkwT2761f5o4FqUnjL0UXj91ibJh4hxp/view?usp=sharing)  
 **31.03** [Презентація. І група. Тема: Розрізняю окличні і неокличні речення](https://drive.google.com/file/d/1sLlEbDgiEHxDZnoASZH6YbJaO3epqv_7/view?usp=sharing)  
 **01.04** [Тема: Визначаю головні слова в реченні.](https://drive.google.com/file/d/1291eWCMcjDxDWtk8yjW8RRbxA_Rwrvfl/view?usp=sharing)  
+**01.04** [І група. Тема: Визначаю головні слова в реченні. Доповнення тексту. Написання розповіді за малюнком та поданими словами](https://drive.google.com/file/d/1wTFuyja_TQl4LTYCSWzvqfDXFxlcxki7/view?usp=sharing)  
+**01.04** [Презентація. І група. Тема: Визначаю головні слова в реченні. Доповнення тексту. Написання розповіді за малюнком та поданими словами](https://drive.google.com/file/d/142g7PNMxA8I5I92npcjdQcI2_HmygyCK/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
@@ -410,7 +415,8 @@ export default function DistanceLearning() {
 **29.03** [Тема: Порівняння-образ. Анатолій Камінчук «Українська писанка».](https://drive.google.com/file/d/1NC-z-BUlu28d6EAZ8rUSt_ncDnViXbTW/view?usp=sharing)  
 **30.03** [ІІ група. Тема: Почуття любові. Володимир Лучук «Тільки мама»](https://drive.google.com/file/d/1RAQSkFKY64Jdy5qLyUrRH4G7cLSfskm2/view?usp=sharing)  
 **30.03** [І група. Тема: Почуття любові. Володимир Лучук "Тільки мама"](https://drive.google.com/file/d/1xdY3AzBE8A7aXeKNRSUaqoFZBGpLxsZZ/view?usp=sharing)  
-**01.04** [Тема: Що таке мир? Тетяна Майданович «Що таке мир».](https://drive.google.com/file/d/1ebOIhcahiVtSSwJC-x__qQLNAjGfpP2A/view?usp=sharing)  
+**01.04** [ІІ група. Тема: Що таке мир? Тетяна Майданович «Що таке мир».](https://drive.google.com/file/d/1ebOIhcahiVtSSwJC-x__qQLNAjGfpP2A/view?usp=sharing)  
+**01.04** [І група. Тема: Мир – це життя! Т. Майданович «Що таке мир». Мурал](https://drive.google.com/file/d/15_l44_M4yB9Jdv6Q5Kr63f_bkIWqBvSx/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)  
@@ -664,6 +670,7 @@ export default function DistanceLearning() {
 **31.03** [Презентація. І група. Тема: Розпізнавання прийменників. Пошук інформації у прайс-листі. Написання розповіді про своє бажання з обґрунтуванням власної думки (с. 122-124). Повторення спільнокореневих слів](https://drive.google.com/file/d/1kMrxpLL-QmTg0n2kSQx7TfSMdL-wjlYo/view?usp=sharing)  
 **31.03** [ІІ група. Тема: Розпiзнавання прийменникiв. Пошук iнформацii у прайс-листi](https://drive.google.com/file/d/1C3gZ0GGehDSoEBsQvgu8CwNleFiXqOme/view?usp=sharing)  
 **31.03** [Презентація. ІІ група. Тема: Розпiзнавання прийменникiв. Пошук iнформацii у прайс-листi](https://drive.google.com/file/d/1iaGzoMscwN7DIt3paPPKFNlQfFyPpARb/view?usp=sharing)  
+**01.04** [ІІ група. Тема: Розрізнення частин мови. Придумування заголовка до прочитаного тексту. Пошук інформації на афіші. Визначення достовірної і недостовірної інформації. Написання розгорнутої відповіді на запитання.](https://drive.google.com/file/d/1PQC-PLIsUIDwgt0Pk-bWAQ0St1ViPyhC/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -679,6 +686,7 @@ export default function DistanceLearning() {
 **29.03** [Тема: Як харчування впливає на здоров'я людини. Мініпроєкт "Старовинні українські страви" (с.80-81)](https://drive.google.com/file/d/12R8eEa-lLjjmuJXKvkOHNaljBqm3gGbu/view?usp=sharing)  
 **29.03** [Презентація. Тема: Як харчування впливає на здоров'я людини. Мініпроєкт "Старовинні українські страви" (с.80-81)](https://drive.google.com/file/d/1Lvg1T8IW4oyqve1Ju2oVegozKnJ9AF8S/view?usp=sharing)  
 **31.03** [Тема: Чим корисна їжа](https://drive.google.com/file/d/1LaVzYD_TqvRyYsL-4NUcvocsIz7ZEUaw/view?usp=sharing)  
+**01.04** [Тема: ](https://drive.google.com/file/d/1iB8GEEmP_4q6vcZ_5Q-SrNp-SpeQlZFO/view?usp=drive_web)  
 
 ** Англійська мова **  
 **04.12** [Тема: День мого друга](https://drive.google.com/file/d/1yU9sYPWGtUCczw7fgugLg-4SLhC0rBqE/view?usp=sharing)  
@@ -723,6 +731,7 @@ export default function DistanceLearning() {
 **29.03** [І група. Тема: Робота з дитячою книжкою. Цікава книга природи. Василь Сухомлинський «Зрубали вербу».](https://drive.google.com/file/d/10RiOmp5MUh3mFC-HGa0yQNOIMsZu1iq3/view?usp=sharing)  
 **29.03** [ІІ група. Тема: Робота з дитячою книжкою. Цікава книга природи. Василь Сухомлинський «Зрубали вербу»](https://drive.google.com/file/d/1NPcChECb0dn4WZBNlSmwJ3Tuw-QDJvP2/view?usp=sharing)  
 **30.03** [І група. Тема: Медіавіконце мініпроєкт. Створення обкладинки книжки Мій улюблений вірш (с. 130)](https://drive.google.com/file/d/1BqPoyiOvhc59iij0JAEKlwuAjLN-V5c2/view?usp=sharing)  
+**01.04** [ІІ група. Тема: Перевіряю свої досягнення. Підсумок за розділом «Поезії про дивосвіт природи»](https://drive.google.com/file/d/1cOExwSay7x5lC3Su_8UqZg0QQ3VVWIBR/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -1106,7 +1115,8 @@ export default function DistanceLearning() {
 **21.01** [ІІ група. Тема: Порівнюємо погоду](https://drive.google.com/file/d/1wjHUn9oV-WXgz2-AQJb33dI_NFFT97L2/view?usp=sharing)  
 **30.03** [І група. Тема: Види подорожі](https://drive.google.com/file/d/1yxkzQFnov_Ym50OeZd5St80rBQteB1KP/view?usp=sharing)  
 **30.03** [ІІ група. Тема: Види подорожi](https://drive.google.com/file/d/1PauQkfxWFOloebbUGVkLdKnqo-fmP8Ez/view?usp=sharing)  
-**01.04** [Тема: Відправляємося у мандрівку](https://drive.google.com/file/d/1HkalA7bPd4CwZsp-MqziekzkQcoNbrAO/view?usp=sharing)  
+**01.04** [ІІ група. Тема: Відправляємося у мандрівку](https://drive.google.com/file/d/1HkalA7bPd4CwZsp-MqziekzkQcoNbrAO/view?usp=sharing)  
+**01.04** [І група. Тема: Відправляємося у мандрівку](https://drive.google.com/file/d/1NSU-j4z_vyYLET4GVfoNyquPgIpVlqRm/view?usp=sharing)  
 
 ** Літературне читання **  
 **07.12** [Тема: Марко Вовчок «Літній ранок», Михайло Коцюбинський «Літній день»](https://drive.google.com/file/d/1XgJrjALeSBPNQ_Qy5nIsx0yLyZXI39WL/view?usp=sharing)  
@@ -1244,6 +1254,7 @@ export default function DistanceLearning() {
 **15.01** [5-А. Тема: Алгоритмічна структура розгалуження](https://drive.google.com/file/d/1jBQsWtaU5zGcXpFe7L1TfMOdNnPuDkBn/view?usp=drive_web)  
 **21.01** [5-Б. Тема: Повна та коротка форми розгалуження](https://drive.google.com/file/d/1BaAz7HaFcPKxsB8fKNtDRnBBBfxV5WQv/view?usp=drive_web)  
 **22.01** [Тема: Повна та коротка форми розгалуження](https://drive.google.com/file/d/1qKu2FJ6jDgjkVN2Ofm-UT0hbOss_LZ8m/view?usp=drive_web)  
+**01.04** [5-Б. Тема: Виконання проекту](https://drive.google.com/file/d/1ucL4nOPEf_MINQU8mn-qmHvZQniX00aX/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
@@ -1817,7 +1828,9 @@ export default function DistanceLearning() {
 **30.03** [8-Б. Тема: Англомовні країни](https://drive.google.com/file/d/1kKRQeIWc8_dt7SHse7gHb2Q0pMxp9wXR/view?usp=sharing)  
 **30.03** [8-А. І група. Тема: Англомовні країни](https://drive.google.com/file/d/1kKRQeIWc8_dt7SHse7gHb2Q0pMxp9wXR/view?usp=sharing)  
 **30.03** [8-А. ІІ група. Тема: Англомовні країни](https://drive.google.com/file/d/13HxFZBX2t-9Zw6oPO8w8YzvNZA-8zWik/view?usp=sharing)  
-**01.04** [8-А. Тема: Підготовка статті до видаництва](https://drive.google.com/file/d/1YHJbtnoWUW9D_jcqsok9xwQs0WvWGSAD/view?usp=sharing)  
+**01.04** [8-А. ІІ група Тема: Підготовка статті до видаництва](https://drive.google.com/file/d/1YHJbtnoWUW9D_jcqsok9xwQs0WvWGSAD/view?usp=sharing)  
+**01.04** [8-А. І група. Тема: Мандрівка по географічній карті](https://drive.google.com/file/d/1T-9baKZj_u_Vg6jDfL0d8QV_jxFLfAj3/view?usp=sharing)  
+**01.04** [8-Б. Тема: Мандрівка по географічній карті](https://drive.google.com/file/d/1T-9baKZj_u_Vg6jDfL0d8QV_jxFLfAj3/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -2208,6 +2221,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)  
 **14.01** [Тема: Проектування та створення об&#39;єктів мультимедіа. Системи керування вмістом для веб-ресурсів](https://drive.google.com/file/d/1TUh59OvfXa2-OyOCefAftOHTBf9rN_hJ/view?usp=drive_web)  
 **21.01** [Тема: Створення та адміністрування сайту](https://drive.google.com/file/d/1KaMqozJplWnh-PZMifkSWKBese5cwykZ/view?usp=drive_web)  
+**01.04** [Тема: Системи управління електронними документами. Технічні засоби обробки документів та інформації. Класифікація офісної техніки](https://drive.google.com/file/d/1oVev9-LNxwyYchy467RC62NrFt00zfsf/view?usp=drive_web)  
 
 ** Фізична культура **  
 **04.12** [І група. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1SBvvvI6L7-usEP0lkbxvVs85UtZqhjpJ/view?usp=sharing)  
@@ -2333,6 +2347,7 @@ export default function DistanceLearning() {
 **03.12** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)  
 **14.01** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)  
 **21.01** [Тема: Прикладний програмний інтерфейс. Планування веб-сайту та етапи роботи над ним](https://drive.google.com/file/d/1BaAz7HaFcPKxsB8fKNtDRnBBBfxV5WQv/view?usp=drive_web)  
+**01.04** [Тема: Робота з текстом](https://drive.google.com/file/d/10gYZRFP9rRGM6mGcuXvG4VFTy90jURtl/view?usp=drive_web)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Опозиційний рух в Україні 60-80-х рр. ХХ ст.](https://drive.google.com/file/d/1BRFbeZezM4EQBXfjdEyCgfPXCTltDMaR/view?usp=sharing)  
