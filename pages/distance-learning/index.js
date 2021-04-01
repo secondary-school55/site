@@ -1396,7 +1396,7 @@ export default function DistanceLearning() {
 **21.01** [6-Б. Тема: Програмування процесів з повторенням і розгалуженням](https://drive.google.com/file/d/1xUUMZus4_T25XqvnlY_t1nHPp6259_Vx/view?usp=drive_web)  
 **22.01** [6-В. Тема: Програмування процесів з повторенням і розгалуженням](https://drive.google.com/file/d/1xUUMZus4_T25XqvnlY_t1nHPp6259_Vx/view?usp=drive_web)  
 **29.01** [6-Б. Тема: Програмне забезпечення для створення і відтворення комп'ютерних презентацій](https://drive.google.com/file/d/1kVMkY0wMvQBA9aGKn-sBszmyYFg7b-bV/view?usp=drive_web)  
-**01.04** [6-А. Тема: Програмне забезпечення для створення й відтворення комп’ютерних презентацій](https://drive.google.com/file/d/1K7RzkSOwxvFFqozeOfXDqJe0PUIB6Hni/view?usp=sharing)  
+**01.04** [6-А. Тема: Програмне забезпечення для створення й відтворення комп’ютерних презентацій](https://drive.google.com/file/d/1kVMkY0wMvQBA9aGKn-sBszmyYFg7b-bV/view)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
