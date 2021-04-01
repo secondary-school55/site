@@ -86,7 +86,7 @@ export default function DistanceLearning() {
 **22.01** [Тема: Досліджуємо таблиці додавання і віднімання числа 3](https://drive.google.com/file/d/1kVovTr8bKw3H9cMIsxH474Hd-jWvOKBH/view?usp=sharing)  
 **30.03** [Тема: Записуeмо задачу_коротко. Пiдбiр опорноi схеми до задачi](https://drive.google.com/file/d/1xI7wSnBCdUgF9VBatK6ZNTDYY_JH86jP/view?usp=sharing)  
 **31.03** [Тема: Досліджуємо властивості величин. Ціле і частина. Визначення довжини ламаної. Розв’язування задач](https://drive.google.com/file/d/1k0c9c1PHoJNVpq_8AhQ4TwjMRMMxJsh3/view?usp=sharing)  
-**01.04** [Тема: Досліджуємо лічильну одиницю десяток. Лічба десятками. Сотня]()  
+**01.04** [Тема: Досліджуємо лічильну одиницю десяток. Лічба десятками. Сотня](https://drive.google.com/file/d/1fcbnbCsXmCUB2vQPpPKLBWs4BUUQe26Q/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Переглянути відео](https://drive.google.com/file/d/1D2aar6UzW4Tfu4bdRX5yZWNcV_PluYtf/view?usp=sharing)  
@@ -791,6 +791,7 @@ export default function DistanceLearning() {
 **31.03** [Тема: Розпізнавання прийменників. Пошук інформації у прайс– листі. Написання розповіді про своє бажання з обґрунтуванням  власної думки](https://drive.google.com/file/d/1vNtx7BariljC-1iFWgMPU7N7VPJshz-Y/view?usp=sharing)  
 **31.03** [Тема: Розпізнавання прийменників. Пошук інформації у прайс листі. Написання розповіді про своє бажання з обґрунтування власної думки](https://drive.google.com/file/d/1HlCCyIWVHM5zUazIFNwCdcJ5wP5d9jiP/view?usp=sharing)  
 **01.04** [Тема: Розрізнення частин мови.Придумування заголовка до прочитаного тексту. Пошук інформації на афіші.Визначення достовірної інформації. Написання розгорнутої відповіді на запитання.](https://drive.google.com/file/d/18fDaGrl2kKMi7e0iawZT7LyG8UhTRlZA/view?usp=sharing)  
+**01.04** [ІІ група. Тема: Розрізнення частин мови. Придумування заголовка до прочитаного тексту. Пошук інформації на афіші. Визначення достовірної і недостовірної інформації. Написання розгорнутої відповіді на запитання.(с.124-126)](https://drive.google.com/file/d/1txHOYOf06IFtuDkkuZIl0DUHun_NjV0J/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
@@ -941,6 +942,8 @@ export default function DistanceLearning() {
 **30.03** [ІІ група. Тема: Урок розвитку писемного мовлення. Детальний переказ тексту «Юрко з Тимком  – друзі» (за колективно складеним планом і поданою кінцівкою)](https://drive.google.com/file/d/10GtauYxAuxumaSnSDvRjR8Qa7CF46ooJ/view?usp=sharing)  
 **30.03** [І група. Тема: Урок розвитку писемного мовлення . Детальний переказ тексту «Юрко з Тимком  – друзі» (за колективно складеним планом і поданою кінцівкою)](https://drive.google.com/file/d/1TGhaLQgEP8J5ZISDgUHTwi_pPxKPWosT/view?usp=sharing)  
 **01.04** [ІІ група. Тема: Майбутній час. Змінювання дієслів майбутнього часу за особами й числами](https://drive.google.com/file/d/1J_xSTDfx8zCZBaUNRK0vwr9SMmbuiWyO/view?usp=sharing)  
+**01.04** [І група. Тема: Майбутній час. Змінювання дієслів майбутнього часу за особами й числами](https://drive.google.com/file/d/10nteClvSJSFQJwgFhFLcpNmd5V5fKqd1/view?usp=sharing)  
+**01.04** [І група. Презентація. Тема: Майбутній час. Змінювання дієслів майбутнього часу за особами й числами](https://drive.google.com/file/d/1qClwA9sEM5vmrDHGspF0DTeNSO39yfjj/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Завдання](https://drive.google.com/file/d/13py1-ZctKCGOs4nnf8wgTevIB_Fvh90v/view?usp=sharing)  
@@ -1282,6 +1285,7 @@ export default function DistanceLearning() {
 **30.03** [5-А. ІІ група. Тема: Підсумковий урок](https://drive.google.com/file/d/1jDLbXgiJWrWdIeoLm4KG-F4Ng1ysrESC/view?usp=sharing)  
 **30.03** [5-А. І група.Тема: Підсумковий урок з теми «Заняття на свіжому повітрі»](https://drive.google.com/file/d/1d2U-t3IpPOGG6qpb6myBK2c2l0D6b8kU/view?usp=sharing)  
 **30.03** [5-Б. Тема: Турбота про природу](https://drive.google.com/file/d/1N18CtnEpDfea-pGnhFbbzsIH5KHoBYiq/view?usp=sharing)  
+**01.04** [5-А. ІІ група. Тема: Подорож містом. Урок домашнього читання](https://drive.google.com/file/d/19-31VftsKj57bmXWhlbuFCLuI8xvYE__/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -1325,6 +1329,7 @@ export default function DistanceLearning() {
 **21.01** [5-Б. Тема: Том Сойєр і Гекльберрі Фінн. Характеристика образів](https://drive.google.com/file/d/1VCnXbA7xlIwgiHyejNaVQr01qx7yh8j1/view?usp=sharing)  
 **22.01** [5-А. Тема: Том Сойєр і Гекльберрі Фінн. Характеристика образів](https://drive.google.com/file/d/12Cu7WxJqKZLov56z-N_hjRCssaTEvT6R/view?usp=sharing)  
 **30.03** [5-А,Б. Тема: РМ Твір Моя улюблена книга, або Музика для душі](https://drive.google.com/file/d/1EOMMI3rwS0oDgAysnv2tXrvM82kr_M1T/view?usp=sharing)  
+**01.04** [5-Б. Тема: Контрольна робота з теми: &quot;Сила творчої уяви&quot; (різнорівневі завдання)](https://drive.google.com/file/d/156V66dJcvr0vf2bzvwqgE3uHTCzS2O8b/view?usp=sharing)  
 
 ** Історія **  
 **15.01** [Тема: Пам’ятки і пам’ятники історії](https://drive.google.com/file/d/1gF97W2MBDi0FNUAUUw8fytyNDAjAz01z/view?usp=sharing)  
@@ -1480,6 +1485,7 @@ export default function DistanceLearning() {
 ** Образотворче мистецтво **  
 **14.01** [Тема: Побутовий жанр. Історія виникнення та розвитку](https://drive.google.com/file/d/1XYvXwACQ4PgoG10yrkiNui7Ho97oaw35/view?usp=sharing)  
 **21.01** [Тема: Домашній інтер'єр](https://drive.google.com/file/d/1eK99iCcgZY7eYNzWoC1X7G3yCTBqZ7OI/view?usp=sharing)  
+**01.04** [Тема: Міфологічний жанр](https://drive.google.com/file/d/1SxenpUk7xhIl6HMumvQlg8W0dWTGyGIM/view?usp=sharing)  
 
 ** Зарубіжна література **  
 **11.01** [6-А. Тема: А.П.Чехов Хамелеон](https://drive.google.com/file/d/1PfhpTVhihBn22ZZafAJ0UAig2vydUWqH/view?usp=sharing)  
@@ -1563,6 +1569,8 @@ export default function DistanceLearning() {
 **31.03** [7-А. ІІ група. Тема: Відгук на кінофільм](https://drive.google.com/file/d/17deitPlOWgfeTRQNECFrGVVcyhRO2YSy/view?usp=sharing)  
 **31.03** [7-А. І група. Тема: Відгук на кінофільм після його перегляду](https://drive.google.com/file/d/1vhnqOgC7J0JqE7X8Y4_FazZNlx_5ow07/view?usp=sharing)  
 **31.03** [7-Б. Тема: Відгук на кінофільм після його перегляду](https://drive.google.com/file/d/1emy92Kxjnqiz0WWhSWuxm2Ox2z-tx1es/view?usp=sharing)  
+**01.04** [7-А. ІІ група. Тема: Відвідування театру, кінотеатру](https://drive.google.com/file/d/1-kcZ0j2WRrWBTScuWVLhLuQACmp1y79B/view?usp=sharing)  
+**01.04** [7-Б. Тема: Відвідування театру, кінотеатру.](https://drive.google.com/file/d/19K81OeLVX02V65CL61I6VeESNp3xuJ2R/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Створення моделей для розв’язування задач](https://drive.google.com/file/d/129xZiYVeZFgltMSzdCWdQEco6wnXtbuw/view?usp=drive_web)  
@@ -1605,6 +1613,7 @@ export default function DistanceLearning() {
 **29.03** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Прийменник як службова частина мови. Прийменник як засіб зв’язку у словосполученні](https://drive.google.com/file/d/1rkQNM56reTLdUmFnrE5JnpT7LcfCIhf1/view?usp=sharing)  
 **29.03** [7-Б. Алтинбаєва Л. М. Тема: Прийменник як службова частина мови. Прийменник як засіб зв’язку у словосполученні](https://drive.google.com/file/d/1rkQNM56reTLdUmFnrE5JnpT7LcfCIhf1/view?usp=sharing)  
 **31.03** [7-Б. Алтинбаєва Л. М. Тема: Види прийменників за будовою. Непохідні й Похідні прийменники](https://drive.google.com/file/d/1YyyBLs8NKI8NBDmoBdpBrZvNkT9vDlT4/view?usp=sharing)  
+**01.04** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Види прийменників за будовою. Непохідні й Похідні прийменники](https://drive.google.com/file/d/1mMuPKfjzyHnEClm6dJs5kE0Yb85OX2Wy/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -1667,7 +1676,8 @@ export default function DistanceLearning() {
 **20.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/186IGOELjm4-36ctk1q5uqLgaB1Vc8rKX/view?usp=sharing)  
 **21.01** [Тема: Урок фізичної культури №3 (Дистанційне навчання)](https://drive.google.com/file/d/1_bP7_UuYF7Vlf7SAFbovNtM6IGWMEYlS/view?usp=sharing)  
 **30.03** [Тема: Легка атлетика](https://drive.google.com/file/d/1iqIVr2ndtfwgI-ad3YHrI3MYAlPxEKmi/view?usp=sharing)  
-**31.03** [Тема: Легка атлетика]()  
+**31.03** [Тема: Легка атлетика](https://drive.google.com/file/d/1mSAi-Xx5Vqa7_REVpKnD8grJQr45nGht/view?usp=sharing)  
+**01.04** [Тема: Легка атлетика](https://drive.google.com/file/d/1f5j2wu_NDucF2XKpQpmtxWlQi43ZMNmq/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **12.01** [Тема: Види дизайну. Промисловий дизайн. Проектування предметів побуту](https://drive.google.com/file/d/1E2YpfNEiT7Pc2NJucY1Ljco3On99jjva/view?usp=sharing)  
@@ -1855,6 +1865,7 @@ export default function DistanceLearning() {
 **20.01** [8-Б. Тема: Живопис Бароко](https://drive.google.com/file/d/1ubKg5kUk1WcJ8pVNfk0HVa2gyBb-4HVw/view?usp=sharing)  
 **21.01** [8-А. Тема: Живопис Бароко](https://drive.google.com/file/d/1e866-_P0fjnSPIWMyR5p6UEHhqHPpYxQ/view?usp=sharing)  
 **31.03** [8-Б. Тема: Романтизм](https://drive.google.com/file/d/1mSWM0biQu9oznQP_XYKwyoTnP808kcom/view?usp=sharing)  
+**01.04** [8-А. Тема: Романтизм](https://drive.google.com/file/d/1AcNSqvXIkTGTyiqZ75rBOMNz_RtcEPjK/view?usp=sharing)  
 
 ** Російська мова **  
 **13.01** [Тема: Параллельная связь между предложениями в тексте](https://drive.google.com/file/d/1kI1EqW4xoE3j_M4DUEWxgqBji3bQfjXp/view?usp=sharing)  
@@ -1872,6 +1883,7 @@ export default function DistanceLearning() {
 **19.01** [Тема: Ф. Петрарка. Сонет 61. Історія кохання в сонеті Петрарки. Образ ліричного героя і героїні. Втілення гуманістичних ідеалів у поезії митця. Структура сонетів Петрарки](https://drive.google.com/file/d/1KFhVRs2vIOEQUSQP5h5jgNtkwlPtXRhb/view?usp=sharing)  
 **21.01** [Тема: Ф. Петрарка. Сонет 132. Історія кохання в сонетах Петрарки](https://drive.google.com/file/d/1PBHH04adxiGnE_3XFYtqk5dNKLjcWaBR/view?usp=sharing)  
 **30.03** [Тема: Міщанин - шляхтич. Мольєр - майстер класичної комедії.Художнє новаторство Мольєра в драматургії, вплив його відкриттів на світове театральне мистецтво](https://drive.google.com/file/d/1-IrVUuual4mBEL4Ugc7b_aebtnKzDO0E/view?usp=sharing)  
+**01.04** [Тема: Історія створення комедії "Міщанин - шляхтич". Тематика і проблематика твору, його загальнолюдське значення](https://drive.google.com/file/d/1cLyjvvngOGN7NS07ECNq65XJXpa9VLap/view?usp=sharing)  
 
 ** Трудове навчання **  
 **15.01** [Тема: Добір матеріалів, інструментів та обладнання. Технологічний процес нанесення ескізу виробу](https://drive.google.com/file/d/19EmWgL5wR9n3jNLQZ1-K42qE4r3OzN_7/view?usp=sharing)  
@@ -1923,6 +1935,7 @@ export default function DistanceLearning() {
 
 ** Обслуговуюча праця **  
 **21.01** [9-А. Тема: Технологія ниткографії](https://drive.google.com/file/d/18rfdNGgXAKdKIlXGFAK3QtrlyCRFJJly/view?usp=sharing)  
+**01.04** [9-А. Тема: Технологія ниткографії](https://drive.google.com/file/d/1YZg04Vt6xb_wAfzR_uEunX6t5MLRzVnP/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Повсякденне життя та побут українців у 19 ст.](https://drive.google.com/file/d/1I_2vKC2eCScwYuNW-zNiV13rTHkryuUI/view?usp=sharing)  
@@ -2086,6 +2099,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Позакласне читання. Бальзак Шагренева шкіра](https://drive.google.com/file/d/1yWxy4HRd0L9GTdiqfNOsoEf6Q_-PKVYB/view?usp=sharing)  
 **21.01** [Тема: Том Сойєр і Гекльберрі Фінн. Характеристика образів](https://drive.google.com/file/d/1i1duE91RvLnRgcOfv5niYnMVz4XezEDT/view?usp=sharing)  
 **29.03** [Тема: Генріх Ібсен. Роль Ібсена в розвитку світової даматургії, його новаторство](https://drive.google.com/file/d/1wEAFga2rafXVozvBQKSQENYJIA05aZ7y/view?usp=sharing)  
+**01.04** [Тема: Тема: "Ляльковий дім" як соціально - психологічна драма. Особливості драматичного конфлікту та розвиток сценічної дії. Композиція п&#39;єси](https://drive.google.com/file/d/1Y3dYJmLPh47HNXhy2xcA0S6IeJk7rU4-/view?usp=sharing)  
 
 ** Російська мова **  
 **11.01** [Тема: Наречие. Разнообразие значений наречий](https://drive.google.com/file/d/1Nwu87ha1mFSJoL72GbG5UDd7PnJ-ZWpl/view?usp=sharing)  
@@ -2118,7 +2132,7 @@ export default function DistanceLearning() {
 **30.03** [Добровольська В. Е. Тема: Стилістичне використання якісних, відносних, присвійних прикметників. Словник епітетів української мови. Синоніміка форм ступенів порівняння прикметників. Помилки у вживанні форм ступенів порівняння](https://drive.google.com/file/d/1mTydd81X_ZmmtuJOjJf9q1yRBgSOBKa0/view?usp=sharing)  
 **30.03** [Стрембицька Л.А. Тема: Стилістичне використання якісних, відносних, присвійних прикметників. Словник епітетів української мови. Синоніміка форм ступенів порівняння прикметників. Помилки у вживанні форм ступенів порівняння](https://drive.google.com/file/d/1O4SoyJ8Lk2xWpFo6awAdOp6r0E38kza5/view?usp=sharing)  
 **31.03** [Стрембицька Л.А. Тема: Своєрідність займенника як частини мови. Порівняння займенників з іншими частинами мови. Розряди займенників за значенням, їх характеристика. Групи](https://drive.google.com/file/d/1AdyUSdz5NYyegxKRYGshZnzCThPL5IOD/view?usp=sharing)  
-**31.03** [Добровольська В. Е. Тема: Своєрідність займенника як частини мови. Порівняння займенників з іншими частинами мови. Розряди займенників за значенням, їх характеристика. Групи займенників]()  
+**31.03** [Добровольська В. Е. Тема: Своєрідність займенника як частини мови. Порівняння займенників з іншими частинами мови. Розряди займенників за значенням, їх характеристика. Групи займенників](https://drive.google.com/file/d/1CgrLtPXpIx_qd31ZoSQHxdjuuRYWvfmo/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
@@ -2344,6 +2358,7 @@ export default function DistanceLearning() {
 **21.01** [Тема: Урок фізичної культури №3](https://drive.google.com/file/d/1CGsVipO3oWkzUKiyeAC5wfZ1XaEgFn76/view?usp=sharing)  
 **22.01** [Тема: Урок фізичної культури №3](https://drive.google.com/file/d/1fxBGJm1KsmebVV_ah97LaXQOZjtc7n6c/view?usp=sharing)  
 **30.03** [Тема: Тренування на всі групи м'язів](https://drive.google.com/file/d/1wsM5Zd-pzS4BoSkS3EvQHp51DcnTEflE/view?usp=sharing)  
+**01.04** [Тема: Тренування на всі групи м язів](https://drive.google.com/file/d/1Y-GtUpVqLXoLQUv0pvt7P8GXUstDv2gV/view?usp=sharing)  
 
 ** Геометрія **  
 **12.01** [Тема: Об'єм піраміди](https://drive.google.com/file/d/1UWQ8LaxxQqgKUAnUq2pLPtpH5B30dHy6/view?usp=sharing)  
