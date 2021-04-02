@@ -1315,6 +1315,7 @@ export default function DistanceLearning() {
 **21.01** [5-Б. Тема: Повна та коротка форми розгалуження](https://drive.google.com/file/d/1BaAz7HaFcPKxsB8fKNtDRnBBBfxV5WQv/view?usp=drive_web)  
 **22.01** [Тема: Повна та коротка форми розгалуження](https://drive.google.com/file/d/1qKu2FJ6jDgjkVN2Ofm-UT0hbOss_LZ8m/view?usp=drive_web)  
 **01.04** [5-Б. Тема: Виконання проекту](https://drive.google.com/file/d/1ucL4nOPEf_MINQU8mn-qmHvZQniX00aX/view?usp=drive_web)  
+**02.04** [5-А. Тема: Виконання проекту](https://drive.google.com/file/d/1ucL4nOPEf_MINQU8mn-qmHvZQniX00aX/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
@@ -1457,6 +1458,7 @@ export default function DistanceLearning() {
 **22.01** [6-В. Тема: Програмування процесів з повторенням і розгалуженням](https://drive.google.com/file/d/1xUUMZus4_T25XqvnlY_t1nHPp6259_Vx/view?usp=drive_web)  
 **29.01** [6-Б. Тема: Програмне забезпечення для створення і відтворення комп'ютерних презентацій](https://drive.google.com/file/d/1kVMkY0wMvQBA9aGKn-sBszmyYFg7b-bV/view?usp=drive_web)  
 **01.04** [6-А. Тема: Програмне забезпечення для створення й відтворення комп’ютерних презентацій](https://drive.google.com/file/d/1kVMkY0wMvQBA9aGKn-sBszmyYFg7b-bV/view)  
+**02.04** [6-В. Тема: Програмне забезпечення для створення й відтворення комп’ютерних презентацій](https://drive.google.com/file/d/1kVMkY0wMvQBA9aGKn-sBszmyYFg7b-bV/view)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -1697,6 +1699,7 @@ export default function DistanceLearning() {
 **20.01** [Тема: Створення комп’ютерної моделі процесу взаємопов’язаного функціонування об’єктів](https://drive.google.com/file/d/1ebt5P6lRYllgG-E5yVvgtguMgKRpMfFm/view?usp=drive_web)  
 **22.01** [Тема: Створення комп’ютерної моделі процесу взаємопов’язаного функціонування об’єктів](https://drive.google.com/file/d/1ebt5P6lRYllgG-E5yVvgtguMgKRpMfFm/view?usp=drive_web)  
 **31.03** [7-Б. Тема: Типи даних](https://drive.google.com/file/d/1FgTmPQMGrvXDEv9DnsBxoHnJFwP7dP2x/view?usp=drive_web)  
+**02.04** [7-А. Тема: Типи даних](https://drive.google.com/file/d/1FgTmPQMGrvXDEv9DnsBxoHnJFwP7dP2x/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Різноманітність птахів, їх роль у природі та значення в житті людини](https://drive.google.com/file/d/1yE8Ay4YmvkBD_Dh23t4NCf8q2Jox4_Ou/view?usp=sharing)  
@@ -2193,6 +2196,7 @@ export default function DistanceLearning() {
 **20.01** [Тема: Оформлення матеріалів про виконання індивідуальних і групових навчальних проектів із дослідження предметної галузі. Захист проекту](https://drive.google.com/file/d/1f_jiARPznbXRurKma5BGNmZHXSsfSOFj/view?usp=drive_web)  
 **22.01** [Тема: Оформлення матеріалів про виконання індивідуальних і групових навчальних проектів із дослідження предметної галузі. Захист проекту](https://drive.google.com/file/d/1f_jiARPznbXRurKma5BGNmZHXSsfSOFj/view?usp=drive_web)  
 **31.03** [9-Б. Тема: Тривимірна графіка. Принципи тривимірної навігації. Класифікація програм для роботи з тривимірною графікою.](https://drive.google.com/file/d/10CnBDO_HGOaaux8YZFM9WHWk8Se7qV8k/view?usp=drive_web)  
+**02.04** [9-А. Тема: Тривимірна графіка. Принципи тривимірної навігації. Класифікація програм для роботи з тривимірною графікою.](https://drive.google.com/file/d/10CnBDO_HGOaaux8YZFM9WHWk8Se7qV8k/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Фотосинтез: світлова та темнова фази](https://drive.google.com/file/d/1AP4SBbE-Wl8PoIH4LiQXBqO2b-ri70gl/view?usp=sharing)  
