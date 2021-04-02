@@ -923,6 +923,7 @@ export default function DistanceLearning() {
 **31.03** [І група. Тема: Дванадцять місяців у році](https://drive.google.com/file/d/1lyejurZHTxeVvdTe12bwdw6fQ6Fdo9at/view?usp=sharing)  
 **02.04** [І група. Тема: Діагностична робота № 7.Проєкт](https://drive.google.com/file/d/1Oz95FNEE49poKtrpGuLayEkQsUmpfGqb/view?usp=sharing)  
 **02.04** [Презентація. І група. Тема: Діагностична робота № 7.Проєкт](https://drive.google.com/file/d/1iOPE_KFXSEI4l13RXsCse9ZxEiUiTk50/view?usp=sharing)  
+**02.04** [ІІ група. Тема: Control work](https://drive.google.com/file/d/1rCYVJ4wpMSebatXZ0yR0wmAS8JqvipHJ/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
@@ -1341,12 +1342,13 @@ export default function DistanceLearning() {
 **29.03** [5-А,Б. Тема: Ділення десяткового дробу на десятковий дріб](https://drive.google.com/file/d/1AkBacw5isTptJC7B0NIzyt6RrrSnkFSe/view?usp=sharing)  
 **30.03** [5-А,Б. Тема: Розв'язання текстових задач](https://drive.google.com/file/d/15p7jc_EvkQVIGSI2T5SKZXIe1YuvMQZf/view?usp=sharing)  
 **31.03** [5-А,Б. Тема: Розв'язування задач і вправ](https://drive.google.com/file/d/1SU2b9cOwZLTsaSY1PHWllRwygd-DZnf4/view?usp=sharing)  
+**02.04** [5-А,Б. Тема: Розв'язання вправ](https://drive.google.com/file/d/1npZyKz_fMTutKu81-PTIzXWwYAAmEx1e/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
 **11.01** [Тема: Попередження травм під час рухливих ігор. Правила безпечної поведінки в басейні та на льоду](https://drive.google.com/file/d/1dAALP8mt62Hpr92U2kwKr2iAXyzH5xqa/view?usp=sharing)  
 **14.01** [5-А. Тема: Правила людських стосунків](https://drive.google.com/file/d/14LYHk8grt7X0xAplYGuLp7J_DLSPb48I/view?usp=sharing)  
-**18.01** [5-Б. Тема: Відпочинок школяра. Ознаки перевтоми. Умови здорового сну. Вплив телебачення і комп’ютера на здоров’я. Узагальнення знань з розділу](https://drive.google.com/file/d/12oUrlpMVwEOmX79zeypaR54gAAMQ1k4Y/view?usp=sharing)  
+**18.01** [5-Б. Те2ма: Відпочинок школяра. Ознаки перевтоми. Умови здорового сну. Вплив телебачення і комп’ютера на здоров’я. Узагальнення знань з розділу](https://drive.google.com/file/d/12oUrlpMVwEOmX79zeypaR54gAAMQ1k4Y/view?usp=sharing)  
 **29.03** [5-Б. Тема: Пожежна безпека](https://drive.google.com/file/d/1UktBuI351xCSS10XWlcpm-tA0aOa42zJ/view?usp=sharing)  
 **01.04** [5-А. Тема: Безпека у побуті і навколишньому середовищі](https://drive.google.com/file/d/1nBHakyiUdovjV5leV2ywfb39VN9GnPQ5/view?usp=sharing)  
 
@@ -2388,6 +2390,7 @@ export default function DistanceLearning() {
 **31.03** [І група. Тема: Чому мені подобається спорт](https://drive.google.com/file/d/18xG7KAoZNIoFJmy4c8LtAw4Z5_v4pwo3/view?usp=sharing)  
 **31.03** [ІІ група. Тема: Чи подобається тобі спорт](https://drive.google.com/file/d/1URVGlAturfFxU5Z20i-7t0eKjIsJZYZ1/view?usp=sharing)  
 **02.04** [ІІ група. Тема: Чи подобається тобі спорт](https://drive.google.com/file/d/1Dx9ZXhar1lhoDCNxKH2r2-r9DdOpokmt/view?usp=sharing)  
+**02.04** [І група. Тема: Займатися спортом](https://drive.google.com/file/d/1gqGr4JFp29roC_IaLhmHQbtRYJHetLpW/view?usp=sharing)  
 
 ** Захист України**  
 **07.12** [Хлопці. Тема: Статути Збройних Сил України. Військові звання військовослужбовців Збройних Сил України](https://drive.google.com/file/d/1OzU2dwv875YIu-Owskc3Irad1zmIoqE9/view?usp=sharing)  
@@ -2492,6 +2495,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Проблеми екології](https://drive.google.com/file/d/1mwtlmoDoexJ342paE9E5Iun3s-vEduu4/view?usp=sharing)  
 **22.01** [Тема: Глобальне потепління](https://drive.google.com/file/d/1mAhBiN_usDWOj3LJJLjMbtbei4Ix0xcD/view?usp=sharing)  
 **30.03** [Тема: Уміння керувати емоціями](https://drive.google.com/file/d/1NtLFV4TTnOnX95lm3sPat74jCqXBth9X/view?usp=sharing)  
+**02.04** [Тема: Уміння керувати емоціями](https://drive.google.com/file/d/1sgaoWHZIqMycK7XhybM7UsTjmYQL9ufJ/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Есе «Що робить мене щасливим (щасливою)»](https://drive.google.com/file/d/1xZaYEjnfrn1_BhqFqRKVKQHtugYFExs6/view?usp=sharing)  
