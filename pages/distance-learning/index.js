@@ -1707,6 +1707,7 @@ export default function DistanceLearning() {
 **21.01** [7-А,Б. Тема: Деформація. Сила Пружності](https://drive.google.com/file/d/1RAAimiRbetxS2_4x2cn-Z0bWxQHZ6-05/view?usp=sharing)  
 **29.03** [7-А,Б. Тема: Гідростатичний тиск. Сполучені посудини](https://drive.google.com/file/d/1SdVY7I-M2YvFBojDEnE-hXfTw-bo-AXt/view?usp=sharing)  
 **01.04** [Тема: Атмосферний тиск](https://drive.google.com/file/d/1gO1Ndty9e4v5JgMz7Tap2JwBVHOYdB1o/view?usp=sharing)  
+**05.04** [Тема: Виштовхувальна сила](https://drive.google.com/file/d/1HdVx2hCECF2Y_wPAZa9L-TNk-QvWQ731/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)  
@@ -2369,6 +2370,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
 **18.01** [Тема: Уміння вчитися](https://drive.google.com/file/d/1ai-kazBS4jh5AsIaA_5FKPGm_d5tqqS1/view?usp=sharing)  
 **29.03** [Тема: Репродуктивне здоров'я молоді](https://drive.google.com/file/d/1CUlXzHjAaNaRYWXUcj35g9vadfuMSC16/view?usp=sharing)  
+**05.04** [Тема: Школа майбутніх батьків](https://drive.google.com/file/d/1x3LM2UB3iQjQV-q6g800CSso9ZPe0l0W/view?usp=sharing)  
 
 ** Зарубіжна література **  
 **11.01** [Тема: Новаторство М. Ю. Лермонтова в жанрі роману](https://drive.google.com/file/d/1O7MBHYMIcNsH9Y8VbzFlsfs0J1K0xx64/view?usp=sharing)  
@@ -2512,6 +2514,7 @@ export default function DistanceLearning() {
 **29.03** [Хлопці. Тема: Тактична підготовка. Основи військової топографії. Складання опису місцевості. Висота перерізу рельєфу. Визначення висот за топографічною картою.Визначення зон видимості](https://drive.google.com/file/d/1_iMMzCnk9svyrNitxu_tJWe1a8b1OGmQ/view?usp=sharing)  
 **29.03** [Дівчата. Тема: Порядок надання допомоги за травми очей](https://drive.google.com/file/d/1Pcb2WEz90zAotnHpZhwtPPeacdvXBOhx/view?usp=sharing)  
 **05.04** [Хлопці. Тема: Нормативно-правова база цивільного захисту України. Єдина державна система цивільного захисту та її складові. Законодавче та нормативно-правове забезпечення її функціонування](https://drive.google.com/file/d/1yB1QBqtbkvbCvqMVzTjJ5no0DMVhWecq/view?usp=sharing)  
+**05.04** [Дівчата. Тема: Єдина державна система цивільного захисту та її складові](https://drive.google.com/file/d/1auE2Zzh8dUp9-Wfyxrvy6OBPD0gA-ges/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Насичені одноатомні спирти](https://drive.google.com/file/d/1IfJ4cpMktmfYg7JKuCp4G7s1HGHH3NaY/view?usp=sharing)  
@@ -2635,6 +2638,7 @@ export default function DistanceLearning() {
 **20.01** [Тема: Змінний струм](https://drive.google.com/file/d/1owu8HqYPlDT81w3ZLalHKKmcVS5CvAlY/view?usp=sharing)  
 **29.03** [Тема: Квантові властивості світла. Світлові кванти. Закони фотоефекту](https://drive.google.com/file/d/1lfyn1kQ75u8soa-7yRQbHjVzeCU0pS94/view?usp=sharing)  
 **31.03** [Тема: Рівняння фотоефекту](https://drive.google.com/file/d/1Eu1rk_lD1lXPX15Lmi_OZtb6kjxSW8kB/view?usp=sharing)  
+**05.04** [Тема: Шкала електромагнітних хвиль](https://drive.google.com/file/d/12_IggAEvRWCEEzE8T0rsprL4x9KK9xE0/view?usp=sharing)  
 
 ** Хімія **  
 **08.12** [Тема: Поняття про гальванічний елемент як хімічне джерело електричного струму](https://drive.google.com/file/d/1-18C_qtNZmcyKNShpSVNgHdP_43NAkoS/view?usp=sharing)  
@@ -2656,6 +2660,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Надання домедичної допомоги в разі опіків і проникного поранення ока](https://drive.google.com/file/d/1b6sDoJFOBEPWtu6g2ko71Bjq1ywCx6Sy/view?usp=sharing)  
 **29.03** [Тема: Характеристика зон стихійного лиха](https://drive.google.com/file/d/1EmkawzT_Wt7ymUxgJ1ftRjZW3ax2tD0a/view?usp=sharing)  
 **31.03** [Тема: Сутність, зміст і послідовність виконання невідкладних робіт](https://drive.google.com/file/d/1zM6fipUm8QPhYqkCGxh8CwH4jbcQ9Lni/view?usp=sharing)  
+**05.04** [Тема: Основні способи захисту населення](https://drive.google.com/file/d/162JGeVFR_F3J-tD3KWtnjzVb-AeKlNM_/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Комплекс ранкової гігієнічної гімнастики](https://drive.google.com/file/d/1jMHOn2adK6L881jeXPQpOB7TgJflIDGt/view?usp=sharing)  
