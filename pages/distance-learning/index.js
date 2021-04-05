@@ -230,7 +230,6 @@ export default function DistanceLearning() {
 **13.01** [Тема: Мандри Країною Мистецтв. Цирк. Циркова афіша. Створення аплікації веселого циркового клоуна](https://drive.google.com/file/d/1vkFJEZU4JQNAwMC1H6mOrM9_nqpVGufL/view?usp=sharing)  
 **18.01** [Тема: Леопардик і тигрик.  Робота з папером. Згинання і складання паперу. Виготовлення леопардика або тигрика в техніці оригамі за зразком](https://drive.google.com/file/d/1uwly2Fce3gwINDMRE11cK_ENnOOq8rS9/view?usp=sharing)  
 **29.03** [Тема: Смачна грушка. Робота з пластиліном. Виготовлення із пластиліну плоских зображень фруктів. Ліплення грушки за зразком](https://drive.google.com/file/d/1ESke7l3UaBfUR3dSahQBTL1CJIprstbO/view?usp=sharing)  
-**31.03** [Тема: Народна творчість. Вишивка. Орнамент. Створення орнаменту для розпису чашки](https://drive.google.com/file/d/1XKqok6tTaMkcYZp10_RVhYWEYyVjDul4/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **08.12** [Тема: Властивості грунту](https://drive.google.com/file/d/1Xl5mQJ5IJvUtov2BDrAGZ1jhm2OaDm3k/view?usp=sharing)  
@@ -257,6 +256,7 @@ export default function DistanceLearning() {
 
 ** Образотворче мистецтво **  
 **20.01** [Тема: Зустріч з театром. Ляльковий театр. Театральна лялька. Виготовлення ляльки до казки «Лисичка, Котик і Півник»](https://drive.google.com/file/d/1uoe6p-AZBDpvoAjYlrICChgVPHkDhoko/view?usp=sharing)  
+**31.03** [Тема: Народна творчість. Вишивка. Орнамент. Створення орнаменту для розпису чашки](https://drive.google.com/file/d/1XKqok6tTaMkcYZp10_RVhYWEYyVjDul4/view?usp=sharing)  
 
 `}</Md>
           </Tab>
