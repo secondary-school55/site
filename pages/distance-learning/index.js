@@ -1092,6 +1092,7 @@ export default function DistanceLearning() {
 **02.04** [Тема: Марія Чумарна «Казка про друга» (уривок напам’ять)](https://drive.google.com/file/d/1-1j4npnkHMIvjcUhyt4yl7wfRHf06EH3/view?usp=sharing)  
 **02.04** [Горевич Л. В. Тема: УПЧ. Людина починається з добра. Інна Христенко. Учителька](https://drive.google.com/file/d/1BDMNzmp_my-DHw68fvzWIHhPSfGvvmKk/view?usp=sharing)  
 **05.04** [Тема: Марія Чумарна «Казка про друга»](https://drive.google.com/file/d/1-G7MHP_hMEQusjbrbVHMOWodoFc8yF3q/view?usp=sharing)  
+**05.04** [Горевич Л. В. Тема: Марія Чумарна. Казка про друга](https://drive.google.com/file/d/1c_IqM8sT0pSWSUyVKP431cR4qelsVVJF/view?usp=sharing)  
 
 ** Природознавство **  
 **08.12** [Тема: Рослинний та тваринний світ Євразії](https://drive.google.com/file/d/12dq2cy7xWbmzcqgIBieKcuquvoJs3jDe/view?usp=sharing)  
@@ -1243,6 +1244,7 @@ export default function DistanceLearning() {
 **02.04** [Тема: Марія Чумарна «Казка про друга»](https://drive.google.com/file/d/1BRybsgV_sVA6I8KHIdcz65a27OUMWhDq/view?usp=sharing)  
 **02.04** [Горевич Л. В. Тема: УПЧ. Людина починається з добра. Інна Христенко. Учителька](https://drive.google.com/file/d/1BDMNzmp_my-DHw68fvzWIHhPSfGvvmKk/view?usp=sharing)  
 **05.04** [Тема: Марія Чумарна «Казка про друга»](https://drive.google.com/file/d/1D_o5DbtMguEz6NtlL3VmQgj1nwigtJsY/view?usp=sharing)  
+**05.04** [Горевич Л. В. Тема: Марія Чумарна. Казка про друга](https://drive.google.com/file/d/1c_IqM8sT0pSWSUyVKP431cR4qelsVVJF/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **08.12** [Тема: Дизайн годинника](https://drive.google.com/file/d/1gMGKFcVJS20q8y2uKGv8Y2kvwBbrkVJB/view?usp=sharing)  
@@ -1252,6 +1254,7 @@ export default function DistanceLearning() {
 **19.01** [Горевич Л. В. Презентація. Тема: Караван у пустелі](https://drive.google.com/file/d/1WvjLMudcsO79sogzpvvWM0pMS9UFsaIQ/view?usp=sharing)  
 **30.03** [Горевич Л. В. Тема: Пам’ятки архітектури.  Особливості архітектури рідного міста. Важливість збереження памяток архітектури. Значення виробору формату для створення виразної врівноваженої композиції](https://drive.google.com/file/d/1EFfSMqXThHJu1P8dNeVOphG7Pv4CaQ3w/view?usp=sharing)  
 **05.04** [Тема: Самообслуговування. Оздоблення одягу та взуття. Техніки , матеріали, інструменти та пристосування для оздоблення взуття. Моделювання взуття. Виготовлення моделі дитячого взуття](https://drive.google.com/file/d/1GySH-FC8BHmH3ucde2X2inSQc-RIY80A/view?usp=sharing)  
+
 
 ** Основи здоров’я **  
 **11.01** [Тема: Звички і здоров'я. Практична робота: виконання проєкту з формування корисної звички](https://drive.google.com/file/d/1hEFNVYpZOEiC_Q8FM2xIroBvJI9HgWwE/view?usp=sharing)  
