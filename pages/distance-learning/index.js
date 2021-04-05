@@ -1009,6 +1009,7 @@ export default function DistanceLearning() {
 **31.03** [Тема: Письмове ділення трицифрових чисел на розрядні числа. Розв'язування і порівняння задач](https://drive.google.com/file/d/1Clb-cBrpiKQ1O2xt6VXmUjlxPlNqpeXq/view?usp=sharing)  
 **01.04** [Тема: Ділення круглих багатоцифрових чисел на розрядні числа. Задачі на рух.](https://drive.google.com/file/d/1v0Ep-KYE4EEn_DdHkGd7BerQpDyG2Hse/view?usp=sharing)  
 **02.04** [Тема: Ділення багатоцифрових чисел на розрядні (у частці нулі всередині і в кінці). Розв'язування рівнянь. Задачі з буквеними даними](https://drive.google.com/file/d/1jfEjtUp0vbBRhK7oEntQn-1-lhvcP_Pw/view?usp=sharing)  
+**05.04** [Тема: Письмове множення двоцифрових чисел на двоцифрові. Задачі на знаходження числа за двома різницями](https://drive.google.com/file/d/1NVKcXcTDRbO-XOfqG6p5k3hw5V3khj39/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **03.12** [Тема: Профілактика порушень зору, слуху, опорно-рухового апарату у школярів. Вправи для профілактики плоскостопості](https://drive.google.com/file/d/1qcNOK9BdFA-j7Fyo2JrNI_GEvJJfZ-46/view?usp=sharing)  
@@ -1041,6 +1042,7 @@ export default function DistanceLearning() {
 **01.04** [ІІ група. Тема: Майбутній час. Змінювання дієслів майбутнього часу за особами й числами](https://drive.google.com/file/d/1J_xSTDfx8zCZBaUNRK0vwr9SMmbuiWyO/view?usp=sharing)  
 **01.04** [І група. Тема: Майбутній час. Змінювання дієслів майбутнього часу за особами й числами](https://drive.google.com/file/d/10nteClvSJSFQJwgFhFLcpNmd5V5fKqd1/view?usp=sharing)  
 **01.04** [І група. Презентація. Тема: Майбутній час. Змінювання дієслів майбутнього часу за особами й числами](https://drive.google.com/file/d/1qClwA9sEM5vmrDHGspF0DTeNSO39yfjj/view?usp=sharing)  
+**05.04** [ІІ група. Тема: Закріплення вивченого про дієслово. Повторення написання числівників](https://drive.google.com/file/d/1qyW_XOJtOF6qRWhs3gjUnOX7pIOCfv48/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Завдання](https://drive.google.com/file/d/13py1-ZctKCGOs4nnf8wgTevIB_Fvh90v/view?usp=sharing)  
@@ -1053,6 +1055,7 @@ export default function DistanceLearning() {
 **29.03** [Тема: Підготовчі вправи. Стрибки зі скакалкою на одній, двох ногах, обертаючи скакалку вперед і назад з проміжними та без проміжних стрибків; стрибки, обертаючи скакалку вперед із перехрещуванням рук (дівчата). Рухливі ігри та естафети зі стрибками](https://drive.google.com/file/d/17cvh8TpY_teVBXbhjTVeR0K0YHqYnv85/view?usp=sharing)  
 **30.03** [Тема: Різновиди ходьби та бігу. Стрибки у висоту з розбігу способом «переступання». Вправи для розвитку витривалості. Рухливі  ігри «Кружилиха» та «Піймай жабу»](https://drive.google.com/file/d/1yDl-2PAVAIu4i5zqiV80-jpIbKFtlmS7/view?usp=sharing)  
 **02.04** [Тема: Комплекс вправ без предметів. Різновиди ходьби та бігу. ЗРВ для формування правильної постави біля гімнастичної стінки. Стрибкові вправи. Рухливі  ігри та естафети зі стрибками](https://drive.google.com/file/d/1Li86b16rkx5Oy-MHGP0S8C2uBRaqUbii/view?usp=sharing)  
+**05.04** [Тема: Різновиди ходьби та бігу . ЗРВ в парах. Серійні вистрибування з упору присівши.  Рухливі  ігри «Кружилиха» та «Піймай жабу»](https://drive.google.com/file/d/1mtdLb1YNP5HySnFVTn7o3F3VSmFeXiID/view?usp=sharing)  
 
 ** Я у світі **  
 **04.12** [Тема: Культура поведінки учня](https://drive.google.com/file/d/1VflWdiAssdcz5PqI46YjcYwF-ewod2FQ/view?usp=sharing)  
@@ -1088,6 +1091,7 @@ export default function DistanceLearning() {
 **31.03** [Горевич Л. В. Тема: Всеволод Нестайко "Шура i Шурко"](https://drive.google.com/file/d/191gzAFDKTTvo9uLnzzGSQkW6qpQd2h4N/view?usp=sharing)  
 **02.04** [Тема: Марія Чумарна «Казка про друга» (уривок напам’ять)](https://drive.google.com/file/d/1-1j4npnkHMIvjcUhyt4yl7wfRHf06EH3/view?usp=sharing)  
 **02.04** [Горевич Л. В. Тема: УПЧ. Людина починається з добра. Інна Христенко. Учителька](https://drive.google.com/file/d/1BDMNzmp_my-DHw68fvzWIHhPSfGvvmKk/view?usp=sharing)  
+**05.04** [Тема: Марія Чумарна «Казка про друга»](https://drive.google.com/file/d/1-G7MHP_hMEQusjbrbVHMOWodoFc8yF3q/view?usp=sharing)  
 
 ** Природознавство **  
 **08.12** [Тема: Рослинний та тваринний світ Євразії](https://drive.google.com/file/d/12dq2cy7xWbmzcqgIBieKcuquvoJs3jDe/view?usp=sharing)  
@@ -1102,6 +1106,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Поглиблення знань про аплікацію. Послідовність виготовлення об’ємної аплікації на тканині з використанням ґудзиків, леліток та бісеру](https://drive.google.com/file/d/1q_ewBpSabhe2sThmRxF7JLvWEzjL_RAd/view?usp=sharing)  
 **18.01** [Тема: Пластичні матеріали для виготовлення виробів. Закріплення поняття об'єму. Ліплення улюбленої тваринки](https://drive.google.com/file/d/1E438g7hnOfmJ-ac30ljauNKMQUsJ7Mgo/view?usp=sharing)  
 **29.03** [Тема: Властивості  штучних матеріалів: пластик, поролон, синтепон, вата. Послідовність виготовлення простих виробів із штучних матеріалів.  Іграшки із штучних матеріалів](https://drive.google.com/file/d/1MIzShEawXWyXVsxK0gvtHDOlkBw-O2gz/view?usp=sharing)  
+**05.04** [Тема: Самообслуговування. Оздоблення одягу та взуття. Техніки , матеріали, інструменти та пристосування для оздоблення взуття. Моделювання взуття. Виготовлення моделі дитячого взуття](https://drive.google.com/file/d/1r0oir5LHeGdbTC2wEJxVXoZQx790Un13/view?usp=sharing)  
 
 ** Англійська мова **  
 **12.01** [Тема: Моя улюблена пора року](https://drive.google.com/file/d/1PDsqIBOFsVc7KKQH2w1znaOqBAhOa3HH/view?usp=sharing)  
@@ -1157,6 +1162,7 @@ export default function DistanceLearning() {
 **31.03** [Тема: Письмове ділення трицифрових чисел на розрядні числа. Розв’язування і порівняння задач](https://drive.google.com/file/d/1mMSuC1KwnPhVhqgxy4TT93B_t2dmvF5H/view?usp=sharing)  
 **01.04** [Тема: Ділення круглих багатоцифрових чисел на розрядні числа. Задачі на рух.](https://drive.google.com/file/d/1bxriXvG9MCT6p7R7oyu3UmWjka3cZNPi/view?usp=sharing)  
 **02.04** [Тема: Ділення багатоцифрових чисел на розрядні (у частці нулі всередині і в кінці). Розв'язування рівнянь. Задачі з буквеними даними](https://drive.google.com/file/d/1TE_UDCCdFs0cVDTiPcFiIpWM3us8rWMo/view?usp=sharing)  
+**05.04** [Тема: Письмове множення двоцифрових чисел на двоцифрові. Задачі на знаходження числа за двома різницями](https://drive.google.com/file/d/15k0yqOquPv6k2nbf_yxpvwHHvAkAnLes/view?usp=sharing)  
 
 ** Природознавство **  
 **03.12** [Тема: Рослинний і тваринний світ Євразії](https://drive.google.com/file/d/19B5F0TdlKF4LUvAQpcxKbDVSHyyTeqsP/view?usp=sharing)  
@@ -1186,6 +1192,7 @@ export default function DistanceLearning() {
 **30.03** [ІІ група. Тема: РЗМ. Детальний переказ тексту](https://drive.google.com/file/d/19tlpQBB0Df3k41GdMPdnIzs48DqJmFZa/view?usp=sharing)  
 **31.03** [І група. Тема: Майбутній час. Змінювання дієслів майбутнього часу за особами й числами](https://drive.google.com/file/d/1Yw3mBzS9PRMekFQb-xZFRO0qQIPtLuOB/view?usp=sharing)  
 **31.03** [ІІ група. Тема: Майбутній час. Змінювання дієслів майбутнього часу за особами й числами](https://drive.google.com/file/d/1fPOmj1kbnJxSny7NjxpmPuiuLQtcJXi_/view?usp=sharing)  
+**05.04** [І група. Тема: Закріплення вивченого про дієслово. Повторення написання числівників.](https://drive.google.com/file/d/1XY8nb38uutGHBWFoEOeGbf3zxDho_dDF/view?usp=sharing)  
 
 ** Я у світі **  
 **04.12** [Тема: Культура поведінки учня](https://drive.google.com/file/d/1uW5654jU6K1rkEnbTDFy_8sCJ2kafQLS/view?usp=sharing)  
@@ -1235,6 +1242,7 @@ export default function DistanceLearning() {
 **31.03** [Горевич Л. В. Тема: Всеволод Нестайко "Шура i Шурко"](https://drive.google.com/file/d/191gzAFDKTTvo9uLnzzGSQkW6qpQd2h4N/view?usp=sharing)  
 **02.04** [Тема: Марія Чумарна «Казка про друга»](https://drive.google.com/file/d/1BRybsgV_sVA6I8KHIdcz65a27OUMWhDq/view?usp=sharing)  
 **02.04** [Горевич Л. В. Тема: УПЧ. Людина починається з добра. Інна Христенко. Учителька](https://drive.google.com/file/d/1BDMNzmp_my-DHw68fvzWIHhPSfGvvmKk/view?usp=sharing)  
+**05.04** [Тема: Марія Чумарна «Казка про друга»](https://drive.google.com/file/d/1D_o5DbtMguEz6NtlL3VmQgj1nwigtJsY/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **08.12** [Тема: Дизайн годинника](https://drive.google.com/file/d/1gMGKFcVJS20q8y2uKGv8Y2kvwBbrkVJB/view?usp=sharing)  
@@ -1243,6 +1251,7 @@ export default function DistanceLearning() {
 **19.01** [Горевич Л. В. Тема: Караван у пустелі](https://drive.google.com/file/d/1FdfAvojx8X9IRtXwhB6iAMegd3KZXQp8/view?usp=sharing)  
 **19.01** [Горевич Л. В. Презентація. Тема: Караван у пустелі](https://drive.google.com/file/d/1WvjLMudcsO79sogzpvvWM0pMS9UFsaIQ/view?usp=sharing)  
 **30.03** [Горевич Л. В. Тема: Пам’ятки архітектури.  Особливості архітектури рідного міста. Важливість збереження памяток архітектури. Значення виробору формату для створення виразної врівноваженої композиції](https://drive.google.com/file/d/1EFfSMqXThHJu1P8dNeVOphG7Pv4CaQ3w/view?usp=sharing)  
+**05.04** [Тема: Самообслуговування. Оздоблення одягу та взуття. Техніки , матеріали, інструменти та пристосування для оздоблення взуття. Моделювання взуття. Виготовлення моделі дитячого взуття](https://drive.google.com/file/d/1GySH-FC8BHmH3ucde2X2inSQc-RIY80A/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **11.01** [Тема: Звички і здоров'я. Практична робота: виконання проєкту з формування корисної звички](https://drive.google.com/file/d/1hEFNVYpZOEiC_Q8FM2xIroBvJI9HgWwE/view?usp=sharing)  
@@ -1253,6 +1262,7 @@ export default function DistanceLearning() {
 **11.01** [Тема: Поглиблення знань про аплікацію. Послідовність виготовлення об’ємної аплікації на тканині з використанням ґудзиків, леліток та бісеру](https://drive.google.com/file/d/1Z76yAY3HR8JXXfmbai_0Mai2x20r1GY0/view?usp=sharing)  
 **18.01** [Тема: Пластичні матеріали для виготовлення виробів](https://drive.google.com/file/d/1whV-X3d54NnrYGkWlZ89YY-fiJUldMYd/view?usp=sharing)  
 **29.03** [Тема: Властивості штучних матеріалів: пластик, поролон, синтепон, вата. Послідовність виготовлення простих виробів із штучних матеріалів. Іграшки із штучних матеріалів](https://drive.google.com/file/d/15Xayi3lG0unPIr_aCIDpPBN8oRy6toDm/view?usp=sharing)  
+**05.04** [Тема: Безпечна прогулянка. Вихід із непередбачених ситуацій поза межами домівки, школи](https://drive.google.com/file/d/1oFWDJAPJ3aQO8kgQ3gFCVQUXyzmM8Lrj/view?usp=sharing)  
 
 ** Фізична культура **  
 **13.01** [Тема: Підготовчі вправи. ЗРВ зі скакалкою. Рухлива гра](https://drive.google.com/file/d/1kenzSxobJ8YO5eDSGzqAUSZ_R-_FTPsr/view?usp=sharing)  
