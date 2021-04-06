@@ -2750,6 +2750,8 @@ export default function DistanceLearning() {
 **19.01** [Тема: Галогени](https://drive.google.com/file/d/1k5ct8mdHwfewxzUHBtm6Ai1-0twGjPN4/view?usp=sharing)  
 **30.03** [Тема: Добрива](https://drive.google.com/file/d/18P3n501Ym5kDNYCdcZT8IAR24stt8G86/view?usp=sharing)  
 **30.03** [Тема: Грунти](https://drive.google.com/file/d/1uDX5OoIx-jPdFW9QpNYs9_S2__uJVauO/view?usp=sharing)  
+**06.04** [Тема: Карбон](https://drive.google.com/file/d/1jca9hPTMR6xLzU3LfOOQvLTC9tKHB8Kg/view?usp=sharing)  
+**06.04** [Тема: Оксиди в атмосфері](https://drive.google.com/file/d/1rvzBJ-EdCgsgTfkYKlVUclBDcsGdfzOD/view?usp=sharing)  
 
 ** Алгебра **  
 **11.01** [Тема: Первісна та її властивості](https://drive.google.com/file/d/1L324DYGv9LNfmQRPdS-EqyuIWCETnm6O/view?usp=sharing)  
