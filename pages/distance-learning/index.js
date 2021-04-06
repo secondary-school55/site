@@ -733,7 +733,7 @@ export default function DistanceLearning() {
 **01.04** [Презентація. Тема: Перевірка ділення множенням. Повторення назви компонентів ділення](https://drive.google.com/file/d/1Tmob-zhQeyFdWlt8GMy5ligscKB2YUqx/view?usp=sharing)  
 **02.04** [Тема: Перевірка дії множення дією ділення](https://drive.google.com/file/d/1qiaTWXprDRixaEmPHHFBHsISGtNPzf6U/view?usp=sharing)  
 **05.04** [Тема: Ділення виду 360 : 3. Повторення розрядів трицифрових чисел](https://drive.google.com/file/d/1dZRVzCu6fYLex5kh13qCYain19p37Hcd/view?usp=sharing)  
-**05.04** [Презентація. Тема: Ділення виду 360 : 3. Повторення розрядів трицифрових чисел]()  
+**05.04** [Презентація. Тема: Ділення виду 360 : 3. Повторення розрядів трицифрових чисел](https://drive.google.com/file/d/14pglEuaPFXgZ-FXeChXSnAJWTVUiezIH/view?usp=sharing)  
 **06.04** [Тема: Ділення виду 64 поділити на 16](https://drive.google.com/file/d/1BWsDCDxXSQNRIlvIXMX8nxG0_sWUDf9y/view?usp=sharing)  
 **06.04** [Презентація. Тема: Ділення виду 64 поділити на 16](https://drive.google.com/file/d/1AyaUMtR-QtvWHCrnV2tBHUPGDqmQy_d-/view?usp=sharing)  
 
@@ -2126,6 +2126,7 @@ export default function DistanceLearning() {
 **31.03** [8-Б. Тема: Розвязування рівнянь, що зводяться до квадратних](https://drive.google.com/file/d/1lOZfgdm_45VYwczYMryqp4NiGmzmlJSg/view?usp=sharing)  
 **01.04** [8-А. Тема: Розв’язування вправ](https://drive.google.com/file/d/1ZTGqxIOumuGm9HztWJrxvpexVV0rquX0/view?usp=sharing)  
 **01.04** [8-Б. Тема: Площа трикутника](https://drive.google.com/file/d/1PVJ0OYaprbQDQj-Y0XJB9gjp57_C1wgS/view?usp=sharing)  
+**06.04** [8-Б. Тема: Розвязування рівнянь, що зводяться до квадратних](https://drive.google.com/file/d/129W9xG7UzT8I15JS7zsdKMkjPVWrdKr6/view?usp=sharing)  
 
 ** Географія **  
 **04.12** [Тема: Вплив погодно-кліматичних умов на здоров'я і господарську діяльність людини. Охорона атмосферного повітря. Кліматичні особливості своєї місцевості](https://drive.google.com/file/d/1vYAwfOrYGHF59NtP26e4W9X-6BdlSoxY/view?usp=sharing)
@@ -2187,6 +2188,7 @@ export default function DistanceLearning() {
 **30.03** [8-А. Тема: Розв’язування задач на обчислення площі трапеції](https://drive.google.com/file/d/1XzgiovMLv3u2yO7qJmTebl9xnoBiTEXU/view?usp=sharing)  
 **30.03** [8-Б. Тема: Площа паралелограма](https://drive.google.com/file/d/1_--ReM7l8wtA3sNlhEt_TnErhE_Jq2h1/view?usp=sharing)  
 **06.04** [8-А. Тема: Метод площ. Площі многокутників. Самостійна робота](https://drive.google.com/file/d/1bEb-1c8WWoAVO7AsPXMK5GM9lflqHRHq/view?usp=sharing)  
+**06.04** [8-Б. Тема: Площа трапеції](https://drive.google.com/file/d/1tO79cGMsmnJ95h85efCTta7Q7iww1saW/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Логічні вирази. Оператори розгалуження. Вкладені розгалуження](https://drive.google.com/file/d/1UIkiDcQ0uWpgiOSN8HPQe0On15gl7hh0/view?usp=sharing)  
@@ -2462,6 +2464,7 @@ export default function DistanceLearning() {
 **01.04** [9-А. Тема: Узагальнення та систематизація знань](https://drive.google.com/file/d/1nLPolnzSzNeYwEg8d11NwSmeTNXx-VwV/view?usp=sharing)  
 **02.04** [9-Б. Тема: Узагальнення та систематизація знань](https://drive.google.com/file/d/1Iy1GUibeZH_pX3alIY6ZGgyScVI9GPig/view?usp=sharing)  
 **05.04** [9-Б. Тема: Підсумковий урок з теми Числові послідовності](https://drive.google.com/file/d/1scXf7srfqyRQ6dlHsJaDdbswEgbtb2U7/view?usp=sharing)  
+**06.04** [9-А. Тема: Підсумковий урок з теми Числові послідовності](https://drive.google.com/file/d/1PxaYqoFzsqUmaMG5APA6MOai-3Lu1q0M/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
@@ -2786,6 +2789,7 @@ export default function DistanceLearning() {
 
 ** Геометрія **  
 **12.01** [Тема: Об'єм піраміди](https://drive.google.com/file/d/1UWQ8LaxxQqgKUAnUq2pLPtpH5B30dHy6/view?usp=sharing)  
+**06.04** [Тема: Підготовка до ЗНО. Повторенняя теми Трикутники](https://drive.google.com/file/d/1f23FR-yiCqZNnOWCma2HRqsu4zoSusEe/view?usp=sharing)  
 
 ** Географія **  
 **13.01** [Тема: Природні зони](https://drive.google.com/file/d/1PyrmX2ocO_VPPzR6-2RqG18M9pkSWBlH/view?usp=sharing)  
