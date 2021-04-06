@@ -1379,6 +1379,7 @@ export default function DistanceLearning() {
 **01.04** [5-Б. Тема: Водне середовище життя](https://drive.google.com/file/d/1Q7T88LkzY0GCTKIg3Q5g2z9-qgdiNTfD/view?usp=sharing)  
 **02.04** [5-А. Тема: Періодичні зміни середовища й організми](https://drive.google.com/file/d/1BxcCSOryflmYv-pLAueOaawB_PrAFqJ6/view?usp=sharing)  
 **06.04** [5-Б. Тема: Грунтове середовище життя](https://drive.google.com/file/d/1nzmJClh9FC9Fizn1wARSuODE9qIEaQmC/view?usp=sharing)  
+**06.04** [5-А. Тема: Наземно-повітряне середовище існування організмів](https://drive.google.com/file/d/1HFfC_sjUR5bBuqUPI4w5ChgE7L9dDU0I/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
@@ -1680,6 +1681,7 @@ export default function DistanceLearning() {
 **21.01** [Тема: Розмноження рослин](https://drive.google.com/file/d/1RO7tmFwIyWZCfhlBIldt2G6OIJoi5TYe/view?usp=sharing)  
 **29.03** [Тема: Екологічні групи рослин](https://drive.google.com/file/d/118ZNVkLCBxuIRoJX82KCPyTecQst6IGP/view?usp=sharing)  
 **05.04** [Тема: Значення рослин в природі та житті людини](https://drive.google.com/file/d/1q-oR2kqPNuN1A4OqvDr8GtNp7g7hfpoM/view?usp=sharing)  
+**06.04** [Тема: Значення рослин](https://drive.google.com/file/d/1I-v9o2mVL5pQVwCMAGH9sOyE6yZoleZf/view?usp=sharing)  
 
 ** Англійська мова **  
 **11.01** [Тема: Продукти харчування](https://drive.google.com/file/d/1d3TbAEysdcGIIGHnMnE1Pt-076Fx2xcB/view?usp=sharing)  
@@ -1870,6 +1872,7 @@ export default function DistanceLearning() {
 **22.01** [Тема: Замкнена та незамкнена кровоносна система](https://drive.google.com/file/d/1ZeHKRTqVl2JC8UjNiU7I61o1j2ikdeNF/view?usp=sharing)  
 **30.03** [Тема: Поведінка тварин](https://drive.google.com/file/d/1CA8aP1QimysFWYTlxg1w_c_kRkrzMrhg/view?usp=sharing)  
 **02.04** [Тема: Орієнтування та міграція тварин](https://drive.google.com/file/d/1DKk_J6VEl1pEkREnfC8nUOPvFB_Bo917/view?usp=sharing)  
+**06.04** [Тема: Форми поведінки тварин](https://drive.google.com/file/d/1G10X4ZoZa3ThPYSu-IE95eeYI42svaq9/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **04.12** [Тема: Показники фізичного розвитку підлітків. Способи покращення фізичної форми](https://drive.google.com/file/d/1RLib8JRvGgB4ChCpFRIzK3r3e9lClYCL/view?usp=sharing)  
@@ -2415,6 +2418,7 @@ export default function DistanceLearning() {
 **30.03** [9-А,Б. Тема: Докази реальності еволюції](https://drive.google.com/file/d/14w75kRZBAAWhwxN8MZQx-VaA6xYlKovh/view?usp=sharing)  
 **31.03** [9-А. Тема: Синтетична теорія еволюції](https://drive.google.com/file/d/1hu1fEkwcDs6J76gKEWjFwsuk-aqASIB1/view?usp=sharing)  
 **02.04** [9-Б. Тема: Синтетична теорія еволюції](https://drive.google.com/file/d/1gGb32TlUVpv_KkjxDuyMwqqi20uB-3v1/view?usp=sharing)  
+**06.04** [Тема: Вид. Видоутворення. Мікроеволюція](https://drive.google.com/file/d/1HQhpl5ABTAqTCabCUctnpUXHSB0_haHF/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Усний твір-роздум у публіцистичному стилі мовлення на суспільну тему](https://drive.google.com/file/d/1B1Pj9K4LkO41bylzM2_PTvUpGMqRtovG/view?usp=sharing)  
