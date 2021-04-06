@@ -2819,12 +2819,6 @@ export default function DistanceLearning() {
 **01.04** [Тема: "Драма-притча" як відгук на сучасні історичні події й актуальні питання духовного буття людини. "Театр абсурду" як явище неоавангардизму](https://drive.google.com/file/d/1pWQYTtAHeBT-LRs-TN_915fe1fUPxNrx/view?usp=sharing)  
 `}</Md>
       </Tab>
-      <Tab title="Гуртки">
-        <Md>{`
-**«Хамелеон»**  
-**06.04** [Тема: Стилізація](https://drive.google.com/file/d/1HCNA4a59QCPndA7FuQ3EWK46gDmA66dW/view?usp=sharing)  
-          `}</Md>
-      </Tab>
       <Tab title="Онлайн уроки">
         <Md>{`
 1 клас –  [bit.ly/USO1class](https://bit.ly/USO1class)  
