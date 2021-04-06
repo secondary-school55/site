@@ -1151,6 +1151,7 @@ export default function DistanceLearning() {
 **05.04** [Тема: Марія Чумарна «Казка про друга»](https://drive.google.com/file/d/1-G7MHP_hMEQusjbrbVHMOWodoFc8yF3q/view?usp=sharing)  
 **05.04** [Горевич Л. В. Тема: Марія Чумарна. Казка про друга](https://drive.google.com/file/d/1c_IqM8sT0pSWSUyVKP431cR4qelsVVJF/view?usp=sharing)  
 **06.04** [Тема: Урок позакласного читання «Людина починається з добра». Інна Христенко «Учителька», Василь Сухомлинський «Розділена радість»](https://drive.google.com/file/d/1Q4kyPL1MTcyCk1aPQLqZCtC963O0kUHb/view?usp=sharing)  
+**06.04** [Горевич Л. В. Тема: Марія Чумарна. Казка про друга](https://drive.google.com/file/d/13B16Fb-Sje0ouDLmokbC_oTv_LErt-fm/view?usp=sharing)  
 
 ** Природознавство **  
 **08.12** [Тема: Рослинний та тваринний світ Євразії](https://drive.google.com/file/d/12dq2cy7xWbmzcqgIBieKcuquvoJs3jDe/view?usp=sharing)  
@@ -1377,6 +1378,7 @@ export default function DistanceLearning() {
 **30.03** [5-А. Тема: Вода і тепло в житті організмів](https://drive.google.com/file/d/1bpnIcYJLWoXX6hLm92t-TZlQJDQxNcZB/view?usp=sharing)  
 **01.04** [5-Б. Тема: Водне середовище життя](https://drive.google.com/file/d/1Q7T88LkzY0GCTKIg3Q5g2z9-qgdiNTfD/view?usp=sharing)  
 **02.04** [5-А. Тема: Періодичні зміни середовища й організми](https://drive.google.com/file/d/1BxcCSOryflmYv-pLAueOaawB_PrAFqJ6/view?usp=sharing)  
+**06.04** [5-Б. Тема: Грунтове середовище життя](https://drive.google.com/file/d/1nzmJClh9FC9Fizn1wARSuODE9qIEaQmC/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
@@ -2440,6 +2442,7 @@ export default function DistanceLearning() {
 **19.01** [Тема: Активність радіонуклідів](https://drive.google.com/file/d/1E1x-YRRxexT9mj-MO77yTu9c1e2CaTHo/view?usp=sharing)  
 **30.03** [Тема: Рух тіла під дією кількох сил](https://drive.google.com/file/d/1VMuRMoXIbrxCNmuRDs9CKE6K8MQZaDpQ/view?usp=sharing)  
 **02.04** [Тема: Рух тіла під дією кількох сил](https://drive.google.com/file/d/16S0H0BZ8D9TRBOxXIlmnxgg9YuJEm-ei/view?usp=sharing)  
+**06.04** [Тема: Повторення](https://drive.google.com/file/d/17GhsKWbUU-ZA2hzyBPyzdDXws0gVQcmq/view?usp=sharing)  
 
 ** Мистецтво **  
 **04.12** [Тема: Сюрреалізм](https://drive.google.com/file/d/1NifrDQX_ktjFsE6qmEyUdO5CkcjpReOn/view?usp=sharing)  
@@ -2544,6 +2547,7 @@ export default function DistanceLearning() {
 **21.01** [Тема: Механічні хвилі](https://drive.google.com/file/d/1seb4d2I5eGXellmfXvlcQm_-Ss3cKr8k/view?usp=sharing)  
 **30.03** [Тема: Властивості твердих тіл](https://drive.google.com/file/d/1ZneSuyIcpAy7KqDFbr4O207nbrH1Oj-o/view?usp=sharing)  
 **01.04** [Тема: Механiчнi властивостi твердих тiл](https://drive.google.com/file/d/1EYLhJ_FQmAwsi7ik_JzHKFnYeeEkB5JT/view?usp=sharing)  
+**06.04** [Тема: Повторення](https://drive.google.com/file/d/1a2P71LyTO7spIfihbXt6sLthHoKm25NE/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)  
@@ -2814,6 +2818,12 @@ export default function DistanceLearning() {
 **21.01** [Тема: Розвиток жанру антиутопії. Поетика](https://drive.google.com/file/d/1pTl_pAaZW_6nOmp2Zh0L5K8WApo7qFsK/view?usp=sharing)  
 **01.04** [Тема: "Драма-притча" як відгук на сучасні історичні події й актуальні питання духовного буття людини. "Театр абсурду" як явище неоавангардизму](https://drive.google.com/file/d/1pWQYTtAHeBT-LRs-TN_915fe1fUPxNrx/view?usp=sharing)  
 `}</Md>
+      </Tab>
+      <Tab title="Гуртки">
+        <Md>{`
+**«Хамелеон»**  
+**06.04** [Тема: Стилізація](https://drive.google.com/file/d/1HCNA4a59QCPndA7FuQ3EWK46gDmA66dW/view?usp=sharing)  
+          `}</Md>
       </Tab>
       <Tab title="Онлайн уроки">
         <Md>{`
