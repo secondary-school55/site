@@ -90,6 +90,7 @@ export default function DistanceLearning() {
 **31.03** [Тема: Досліджуємо властивості величин. Ціле і частина. Визначення довжини ламаної. Розв’язування задач](https://drive.google.com/file/d/1k0c9c1PHoJNVpq_8AhQ4TwjMRMMxJsh3/view?usp=sharing)  
 **01.04** [Тема: Досліджуємо лічильну одиницю десяток. Лічба десятками. Сотня](https://drive.google.com/file/d/1fcbnbCsXmCUB2vQPpPKLBWs4BUUQe26Q/view?usp=sharing)  
 **02.04** [Тема: Порівнюємо, додаємо і віднімаємо десятки. Робота з математичними матеріалами](https://drive.google.com/file/d/1v2vnB-dvB_six1Fq2P1N3NKstbA8ELgQ/view?usp=sharing)  
+**06.04** [Тема: Одержуємо круглі числа. Додаємо і віднімаємо круглі числа. Порівняння чисел](https://drive.google.com/file/d/1GCq9TCJx3Yre1MlqTib9Tgsbth8L9A1d/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Переглянути відео](https://drive.google.com/file/d/1D2aar6UzW4Tfu4bdRX5yZWNcV_PluYtf/view?usp=sharing)  
@@ -104,6 +105,7 @@ export default function DistanceLearning() {
 **30.03** [Тема: Вправи для розвитку навички читання. Загадка. За Л.Борщевською «Папужка»](https://drive.google.com/file/d/1ntwhlnbaeU4SULfKO629i6ZI4On1WeOK/view?usp=sharing)  
 **31.03** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. І.Олексин «Бачить мати», Г.Бойко «Де букварик?»](https://drive.google.com/file/d/12Kucs7T2-fvFXZB9OrEmDR2RFAUNuvHy/view?usp=sharing)  
 **05.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. В.Гринько «Лічилка». Л.Вознюк «Татко і матуся». Загадки](https://drive.google.com/file/d/1r2nt8bWAydFOj6NTKV-Hrx1jJuRVza2F/view?usp=sharing)  
+**06.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. Загадка. За Д.Чередниченком Фокус-мокус](https://drive.google.com/file/d/1RUXcktcoxaTS-8hbb2BgNsyJ-mvqbK1Y/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Школа](https://drive.google.com/file/d/1dVzlit8c58ztKuqNk70e7sNuMCzAQzqZ/view?usp=sharing)  
@@ -133,6 +135,7 @@ export default function DistanceLearning() {
 **31.03** [Тема: Написання слів із буквою ґ. Побудова речень за поданим початком і малюнками](https://drive.google.com/file/d/1HTt5P7tqf6IDlRzZYmxuHE-bZrDLd4Wm/view?usp=sharing)  
 **01.04** [Тема: Вправи для розвитку навички читання. Й. Курлат «Добрий», О.Мітта «У гостях і вдома».](https://drive.google.com/file/d/1iqQF1iTImmG6iTh1K3eg1qCLg96l0yzW/view?usp=sharing)  
 **05.04** [Тема: Вимова звуків дж, дз, позначення їх буквосполученнями дж, дз. Звуковий аналіз слів](https://drive.google.com/file/d/1_b-YNuz5DxWI8eCeG_YA8wTczHeknQsb/view?usp=sharing)  
+**06.04** [Тема: Написання слів із буквою щ. Складання і записування слів із вивчених букв. Написання речень](https://drive.google.com/file/d/1E1C6E2pj288AcxP2PLHkdVFEWLS8HrX_/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Руханка](https://drive.google.com/file/d/1L4Jc2b_n8nGf6CHFQ-VBJToOsyLZUVwj/view?usp=sharing)  
@@ -143,6 +146,7 @@ export default function DistanceLearning() {
 **30.03** [Тема: Ранкова зарядка](https://drive.google.com/file/d/1_IYwaqWYz5l6otp-cVyvwkud5q1ZFJ66/view?usp=sharing)  
 **31.03** [Тема: Ранкова гiмнастика](https://drive.google.com/file/d/1eYMY-IHIYoVWJWcvQJ5rFamJduEQ9FDQ/view?usp=sharing)  
 **02.04** [Тема: Ранкова зарядка](https://drive.google.com/file/d/1fkNynHyg63liIsYd9nCVY94X3QxOYDn4/view?usp=sharing)  
+**06.04** [Тема: Ранкова зарядка](https://drive.google.com/file/d/1gDITUTSPOuAexSCBc_9TFX75O6jt21cW/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Розумна сова](https://drive.google.com/file/d/1Ja33glOd8DLO8tlF8InGD6-KL2jBX0Fp/view?usp=sharing)  
@@ -153,6 +157,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Мандри Країною Мистецтв. Цирк](https://drive.google.com/file/d/15CcPLCvh63NS8X-dK6GCR1gH4bDpAgmT/view?usp=sharing)  
 **19.01** [Тема: Зустріч з театром. Ляльковий театр. Малювання ляльки до казки Лисичка, Котик і Півник](https://drive.google.com/file/d/1wMtKr4enzYHq59qalPeyWFEvu_HDch5P/view?usp=sharing)  
 **30.03** [Тема: Великодні писанки. Малювання писанки](https://drive.google.com/file/d/1IxZg--pyRebmmWJ2pXm3xvTyKGNbNMsH/view?usp=sharing)  
+**06.04** [Тема: Образотворче мистецтво Народні інструменти та іграшки. Свищики. Ліплення і прикрашання весняної іграшки - свищика](https://drive.google.com/file/d/12TpXk_83hkU_7C75VQ1qR8HYuKIivO6t/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="1-Б">
@@ -1143,7 +1148,7 @@ export default function DistanceLearning() {
 **13.01** [Горевич Л. В. Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
 **19.01** [Горевич Л. В. Тема: Караван у пустелі](https://drive.google.com/file/d/1FdfAvojx8X9IRtXwhB6iAMegd3KZXQp8/view?usp=sharing)  
 **19.01** [Горевич Л. В. Презентація. Тема: Караван у пустелі](https://drive.google.com/file/d/1WvjLMudcsO79sogzpvvWM0pMS9UFsaIQ/view?usp=sharing)  
-**31.03** [Горевич Л. В. Тема: Пам'ятки архітектури](https://drive.google.com/file/d/1rpeWgTqbCw3KC1Cyw8AUb5E6m68zMBXt/view?usp=sharing)  
+**31.03** [Горевич Л. В. Тема: Пам'ятки архітектури](https://drive.google.com/file/d/15OaH3OjoZ18W8w3IUG8E8mLT7bNtH_Po/view?usp=sharing)  
 
 ** Інформатика **  
 **13.01** [Тема: Електронна пошта](https://drive.google.com/file/d/1KyFCawBMzLggZl_i87HzBarHmFnhAAoK/view?usp=drive_web)  
@@ -1265,9 +1270,8 @@ export default function DistanceLearning() {
 **12.01** [Горевич Л. В. Тема: Невідома планета](https://drive.google.com/file/d/1eEBEMuWkGd9yEa6BiHlvDiag95QBekMp/view?usp=sharing)  
 **19.01** [Горевич Л. В. Тема: Караван у пустелі](https://drive.google.com/file/d/1FdfAvojx8X9IRtXwhB6iAMegd3KZXQp8/view?usp=sharing)  
 **19.01** [Горевич Л. В. Презентація. Тема: Караван у пустелі](https://drive.google.com/file/d/1WvjLMudcsO79sogzpvvWM0pMS9UFsaIQ/view?usp=sharing)  
-**30.03** [Горевич Л. В. Тема: Пам’ятки архітектури.  Особливості архітектури рідного міста. Важливість збереження памяток архітектури. Значення виробору формату для створення виразної врівноваженої композиції](https://drive.google.com/file/d/1EFfSMqXThHJu1P8dNeVOphG7Pv4CaQ3w/view?usp=sharing)  
+**30.03** [Горевич Л. В. Тема: Пам’ятки архітектури.  Особливості архітектури рідного міста. Важливість збереження памяток архітектури. Значення виробору формату для створення виразної врівноваженої композиції](https://drive.google.com/file/d/15OaH3OjoZ18W8w3IUG8E8mLT7bNtH_Po/view?usp=sharing)  
 **05.04** [Тема: Самообслуговування. Оздоблення одягу та взуття. Техніки , матеріали, інструменти та пристосування для оздоблення взуття. Моделювання взуття. Виготовлення моделі дитячого взуття](https://drive.google.com/file/d/1GySH-FC8BHmH3ucde2X2inSQc-RIY80A/view?usp=sharing)  
-
 
 ** Основи здоров’я **  
 **11.01** [Тема: Звички і здоров'я. Практична робота: виконання проєкту з формування корисної звички](https://drive.google.com/file/d/1hEFNVYpZOEiC_Q8FM2xIroBvJI9HgWwE/view?usp=sharing)  
@@ -1348,6 +1352,7 @@ export default function DistanceLearning() {
 **01.04** [5-Б. Тема: РМ Письмовий твір-роздум у художньому стилі на тему: "Чому необхідно знати історію свого народу?"](https://drive.google.com/file/d/1YNNWRemxFqhBe0vO9Xh1MlfuuA7QEL1A/view?usp=sharing)  
 **01.04** [5-А. ІІ група. Тема: «Звертання. Непоширені та поширені. Розділові знаки при звертаннях»](https://drive.google.com/file/d/1Z0fO0oxmtbA291jkJ06PUUEeg1I-I2cs/view?usp=sharing)  
 **05.04** [5-А. ІІ група. Тема: РМ Твір-роздум у художньому стилі](https://drive.google.com/file/d/10Ei9xPH6hpkL1Kttp8ZskkmNh_7_hEvx/view?usp=sharing)  
+**05.04** [5-А. І група. Тема: РМ Твір-роздум у художньому стилі](https://drive.google.com/file/d/1gn2JLMQCpEaLNt6emCbvOmlvnyQd4hV4/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
