@@ -1145,6 +1145,7 @@ export default function DistanceLearning() {
 **01.04** [І група. Тема: Майбутній час. Змінювання дієслів майбутнього часу за особами й числами](https://drive.google.com/file/d/10nteClvSJSFQJwgFhFLcpNmd5V5fKqd1/view?usp=sharing)  
 **01.04** [І група. Презентація. Тема: Майбутній час. Змінювання дієслів майбутнього часу за особами й числами](https://drive.google.com/file/d/1qClwA9sEM5vmrDHGspF0DTeNSO39yfjj/view?usp=sharing)  
 **05.04** [ІІ група. Тема: Закріплення вивченого про дієслово. Повторення написання числівників](https://drive.google.com/file/d/1qyW_XOJtOF6qRWhs3gjUnOX7pIOCfv48/view?usp=sharing)  
+**05.04** [І група. Тема: Закріплення вивченого про дієслово. Повторення написання числівників](https://drive.google.com/file/d/1Qt4MgdChsX2N6xj_ExOTMKoPak66uuVT/view?usp=sharing)  
 **06.04** [ІІ група. Тема: Побудова речень із дієсловами теперішнього й майбутнього часу](https://drive.google.com/file/d/1sBnXvAUhgmq4QycBCp-UNT7cxMjFS05p/view?usp=sharing)  
 **06.04** [І група. Тема: Побудова речень із дієсловами теперішнього й майбутнього часу](https://drive.google.com/file/d/17XSDeYnnLq3BTdaVz8bWgFHyZpEHArIB/view?usp=sharing)  
 
@@ -1234,7 +1235,6 @@ export default function DistanceLearning() {
 **01.04** [Тема: Відправляємося у мандрівку](https://drive.google.com/file/d/1OyJsTlZwlGrFRVu_qAZzHdmNmdMwpQGN/view?usp=sharing)  
 **01.04** [Аудіозапис. Тема: Мандрівка](https://drive.google.com/file/d/1Gf8SqZfD88tQ7IkoknLhdqFx2gJBEcNs/view?usp=sharing)  
 **01.04** [Тема: Відправляємось у мандрівку](https://drive.google.com/file/d/1mMe5snRS4CfTCEJYbGqv56igTPqOrLmr/view?usp=sharing)  
-**05.04** [І група. Тема: Закріплення вивченого про дієслово. Повторення написання числівників](https://drive.google.com/file/d/1Qt4MgdChsX2N6xj_ExOTMKoPak66uuVT/view?usp=sharing)  
 **06.04** [ІІ група. Тема: Чому люди подорожують](https://drive.google.com/file/d/19QmJ9vTCsZ5SsVDdKPgMkKX6nYxlQvVz/view?usp=sharing)  
 **06.04** [І група. Тема: Чому люди подорожують](https://drive.google.com/file/d/1gpGymueCByLbXp_FPQfZ-fAOEG8LSknt/view?usp=sharing)  
 **06.04** [І група. Аудіозапис](https://drive.google.com/file/d/1ViBLLX7V4kwzgDJaOPrmEAF_2dpYARmP/view?usp=sharing)  
