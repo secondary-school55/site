@@ -1750,7 +1750,6 @@ export default function DistanceLearning() {
 **06.04** [Тема: Узагальнення й систематизація вивченого з теми Числівник](https://drive.google.com/file/d/1PoM4CrhCvmnJTjLhhbWAiCr8NPjs6VbV/view?usp=sharing)  
 **07.04** [Тема: Узагальнення й систематизація вивченого з теми Числівник](https://drive.google.com/file/d/1R-hMdsHa4grInBcWTt3Lk1SWvnEiPhhw/view?usp=sharing)  
 
-
 ** Біологія **  
 **11.01** [Тема: Різноманітність та видозміни пагона](https://drive.google.com/file/d/1-QyLP9rc_OE-yPg9YZ7I6EDa7FmKktvz/view?usp=sharing)  
 **14.01** [Тема: Будова листка у звязку з функціями](https://drive.google.com/file/d/1SgqVRONZ5bItfVbpccloSGkG56VB6dxb/view?usp=sharing)  
@@ -1828,6 +1827,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Види рішень](https://drive.google.com/file/d/1Ic241cRLf0OHQiJDlEFwiHeGkWpJTBc9/view?usp=sharing)  
 **20.01** [Тема: Вплив реклами на рішення людини. Види реклами](https://drive.google.com/file/d/1NbtevUO8Mhl3b43N5955q54r68Lf1nS2/view?usp=sharing)  
 **31.03** [Тема: Підліткові компанії. Ознаки дружніх, недружніх і небезпечних компаній](https://drive.google.com/file/d/1DW_fwwmMop7BnK_aCto32CqBcwSkLoqW/view?usp=sharing)  
+**07.04** [Тема: Безпека в побуті. Правила користування газовими приладами, електроприладами, водогоном, тепловими мережами](https://drive.google.com/file/d/1TmZMO54hj-58H7gN2LM0vutqxuAhiztI/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **14.01** [Тема: Побутовий жанр. Історія виникнення та розвитку](https://drive.google.com/file/d/1XYvXwACQ4PgoG10yrkiNui7Ho97oaw35/view?usp=sharing)  
@@ -2230,6 +2230,7 @@ export default function DistanceLearning() {
 **01.04** [8-Б. Тема: Площа трикутника](https://drive.google.com/file/d/1PVJ0OYaprbQDQj-Y0XJB9gjp57_C1wgS/view?usp=sharing)  
 **06.04** [8-Б. Тема: Розвязування рівнянь, що зводяться до квадратних](https://drive.google.com/file/d/129W9xG7UzT8I15JS7zsdKMkjPVWrdKr6/view?usp=sharing)  
 **07.04** [8-А. Тема: Розв'зування рівнянь, які зводяться до квадратних](https://drive.google.com/file/d/1lfxvgLjkuixTSHxuBlkpH-5jIwPS69R3/view?usp=sharing)  
+**07.04** [8-Б. Тема: Розвязування задач за допомогою квадратних рівнянь](https://drive.google.com/file/d/1g-ZyBGNEY5sTe7NGluwNrj_B5issvwEf/view?usp=sharing)  
 
 ** Географія **  
 **04.12** [Тема: Вплив погодно-кліматичних умов на здоров'я і господарську діяльність людини. Охорона атмосферного повітря. Кліматичні особливості своєї місцевості](https://drive.google.com/file/d/1vYAwfOrYGHF59NtP26e4W9X-6BdlSoxY/view?usp=sharing)
@@ -2424,6 +2425,7 @@ export default function DistanceLearning() {
 **01.04** [9-Б. Тема: Поворот](https://drive.google.com/file/d/1JQZKY42e_kpBQ2n_E0hc_6CzpW7Tccxp/view?usp=sharing)  
 **02.04** [9-А. Тема: Симетрія відносно точки](https://drive.google.com/file/d/1DMl22xNaje95bf5I3M2SYa2hHcDgHQdv/view?usp=sharing)  
 **07.04** [9-Б. Тема: Паралельне перенесення](https://drive.google.com/file/d/1qLJ5CtIy11hBiLo5LE4I0vR2-901ZAFg/view?usp=sharing)  
+**07.04** [9-А. Тема: Симетрія відносно прямої](https://drive.google.com/file/d/14g7b5E10TJbp7j0gYo2rxmdu_Hzlpd0L/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1_YPlRDOzxWAHMorqZAt9hTRsefrTjAo4/view?usp=sharing)  
@@ -2456,7 +2458,9 @@ export default function DistanceLearning() {
 **05.04** [9-А. І група. Тема: Плани на майбутнє](https://drive.google.com/file/d/1d91SUjHo7GYwtUoUWAicNdAJsF_WzYCt/view?usp=sharing)  
 **05.04** [9-А. І група. Тема: Плани на майбутнє](https://drive.google.com/file/d/1IANzgmcD8WDzfGR5hoFEmLEQZYJqpzOK/view?usp=sharing)  
 **05.04** [9-Б. Тема: Плани на майбутнє](https://drive.google.com/file/d/1IANzgmcD8WDzfGR5hoFEmLEQZYJqpzOK/view?usp=sharing)  
-**07.04** [9-А. Тема: Вибір професії](https://drive.google.com/file/d/1dtbNQnPDjwPgcwCAJ5Dm7rh-ddf3OPqt/view?usp=sharing)  
+**07.04** [9-А. ІІ група. Тема: Вибір професії](https://drive.google.com/file/d/1dtbNQnPDjwPgcwCAJ5Dm7rh-ddf3OPqt/view?usp=sharing)  
+**07.04** [9-А. І група. Тема: Вибір професії](https://drive.google.com/file/d/1QBmG7zCjG2Rkd6cOxJ77oNdFhfC09E85/view?usp=sharing)  
+**07.04** [9-Б. Тема: Вибір професії](https://drive.google.com/file/d/1QBmG7zCjG2Rkd6cOxJ77oNdFhfC09E85/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
@@ -2749,6 +2753,7 @@ export default function DistanceLearning() {
 **05.04** [Хлопці. Тема: Нормативно-правова база цивільного захисту України. Єдина державна система цивільного захисту та її складові. Законодавче та нормативно-правове забезпечення її функціонування](https://drive.google.com/file/d/1yB1QBqtbkvbCvqMVzTjJ5no0DMVhWecq/view?usp=sharing)  
 **05.04** [Дівчата. Тема: Єдина державна система цивільного захисту та її складові](https://drive.google.com/file/d/1auE2Zzh8dUp9-Wfyxrvy6OBPD0gA-ges/view?usp=sharing)  
 **07.04** [Хлопці. Тема: Надзвичайні ситуації природного, техногенного,  воєнного і соціально-політичного характеру](https://drive.google.com/file/d/1Ga0Y67UlNK8O0QyIxjP3Pp07GYz6LIj1/view?usp=sharing)  
+**07.04** [Дівчата. Тема: Причини виникнення та класифікація надзвичайних ситуацій](https://drive.google.com/file/d/1iHLAgdwueMW3tb8ORcRePQc1_4FYFiJ2/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Насичені одноатомні спирти](https://drive.google.com/file/d/1IfJ4cpMktmfYg7JKuCp4G7s1HGHH3NaY/view?usp=sharing)  
@@ -2808,6 +2813,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Кути в просторі](https://drive.google.com/file/d/1rjbEKlAjKW4xBCtlEmyQmD8MwGznJaZO/view?usp=sharing)  
 **20.01** [Тема: Ортогональне проєктування](https://drive.google.com/file/d/1waidP_R9XFo2YD-fArAfYjGRzNzUM_Sc/view?usp=sharing)  
 **31.03** [Тема: Координати вектора. Дії над векторами заданими координатами](https://drive.google.com/file/d/1JYhTDPSXGkFWxW_Oc-Z8crrPLNMX3HBM/view?usp=sharing)  
+**07.04** [Тема: Скалярний добуток векторів](https://drive.google.com/file/d/1gLg9T8OSO_Adaj7cMD05_4qX2R7kqRjF/view?usp=sharing)  
 
 ** Біологія **  
 **14.01** [Тема: Закономірності спадковості. Гібридологічний аналіз](https://drive.google.com/file/d/1FVlYRcqxhNy-PpceFMNbZ9fESAcJfw-m/view?usp=sharing)  
