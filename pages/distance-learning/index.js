@@ -1476,7 +1476,9 @@ export default function DistanceLearning() {
 **05.04** [5-А. І група. Тема: РМ Твір-роздум у художньому стилі](https://drive.google.com/file/d/1gn2JLMQCpEaLNt6emCbvOmlvnyQd4hV4/view?usp=sharing)  
 **06.04** [5-Б. Тема: РМ Аналіз твору](https://drive.google.com/file/d/1a9ESbKiQlKg1yRG_KY9_G_xKm0dvA5nt/view?usp=sharing)  
 **07.04** [5-А. І група. Тема: Вставні слова та словосполучення](https://drive.google.com/file/d/1aZcFRRYWyQWyERZqH7yjfopCqoQg3LB7/view?usp=sharing)  
-
+**07.04** [5-А. ІІ група. Тема: Розділові знаки при вставних словах](https://drive.google.com/file/d/1wKPLJ3XZ3jMgaAEAJOt33eTuaM3sf1at/view?usp=sharing)  
+**07.04** [5-А. ІІ група. Тема: Вставні слова](https://drive.google.com/file/d/11bh0pPreozWLBGDWXk_tKquJSYQH49SO/view?usp=sharing)  
+**07.04** [5-Б. Тема: Вставні слова](https://drive.google.com/file/d/1xtC4DuuDYKmUkSZpnfCBya6vTFt3zwCn/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -2003,6 +2005,7 @@ export default function DistanceLearning() {
 **31.03** [Тема: Масова частка розчиненої речовини](https://drive.google.com/file/d/13yBCkRkFDpQUeO-AYeo8SDyQ9OX48VF9/view?usp=sharing)  
 **31.03** [7-А. Тема: Розв'язування задач на визначення масової частки речовини](https://drive.google.com/file/d/1SdlZTo33XJPBNa6H7t_eiEdBLT2ZH8LJ/view?usp=sharing)  
 **05.04** [7-Б. Тема: Розв'язування задач на визначення масової частки речовини](https://drive.google.com/file/d/186kVBIVrx22WpSTbo2Bon0mVbYbDMRh1/view?usp=sharing)  
+**07.04** [Тема: Задачі та вправи](https://drive.google.com/file/d/1LM2EiRrI2e81-EFMBG2o1vCE0sSiZhSQ/view?usp=sharing)  
 
 ** Алгебра **  
 **07.12** [Тема: Формули квадрата двочлена, різниці квадратів, суми і різниці кубів](https://drive.google.com/file/d/1rZfpPfzYKlR_3eqiRpZImyPSKsHghooO/view?usp=sharing)  
@@ -2161,6 +2164,7 @@ export default function DistanceLearning() {
 **31.03** [Тема: Способи добування оксидів](https://drive.google.com/file/d/1cJ51RozlrZe0NbH1_gJi5mOrCf1CQZgZ/view?usp=sharing)  
 **01.04** [Тема: Способи добування оксидів](https://drive.google.com/file/d/17mnao4mPgnc2tyTZc3KlpX-1CofTqLIY/view?usp=sharing)  
 **05.04** [Тема: Способи добування основ](https://drive.google.com/file/d/1fx4JovJBV9cDBQ6TP88-ozw3qCmNDbKQ/view?usp=sharing)  
+**07.04** [8-А. Тема: Добування кислот](https://drive.google.com/file/d/1CESx-Gar09NClSKKARhERovh-ixHYSPd/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Абсолютизм і громадянські війни у Франції](https://drive.google.com/file/d/1LjHnyvIvkFpsROshHXQx8bzKyHRS6yRz/view?usp=sharing)  
@@ -2549,6 +2553,7 @@ export default function DistanceLearning() {
 **05.04** [9-Б. Тема: Складне речення з різними видами зв’язку (2 години)](https://drive.google.com/file/d/1sf3Rq9npU-7XJkkihZnjx5EVfuoGKDUm/view?usp=sharing)  
 **07.04** [9-А. Тема: Складносурядне речення, будова й засоби зв’язку між його частинами. Смислові зв’язки між частинами складносурядного речення. Розділові знаки між ними](https://drive.google.com/file/d/1EtxkFmNzoL9kx5GiESLPF77uSDHPtXQH/view?usp=sharing)  
 **07.04** [9-Б. Тема: Складносурядне речення, будова й засоби зв’язку між його частинами. Смислові зв’язки між частинами складносурядного речення. Розділові знаки між ними](https://drive.google.com/file/d/1NEYYxz8gZjAguabLL0rX7QGABzYT863i/view?usp=sharing)  
+**07.04** [9-А. Тема: РМ Контрольний вибірковий письмовий переказ](https://drive.google.com/file/d/1nbKT7TpxA2j8MNrtHn33fPDsH2fKHFZR/view?usp=sharing)  
 
 ** Фізика **  
 **04.12** [Тема: Механічні хвилі](https://drive.google.com/file/d/1gFUenJvZoiJfbG2dXxl35x6LtqAUs2RB/view?usp=sharing)  
@@ -2635,6 +2640,7 @@ export default function DistanceLearning() {
 **06.04** [Стрембицька Л.А. Тема: Урок розвитку комунікативних умінь](https://drive.google.com/file/d/1MhDrCbquqlAVBEI0sEvuDasIR0qOEx8Q/view?usp=sharing)  
 **06.04** [Добровольська В. Е. Тема: Числівник як частина мови](https://drive.google.com/file/d/1NGdOYZW-xSp3i_bfZfpNLPoA09Tfc0N0/view?usp=sharing)  
 **07.04** [Стрембицька Л.А. Тема: Відмінювання числівників. Паралельне використання відмінкових форм числа. Паралельне вживання числівників з іменниками в непрямих відмінках](https://drive.google.com/file/d/1njvCPAv-lCZWh6RFGtScO8Ib7oTTarcE/view?usp=sharing)  
+**07.04** [Добровольська В. Е. Тема: Відмінювання числівників](https://drive.google.com/file/d/1rZXmomv0DnhE_sYischQiz0iS4e2-9dc/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
