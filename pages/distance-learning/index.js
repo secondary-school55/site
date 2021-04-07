@@ -2113,6 +2113,7 @@ export default function DistanceLearning() {
 **05.04** [8-Б. Тема: Знання - сила](https://drive.google.com/file/d/1YMRaSkm0tKuzqZJOHK8chHwIKK0UmDeI/view?usp=sharing)  
 **05.04** [8-А. І група. Тема: Знання - сила](https://drive.google.com/file/d/1YMRaSkm0tKuzqZJOHK8chHwIKK0UmDeI/view?usp=sharing)  
 **06.04** [8-А. ІІ група. Тема: Розвиток граматичних навичок учнів](https://drive.google.com/file/d/17hndOkHtkjpTSx68U4ZvPhA6evHQCcjp/view?usp=sharing)  
+**07.04** [8-А. І група. Тема: Розвиток гарматичних навичок](https://drive.google.com/file/d/1wUbpxOtnttxwQySXvc2qMVyWmnFcm0c3/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
