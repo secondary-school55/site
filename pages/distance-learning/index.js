@@ -1475,6 +1475,8 @@ export default function DistanceLearning() {
 **05.04** [5-А. ІІ група. Тема: РМ Твір-роздум у художньому стилі](https://drive.google.com/file/d/10Ei9xPH6hpkL1Kttp8ZskkmNh_7_hEvx/view?usp=sharing)  
 **05.04** [5-А. І група. Тема: РМ Твір-роздум у художньому стилі](https://drive.google.com/file/d/1gn2JLMQCpEaLNt6emCbvOmlvnyQd4hV4/view?usp=sharing)  
 **06.04** [5-Б. Тема: РМ Аналіз твору](https://drive.google.com/file/d/1a9ESbKiQlKg1yRG_KY9_G_xKm0dvA5nt/view?usp=sharing)  
+**07.04** [5-А. І група. Тема: Вставні слова та словосполучення](https://drive.google.com/file/d/1aZcFRRYWyQWyERZqH7yjfopCqoQg3LB7/view?usp=sharing)  
+
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -1744,6 +1746,8 @@ export default function DistanceLearning() {
 **02.04** [6-Б. Тема: Узгодження числівників з іменниками](https://drive.google.com/file/d/1sU_vdACYQMyMzUvNcnrLlMHll1J0t0Fd/view?usp=sharing)  
 **06.04** [Тема: Правильне вживання числівників на позначення часу і дат](https://drive.google.com/file/d/1aT44fAkojd3A8z9a5ec2hAJCPQkQVAGZ/view?usp=sharing)  
 **06.04** [Тема: Узагальнення й систематизація вивченого з теми Числівник](https://drive.google.com/file/d/1PoM4CrhCvmnJTjLhhbWAiCr8NPjs6VbV/view?usp=sharing)  
+**07.04** [Тема: Узагальнення й систематизація вивченого з теми Числівник](https://drive.google.com/file/d/1R-hMdsHa4grInBcWTt3Lk1SWvnEiPhhw/view?usp=sharing)  
+
 
 ** Біологія **  
 **11.01** [Тема: Різноманітність та видозміни пагона](https://drive.google.com/file/d/1-QyLP9rc_OE-yPg9YZ7I6EDa7FmKktvz/view?usp=sharing)  
@@ -1986,6 +1990,8 @@ export default function DistanceLearning() {
 **05.04** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Портретний нарис у публіцистичному стилі](https://drive.google.com/file/d/1SaACw7ltjguJ2PHljr8j8Q3WaqvzVhqC/view?usp=sharing)  
 **05.04** [7-Б. Алтинбаєва Л. М. Тема: Написання похідних прийменників разом, окремо і через дефіс](https://drive.google.com/file/d/1t1mbNDIUk-YlWIGO_87Q8CBBnkXCIHmy/view?usp=sharing)  
 **07.04** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Написання похідних прийменників разом, окремо і через дефіс](https://drive.google.com/file/d/149pQ8e9oXAItbl3Hnd6lb2OLWQLUJnyG/view?usp=sharing)  
+**07.04** [7-А. Харенко Ю. А. І група. Тема: Сполучник як службова частина мови. Види сполучників](https://drive.google.com/file/d/1n5K_pHfblCEIGv3r1Blg9eZ56e6zpr6X/view?usp=sharing)  
+
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -2079,7 +2085,9 @@ export default function DistanceLearning() {
 **20.01** [Алтинбаєва Л. М. Тема: Ідея самопожертви. Характеристика образу Климка](https://drive.google.com/file/d/1nzvhl78tGfyH54DCB_L-WDp44_f77w5x/view?usp=sharing)  
 **22.01** [Алтинбаєва Л. М. Тема: УМР. Переказування найбільш вражаючих епізодів повісті «Климко» (з аргументуванням свого вибору)](https://drive.google.com/file/d/18A6CI3dbSmU_OaMPdylpm8cavMjNsfh-/view?usp=sharing)  
 **31.03** [Алтинбаєва Л. М. Тема: Роль у творі художніх засобів. Символічне значення образів старовинної шафи та чарівних коралів](https://drive.google.com/file/d/1y1wXdSTyT0K4XKZ-mAkdXnLB9VlQCt57/view?usp=sharing)  
-**02.04** [Алтинбаєва Л. М. Тема: М.Павленко. «Русалонька із 7 - В, або Прокляття роду Кулаківських». Добро і зло в повісті, у сучасному світі та в людині. Образи дітей та дорослих, аналіз їхніх учинків. Символічне значення образів старовинної шафи та чарівних коралів](https://drive.google.com/file/d/1rWPM6K4jUZnirqGmqx1uqzFYQUBYcRWy/view?usp=sharing)  
+**02.04** [Алтинбаєва Л. М. Тема: М.Павленко. «Русалонька із 7-В, або Прокляття роду Кулаківських». Добро і зло в повісті, у сучасному світі та в людині. Образи дітей та дорослих, аналіз їхніх учинків. Символічне значення образів старовинної шафи та чарівних коралів](https://drive.google.com/file/d/1rWPM6K4jUZnirqGmqx1uqzFYQUBYcRWy/view?usp=sharing)  
+**07.04** [Алтинбаєва Л. М. Тема: М.Павленко. «Русалонька із 7-В, або Прокляття роду Кулаківських»](https://drive.google.com/file/d/1jQESlseE-KE0unPG3LMnY61lV82ORmDY/view?usp=sharing)  
+
 
 ** Російська мова **  
 **12.01** [7-А. Тема: Наречие. Значение, вопросы, роль в предложении](https://drive.google.com/file/d/17WUW3pPf4_MoiIAr_Yl6k_R7OfcG-rsF/view?usp=sharing)  
