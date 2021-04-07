@@ -1054,6 +1054,7 @@ export default function DistanceLearning() {
 **05.04** [І група. Тема: Що треба вдягнути? Різні погодні умови](https://drive.google.com/file/d/1LIunIUYCQ5b5jIrQjfZGGfx4K5vNfkg1/view?usp=sharing)  
 **05.04** [ІІ група. Тема: Що треба було одягти](https://drive.google.com/file/d/160ubMjHUszbRCDUrz4bWLv81K-d14qxg/view?usp=sharing)  
 **07.04** [І група. Тема: Яка погода була вчора?](https://drive.google.com/file/d/15OeqdUC8ZEp7TfD2_eL0UKJmuD0NNnbw/view?usp=sharing)  
+**07.04** [ІІ група. Тема: Яка погода була вчора?](https://drive.google.com/file/d/1l5HfCw6_gf7laPfsRMr0JlS5tcikIC7S/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
@@ -1619,6 +1620,7 @@ export default function DistanceLearning() {
 **31.03** [5-Б. Тема: Євген Гуцало.Основні відомості про письменника. Вічне протистояння добра і зла-наскрізна тема світового мистецтва. Порушення цієї теми в оповіданні "Лось"](https://drive.google.com/file/d/1Y999lNYse8DGyVIgdA27wbcnnhhtgtKz/view?usp=sharing)  
 **05.04** [5-Б. Тема: Співчуття, милосердя - шлях до перемоги добра](https://drive.google.com/file/d/1NHNQjkrsSyfkji5IoDETpm2ezulQMJBH/view?usp=sharing)  
 **07.04** [5-Б. Тема: Контрольна робота](https://drive.google.com/file/d/1inaeQorSRT8fFG5ROcwjb7668s1QfIST/view?usp=sharing)  
+**07.04** [5-Б. Тема: Контрольна робота](https://drive.google.com/file/d/1ABMduRrhIMTCEZgurSPNRRQDg4HkG09-/view?usp=sharing)  
 
 ** Зарубіжна література **  
 **12.01** [Тема: Світ дорослих і світ дітей у повісті](https://drive.google.com/file/d/1cHfohaV_CYmsTVX2Oi9yxl94CcrBcDaO/view?usp=sharing)  
@@ -1814,6 +1816,7 @@ export default function DistanceLearning() {
 **02.04** [6-В. Тема: Виникнення і поширення християнства в Римській імперії](https://drive.google.com/file/d/1jjHRaLVhSNmaYoo471EhljkePlbCrMMo/view?usp=sharing)  
 **02.04** [Тема: Виникнення і поширення християнства. Перетворення християнства на офіційну релігію Римської імперії](https://drive.google.com/file/d/1DwxYMme1Wx0wkevjmy9bnyC6FyBMyFZo/view?usp=sharing)  
 **07.04** [6-В. Тема: Розпад Римської імперії. Велике переселення народів. Падіння Західної Римської імперії.](https://drive.google.com/file/d/13ylR5t2fOx2VbC-S7UsQ4agPxAsopomM/view?usp=sharing)  
+**07.04** [6-А,Б. Тема: Розпад Римської імперії. Велике переселення народів](https://drive.google.com/file/d/10vMeq2jFQQ0EJf_wroJRGIv4zKzx2kPw/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **13.01** [Тема: Види рішень](https://drive.google.com/file/d/1Ic241cRLf0OHQiJDlEFwiHeGkWpJTBc9/view?usp=sharing)  
@@ -1845,6 +1848,7 @@ export default function DistanceLearning() {
 **22.01** [6-Б,В. Тема: Наиболее Употребительные предлоги. Союзы](https://drive.google.com/file/d/1RiS8M8ri6DputibpwC3u0q7iR55Ebwv6/view?usp=sharing)  
 **31.03** [6-А. Тема: Простое осложненное предложение](https://drive.google.com/file/d/1mLvGPWQhDWhe1jg56orhVsCwGvGsODeX/view?usp=sharing)  
 **02.04** [6-Б,В. Тема: Простое осложненное предложение.Однородные члены, их роль в предложении](https://drive.google.com/file/d/1iqnfDP7xVThBblTg4NfXwMg_p6YYYjQx/view?usp=sharing)  
+**07.04** [6-А. Тема: Знаки препинания в предложениях с однородными членами](https://drive.google.com/file/d/1HYg6Jwj910QdwDpTF_E3JEDNWefSttd_/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="7 клас">
@@ -1981,6 +1985,7 @@ export default function DistanceLearning() {
 **01.04** [7-А. Харенко Ю. А. І група. Тема: Види прийменників за будовою](https://drive.google.com/file/d/1dfZYvf454JFjw4LrYfao8IRw4guvjEZf/view?usp=sharing)  
 **05.04** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Портретний нарис у публіцистичному стилі](https://drive.google.com/file/d/1SaACw7ltjguJ2PHljr8j8Q3WaqvzVhqC/view?usp=sharing)  
 **05.04** [7-Б. Алтинбаєва Л. М. Тема: Написання похідних прийменників разом, окремо і через дефіс](https://drive.google.com/file/d/1t1mbNDIUk-YlWIGO_87Q8CBBnkXCIHmy/view?usp=sharing)  
+**07.04** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Написання похідних прийменників разом, окремо і через дефіс](https://drive.google.com/file/d/149pQ8e9oXAItbl3Hnd6lb2OLWQLUJnyG/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -2084,6 +2089,7 @@ export default function DistanceLearning() {
 **30.03** [7-А. Тема: Обособленные определения.Уточняющие обособленные члены предложения. Сравнительный оборот](https://drive.google.com/file/d/1XsTUUnCyeJjChqIFd2fCbIfhX-bzGjoh/view?usp=sharing)  
 **31.03** [7-Б. Тема: Обособленное определение](https://drive.google.com/file/d/1amaZKg-7UHXg0LsdwXhi0hxl9o_rc2ot/view?usp=sharing)  
 **06.04** [7-А. Тема: Контрольное изложение текста - повествования](https://drive.google.com/file/d/1CTI7Z1bevbRy9C2BtjJE1stksAEp4dCa/view?usp=sharing)  
+**07.04** [7-Б. Тема: Контрольное изложение текста](https://drive.google.com/file/d/1G6D0qnMKuVUHuZaBf-dBskk7qJ2hW0I8/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="8 клас">
