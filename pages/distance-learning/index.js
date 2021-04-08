@@ -460,6 +460,7 @@ export default function DistanceLearning() {
 **07.04** [ІІ група. Тема: Діагностична робота](https://drive.google.com/file/d/1xP4e2n6BzkQfPIJeTTOrRFhlCB8rUyyT/view?usp=sharing)  
 **07.04** [І група. Тема: Діагностична робота. Диктант](https://drive.google.com/file/d/1UcajdS8WqCOUt3eUbPIfkVnfuuAu-I0_/view?usp=sharing)  
 **08.04** [ІІ група. Тема: Складаю речення](https://drive.google.com/file/d/1W4bjcxqCIQifxA_3pePYTEvIsmNG_oRW/view?usp=sharing)  
+**08.04** [І група. Тема: Складаю речення](https://drive.google.com/file/d/1cB_IA-pS-OD1yoVkptwT2Q10pIFnxjXB/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
@@ -506,6 +507,7 @@ export default function DistanceLearning() {
 **06.04** [ІІ група. Тема: Діагностична робота Усний переказ](https://drive.google.com/file/d/1gA2ScLgKVWfgaLBFV9jzj-bZGKTdAujA/view?usp=sharing)  
 **06.04** [І група. Тема: Медіавіконце дитячі журнали, енциклопедії. Створення реклами журналу](https://drive.google.com/file/d/1yImClRbBoA72DyFwbcHy_bJE4Y0EgU9X/view?usp=sharing)  
 **08.04** [ІІ група. Тема: Медіавіконце: сторінками дитячих журналів](https://drive.google.com/file/d/19oTmQVhkaoghnD0fGaYEuGlLV-qij3H1/view?usp=sharing)  
+**08.04** [І група. Тема: Медіавіконце: сторінками дитячих журналів]()  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)  
@@ -837,6 +839,7 @@ export default function DistanceLearning() {
 **07.04** [ІІ група. Тема: Розпізнавання і складання речень зі звертаннями. Ознайомлення з розділовими знаками при звертаннях](https://drive.google.com/file/d/1vzocwfQ0iJadLQnJn4PmbqIELOjXSX3K/view?usp=sharing)  
 **08.04** [І група. Тема: Визначення в реченні головних і другорядних членів. Пошук інформації на таблиці. Написання розгорнутої відповіді на запитання](https://drive.google.com/file/d/1nkvYCUajlYholuW3MB4dWo5v_sGhf25a/view?usp=sharing)  
 **08.04** [Презентація. І група. Тема: Визначення в реченні головних і другорядних членів. Пошук інформації на таблиці. Написання розгорнутої відповіді на запитання](https://drive.google.com/file/d/1lUJ5nxTZwBZJeJhxU7NZ5DazlQ2en5Rc/view?usp=sharing)  
+**08.04** [ІІ група. Тема: Визначення в реченні головних і другорядних членів. Пошук інформації на таблиці. Написання розгорнутої відповіді на запитання](https://drive.google.com/file/d/1Jvj9Xm5c4t-7ZDPTgcqQh0xmRtbt8JFk/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -917,6 +920,7 @@ export default function DistanceLearning() {
 **06.04** [ІІ група. Тема: Чому важлива щира турбота.  Т.Майданович "Телефонна розмова". Інсценування вірша](https://drive.google.com/file/d/1WmHPOQIleJRAuX6D1WOUVYBmjIPPs14h/view?usp=sharing)  
 **06.04** [І група. Тема: Чому важлива щира турбота.  Т.Майданович "Телефонна розмова". Інсценування вірш](https://drive.google.com/file/d/1bdpT1pJXhLPWArGTjS3vOfa977U7QjSC/view?usp=sharing)  
 **08.04** [І група. Тема: На друзів зла тримати не можна. Н. Деменкова "Дружок і Образа". Визначення головної думки твору](https://drive.google.com/file/d/1YgYUWB--WQTAfll_I4lFxXQO5Uvt39CG/view?usp=sharing)  
+**08.04** [ІІ група. Тема: На друзів зла тримати не можна. Н. Деменкова "Дружок і Образа". Визначення головної думки твору](https://drive.google.com/file/d/1iBSrwJ9TX1c0-GPN_FAmQUGQctGEa5dA/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -1396,6 +1400,7 @@ export default function DistanceLearning() {
 **06.04** [ІІ група. Тема: Чому люди подорожують](https://drive.google.com/file/d/1sbna1AZDWx4Kd8W2oM6gyEmo8aIA6L0l/view?usp=sharing)  
 **06.04** [ІІ група. Аудіозапис](https://drive.google.com/file/d/1uTXcZr1_EZvtvkCTR6vUN5q8p6LmjS3I/view?usp=sharing)  
 **08.04** [ІІ група. Тема: Біля квиткової класи](https://drive.google.com/file/d/1BOTz5uIP5Y0BODip4IFnDFJEwtl2zMsB/view?usp=sharing)  
+**08.04** [І група. Тема: Біля квиткової класи](https://drive.google.com/file/d/1tkxTJt0R_JMcbbnadthwtEN7Ny_qQ3Jy/view?usp=sharing)  
 
 ** Літературне читання **  
 **07.12** [Тема: Марко Вовчок «Літній ранок», Михайло Коцюбинський «Літній день»](https://drive.google.com/file/d/1XgJrjALeSBPNQ_Qy5nIsx0yLyZXI39WL/view?usp=sharing)  
@@ -1565,6 +1570,7 @@ export default function DistanceLearning() {
 **22.01** [Тема: Повна та коротка форми розгалуження](https://drive.google.com/file/d/1qKu2FJ6jDgjkVN2Ofm-UT0hbOss_LZ8m/view?usp=drive_web)  
 **01.04** [5-Б. Тема: Виконання проекту](https://drive.google.com/file/d/1ucL4nOPEf_MINQU8mn-qmHvZQniX00aX/view?usp=drive_web)  
 **02.04** [5-А. Тема: Виконання проекту](https://drive.google.com/file/d/1ucL4nOPEf_MINQU8mn-qmHvZQniX00aX/view?usp=drive_web)  
+**08.04** [5-Б. І група. Тема: Публічна презентація проекту](https://drive.google.com/file/d/1GLD2fBhnylfzeZgGqHBkUqxAWPV7xSO0/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
@@ -1734,8 +1740,9 @@ export default function DistanceLearning() {
 **29.01** [6-Б. Тема: Програмне забезпечення для створення і відтворення комп'ютерних презентацій](https://drive.google.com/file/d/1kVMkY0wMvQBA9aGKn-sBszmyYFg7b-bV/view?usp=drive_web)  
 **01.04** [6-А. Тема: Програмне забезпечення для створення й відтворення комп’ютерних презентацій](https://drive.google.com/file/d/1kVMkY0wMvQBA9aGKn-sBszmyYFg7b-bV/view)  
 **02.04** [6-В. Тема: Програмне забезпечення для створення й відтворення комп’ютерних презентацій](https://drive.google.com/file/d/1kVMkY0wMvQBA9aGKn-sBszmyYFg7b-bV/view)  
-**05.04** [Балагуряк Є.Ю. 6-Б. Тема: Послідовність створення презентацій та вимоги до їх оформлення](https://drive.google.com/file/d/1o4do4gitigDIlARI2llB6AW_QVrE4n3K/view?usp=drive_web)  
-**05.04** [Гайдук А.І. 6-Б. Тема: Послідовність створення презентацій та вимоги до їх оформлення](https://drive.google.com/file/d/1SKBvHubuLIBSkiMdIzxPFHSmOKaPZ0K2/view?usp=sharing)  
+**05.04** [6-Б. І група. Тема: Послідовність створення презентацій та вимоги до їх оформлення](https://drive.google.com/file/d/1o4do4gitigDIlARI2llB6AW_QVrE4n3K/view?usp=drive_web)  
+**05.04** [6-Б. ІІ група. Тема: Послідовність створення презентацій та вимоги до їх оформлення](https://drive.google.com/file/d/1SKBvHubuLIBSkiMdIzxPFHSmOKaPZ0K2/view?usp=sharing)  
+**08.04** [6-Б. І група. Тема: Послідовність створення презентацій та вимоги до їх оформлення](https://drive.google.com/file/d/1o4do4gitigDIlARI2llB6AW_QVrE4n3K/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -2774,6 +2781,8 @@ export default function DistanceLearning() {
 **14.01** [Тема: Проектування та створення об&#39;єктів мультимедіа. Системи керування вмістом для веб-ресурсів](https://drive.google.com/file/d/1TUh59OvfXa2-OyOCefAftOHTBf9rN_hJ/view?usp=drive_web)  
 **21.01** [Тема: Створення та адміністрування сайту](https://drive.google.com/file/d/1KaMqozJplWnh-PZMifkSWKBese5cwykZ/view?usp=drive_web)  
 **01.04** [Тема: Системи управління електронними документами. Технічні засоби обробки документів та інформації. Класифікація офісної техніки](https://drive.google.com/file/d/1oVev9-LNxwyYchy467RC62NrFt00zfsf/view?usp=drive_web)  
+**08.04** [І група. Тема: Засоби створення, зберігання, обробки, копіювання і транспортування документів](https://drive.google.com/file/d/1dDCjQEN_ExhFow2JEaw6f6gqPcUNVoO9/view?usp=drive_web)  
+**08.04** [ІІ група. Тема: Засоби створення, зберігання, обробки, копіювання і транспортування документів](https://drive.google.com/file/d/1DKIcSS0cIUgQWYXa6urA1XbiTDp-lSBx/view?usp=drive_web)  
 
 ** Фізична культура **  
 **04.12** [І група. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1SBvvvI6L7-usEP0lkbxvVs85UtZqhjpJ/view?usp=sharing)  
@@ -2935,6 +2944,10 @@ export default function DistanceLearning() {
 **14.01** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)  
 **21.01** [Тема: Прикладний програмний інтерфейс. Планування веб-сайту та етапи роботи над ним](https://drive.google.com/file/d/1BaAz7HaFcPKxsB8fKNtDRnBBBfxV5WQv/view?usp=drive_web)  
 **01.04** [Тема: Робота з текстом](https://drive.google.com/file/d/10gYZRFP9rRGM6mGcuXvG4VFTy90jURtl/view?usp=drive_web)  
+**08.04** [І група. Тема: Ретуш та художня обробка зображень](https://drive.google.com/file/d/16ww8XIrmBSZg4emTF4SPmVrimfcktm1_/view?usp=drive_web)  
+**08.04** [ІІ група. Тема: Ретуш та художня обробка зображень](https://drive.google.com/file/d/1ZVVRjJeAR_yGUGvp9pjp6lyz53oCn35e/view?usp=drive_web)  
+**08.04** [І група. Тема: Робота з векторними елементами](https://drive.google.com/file/d/10V9pA3Dip713__jdvHQMh4X7SrDoPDgL/view?usp=drive_web)  
+**08.04** [ІІ група. Тема: Робота з векторними елементами](https://drive.google.com/file/d/1S-uUVo41bort9EZJPDv9j0Hrwg2z827d/view?usp=drive_web)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Опозиційний рух в Україні 60-80-х рр. ХХ ст.](https://drive.google.com/file/d/1BRFbeZezM4EQBXfjdEyCgfPXCTltDMaR/view?usp=sharing)  
