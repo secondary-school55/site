@@ -1500,6 +1500,7 @@ export default function DistanceLearning() {
 **02.04** [5-А. Тема: Періодичні зміни середовища й організми](https://drive.google.com/file/d/1BxcCSOryflmYv-pLAueOaawB_PrAFqJ6/view?usp=sharing)  
 **06.04** [5-Б. Тема: Грунтове середовище життя](https://drive.google.com/file/d/1nzmJClh9FC9Fizn1wARSuODE9qIEaQmC/view?usp=sharing)  
 **06.04** [5-А. Тема: Наземно-повітряне середовище існування організмів](https://drive.google.com/file/d/1HFfC_sjUR5bBuqUPI4w5ChgE7L9dDU0I/view?usp=sharing)  
+**08.04** [5-Б. Тема: Вплив на організми чинників живої природи](https://drive.google.com/file/d/1zmG2T_4x_XnhD4rEyUyIBXWHtUdQQAZO/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
@@ -1609,10 +1610,11 @@ export default function DistanceLearning() {
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
 **11.01** [Тема: Попередження травм під час рухливих ігор. Правила безпечної поведінки в басейні та на льоду](https://drive.google.com/file/d/1dAALP8mt62Hpr92U2kwKr2iAXyzH5xqa/view?usp=sharing)  
 **14.01** [5-А. Тема: Правила людських стосунків](https://drive.google.com/file/d/14LYHk8grt7X0xAplYGuLp7J_DLSPb48I/view?usp=sharing)  
-**18.01** [5-Б. Те2ма: Відпочинок школяра. Ознаки перевтоми. Умови здорового сну. Вплив телебачення і комп’ютера на здоров’я. Узагальнення знань з розділу](https://drive.google.com/file/d/12oUrlpMVwEOmX79zeypaR54gAAMQ1k4Y/view?usp=sharing)  
+**18.01** [5-Б. Тема: Відпочинок школяра. Ознаки перевтоми. Умови здорового сну. Вплив телебачення і комп’ютера на здоров’я. Узагальнення знань з розділу](https://drive.google.com/file/d/12oUrlpMVwEOmX79zeypaR54gAAMQ1k4Y/view?usp=sharing)  
 **29.03** [5-Б. Тема: Пожежна безпека](https://drive.google.com/file/d/1UktBuI351xCSS10XWlcpm-tA0aOa42zJ/view?usp=sharing)  
 **01.04** [5-А. Тема: Безпека у побуті і навколишньому середовищі](https://drive.google.com/file/d/1nBHakyiUdovjV5leV2ywfb39VN9GnPQ5/view?usp=sharing)  
 **05.04** [5-Б. Тема: Особливості гасіння електроприладів. Захист органів дихання під час пожежі](https://drive.google.com/file/d/1Mn0YS6qOHD5lk9RFdW9uxh2g9iCWuNx_/view?usp=sharing)  
+**08.04** [5-А. Тема: Дитина у автономній ситуації](https://drive.google.com/file/d/1Y9GmT_95LUG8OgsT41EjsBKTpJUP7vHr/view?usp=sharing)  
 
 ** Англійська мова **  
 **11.01** [Тема: Особливі дні](https://drive.google.com/file/d/1JWLFqKvZ8MmH-ISBimbICHoGNIvdTYP4/view?usp=sharing)  
@@ -1948,6 +1950,7 @@ export default function DistanceLearning() {
 **29.03** [7-А,Б. Тема: Гідростатичний тиск. Сполучені посудини](https://drive.google.com/file/d/1SdVY7I-M2YvFBojDEnE-hXfTw-bo-AXt/view?usp=sharing)  
 **01.04** [Тема: Атмосферний тиск](https://drive.google.com/file/d/1gO1Ndty9e4v5JgMz7Tap2JwBVHOYdB1o/view?usp=sharing)  
 **05.04** [Тема: Виштовхувальна сила](https://drive.google.com/file/d/1HdVx2hCECF2Y_wPAZa9L-TNk-QvWQ731/view?usp=sharing)  
+**08.04** [Тема: Умови плавання тіл](https://drive.google.com/file/d/18QLM_gk6TGyHMcHzWqm5zROCfo0EmHHe/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)  
@@ -2049,6 +2052,7 @@ export default function DistanceLearning() {
 **04.12** [Тема: Показники фізичного розвитку підлітків. Способи покращення фізичної форми](https://drive.google.com/file/d/1RLib8JRvGgB4ChCpFRIzK3r3e9lClYCL/view?usp=sharing)  
 **14.01** [Тема: Особливості психічного розвитку підлітків](https://drive.google.com/file/d/1byjm4077tWSc_gv66VVHGZpUnos6THQ7/view?usp=sharing)  
 **01.04** [Тема: Соціальна безпека населеного пункту. Найближче оточення підлітків](https://drive.google.com/file/d/1e-qEbcHgRSKYXIwleNcZQaEZRg5LNy-i/view?usp=sharing)  
+**08.04** [Тема: Хвороби цивілізації](https://drive.google.com/file/d/11ZIxH69-gU1QE2AOGw-g8N6qzstvxnsx/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Безособові дієслівні форми на -но, -то. Перехід дієприкметників у прикметники та іменники](https://drive.google.com/file/d/1hGi6SV1EOVml1ZQiq7HCV3iPyEyUI5em/view?usp=sharing)  
@@ -2305,6 +2309,8 @@ export default function DistanceLearning() {
 **06.04** [8-А. ІІ група. Тема: Розвиток граматичних навичок учнів](https://drive.google.com/file/d/17hndOkHtkjpTSx68U4ZvPhA6evHQCcjp/view?usp=sharing)  
 **07.04** [8-А. І група. Тема: Розвиток гарматичних навичок](https://drive.google.com/file/d/1wUbpxOtnttxwQySXvc2qMVyWmnFcm0c3/view?usp=sharing)  
 **08.04** [8-А. ІІ група. Тема: Повторення](https://drive.google.com/file/d/1nho4Vr8i7It0HGmcVfu0yTiwW0PXIVi3/view?usp=sharing)  
+**08.04** [8-А. І група. Тема: Повторення](https://drive.google.com/file/d/1mjepBFNtm0pGREkG_-iGq50w8J4KNkVC/view?usp=sharing)  
+**08.04** [8-Б. Тема: Повторення](https://drive.google.com/file/d/1mjepBFNtm0pGREkG_-iGq50w8J4KNkVC/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -2377,6 +2383,7 @@ export default function DistanceLearning() {
 **07.12** [Тема: Становлення особистості](https://drive.google.com/file/d/1XiqqH2rvbGD9PSbehbUFOjgN9d6ssUI8/view?usp=sharing)  
 **14.01** [Тема: Уміння вчитися](https://drive.google.com/file/d/1mwchdGtSdjUyp-OvoNM7QltcOmLCsBWr/view?usp=sharing)  
 **01.04** [Тема: Безпечне довкілля. Наслідки забруднення довкілля для здоров’я і життя людини. Стихійні лиха](https://drive.google.com/file/d/15UViqodbharMUfL57WFToyZE3mkaqUYF/view?usp=sharing)  
+**08.04** [Тема: Питна вода і здоровя. Небезпека купання у забруднених водоймах](https://drive.google.com/file/d/1qMN3_hB4-0bvkCFh40MioAEt3UcGjxxo/view?usp=sharing)  
 
 ** Геометрія **  
 **08.12** [Тема: Подібність прямокутних трикутників. Властивість бісектриси. Метричні співвідношення](https://drive.google.com/file/d/1P4n2CeJ0hOGemlmT2Z8di8FAmWrYIIhI/view?usp=sharing)  
@@ -2566,6 +2573,7 @@ export default function DistanceLearning() {
 **07.04** [9-А. І група. Тема: Вибір професії](https://drive.google.com/file/d/1QBmG7zCjG2Rkd6cOxJ77oNdFhfC09E85/view?usp=sharing)  
 **07.04** [9-Б. Тема: Вибір професії](https://drive.google.com/file/d/1QBmG7zCjG2Rkd6cOxJ77oNdFhfC09E85/view?usp=sharing)  
 **08.04** [9-А. ІІ група. Тема: Вибір професії](https://drive.google.com/file/d/1HZ475Gz7tQubihhCs9roBkV93q_zXSdg/view?usp=sharing)  
+**08.04** [9-А. І група. Тема: Контрольна робота](https://drive.google.com/file/d/1Mk9myrtTreiUHvEGfqW71I8bGE4FqBH8/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
@@ -2787,6 +2795,7 @@ export default function DistanceLearning() {
 **30.03** [Тема: Властивості твердих тіл](https://drive.google.com/file/d/1ZneSuyIcpAy7KqDFbr4O207nbrH1Oj-o/view?usp=sharing)  
 **01.04** [Тема: Механiчнi властивостi твердих тiл](https://drive.google.com/file/d/1EYLhJ_FQmAwsi7ik_JzHKFnYeeEkB5JT/view?usp=sharing)  
 **06.04** [Тема: Повторення](https://drive.google.com/file/d/1a2P71LyTO7spIfihbXt6sLthHoKm25NE/view?usp=sharing)  
+**08.04** [Тема: Контрольна робота](https://drive.google.com/file/d/1MkoIK6lDhKj0lo96e6jCmsRUQo_4TyDy/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)  
@@ -3084,6 +3093,7 @@ export default function DistanceLearning() {
 **14.01** [Тема: Срібна доба російської поезії тенденції, здобутки,долі митців](https://drive.google.com/file/d/1bdigwZW9uVPUwn3_l4F0jiY8sCZPsh4K/view?usp=sharing)  
 **21.01** [Тема: Розвиток жанру антиутопії. Поетика](https://drive.google.com/file/d/1pTl_pAaZW_6nOmp2Zh0L5K8WApo7qFsK/view?usp=sharing)  
 **01.04** [Тема: "Драма-притча" як відгук на сучасні історичні події й актуальні питання духовного буття людини. "Театр абсурду" як явище неоавангардизму](https://drive.google.com/file/d/1pWQYTtAHeBT-LRs-TN_915fe1fUPxNrx/view?usp=sharing)  
+**08.04** [Тема: Ф. Дюрренматт](https://drive.google.com/file/d/10BntL9Au_AToQCnTeWsP1fxvI4tvwNih/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="Онлайн уроки">
