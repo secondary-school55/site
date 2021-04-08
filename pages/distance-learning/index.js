@@ -1571,6 +1571,7 @@ export default function DistanceLearning() {
 **01.04** [5-Б. Тема: Виконання проекту](https://drive.google.com/file/d/1ucL4nOPEf_MINQU8mn-qmHvZQniX00aX/view?usp=drive_web)  
 **02.04** [5-А. Тема: Виконання проекту](https://drive.google.com/file/d/1ucL4nOPEf_MINQU8mn-qmHvZQniX00aX/view?usp=drive_web)  
 **08.04** [5-Б. І група. Тема: Публічна презентація проекту](https://drive.google.com/file/d/1GLD2fBhnylfzeZgGqHBkUqxAWPV7xSO0/view?usp=drive_web)  
+**08.04** [5-Б. ІІ група. Тема: Публічна презентація проекту](https://drive.google.com/file/d/1IjRs_1SljB3N6q2nPDTsh9jib0tfWoef/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
@@ -1743,6 +1744,7 @@ export default function DistanceLearning() {
 **05.04** [6-Б. І група. Тема: Послідовність створення презентацій та вимоги до їх оформлення](https://drive.google.com/file/d/1o4do4gitigDIlARI2llB6AW_QVrE4n3K/view?usp=drive_web)  
 **05.04** [6-Б. ІІ група. Тема: Послідовність створення презентацій та вимоги до їх оформлення](https://drive.google.com/file/d/1SKBvHubuLIBSkiMdIzxPFHSmOKaPZ0K2/view?usp=sharing)  
 **08.04** [6-Б. І група. Тема: Послідовність створення презентацій та вимоги до їх оформлення](https://drive.google.com/file/d/1o4do4gitigDIlARI2llB6AW_QVrE4n3K/view?usp=drive_web)  
+**08.04** [6-Б. ІІ група. Тема: Послідовність створення презентацій та вимоги до їх оформлення](https://drive.google.com/file/d/1H0-eqHoDJ3oMYHuHS9_YwyY-PX-7tT4-/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
