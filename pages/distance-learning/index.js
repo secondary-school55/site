@@ -2074,6 +2074,8 @@ export default function DistanceLearning() {
 **07.04** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Написання похідних прийменників разом, окремо і через дефіс](https://drive.google.com/file/d/149pQ8e9oXAItbl3Hnd6lb2OLWQLUJnyG/view?usp=sharing)  
 **07.04** [7-А. Харенко Ю. А. І група. Тема: Сполучник як службова частина мови. Види сполучників](https://drive.google.com/file/d/1n5K_pHfblCEIGv3r1Blg9eZ56e6zpr6X/view?usp=sharing)  
 **08.04** [7-А. Харенко Ю. А. І група. Тема: Сполучники сурядності й підрядності, їх види](https://drive.google.com/file/d/1hQyeZxhpo7ba-L7_WI7eDFhkE0o9pP0f/view?usp=sharing)  
+**08.04** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Сполучник як службова частина мови. Види сполучників за будовою, походженням, способом використання в реченні](https://drive.google.com/file/d/1lzEBzOyrzIty7TH0MtdF23JlMfLr0EM3/view?usp=sharing)  
+**08.04** [7-Б. Алтинбаєва Л. М. Тема: Сполучник як службова частина мови. Види сполучників за будовою, походженням, способом використання в реченні](https://drive.google.com/file/d/1lzEBzOyrzIty7TH0MtdF23JlMfLr0EM3/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -2247,6 +2249,7 @@ export default function DistanceLearning() {
 **01.04** [Тема: Способи добування оксидів](https://drive.google.com/file/d/17mnao4mPgnc2tyTZc3KlpX-1CofTqLIY/view?usp=sharing)  
 **05.04** [Тема: Способи добування основ](https://drive.google.com/file/d/1fx4JovJBV9cDBQ6TP88-ozw3qCmNDbKQ/view?usp=sharing)  
 **07.04** [8-А. Тема: Добування кислот](https://drive.google.com/file/d/1CESx-Gar09NClSKKARhERovh-ixHYSPd/view?usp=sharing)  
+**08.04** [8-Б. Тема: Добування кислот](https://drive.google.com/file/d/1_wO3n7ceN5qnKMf2FDezrMCBvt9iLn4c/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Абсолютизм і громадянські війни у Франції](https://drive.google.com/file/d/1LjHnyvIvkFpsROshHXQx8bzKyHRS6yRz/view?usp=sharing)  
@@ -2381,6 +2384,7 @@ export default function DistanceLearning() {
 **30.03** [8-Б. Тема: Площа паралелограма](https://drive.google.com/file/d/1_--ReM7l8wtA3sNlhEt_TnErhE_Jq2h1/view?usp=sharing)  
 **06.04** [8-А. Тема: Метод площ. Площі многокутників. Самостійна робота](https://drive.google.com/file/d/1bEb-1c8WWoAVO7AsPXMK5GM9lflqHRHq/view?usp=sharing)  
 **06.04** [8-Б. Тема: Площа трапеції](https://drive.google.com/file/d/1tO79cGMsmnJ95h85efCTta7Q7iww1saW/view?usp=sharing)  
+**08.04** [8-Б. Тема: Площа ромба та трапеції](https://drive.google.com/file/d/1uFJ7HqH_Zm1ThesLNAEfx9nolP335Bjd/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Логічні вирази. Оператори розгалуження. Вкладені розгалуження](https://drive.google.com/file/d/1UIkiDcQ0uWpgiOSN8HPQe0On15gl7hh0/view?usp=sharing)  
@@ -2684,6 +2688,7 @@ export default function DistanceLearning() {
 **02.04** [9-Б. Тема: Узагальнення та систематизація знань](https://drive.google.com/file/d/1Iy1GUibeZH_pX3alIY6ZGgyScVI9GPig/view?usp=sharing)  
 **05.04** [9-Б. Тема: Підсумковий урок з теми Числові послідовності](https://drive.google.com/file/d/1scXf7srfqyRQ6dlHsJaDdbswEgbtb2U7/view?usp=sharing)  
 **06.04** [9-А. Тема: Підсумковий урок з теми Числові послідовності](https://drive.google.com/file/d/1PxaYqoFzsqUmaMG5APA6MOai-3Lu1q0M/view?usp=sharing)  
+**08.04** [9-А. Тема: Основні правила комбінаторики](https://drive.google.com/file/d/1IPG7Tthq78RH-bPOCGojhT9kAHN-8ngW/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
@@ -2861,6 +2866,7 @@ export default function DistanceLearning() {
 **21.01** [Тема: Карбонові кислоти](https://drive.google.com/file/d/1mNFcSoR326mipDSK0ytVy2_i5VJ4ODdu/view?usp=sharing)  
 **29.03** [Тема: Анілін](https://drive.google.com/file/d/1sv_BQDrM_ui0OUJRLoNx_ktn_rU9kSif/view?usp=sharing)  
 **05.04** [Тема: Амінокислоти](https://drive.google.com/file/d/1n-q6wbseUCpCimxTbL0CwQXQruV1VbHV/view?usp=sharing)  
+**08.04** [Тема: Білки](https://drive.google.com/file/d/18LrXP-jVFDKK927mXLL-tR9uxHuY29xV/view?usp=sharing)  
 
 ** Географія **  
 **11.01** [Тема: Третинний сектор економіки. Нерівномірність економічного розвитку субрегіонів азії та особливості їх участі в міжнародному поділі праці. Зв’язки україни з країнами Азії.](https://drive.google.com/file/d/1uEjvyC_mFoXDQP-tFUQKQ63GqB7vXnQg/view?usp=sharing)  
@@ -3012,6 +3018,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Правила знаходження первісних](https://drive.google.com/file/d/131gyL6Us88QJs0uOmSfwilpKoUyqUMEc/view?usp=sharing)  
 **29.03** [Тема: Елементи математичної статистики](https://drive.google.com/file/d/19gNViblYQQh0N3-UW_4xU_tcGSLls3BY/view?usp=sharing)  
 **01.04** [Тема: Елементи математичної статистики](https://drive.google.com/file/d/1f1ZyDSRDAg3CCvrsN7l_7z-gnZ9aR0Lh/view?usp=sharing)  
+**08.04** [Тема: Підсумковий урок. Контрольна робота](https://drive.google.com/file/d/14HBR6vm_1TOyWOOmKDh0ZmUaMYL5dIiI/view?usp=sharing)  
 
 ** Захист України **  
 **11.01** [Тема: Повний огляд пораненого, зупинка всіх інших видів кровотеч](https://drive.google.com/file/d/1vGeJ4yYdwbxW2fG2x-JbPlzplwwwZNlL/view?usp=sharing)  
