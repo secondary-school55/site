@@ -507,7 +507,7 @@ export default function DistanceLearning() {
 **06.04** [ІІ група. Тема: Діагностична робота Усний переказ](https://drive.google.com/file/d/1gA2ScLgKVWfgaLBFV9jzj-bZGKTdAujA/view?usp=sharing)  
 **06.04** [І група. Тема: Медіавіконце дитячі журнали, енциклопедії. Створення реклами журналу](https://drive.google.com/file/d/1yImClRbBoA72DyFwbcHy_bJE4Y0EgU9X/view?usp=sharing)  
 **08.04** [ІІ група. Тема: Медіавіконце: сторінками дитячих журналів](https://drive.google.com/file/d/19oTmQVhkaoghnD0fGaYEuGlLV-qij3H1/view?usp=sharing)  
-**08.04** [І група. Тема: Медіавіконце: сторінками дитячих журналів]()  
+**08.04** [І група. Тема: Медіавіконце: сторінками дитячих журналів](https://drive.google.com/file/d/1I6vf91ryV6hkHru6DxGXLTnMYcaMgbfY/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)  
@@ -1538,6 +1538,8 @@ export default function DistanceLearning() {
 **07.04** [5-А. ІІ група. Тема: Вставні слова](https://drive.google.com/file/d/11bh0pPreozWLBGDWXk_tKquJSYQH49SO/view?usp=sharing)  
 **07.04** [5-Б. Тема: Вставні слова](https://drive.google.com/file/d/1xtC4DuuDYKmUkSZpnfCBya6vTFt3zwCn/view?usp=sharing)  
 **08.04** [5-А. І група. Тема: РМ. Аналіз письмового твору](https://drive.google.com/file/d/1uTQOUq1ozii06Xne_Tg1wMXWxlLfyTyv/view?usp=sharing)  
+**08.04** [5-Б. Тема: Розділові знаки при вставних словах](https://drive.google.com/file/d/1pz4z2yQAVn7O7fH9mCS--Cdcd2bYXHcy/view?usp=sharing)  
+**08.04** [5-А. ІІ група. Тема: РМ Аналіз твору](https://drive.google.com/file/d/1PeHOR4ZFYKVoVWHzUYtPjflMZvHmXr6K/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -2216,6 +2218,7 @@ export default function DistanceLearning() {
 **05.04** [8.А. Стрембицька Л. А. Тема: Відокремлені додатки](https://drive.google.com/file/d/1oB8POw8VuxnicA-KCu938B_OWD9dtGg0/view?usp=sharing)  
 **06.04** [8-Б. Тема: Відокремлені додатки](https://drive.google.com/file/d/11pEDsXtx5URrBU9Hp-XLYsjT6YIYweGg/view?usp=sharing)  
 **08.04** [Стрембицька Л. А. Тема: Відокремлені обставини, способи їх вираження](https://drive.google.com/file/d/1w0Gib1dt1mKXTgjM-pKbUyNn6Weys8JS/view?usp=sharing)  
+**08.04** [8-А. І група. Тема: Розділові знаки при відокремлених додатках](https://drive.google.com/file/d/1oQMTY0TTkM9TiJVfzrM2bs-UJcIrX0HP/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1Q8mIXGFf9Qrm1fqus0UoNSE-0gA4qN9q/view?usp=sharing)  
@@ -2236,6 +2239,7 @@ export default function DistanceLearning() {
 **02.04** [8-А. Тема: В. Дрозд. «Білий кінь Шептало»](https://drive.google.com/file/d/1TFFqK31_UsUFRwuPidjqyPqHSRWvi-av/view?usp=sharing)  
 **05.04** [8-Б. Тема: Алегоричність образу коня Шептала](https://drive.google.com/file/d/1RF4z_srmkaMJ6xtpIxv5Puaa4xcu1sBw/view?usp=sharing)  
 **06.04** [8-А. Тема: Алегоричність образу коня Шептала](https://drive.google.com/file/d/16LgFuG1Thc0IeHHXij31HG1HMWLbHVls/view?usp=sharing)  
+**08.04** [8-Б. Тема: Юрій Винничук. «Місце для дракона». Повість-казка про сучасний світ, у якому й досі живуть «драконячі закони»](https://drive.google.com/file/d/1Sly6a8mdP_cU6IYfgFJoNZdxpeKHj64_/view?usp=sharing)  
 
 ** Хімія **  
 **03.12** [Тема: Кількість речовини. Моль – одиниця кількості речовини. Число Авогадро.](https://drive.google.com/file/d/1Xza-GsZgxJa88JxRQB42fENhbGkA2hPj/view?usp=sharing)  
@@ -2748,7 +2752,8 @@ export default function DistanceLearning() {
 **06.04** [Добровольська В. Е. Тема: Числівник як частина мови](https://drive.google.com/file/d/1NGdOYZW-xSp3i_bfZfpNLPoA09Tfc0N0/view?usp=sharing)  
 **07.04** [Стрембицька Л.А. Тема: Відмінювання числівників. Паралельне використання відмінкових форм числа. Паралельне вживання числівників з іменниками в непрямих відмінках](https://drive.google.com/file/d/1njvCPAv-lCZWh6RFGtScO8Ib7oTTarcE/view?usp=sharing)  
 **07.04** [Добровольська В. Е. Тема: Відмінювання числівників](https://drive.google.com/file/d/1rZXmomv0DnhE_sYischQiz0iS4e2-9dc/view?usp=sharing)  
-**08.04** [Стрембицька Л.А. Тема: Синтаксична функція числівника. Загальне значення, морфологічні ознаки]()  
+**08.04** [Стрембицька Л.А. Тема: Синтаксична функція числівника. Загальне значення, морфологічні ознаки](https://drive.google.com/file/d/1X21yGO9MbTKYoBfU_2YwXuJv82axjkNZ/view?usp=sharing)  
+**08.04** [Добровольська В. Тема: Стилістичні функції числівників. Написання числівників і відчислівникових слів. Наголос у числівниках](https://drive.google.com/file/d/1bMTy62IdufHNNW8no1GzAK8t-L1QftWZ/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
