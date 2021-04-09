@@ -126,6 +126,8 @@ export default function DistanceLearning() {
 **02.04** [Аудіозапис. Тема: Домашні улюбленці](https://drive.google.com/file/d/10RRQVM_X7LkQ1_-VTfnfnH0llbyNBr3r/view?usp=sharing)  
 **05.04** [Тема: Повторення](https://drive.google.com/file/d/1YPph2tySzGlOwNHVk7mWM2W4p7Bg1UPv/view?usp=sharing)  
 **05.04** [Аудіозапис. Тема: Повторення](https://drive.google.com/file/d/1KcaJgB9-VTHjj_1foM1pRhqADD6p5Rjj/view?usp=sharing)  
+**09.04** [Тема: Я бачу весну](https://drive.google.com/file/d/1WV5of-cLoQ1n8RSpOPBgImHa97GDW2zC/view?usp=sharing)  
+**09.04** [Аудоізапис. Тема: Я бачу весну](https://drive.google.com/file/d/1iEIveUmcvDcsGToRXoF6B5gohc_3LSvz/view?usp=sharing)  
 
 ** Навчання грамоти **  
 **04.12** [Тема: Звуки д, д’, позначення їх буквою «де». Практичне засвоєння дзвін-кої вимови звуків у кінці складів і слів. Словниково-логічні вправи](https://drive.google.com/file/d/1ZAOClYQ8HSOzVHbQ4qSlFuvsrc27sgkS/view?usp=sharing)  
@@ -290,6 +292,8 @@ export default function DistanceLearning() {
 **02.04** [Аудіозапис. Тема: Домашні улюбленці](https://drive.google.com/file/d/1sJISXKIfVTModjRzuv_JxA4Jo0ottjZc/view?usp=sharing)  
 **07.04** [Тема: Повторення](https://drive.google.com/file/d/1Y8unMxp_rQbUdESuipfKH24X90dVBnhT/view?usp=sharing)  
 **07.04** [Аудіозапис. Тема: Повторення](https://drive.google.com/file/d/1AZCuRqb_ucrdrxA0CuBDIt9Ft8mRit_Y/view?usp=sharing)  
+**09.04** [Тема: Я бачу весну](https://drive.google.com/file/d/18JdktPw4YwfNco2i1o-PaiXin276z1U2/view?usp=sharing)  
+**09.04** [Аудіозапис. Тема: Я бачу весну](https://drive.google.com/file/d/1sak04TgAd564Agc_ghE3OKjeNuqFE-2r/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **20.01** [Тема: Зустріч з театром. Ляльковий театр. Театральна лялька. Виготовлення ляльки до казки «Лисичка, Котик і Півник»](https://drive.google.com/file/d/1uoe6p-AZBDpvoAjYlrICChgVPHkDhoko/view?usp=sharing)  
@@ -563,6 +567,8 @@ export default function DistanceLearning() {
 **06.04** [І група. Аудіозапис](https://drive.google.com/file/d/1tEAQg0nF2IbSnmKz1UIngCccQnlDQog2/view?usp=sharing)  
 **07.04** [І група. Тема: Давай пограємо. Проект.](https://drive.google.com/file/d/1BASi45_vV-nOOHvyQxtP-8RlOdzS6rfW/view?usp=sharing)  
 **07.04** [ІІ група. Тема: Давай пограємо.Проект](https://drive.google.com/file/d/1PpU-P3tH-6OJEKxtEy34qpGkDsP8ii2v/view?usp=sharing)  
+**09.04** [І група. Тема: Світ тварин](https://drive.google.com/file/d/1ocpV73bkjhIi66JbHo2fW7A1_55M-pot/view?usp=sharing)  
+**09.04** [І група. Аудіозапис. Тема: Світ тварин](https://drive.google.com/file/d/1u4pD919nwyve5GvQ_CfjIecY7EJ-f1v5/view?usp=sharing)  
 
 ** Математика **  
 **11.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1VwNtfF7VLfGyvNSDziU_iCztBpKSa4aZ/view?usp=sharing)  
@@ -915,6 +921,7 @@ export default function DistanceLearning() {
 **07.04** [ІІ група. Тема: Якою погода була учора?](https://drive.google.com/file/d/15NXwzDfD9jmrGIzz2Bmaq6gNA0NdktRq/view?usp=sharing)  
 **09.04** [І група. Тема: Погода вчора. Past Simple](https://drive.google.com/file/d/1p6X59kc6zI27iaC0p17Zyl_u42qo8U9-/view?usp=sharing)  
 **09.04** [І група. Презентація. Тема: Погода вчора. Past Simple](https://drive.google.com/file/d/1VcZ5XI1hn-CwXh9akUMxKS9XAgSlVm4z/view?usp=sharing)  
+**09.04** [ІІ група. Тема: Погода учора](https://drive.google.com/file/d/1xy66v2iuHOJMJDYkux30U4OB5oxUyBcW/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
@@ -1292,6 +1299,7 @@ export default function DistanceLearning() {
 **07.04** [Тема: Всеволод Нестайко «Із сміхом треба бути обережним», Галина Малик «Мавпині іменини»](https://drive.google.com/file/d/1pflKGiElWKxlx_FcXv5-VxABNTDjMsjI/view?usp=sharing)  
 **07.04** [Горевич Л. В. Тема: Всеволод Нестайко. Із сміхом треба бути обеежним](https://drive.google.com/file/d/1HBy_Zd3Ar0arIcY8xiyAYsze_XGyUwcX/view?usp=sharing)  
 **09.04** [Тема: Володимир Рутківський «Угода» (І частина)](https://drive.google.com/file/d/1MnYDD90r5kLEz0rNvjkmdT39S93yj8dK/view?usp=sharing)  
+**09.04** [Горевич Л. В. Тема: Грицько Бойко. Консультант. Микола Сингаївський. Сміх для всіх](https://drive.google.com/file/d/1IhcXZo7-0j8xlLqKnDfE3a57yWKxVyQo/view?usp=sharing)  
 
 ** Природознавство **  
 **08.12** [Тема: Рослинний та тваринний світ Євразії](https://drive.google.com/file/d/12dq2cy7xWbmzcqgIBieKcuquvoJs3jDe/view?usp=sharing)  
@@ -1477,6 +1485,7 @@ export default function DistanceLearning() {
 **07.04** [Тема: Всеволод Нестайко «Із сміхом треба бути обережним», Галина Малик «Мавпині іменини»](https://drive.google.com/file/d/15-5RkS25y-Nu6wzvOJ726wms6C-3Ykav/view?usp=sharing)  
 **07.04** [Горевич Л. В. Тема: Всеволод Нестайко. Із сміхом треба бути обеежним](https://drive.google.com/file/d/1HBy_Zd3Ar0arIcY8xiyAYsze_XGyUwcX/view?usp=sharing)  
 **09.04** [Тема: Володимир Рутківський «Угода» (І частина)](https://drive.google.com/file/d/1vJt4WwsGpyrVW77Mg_T5UtTUstvOp53B/view?usp=sharing)  
+**09.04** [Горевич Л. В. Тема: Грицько Бойко. Консультант. Микола Сингаївський. Сміх для всіх](https://drive.google.com/file/d/1IhcXZo7-0j8xlLqKnDfE3a57yWKxVyQo/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **08.12** [Тема: Дизайн годинника](https://drive.google.com/file/d/1gMGKFcVJS20q8y2uKGv8Y2kvwBbrkVJB/view?usp=sharing)  
@@ -1619,6 +1628,7 @@ export default function DistanceLearning() {
 **02.04** [5-А. Тема: Виконання проекту](https://drive.google.com/file/d/1ucL4nOPEf_MINQU8mn-qmHvZQniX00aX/view?usp=drive_web)  
 **08.04** [5-Б. І група. Тема: Публічна презентація проекту](https://drive.google.com/file/d/1GLD2fBhnylfzeZgGqHBkUqxAWPV7xSO0/view?usp=drive_web)  
 **08.04** [5-Б. ІІ група. Тема: Публічна презентація проекту](https://drive.google.com/file/d/1IjRs_1SljB3N6q2nPDTsh9jib0tfWoef/view?usp=sharing)  
+**09.04** [5-А. ІІ група. Тема: Публічна презентація проекту](https://drive.google.com/file/d/1UcN6SjkG5Tig34UYZlSkCC7m-YFllOQC/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
@@ -1650,6 +1660,7 @@ export default function DistanceLearning() {
 **05.04** [5-А,Б. Тема: Розв'язування вправ](https://drive.google.com/file/d/1AS8yAugmMC4yNyPFHdHRGWtXjnFtpZeo/view?usp=sharing)  
 **06.04** [5-А,Б. Тема: Множення та ділення дробових чисел. Контрольна робота](https://drive.google.com/file/d/12pLGJNO9gWv-hUzh4krXdORR30PAoH1k/view?usp=sharing)  
 **07.04** [5-А,Б. Тема: Відсотки](https://drive.google.com/file/d/183F9SII7aL_xT08Tg_piRuAdoJ24DZh7/view?usp=sharing)  
+**09.04** [5-А,Б. Тема: Відсотки](https://drive.google.com/file/d/1hrHPwFGN6aoEMxw_y9_snp1LStExRpUG/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
@@ -1852,6 +1863,7 @@ export default function DistanceLearning() {
 **07.04** [6-Б. Тема: Рівняння. Основні властивості рівнянь](https://drive.google.com/file/d/1mLej4DQAKXJP_RhPNt90txo7liGo1j43/view?usp=sharing)  
 **07.04** [6-А,В. Тема: Розв'язування задач за допомогою рівнянь](https://drive.google.com/file/d/1SCiOk9eOg7V_PT0Pd4r1D8fQaN45hClc/view?usp=sharing)  
 **09.04** [6-А,В. Тема: Розв'язування задач за допомогою рівнянь](https://drive.google.com/file/d/1I5gPpOL_2p3WYyldKh-wIj6J0GBjdE-l/view?usp=sharing)  
+**09.04** [6-В. Тема: Розв’язування рівнянь. Основні властивості рівнянь](https://drive.google.com/file/d/1yyc3h_aN_8Klaja97LNj1EeV9xWas69s/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
