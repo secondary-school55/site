@@ -2516,6 +2516,7 @@ export default function DistanceLearning() {
 ** Обслуговуюча праця **  
 **22.01** [8-А. Тема: Ознайомлення зі зразками виробів, виготовлених із старих речей. Види конструкційних матеріалів для їх виготовлення. Інструменти та пристосування для виготовлення](https://drive.google.com/file/d/1OS4RzsWOyuSN0C36eHSJONGlUciI7o9q/view?usp=sharing)  
 **02.04** [8-А. Тема: Нове життя старим речам](https://drive.google.com/file/d/1tpOapySa8zQPWiTk9IbVHpKSjIiwHpZr/view?usp=sharing)  
+**09.04** [Тема: Виконання технологічних операцій відповідно до обраного виробу](https://drive.google.com/file/d/1L-XW4V3FjEs5-_KRdw7cWH0_usA_5vQD/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="9 клас">
@@ -2764,6 +2765,7 @@ export default function DistanceLearning() {
 **15.01** [Тема: Мова і види кіномистецтва](https://drive.google.com/file/d/1Rc1q_Cv4mFZU_BPZdqmkiMYbcQWqIXXv/view?usp=sharing)  
 **22.01** [Тема: Жанри кіномистецтва](https://drive.google.com/file/d/1u5JXUFCSTVlZqL2BBIA_7SS0ovzaJKfV/view?usp=sharing)  
 **02.04** [Тема: Поширення мистецтва: музеї, галереї, бібліотеки](https://drive.google.com/file/d/1gwVHZebIOGMLTDX8FvygRDOmk6eFEDxv/view?usp=sharing)  
+**09.04** [Тема: Фотомистецтво](https://drive.google.com/file/d/1h1QpwPXsNqxlLNR7u-Tg2OE560mucHcx/view?usp=sharing)  
 
 ** Алгебра **  
 **11.01** [Тема: Квадратні нерівності](https://drive.google.com/file/d/19Gm5ymTCuqJGr9_ikFVp8-WzoFccQtwD/view?usp=sharing)  
