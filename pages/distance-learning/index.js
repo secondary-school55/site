@@ -1795,6 +1795,7 @@ export default function DistanceLearning() {
 **02.04** [Тема: Реальні (звичайні) та пригодницькі події в повісті Я. Стельмаха «Митькозавр з Юрківки, або Химера лісового озера»](https://drive.google.com/file/d/1wtkCyA0BONUcHUWcxVRo9Hyxew7lpb1I/view?usp=sharing)  
 **06.04** [Тема: Допитливість, винахідливість, кмітливість хлопчиків – головних героїв, їх характеристика](https://drive.google.com/file/d/1K5xgaTm2VmFCYfLp3ICXd_MfwhDOi69P/view?usp=sharing)  
 **08.04** [Тема: Урок виразного читання. Читання прозового уривка з повісті «Митькозавр з Юрківки, або Химера лісового озера»](https://drive.google.com/file/d/1bioeTLa7DHfEMX8ymlZFnpgDTPkMo7cz/view?usp=sharing)  
+**09.04** [Тема: Урок виразного читання. Читання прозового уривка з повісті «Митькозавр з Юрківки, або Химера лісового озера»](https://drive.google.com/file/d/1D35oHygcPOXKqFy44Z3RnfyWhSToy8Wv/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/14u2a-Fbfs2UVhKlYPdZQYEyak9uKZs1T/view?usp=sharing)  
@@ -1894,6 +1895,7 @@ export default function DistanceLearning() {
 **06.04** [Тема: Узагальнення й систематизація вивченого з теми Числівник](https://drive.google.com/file/d/1PoM4CrhCvmnJTjLhhbWAiCr8NPjs6VbV/view?usp=sharing)  
 **07.04** [Тема: Узагальнення й систематизація вивченого з теми Числівник](https://drive.google.com/file/d/1R-hMdsHa4grInBcWTt3Lk1SWvnEiPhhw/view?usp=sharing)  
 **08.04** [Тема: Узагальнення й систематизація вивченого з теми Числівник](https://drive.google.com/file/d/1qRZomCt3P7ecegVmIt21XVaz5Hf3_XcG/view?usp=sharing)  
+**09.04** [Тема: Контрольна робота з теми «Числівник»](https://drive.google.com/file/d/10pLaJ92E_OuDc2dcXX0n5TYJeboRLrb2/view?usp=sharing)  
 
 ** Біологія **  
 **11.01** [Тема: Різноманітність та видозміни пагона](https://drive.google.com/file/d/1-QyLP9rc_OE-yPg9YZ7I6EDa7FmKktvz/view?usp=sharing)  
@@ -2971,6 +2973,7 @@ export default function DistanceLearning() {
 **07.04** [ІІ група. Тема: Чи подобається тобі спорт](https://drive.google.com/file/d/1dWqXrm56mTP54uRDpmn_JBBTuLCthn6L/view?usp=sharing)  
 **07.04** [І група. Тема: Чи подобається тобі спорт](https://drive.google.com/file/d/1UociLWo_h7naK9aogfb8-c1tPlYFYFMu/view?usp=sharing)  
 **09.04** [ІІ група. Тема: Підсумковий урок з теми "Чи подобається тобі спорт"](https://drive.google.com/file/d/1TFgqBIarJHlGzsp5Z0RmE9LdPLre74bo/view?usp=sharing)  
+**09.04** [І група. Тема: Спорт](https://drive.google.com/file/d/1mFv0cWfF6OLhhAQBSmaF0liRr4S5TXnG/view?usp=sharing)  
 
 ** Захист України**  
 **07.12** [Хлопці. Тема: Статути Збройних Сил України. Військові звання військовослужбовців Збройних Сил України](https://drive.google.com/file/d/1OzU2dwv875YIu-Owskc3Irad1zmIoqE9/view?usp=sharing)  
@@ -3109,6 +3112,7 @@ export default function DistanceLearning() {
 **30.03** [Тема: Уміння керувати емоціями](https://drive.google.com/file/d/1NtLFV4TTnOnX95lm3sPat74jCqXBth9X/view?usp=sharing)  
 **02.04** [Тема: Уміння керувати емоціями](https://drive.google.com/file/d/1sgaoWHZIqMycK7XhybM7UsTjmYQL9ufJ/view?usp=sharing)  
 **06.04** [Тема: Молодь і її соціальна роль](https://drive.google.com/file/d/1y3pUtLP_PrRKIXpgOr8BWzliMvcUuSQH/view?usp=sharing)  
+**09.04** [Тема: Контрольна робота з теми Молодь і соціум](https://drive.google.com/file/d/1gZy_wXNWwD9JMYpjm4Wzvgda2_nmBwtH/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Есе «Що робить мене щасливим (щасливою)»](https://drive.google.com/file/d/1xZaYEjnfrn1_BhqFqRKVKQHtugYFExs6/view?usp=sharing)  
