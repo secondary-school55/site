@@ -817,6 +817,8 @@ export default function DistanceLearning() {
 **07.04** [Презентація. Тема: Вправи і задачі на застосування вивчених випадків арифметичних дій](https://drive.google.com/file/d/1AzvUxrT3X-Sa-PZiw-1UbzLkZ65FlX9J/view?usp=sharing)  
 **08.04** [Тема: Вправи і задачі на застосування вивчених випадків арифметичних дій](https://drive.google.com/file/d/1VFnzR0oZyrAFB6GF8FTQRv8l9KjbljnG/view?usp=sharing)  
 **08.04** [Презентація. Тема: Вправи і задачі на застосування вивчених випадків арифметичних дій](https://drive.google.com/file/d/1ImPu_5O3j3SUuHDxvW22sWtpl_argdyr/view?usp=sharing)  
+**09.04** [Тема: Залежність між множником і добутком.Розв'язування задач](https://drive.google.com/file/d/1Y9kF_C2a1LCveppIIM2QBJP3SCV9BjuC/view?usp=sharing)  
+**09.04** [Презентація. Тема: Залежність між множником і добутком.Розв'язування задач](https://drive.google.com/file/d/1T-waQViyjJ8Zmn05w5dAgBY-AP2DL6G3/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1CbxkNJHRP-O8TfHLE4mA0__Mu-56Ovd3/view?usp=sharing)  
@@ -943,6 +945,7 @@ export default function DistanceLearning() {
 **08.04** [І група. Тема: На друзів зла тримати не можна. Н. Деменкова "Дружок і Образа". Визначення головної думки твору](https://drive.google.com/file/d/1YgYUWB--WQTAfll_I4lFxXQO5Uvt39CG/view?usp=sharing)  
 **08.04** [ІІ група. Тема: На друзів зла тримати не можна. Н. Деменкова "Дружок і Образа". Визначення головної думки твору](https://drive.google.com/file/d/1iBSrwJ9TX1c0-GPN_FAmQUGQctGEa5dA/view?usp=sharing)  
 **09.04** [ІІ група. Тема: Цінність дружби Я друзів не продаю](https://drive.google.com/file/d/1fkRo8J83KgUC3p92aXZlp6cbhoIuxN7r/view?usp=sharing)  
+**09.04** [І група. Тема: На друзів зла тримати не можна. Н. Деменкова "Дружок і Образа". Визначення головної думки твору](https://drive.google.com/file/d/1Bn4fnWgznFMRnSADyN6V1tDx0I-NGZHt/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -957,6 +960,7 @@ export default function DistanceLearning() {
 **02.04** [Тема: Організовуючі та загальнорозвивальні вправи. Вправи для розвитку координації. Стрибки зі скакалкою на одній, двох ногах. Стрибки у довжину з місця, з розбігу 5-7 кроків способом "Зігнувши ноги". Рухлива гра](https://drive.google.com/file/d/1yV94KkC6tAiPolvyJH6bKWsqEqBBzUMb/view?usp=sharing)  
 **05.04** [Тема: Організовуючі вправи, ЗРВ. Різновиди ходьби та бігу. Стрибки у висоту з прямого розбігу (через гумову мотузку) способом "зігнувши ноги" з 5-7 кроків розбігу. Рухлива гра "У річку, гоп!"](https://drive.google.com/file/d/194XSAOBr6wE5lR87xLKS-62qi1JYbKmt/view?usp=sharing)  
 **06.04** [Тема: Організовуючі вправи, ЗРВ. Різновиди ходьби та бігу. Стрибки у довжину з розбігу 5-7 кроків способом зігнувши ноги. Рухлива гра](https://drive.google.com/file/d/15Jbz41MfpJn-h5pPsGeVskjqwFbjW10m/view?usp=sharing)  
+**09.04** [Тема: ЗРВ. Різновиди ходьби та бігу. Стрибки у довжину](https://drive.google.com/file/d/1XUYTmD8ln1UZlrF1kBttBTqWjB4izsHX/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **11.01** [Тема: Композицiя "Полiт Карлсона над мiстом"](https://drive.google.com/file/d/1dhQA_ZrWUo6aZiE1XqG-YzOCjyXhezeo/view?usp=sharing)  
@@ -1034,6 +1038,8 @@ export default function DistanceLearning() {
 **08.04** [ІІ група. Презентація. Тема: Визначення в реченні головних і другорядних членів](https://drive.google.com/file/d/1MFCzARe12rZ7BUGOm4oaM6in18kkvyba/view?usp=sharing)  
 **09.04** [І група. Тема: Встановлення зв’язку слів у реченні. Побудова схеми речення і розпізнавання речення за поданою схемою. Написання тексту про свої враження.](https://drive.google.com/file/d/1XfYIN7sbSJxOweFNkuPEbxdtIcW-nzha/view?usp=sharing)  
 **09.04** [ІІ група. Тема: Встановлення зв’язку слів у реченні. Побудова схеми речень і розпізнавання речення за поданою схемою. Написання тексту про свої враження](https://drive.google.com/file/d/1ohTC10qX5wPW09f7mG7yoqevN-6z6RTk/view?usp=sharing)  
+**09.04** [І група. Тема: Встановлення зв’язку слів у реченні. Побудова схеми речення і розпізнавання речення за поданою схемою. Написання тексту про свої враження](https://drive.google.com/file/d/1Bn6BXcBfwMBaUp3cJgfp3_eBYhmh3w4j/view?usp=sharing)  
+**09.04** [І група. Презентація. Тема: Встановлення зв’язку слів у реченні. Побудова схеми речення і розпізнавання речення за поданою схемою. Написання тексту про свої враження](https://drive.google.com/file/d/1ro_dlLJx8N3h-WNvjKwm4xT_BuGC4zpX/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
