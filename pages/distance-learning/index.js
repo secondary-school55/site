@@ -1885,7 +1885,8 @@ export default function DistanceLearning() {
 **08.04** [6-Б. ІІ група. Тема: Послідовність створення презентацій та вимоги до їх оформлення](https://drive.google.com/file/d/1H0-eqHoDJ3oMYHuHS9_YwyY-PX-7tT4-/view?usp=sharing)  
 **09.04** [6-В. І група. Тема: Послідовність створення презентацій та вимоги до їх оформлення](https://drive.google.com/file/d/1AKQPGQaZ1_hSa3E9fBiJDwfzV2UFlFTs/view?usp=drive_web)  
 **09.04** [6-В. ІІ група. Тема: Послідовність створення презентацій та вимоги до їх оформлення](https://drive.google.com/file/d/1o4do4gitigDIlARI2llB6AW_QVrE4n3K/view?usp=drive_web)  
-**12.04** [6-Б. ІІ група. Тема: Створення графічних об&#39;єктів засобами редактора презентацій](https://drive.google.com/file/d/1SfqaAD4cwU2WvCFs2lkQ8xX7GFkIf1N1/view?usp=drive_web)  
+**12.04** [6-Б. ІІ група. Тема: Створення графічних об'єктів засобами редактора презентацій](https://drive.google.com/file/d/1SfqaAD4cwU2WvCFs2lkQ8xX7GFkIf1N1/view?usp=drive_web)  
+**12.04** [6-Б. І група. Тема: Створення графічних об'єктів засобами редактора презентацій](https://drive.google.com/file/d/15yz1vexc62X8hHGYDhmkdwmj2_RI3WMT/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -2458,7 +2459,7 @@ export default function DistanceLearning() {
 **08.04** [8-А. Тема: Наш край у 17- 18 ст.](https://drive.google.com/file/d/1cD1qvO8AyeiBH-SP6P5hY3avvEzVUcop/view?usp=sharing)  
 **09.04** [8-А. Тема: Узагальнення. Тематичне оцінювання](https://drive.google.com/file/d/1YlXvon1k5F41liuTpnMwWjrgrteMKwkB/view?usp=sharing)  
 **09.04** [8-Б. Тема: Узагальнення. Тематичне оцінювання](https://drive.google.com/file/d/1YlXvon1k5F41liuTpnMwWjrgrteMKwkB/view?usp=sharing)  
-**12.04** [8-А. Тема: Українські землі у сер. 18 ст. Гетьман П. Полуботок](https://drive.google.com/file/d/1A86yYIpHMemXdNDruxPdCVw35LMMvBfz/view?usp=sharing)  
+**12.04** [Тема: Українські землі у сер. 18 ст. Гетьман П. Полуботок](https://drive.google.com/file/d/1A86yYIpHMemXdNDruxPdCVw35LMMvBfz/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Музика в нашому житті. Відомі українські виконавці.](https://drive.google.com/file/d/1vZrqAEL9AOaGZyKMNjDM_F2so579-b7m/view?usp=sharing)  
@@ -2494,6 +2495,7 @@ export default function DistanceLearning() {
 **08.04** [8-Б. Тема: Повторення](https://drive.google.com/file/d/1mjepBFNtm0pGREkG_-iGq50w8J4KNkVC/view?usp=sharing)  
 **12.04** [8-А. І група. Тема: Підсумкова контрольна робота](https://drive.google.com/file/d/1lUcqKPfzoDM9EdHhiVNSTicEH0YZHpJ7/view?usp=sharing)  
 **12.04** [8-Б. Тема: Підсумкова контрольна робота](https://drive.google.com/file/d/1lUcqKPfzoDM9EdHhiVNSTicEH0YZHpJ7/view?usp=sharing)  
+**12.04** [8-А. ІІ група. Тема: Підсумкова контрольна робота](https://drive.google.com/file/d/13L98LCexA5Hwxs4hHBMLde9Zd5Hf9HLu/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -2770,6 +2772,8 @@ export default function DistanceLearning() {
 **08.04** [9-А. І група. Тема: Контрольна робота](https://drive.google.com/file/d/1Mk9myrtTreiUHvEGfqW71I8bGE4FqBH8/view?usp=sharing)  
 **12.04** [9-А. ІІ група. Тема: Професія лікар](https://drive.google.com/file/d/1twfgabrZxWrPPSB84gEn4HBDoh0__Xk8/view?usp=sharing)  
 **12.04** [9-А. ІІ група. Аудіозапис. Тема: Професія лікар](https://drive.google.com/file/d/14QJTbXH4ZCprn-vng40Lt9TGCYq0y10T/view?usp=sharing)  
+**12.04** [9-А. І група. Тема: Професія лікар](https://drive.google.com/file/d/11Gzn6ttqWVrW9yzIjszJE_f6AgG3UR_V/view?usp=sharing)  
+**12.04** [9-Б. Тема: Професія лікар](https://drive.google.com/file/d/11Gzn6ttqWVrW9yzIjszJE_f6AgG3UR_V/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
