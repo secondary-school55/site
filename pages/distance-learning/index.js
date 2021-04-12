@@ -199,11 +199,11 @@ export default function DistanceLearning() {
 **29.03** [Тема: Повторення вивченого матеріалу. Узагальнення і систематизація знань учнів](https://drive.google.com/file/d/1aF0ZrDg-kPT08Nu1THWLykQoKPfMeP_f/view?usp=sharing)  
 **30.03** [Тема: Записуємо задачу коротко. Підбір опорної схеми до задачі](https://drive.google.com/file/d/1M0EvOJJ9I1j3aJ1H-1HkMTmTUqa1pziV/view?usp=sharing)  
 **01.04** [Тема: Досліджуємо властивості величин. Ціле і частина. Визначення довжини ламаної. Розв’язування задач.](https://drive.google.com/file/d/1Sa80yzlOHvOg-nZA8Au4t5uuXw1QDmra/view?usp=sharing)  
-**02.04** [Тема: Мотивація навчально-пізнавальної діяльності учнів](https://drive.google.com/file/d/1b94TVwJq6MdN2-2wSimFP9waR18O3ItP/view?usp=sharing)  
+**02.04** [Тема: Досліджуємо лічильну одиницю “десяток”. Лічба десятками. Сотня](https://drive.google.com/file/d/1b94TVwJq6MdN2-2wSimFP9waR18O3ItP/view?usp=sharing)  
 **05.04** [Тема: Порівнюємо, додаємо і віднімаємо десятки. Робота з математичним матеріалом](https://drive.google.com/file/d/1Iiw_DRG4jfioZfB0FeiYv6h_RIVgqKfe/view?usp=sharing)  
 **06.04** [Тема: Одержуємо круглі числа. Додаємо і віднімаємо круглі числа. Порівняння чисел](https://drive.google.com/file/d/1NPiS__5I9Hiyt_WP5VcX4b6ObgT8ULRf/view?usp=sharing)  
-**08.04** [Тема: Мотивація навчально-пізнавальної діяльності учнів](https://drive.google.com/file/d/1IgWOO-vCVvMT11Cth3lo-pyu6qQIMdIx/view?usp=sharing)  
-**09.04** [Тема: Мотивація навчально-пізнавальної діяльності учнів](https://drive.google.com/file/d/1LqCMjfU7K4qOVaUPrP6JFJTj8igQ1nc7/view?usp=sharing)  
+**08.04** [Тема: Досліджуємо одиницю вимірювання довжини”дециметр”. Вимірювання довжин відрізків. Перетворювання одиниць вимірювання довжин.](https://drive.google.com/file/d/1IgWOO-vCVvMT11Cth3lo-pyu6qQIMdIx/view?usp=sharing)  
+**09.04** [Тема: Утворюємо числа другого десятка. Одноцифрові та двоцифрові числа](https://drive.google.com/file/d/1LqCMjfU7K4qOVaUPrP6JFJTj8igQ1nc7/view?usp=sharing)  
 
 ** Письмо **  
 **03.12** [Тема: Написання рядкової букви "т" (те), складів, слів з нею](https://drive.google.com/file/d/1gsIdnoi5dQYR7EUT3bzl3PpepuFbdQXk/view?usp=sharing)  
@@ -263,7 +263,6 @@ export default function DistanceLearning() {
 **13.01** [Тема: Мандри Країною Мистецтв. Цирк. Циркова афіша. Створення аплікації веселого циркового клоуна](https://drive.google.com/file/d/1vkFJEZU4JQNAwMC1H6mOrM9_nqpVGufL/view?usp=sharing)  
 **18.01** [Тема: Леопардик і тигрик.  Робота з папером. Згинання і складання паперу. Виготовлення леопардика або тигрика в техніці оригамі за зразком](https://drive.google.com/file/d/1uwly2Fce3gwINDMRE11cK_ENnOOq8rS9/view?usp=sharing)  
 **29.03** [Тема: Смачна грушка. Робота з пластиліном. Виготовлення із пластиліну плоских зображень фруктів. Ліплення грушки за зразком](https://drive.google.com/file/d/1ESke7l3UaBfUR3dSahQBTL1CJIprstbO/view?usp=sharing)  
-**07.04** [Тема: Народні інструменти та іграшки. Українські народні іграшки. Свищики. Ліплення і прикрашання іграшки-свищика.](https://drive.google.com/file/d/1RSKShrn-ldwjmxzC5KFG7k8GCHrVbtNu/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **08.12** [Тема: Властивості грунту](https://drive.google.com/file/d/1Xl5mQJ5IJvUtov2BDrAGZ1jhm2OaDm3k/view?usp=sharing)  
@@ -298,7 +297,7 @@ export default function DistanceLearning() {
 ** Образотворче мистецтво **  
 **20.01** [Тема: Зустріч з театром. Ляльковий театр. Театральна лялька. Виготовлення ляльки до казки «Лисичка, Котик і Півник»](https://drive.google.com/file/d/1uoe6p-AZBDpvoAjYlrICChgVPHkDhoko/view?usp=sharing)  
 **31.03** [Тема: Народна творчість. Вишивка. Орнамент. Створення орнаменту для розпису чашки](https://drive.google.com/file/d/1XKqok6tTaMkcYZp10_RVhYWEYyVjDul4/view?usp=sharing)  
-
+**07.04** [Тема: Народні інструменти та іграшки. Українські народні іграшки. Свищики. Ліплення і прикрашання іграшки-свищика.](https://drive.google.com/file/d/1RSKShrn-ldwjmxzC5KFG7k8GCHrVbtNu/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="1-В">
