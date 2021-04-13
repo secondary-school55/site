@@ -609,6 +609,8 @@ export default function DistanceLearning() {
 **09.04** [І група. Аудіозапис. Тема: Світ тварин](https://drive.google.com/file/d/1u4pD919nwyve5GvQ_CfjIecY7EJ-f1v5/view?usp=sharing)  
 **09.04** [ІІ група. Тема: Світ тварин](https://drive.google.com/file/d/1Qs9OOWAdhPNQ1gkoLii6gRhJGUGpfyIc/view?usp=sharing)  
 **13.04** [ІІ група. Тема: Мій домашній улюбленець](https://drive.google.com/file/d/1WaaA1HB5BL2tfYaXdTSYYYnZgBfM_hnC/view?usp=sharing)  
+**13.04** [І група. Тема: Мій домашній улюбленець](https://drive.google.com/file/d/1xRzMYzh78PVMt7hjtU7vnon7ruenocJF/view?usp=sharing)  
+**13.04** [І група. Аудіозапис. Тема: Мій домашній улюбленець](https://drive.google.com/file/d/1OXeV0qm1YNE4YYqq2qUJS69egG-_cwsz/view?usp=sharing)  
 
 ** Математика **  
 **11.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1VwNtfF7VLfGyvNSDziU_iCztBpKSa4aZ/view?usp=sharing)  
@@ -989,6 +991,8 @@ export default function DistanceLearning() {
 **09.04** [І група. Презентація. Тема: Погода вчора. Past Simple](https://drive.google.com/file/d/1VcZ5XI1hn-CwXh9akUMxKS9XAgSlVm4z/view?usp=sharing)  
 **09.04** [ІІ група. Тема: Погода учора](https://drive.google.com/file/d/1xy66v2iuHOJMJDYkux30U4OB5oxUyBcW/view?usp=sharing)  
 **13.04** [І група. Тема: Чи були ви у парку вчора. Аудіювання](https://drive.google.com/file/d/1VGQQPnEyPRHVERdXmtKPxwozEOAcsbAN/view?usp=sharing)  
+**13.04** [ІІ група. Тема: Чи були ви у парку вчора(https://drive.google.com/file/d/1qu02r3t0GA3wsqZUPBYfkJQ5qK8E988W/view?usp=sharing)  
+**13.04** [ІІ група. Аудіозапис. Тема: Чи були ви у парку вчора](https://drive.google.com/file/d/1hzChbQu0u4TcsOAJIYcTFHa3EgpZQsg0/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
@@ -1437,6 +1441,10 @@ export default function DistanceLearning() {
 **06.04** [І група. Аудіозапис](https://drive.google.com/file/d/1ViBLLX7V4kwzgDJaOPrmEAF_2dpYARmP/view?usp=sharing)  
 **08.04** [І група. Тема: Біля квиткової каси](https://drive.google.com/file/d/1SAU5Pv-sau5KI2ns4FWNR44EyOvJ0iOw/view?usp=sharing)  
 **08.04** [ІІ група. Тема: Біля квиткової каси](https://drive.google.com/file/d/1OpqpphpuBOtKLE0Ll0ihDi7mBRs3bVXL/view?usp=sharing)  
+**13.04** [І група. Тема: Подорожування](https://drive.google.com/file/d/1PJSKrIonjSms9lSVBg5-EaJZMJBZHuyH/view?usp=sharing)  
+**13.04** [І група. Аудіозапис. Тема: Подорожування](https://drive.google.com/file/d/1ZdqXfWnUMigHBhSKnfgqUDhkJRXzQFfT/view?usp=sharing)  
+**13.04** [ІІ група. Тема: Подорожування](https://drive.google.com/file/d/1PC94FUm6c56OB3VzX7gdvyAhYwVhylZc/view?usp=sharing)  
+**13.04** [ІІ група. Аудіозапис. Тема: Подорожування](https://drive.google.com/file/d/1jX64sDKheBM8JWHSeMKcbb-D7wg3Ubxq/view?usp=sharing)  
 
 ** Основи мовознавства **  
 **15.01** [Тема: Тренувальні вправи на побудову речень з прикметниками. Складання тексту-опису за малюнком](https://drive.google.com/file/d/10Y0DfvUD_nzi63CeOtKn8LQ_Z6dQ0fWy/view?usp=sharing)  
@@ -1559,6 +1567,8 @@ export default function DistanceLearning() {
 **13.04** [І група. Аудіозапис №1](https://drive.google.com/file/d/1A-0Paff-cpxrpk7QjYNnfzegcSiAUEST/view?usp=sharing)  
 **13.04** [І група. Аудіозапис №2](https://drive.google.com/file/d/1ImLt-fm5H6yTN3w1HkNO5WuIHBWh7cv_/view?usp=sharing)  
 **13.04** [І група. Аудіозапис №3](https://drive.google.com/file/d/1jt5qFp5OGjTYA3OHUzCjOxDqSCiM4rLf/view?usp=sharing)  
+**13.04** [ІІ група. Тема: Подорожування](https://drive.google.com/file/d/1i8a1w0nuxNr0jMhMQrIaCNGLe05EgiRU/view?usp=sharing)  
+**13.04** [ІІ група. Аудіозапис. Тема: Подорожування](https://drive.google.com/file/d/1wzDu28nZqnlMwHxZe2JIdxQpj2e7XHx1/view?usp=sharing)  
 
 ** Літературне читання **  
 **07.12** [Тема: Марко Вовчок «Літній ранок», Михайло Коцюбинський «Літній день»](https://drive.google.com/file/d/1XgJrjALeSBPNQ_Qy5nIsx0yLyZXI39WL/view?usp=sharing)  
@@ -2758,6 +2768,7 @@ export default function DistanceLearning() {
 **01.04** [Тема: Білки як біологічні полімери](https://drive.google.com/file/d/1cDFd1xGt4mFL7ZQrBoxcT07aQ5_ZTP1H/view?usp=sharing)  
 **06.04** [Тема: Природні й синтетичні органічні сполуки](https://drive.google.com/file/d/1dRjgrO-qsohbGJWk9UNHU2lX-fU3pSjB/view?usp=sharing)  
 **08.04** [Тема: Контрольна робота з теми "Оксигеновмісні органічні сполуки"](https://drive.google.com/file/d/1pVaZ9Oq6iZ2nxUHwVE2_bNwrSy9F0iEW/view?usp=sharing)  
+**13.04** [Тема: Практична робота №5](https://drive.google.com/file/d/1uYz9dVtlUAtoTn5dbi-ZI7z30mOQg8Mp/view?usp=sharing)  
 
 ** Правознавство **  
 **03.12** [Тема: Конституційні права і свободи людини і громадянина](https://drive.google.com/file/d/15aef0Tzl_ip_KxMQal1xDjVIK8mWwNyg/view?usp=sharing)  
