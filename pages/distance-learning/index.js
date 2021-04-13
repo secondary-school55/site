@@ -1855,6 +1855,7 @@ export default function DistanceLearning() {
 **12.04** [5-Б. Тема: Відкриваючи Британію](https://drive.google.com/file/d/1kbOTmYsvaY8TVnq18J5uOC3scgpL1bUu/view?usp=sharing)  
 **13.04** [5-А. ІІ група. Тема: Відкриваючи Британію. Present Perfect](https://drive.google.com/file/d/1M-j3cr7FdMubQhokGgzvS7mQqQ4uZ-bP/view?usp=sharing)  
 **13.04** [5-А. І група. Тема: Відкриваючи Британію. Present Perfect](https://drive.google.com/file/d/18pmTCE06jjBGi_kJENSS_XAl8ewtvP-5/view?usp=sharing)  
+**13.04** [5-Б. Тема: Відкриваючи Британію](https://drive.google.com/file/d/1kbOTmYsvaY8TVnq18J5uOC3scgpL1bUu/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -3010,6 +3011,7 @@ export default function DistanceLearning() {
 **06.04** [Тема: Повторення](https://drive.google.com/file/d/17GhsKWbUU-ZA2hzyBPyzdDXws0gVQcmq/view?usp=sharing)  
 **09.04** [9-А. Тема: Контрольна робота](https://drive.google.com/file/d/1esnIUt5YOvfJomWVtA0fbabBQLf_VPHj/view?usp=sharing)  
 **09.04** [9-Б. Тема: Контрольна робота](https://drive.google.com/file/d/1_IwonB4756YY8Z7j3bjnAVe42_NTViBP/view?usp=sharing)  
+**13.04** [Тема: Імпульс.Закон збереження імпульсу](https://drive.google.com/file/d/1403_8xrngpaEh1CUZz9G53alUG81oCeH/view?usp=sharing)  
 
 ** Мистецтво **  
 **04.12** [Тема: Сюрреалізм](https://drive.google.com/file/d/1NifrDQX_ktjFsE6qmEyUdO5CkcjpReOn/view?usp=sharing)  
@@ -3138,6 +3140,7 @@ export default function DistanceLearning() {
 **01.04** [Тема: Механiчнi властивостi твердих тiл](https://drive.google.com/file/d/1EYLhJ_FQmAwsi7ik_JzHKFnYeeEkB5JT/view?usp=sharing)  
 **06.04** [Тема: Повторення](https://drive.google.com/file/d/1a2P71LyTO7spIfihbXt6sLthHoKm25NE/view?usp=sharing)  
 **08.04** [Тема: Контрольна робота](https://drive.google.com/file/d/1MkoIK6lDhKj0lo96e6jCmsRUQo_4TyDy/view?usp=sharing)  
+**13.04** [Тема: Внутрішня енергія. Кількість теплоти. Робота](https://drive.google.com/file/d/1Vo98GFy06z-ks5y3AfAY83HMA4HKEJUP/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)  
