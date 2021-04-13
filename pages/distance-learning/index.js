@@ -2276,6 +2276,7 @@ export default function DistanceLearning() {
 **08.04** [7-Б. Тема: Визначні місця Лондона](https://drive.google.com/file/d/1gHI4TtgHe7LIjJjSODE_PElbxrVdVPVl/view?usp=sharing)  
 **12.04** [7-А. ІІ група. Тема: Визначні місця Києва](https://drive.google.com/file/d/1ZkghfTMlEUka0renMMbgXZtdgqq3qRHc/view?usp=sharing)  
 **12.04** [7-А. І група. Тема: Визначні місця Києва](https://drive.google.com/file/d/1JRz9smPgnL6Tjp97uKhgapmyk1VcJ_Oz/view?usp=sharing)  
+**13.04** [7-Б. Тема: Визначні місця Києва](https://drive.google.com/file/d/1JjOgszypiTfPILoHkuvb2ZpGtQoSRfbD/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Створення моделей для розв’язування задач](https://drive.google.com/file/d/129xZiYVeZFgltMSzdCWdQEco6wnXtbuw/view?usp=drive_web)  
