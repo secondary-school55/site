@@ -1788,6 +1788,10 @@ export default function DistanceLearning() {
 **12.04** [5-А. ІІ група. Тема: РМ Усний переказ тексту](https://drive.google.com/file/d/1snDwHMbT8SS0VA3I3OFaBHX5vmrDazVv/view?usp=sharing)  
 **12.04** [5-А. І група. Тема: РМ. Докладний усний переказ художнього тексту розповідного характеру з елементами роздуму](https://drive.google.com/file/d/1RpyjUnPZuHPtIrvg_LFpx5T_T0rd4GJf/view?usp=sharing)  
 **13.04** [5-Б. Тема: РМ Усний переказ тексту](https://drive.google.com/file/d/1uPjkWaWJ93TdrMLQ8JCQ2RNi73a91ZGq/view?usp=sharing)  
+**14.04** [5-А. ІІ група. Тема: Складання інформаційного повідомлення](https://drive.google.com/file/d/1aDFOaw-ErO3TTHo6yd-sj9ePsHqQEB_J/view?usp=sharing)  
+**14.04** [5-Б. Тема: Виділення вставних слів на письмі комами](https://drive.google.com/file/d/16uvqHt7-6NEnxb5HdHlegA7cgcDYQT90/view?usp=sharing)  
+**14.04** [5-Б. Тема: Складання інформаційного повідомлення](https://drive.google.com/file/d/1mQ-QSw3EmedWL0fJZiBIHqJghcPBNZ33/view?usp=sharing)  
+**14.04** [5-А. І група. Тема: Складання інформаційного повідомлення до шкільного веб-сайту про цікавий випадок із життя класу (з використанням вставних слів і словосполучень)](https://drive.google.com/file/d/19T216Q9d31vOZbbU2i-Ddm2omaJAbQox/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -1949,6 +1953,7 @@ export default function DistanceLearning() {
 **05.04** [5-Б. Тема: Ілюстрації до зоряного літопису. Козаки](https://drive.google.com/file/d/1DiCvG4QEqLO6HMutBcUgl7-AZvwYSpKD/view?usp=sharing)  
 **07.04** [5-А. Тема: Ілюстрації до зоряного літопису. Козаки](https://drive.google.com/file/d/1ekeLVo8tmN5tyyJme3z-R0HQaHjcNHu1/view?usp=sharing)  
 **12.04** [5-Б. Тема: Симфонія кольорів Всесвіту](https://drive.google.com/file/d/1mA7A2qwoRdjk2EVZBqPqs2CYZEG4aozM/view?usp=sharing)  
+**14.04** [5-А. Тема: Симфонія кольорів Всесвіту](https://drive.google.com/file/d/1zwmaywDqetvY_xBUleOLIWPtY5FwMrB8/view?usp=sharing)  
 
 ** Українська література **  
 **11.01** [5-А. Тема: Л.Глібов. "Химерний, маленький...", "Що за птиця?"](https://drive.google.com/file/d/1PfhpTVhihBn22ZZafAJ0UAig2vydUWqH/view?usp=sharing)  
@@ -2009,7 +2014,8 @@ export default function DistanceLearning() {
 **06.04** [Тема: Допитливість, винахідливість, кмітливість хлопчиків – головних героїв, їх характеристика](https://drive.google.com/file/d/1K5xgaTm2VmFCYfLp3ICXd_MfwhDOi69P/view?usp=sharing)  
 **08.04** [Тема: Урок виразного читання. Читання прозового уривка з повісті «Митькозавр з Юрківки, або Химера лісового озера»](https://drive.google.com/file/d/1bioeTLa7DHfEMX8ymlZFnpgDTPkMo7cz/view?usp=sharing)  
 **09.04** [Тема: Урок виразного читання. Читання прозового уривка з повісті «Митькозавр з Юрківки, або Химера лісового озера»](https://drive.google.com/file/d/1D35oHygcPOXKqFy44Z3RnfyWhSToy8Wv/view?usp=sharing)  
-**13.04** [Тема: Леся Воронина – сучасна письменниця. «Таємне Товариство боягузів, або Засіб від переляку №9»](https://drive.google.com/file/d/14JxlNwSIfJcRSuy8xs0aQSPEISexdQSh/view?usp=sharing)  
+**13.04** [6-А,В. Тема: Леся Воронина – сучасна письменниця. «Таємне Товариство боягузів, або Засіб від переляку №9»](https://drive.google.com/file/d/14JxlNwSIfJcRSuy8xs0aQSPEISexdQSh/view?usp=sharing)  
+**14.04** [6-Б. Тема: Леся Воронина – сучасна письменниця. «Таємне Товариство боягузів, або Засіб від переляку №9»](https://drive.google.com/file/d/1AOdTsER4nYKqPCxQrRt8-IYvl6ut0tpN/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/14u2a-Fbfs2UVhKlYPdZQYEyak9uKZs1T/view?usp=sharing)  
@@ -2122,6 +2128,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: Контрольна робота з теми «Числівник»](https://drive.google.com/file/d/10pLaJ92E_OuDc2dcXX0n5TYJeboRLrb2/view?usp=sharing)  
 **12.04** [Тема: Займенник, загальне значення](https://drive.google.com/file/d/1t3r9i4NIKzcmj8ZxZRpzAhEHICgGiVkl/view?usp=sharing)  
 **13.04** [Тема: Розряди займенників за значенням](https://drive.google.com/file/d/17T6CGqiWQiz5uqqRAbXM5NZLhHN_ltPG/view?usp=sharing)  
+**14.04** [Тема: РМ. Письмовий твір розповідного характеру з елементами роздуму](https://drive.google.com/file/d/1PtYMaetyBY0E7m4lD0Vm7W9oUKfTdQx_/view?usp=sharing)  
 
 ** Біологія **  
 **11.01** [Тема: Різноманітність та видозміни пагона](https://drive.google.com/file/d/1-QyLP9rc_OE-yPg9YZ7I6EDa7FmKktvz/view?usp=sharing)  
@@ -2428,6 +2435,8 @@ export default function DistanceLearning() {
 **07.04** [Тема: Задачі та вправи](https://drive.google.com/file/d/1LM2EiRrI2e81-EFMBG2o1vCE0sSiZhSQ/view?usp=sharing)  
 **12.04** [7-Б. Тема: Виготовлення розчинів](https://drive.google.com/file/d/1UoizMeyspCX45i3BSafXlp-42_B33jpC/view?usp=sharing)  
 **14.04** [7-А. Тема: Виготовлення розчинів](https://drive.google.com/file/d/1qsFGgAcPHDb58V2aZ4szAVApB1K0NGWp/view?usp=sharing)  
+**14.04** [7-А. Тема: Значення водних розчинів](https://drive.google.com/file/d/1vdNyEoKpoFjgQSCMQazjac066zCKksfU/view?usp=sharing)  
+**14.04** [7-А. Тема: Узагальнення знань про неорганічні речовини](https://drive.google.com/file/d/1ehwe5sJ0BkJSDPmaDx7UhHloN8Rjr32x/view?usp=sharing)  
 
 ** Алгебра **  
 **07.12** [Тема: Формули квадрата двочлена, різниці квадратів, суми і різниці кубів](https://drive.google.com/file/d/1rZfpPfzYKlR_3eqiRpZImyPSKsHghooO/view?usp=sharing)  
@@ -2528,6 +2537,7 @@ export default function DistanceLearning() {
 **02.04** [Алтинбаєва Л. М. Тема: М.Павленко. «Русалонька із 7-В, або Прокляття роду Кулаківських». Добро і зло в повісті, у сучасному світі та в людині. Образи дітей та дорослих, аналіз їхніх учинків. Символічне значення образів старовинної шафи та чарівних коралів](https://drive.google.com/file/d/1rWPM6K4jUZnirqGmqx1uqzFYQUBYcRWy/view?usp=sharing)  
 **07.04** [Алтинбаєва Л. М. Тема: М.Павленко. «Русалонька із 7-В, або Прокляття роду Кулаківських»](https://drive.google.com/file/d/1jQESlseE-KE0unPG3LMnY61lV82ORmDY/view?usp=sharing)  
 **09.04** [Алтинбаєва Л. М. Тема: Любов Пономаренко. «Гер переможений». Наскрізний гуманістичний пафос новели. Художні засоби його втілення](https://drive.google.com/file/d/187c3EboOdhXD9PIU5tjbB8FlKu9bcWOt/view?usp=sharing)  
+**14.04** [Алтинбаєва Л. М. Тема: Контрольна робота](https://drive.google.com/file/d/1bCUEJhLdzgnSDeI3_rEkaXPuqwssTluT/view?usp=sharing)  
 
 ** Російська мова **  
 **12.01** [7-А. Тема: Наречие. Значение, вопросы, роль в предложении](https://drive.google.com/file/d/17WUW3pPf4_MoiIAr_Yl6k_R7OfcG-rsF/view?usp=sharing)  
@@ -2615,6 +2625,7 @@ export default function DistanceLearning() {
 **07.04** [8-А. Тема: Добування кислот](https://drive.google.com/file/d/1CESx-Gar09NClSKKARhERovh-ixHYSPd/view?usp=sharing)  
 **08.04** [8-Б. Тема: Добування кислот](https://drive.google.com/file/d/1_wO3n7ceN5qnKMf2FDezrMCBvt9iLn4c/view?usp=sharing)  
 **12.04** [Тема: Способи добування солей](https://drive.google.com/file/d/1ypiW4k1mguW0Cwx5kGj6C7m1GnNiy_U3/view?usp=sharing)  
+**14.04** [8-А. Тема: Узагальнення знань про неорганічні речовини](https://drive.google.com/file/d/1ehwe5sJ0BkJSDPmaDx7UhHloN8Rjr32x/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Абсолютизм і громадянські війни у Франції](https://drive.google.com/file/d/1LjHnyvIvkFpsROshHXQx8bzKyHRS6yRz/view?usp=sharing)  
@@ -2797,6 +2808,7 @@ export default function DistanceLearning() {
 **01.04** [8-А. Тема: Романтизм](https://drive.google.com/file/d/1AcNSqvXIkTGTyiqZ75rBOMNz_RtcEPjK/view?usp=sharing)  
 **07.04** [8-Б. Тема: Романтизм](https://drive.google.com/file/d/1YGgHyC6SSFW7sDlDFACapgkDAcjPOqFL/view?usp=sharing)  
 **08.04** [8-А. Тема: Романтизм](https://drive.google.com/file/d/1D5PQhCdwoDqW1K7rtkNQZqcArsn_KP26/view?usp=sharing)  
+**14.04** [8-Б. Тема: Реалізм. Живопис](https://drive.google.com/file/d/10UCtckFkDCpV0sP0zXoEvWgpFo4BvZ6I/view?usp=sharing)  
 
 ** Російська мова **  
 **13.01** [Тема: Параллельная связь между предложениями в тексте](https://drive.google.com/file/d/1kI1EqW4xoE3j_M4DUEWxgqBji3bQfjXp/view?usp=sharing)  
@@ -3087,8 +3099,9 @@ export default function DistanceLearning() {
 **12.04** [9-А. Тема: Обговорення питання «Чи придатна рок-музика для передавання патріотичних настроїв, думок, закликів?». Використання складних речень з різними видами сполучникового і безсполучникового зв’язку](https://drive.google.com/file/d/1ekbgexjIBonPymw4SkLoSz96AUFqBgQH/view?usp=sharing)  
 **12.04** [9-Б. Тема: Обговорення питання «Чи придатна рок-музика для передавання патріотичних настроїв, думок, закликів?». Використання складних речень з різними видами сполучникового і безсполучникового зв’язку](https://drive.google.com/file/d/1TGU8y0V029vCUX-0FfCc3M7pnst-Gy10/view?usp=sharing)  
 **12.04** [9-А. І група. Тема: Обговорення питання Чи придатна рок музика](https://drive.google.com/file/d/1xzvWBVNbvBcAjR7KwPUrZzcQCnQ06ILy/view?usp=sharing)  
-**14.04** [9-А. Тема: Складання й розігрування діалогів-обговорень (прочитаної книжки, музичних новинок тощо) з різними співрозмовниками — товаришем](https://drive.google.com/file/d/1ZO5rs-cFOelvBqPuLmV_60G8jiKU2woW/view?usp=sharing)  
+**14.04** [9-А. ІІ група. Тема: Складання й розігрування діалогів-обговорень (прочитаної книжки, музичних новинок тощо) з різними співрозмовниками — товаришем](https://drive.google.com/file/d/1ZO5rs-cFOelvBqPuLmV_60G8jiKU2woW/view?usp=sharing)  
 **14.04** [9-Б. Тема: Складання й розігрування діалогів-обговорень (прочитаної книжки, музичних новинок тощо) з різними співрозмовниками — товаришем](https://drive.google.com/file/d/11FCUm-s-awpZA1sO1ElziejW9lOb2iya/view?usp=sharing)  
+**14.04** [9-А. І група. Тема: РМ Складання діалогу](https://drive.google.com/file/d/1Al51A6pffxo5d_DKyQsOX3qn8LZ3NF7O/view?usp=sharing)  
 
 ** Фізика **  
 **04.12** [Тема: Механічні хвилі](https://drive.google.com/file/d/1gFUenJvZoiJfbG2dXxl35x6LtqAUs2RB/view?usp=sharing)  
@@ -3195,6 +3208,7 @@ export default function DistanceLearning() {
 **13.04** [Стрембицька Л.А. Тема: Дієслово як частина мови](https://drive.google.com/file/d/1rbwkEZOge6eAIxpb5gDRrtYN1ngx32_L/view?usp=sharing)  
 **13.04** [Добровольська В. Тема: Дієслово як частина мови](https://drive.google.com/file/d/1lduYq4BQAgnxKUF0zMjQ7zGHhgxaC1_B/view?usp=sharing)  
 **14.04** [Стрембицька Л.А. Тема: Особливості семантики.Граматичні ознаки дієслів. Дієслова І і II дієвідмін. Букви є, и в особових закінченнях дієслів І і II дієвідмін](https://drive.google.com/file/d/16quj9hiWRImNFLPbpzfXK-ldjq7DeDVY/view?usp=sharing)  
+**14.04** [Добровольська В. Тема: Особливості семантики, Граматичні ознаки дієслів](https://drive.google.com/file/d/1aOfHkF-fhk7u8tPHq5UuF1L4rJeBLUzh/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
