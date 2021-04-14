@@ -1275,6 +1275,7 @@ export default function DistanceLearning() {
 **09.04** [ІІ група. Тема: Погода вчора](https://drive.google.com/file/d/1BrWdo4ieewqv9XwLrB7g99v2L_x7iKoA/view?usp=sharing)  
 **12.04** [І група. Тема: Чи були ви у парку вчора. Аудіювання](https://drive.google.com/file/d/1R3o8Mt4SpfzMGrwMFqBQtzuLZeRBBWvq/view?usp=sharing)  
 **14.04** [ІІ група. Тема: Чотири пори року у Великій Британії](https://drive.google.com/file/d/1SqepUmdtEDffIp6pTPdWUhEnxvev30z4/view?usp=sharing)  
+**14.04** [І група. Тема: Чотири пори року у Великій Британії. Читання](https://drive.google.com/file/d/1tIm0k-ZWlPffyu2I6D5y_D_oGrL2qNrc/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
@@ -2093,7 +2094,7 @@ export default function DistanceLearning() {
 **13.04** [6-А,В. Тема: Розв'язування вправ](https://drive.google.com/file/d/1KI2P8kC-dDCQsQmEoJgYNqhoBPJCakjG/view?usp=sharing)  
 **13.04** [6-А,В. Тема: Домашня робота підготовки до контрольної роботи](https://drive.google.com/file/d/1hoNOMbFU2qJAX972yvqgQA9jhhAJ7Nhj/view?usp=sharing)  
 **14.04** [6-В. Тема: Розв’язування задач за допомогою рівнянь](https://drive.google.com/file/d/1ZiIKwy9DGoJqQM1K8ANtPcfALiMKdcHQ/view?usp=sharing)  
-**14.04** [6-А,В. Тема: Контрольна робота. Рівняння](https://drive.google.com/file/d/1A8jeuDBvVRAWeUQe33AlrmAV82GKyWQm/view?usp=sharing)  
+**14.04** [6-А,В. Тема: Контрольна робота. Рівняння](https://drive.google.com/file/d/1B9QrC3oOeT-EGZNtYmBkgbIsAAFd4Epj/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
