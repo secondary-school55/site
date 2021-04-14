@@ -243,6 +243,7 @@ export default function DistanceLearning() {
 **07.04** [Тема: Апостроф. Правило вживання апострофа.Звуковий аналіз слів. Навчальний диктант. Побудова речень за поданим початком і малюнками.](https://drive.google.com/file/d/1EkUbdl4KBfI6yLdtntpkYkkPWjyEATsN/view?usp=sharing)  
 **08.04** [Тема: Правовпис слів з йо. Складання і записування речень](https://drive.google.com/file/d/1II_vKxdogXQW1ARoTvvO6lUAuWlBfWZY/view?usp=sharing)  
 **13.04** [Тема: Написання слів із буквосполученням ьо. Написання речень. Формування уміння користуватися довідкою](https://drive.google.com/file/d/17h5jneYANOMIuZIFWYsVPq1Mvdvuz7AZ/view?usp=sharing)  
+**14.04** [Тема: Поділ слів на склади. Виконання мовних вправ. Вибіркове списування](https://drive.google.com/file/d/1NZ1VIlJX5z3PoS_qMQT4bKPyz7RAcKHG/view?usp=sharing)  
 
 ** Фізична культура **  
 **03.12** [Тема: Постава як основа здоров’я. Танцювальеі кроки.](https://drive.google.com/file/d/1YmlLjjEr2r51vorkocbZ1-mCm6zB9eKs/view?usp=sharing)  
@@ -279,6 +280,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: Підготовка до читання](https://drive.google.com/file/d/1QVJ329rrlwSDB8zLu9LM7m8kHtzPyX9B/view?usp=sharing)  
 **12.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. Н. Поклад “Киця — друг...”, М. Пригара “Сварка”](https://drive.google.com/file/d/1kz721xe-97xzyTydq73e4wkkEohW95Zg/view?usp=sharing)  
 **13.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. М. Бабенко “Найкращий день”](https://drive.google.com/file/d/1uTNNNqwvrpJDSPM2KkMy18CjknOtciDn/view?usp=sharing)  
+**14.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. Н. Кир’ян “Хто жартує”, Д. Чередниченко “Мурчик і Жмурчик”](https://drive.google.com/file/d/189y3YWhwGZ5sDiovQxCwELsivwgRwWeU/view?usp=sharing)  
 
 ** Дизайн і технологія **  
 **07.12** [Тема: Зимова мозаїка. «Сипле,сипле сніг…»](https://drive.google.com/file/d/1AERA7DfM5Lc708yBsknO2y1BMta2evIW/view?usp=sharing)  
@@ -304,6 +306,7 @@ export default function DistanceLearning() {
 **07.04** [Тема: Природа рідного краю. Водойми](https://drive.google.com/file/d/1XcmlQeKf_2m9YeLuCfCM0SD6cjF5tW9B/view?usp=sharing)  
 **08.04** [Тема: Водойми, які розміщені у рідному краї. Опис водойми](https://drive.google.com/file/d/1CMwlVAIpfH4-WoWP-mwfnIZKBZagD_Af/view?usp=sharing)  
 **13.04** [Тема: Рослини рідного краю](https://drive.google.com/file/d/1C7S1Q_iSK0XNJT4ZJoGg_jC_DYJyT2zS/view?usp=sharing)  
+**14.04** [Тема: Тварини рідного краю](https://drive.google.com/file/d/125XVc2Ql1cDAv4yHEgc0c_t4sTHFCXhu/view?usp=sharing)  
 
 ** Англійська мова **  
 **13.01** [Тема: Я можу стрибати](https://drive.google.com/file/d/1qRZsU0FHl8VPDip11pjJLjrFYIU2YUuV/view?usp=sharing)  
@@ -325,6 +328,7 @@ export default function DistanceLearning() {
 **20.01** [Тема: Зустріч з театром. Ляльковий театр. Театральна лялька. Виготовлення ляльки до казки «Лисичка, Котик і Півник»](https://drive.google.com/file/d/1uoe6p-AZBDpvoAjYlrICChgVPHkDhoko/view?usp=sharing)  
 **31.03** [Тема: Народна творчість. Вишивка. Орнамент. Створення орнаменту для розпису чашки](https://drive.google.com/file/d/1XKqok6tTaMkcYZp10_RVhYWEYyVjDul4/view?usp=sharing)  
 **07.04** [Тема: Народні інструменти та іграшки. Українські народні іграшки. Свищики. Ліплення і прикрашання іграшки-свищика.](https://drive.google.com/file/d/1RSKShrn-ldwjmxzC5KFG7k8GCHrVbtNu/view?usp=sharing)  
+**14.04** [Тема: Міні-професіонали. Скульптури. Ліплення котика](https://drive.google.com/file/d/1UC_hxVLNeG8w-FgC3mHajzIfw53wgT_G/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="1-В">
