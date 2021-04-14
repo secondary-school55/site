@@ -559,7 +559,7 @@ export default function DistanceLearning() {
 **12.04** [ІІ група. Тема: Розв’яжи задачу №7 на сторінці 129](https://drive.google.com/file/d/1ipkuFW-WTTutVvWgaa-LcGMCQBKOYhw7/view?usp=sharing)  
 **12.04** [І група. Тема: «Наша гривня». «Чому грошей не може бути скільки завгодно» (з журналу «Джміль»)](https://drive.google.com/file/d/17ApdZVVNnkyyfJDUVCBS9D6KnS_iIgmh/view?usp=sharing)  
 **13.04** [ІІ група. Тема: Людина починається з добра](https://drive.google.com/file/d/1ZEOyi1PvXGPZykM7-CoeUcH5xC9OFhFh/view?usp=sharing)  
-**13.04** [І група. Тема: Про одне по-різному. М. Чумарна «Товар і покупець» (казка-загадка)](https://drive.google.com/file/d/1tAXvmapmSzE3aDcMAEu-MLD6Mg58V86e/view?usp=sharing)  
+**13.04** [І група. Тема: Людина починається з добра](https://drive.google.com/file/d/11PNI7F_lWmPtlzmFwx9ev4N_GGdkxKyl/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)  
@@ -1025,7 +1025,7 @@ export default function DistanceLearning() {
 **09.04** [ІІ група. Тема: Цінність дружби Я друзів не продаю](https://drive.google.com/file/d/1fkRo8J83KgUC3p92aXZlp6cbhoIuxN7r/view?usp=sharing)  
 **09.04** [І група. Тема: На друзів зла тримати не можна. Н. Деменкова "Дружок і Образа". Визначення головної думки твору](https://drive.google.com/file/d/1Bn4fnWgznFMRnSADyN6V1tDx0I-NGZHt/view?usp=sharing)  
 **12.04** [І група. Тема: РДК. О. Дерманський. Кого беруть в космонавти](https://drive.google.com/file/d/1dFlwTLdy0NnzZKrJKZwKH35a-OIlJSZz/view?usp=sharing)  
-**12.04** [ІІ група. Тема: ](https://drive.google.com/file/d/1nzWHFZ8L--Z2pRmsyelBbUoMZGRKDhmv/view?usp=sharing)  
+**12.04** [ІІ група. Тема: РДК. О.Дерманський "Кого беруть в космонавти"](https://drive.google.com/file/d/1nzWHFZ8L--Z2pRmsyelBbUoMZGRKDhmv/view?usp=sharing)  
 **13.04** [І група. Тема: Зрозуміти й підтримати інших. Н.Гербіш ,Різні культури](https://drive.google.com/file/d/1j3AjBEAnNvnLwi2ISg4N9WnYwOF6uH1F/view?usp=sharing)  
 **13.04** [ІІ група. Тема: Зрозуміти й підтримати інших. Н.Гербіш "Різні культури"](https://drive.google.com/file/d/18_ccGQkCOK8dWJOOIPepEzqgzYYUTNK_/view?usp=sharing)  
 
@@ -1537,6 +1537,7 @@ export default function DistanceLearning() {
 **07.04** [І група. Тема: Закріплення вивченого про дієслово](https://drive.google.com/file/d/1O9_XfoPPF50bnU8VdcemEgJ2TUSPW3F6/view?usp=sharing)  
 **07.04** [ІІ група. Тема: Закріплення вивченого про дієслово](https://drive.google.com/file/d/1b3UwG40ImE-hRgySFwuWmMsL4165hMrg/view?usp=sharing)  
 **12.04** [І група. Тема: Урок розвитку писемного мовлення №14. Складання тексту-опису за колективно складеним планом з опорою на допоміжні  матеріали](https://drive.google.com/file/d/1YTOVY7YMVTDjckHlUqBwbqgEdOHFI4CL/view?usp=sharing)  
+**12.04** [ІІ група. Тема: Урок розвитку писемного мовлення №14. Складання тексту-опису за колективно складеним планом з опорою на допоміжні  матеріали](https://drive.google.com/file/d/17-eZuhMsn5eT2r3UW9zuXMwM8BgYMyma/view?usp=sharing)  
 **13.04** [І група. Тема: Спостереження за значенням дієслів на –ся у тексті.Утворення різних форм дієслів на –ся і вживання їх у реченнях, мовленні. Словниковий диктант](https://drive.google.com/file/d/19qZC3fq-TFafXegjet__NewBNK-njyHb/view?usp=sharing)  
 **13.04** [ІІ група. Тема: Спостереження за значенням дієслів на -ся у тексті. Утворення  (за зразком) різних форм дієслів на -ся і вживання їх у реченнях, мовленні. Словниковий диктант](https://drive.google.com/file/d/1ElBBKU4d3ss1X-jV7rVLMsqw5bfd_W1U/view?usp=sharing)  
 
