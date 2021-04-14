@@ -525,6 +525,7 @@ export default function DistanceLearning() {
 **12.04** [ІІ група. Тема: Повторення, закріплення і застосування знань про речення](https://drive.google.com/file/d/1Q7UcM6GHgA7uegkmohCxcntLsFrDGNMv/view?usp=sharing)  
 **12.04** [І група. Тема: Повторення, закріплення і застосування знань про речення](https://drive.google.com/file/d/1dAotd9sb9vYNDaDtvz8Te39ew47osRM-/view?usp=sharing)  
 **14.04** [ІІ група. Тема: Застосування набутих знань, умінь і навичок з теми Досліджуємо речення](https://drive.google.com/file/d/1oBtYskoTEv_QK38tnJhMpOvDLEJ5-CEY/view?usp=sharing)  
+**14.04** [І група. Тема: Застосування набутих знань, умінь і навичок з теми Досліджуємо речення](https://drive.google.com/file/d/1p-Dn9S0g63ESYWy3HdNAdAMQujNbBIne/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
@@ -967,6 +968,8 @@ export default function DistanceLearning() {
 **09.04** [ІІ група. Тема: Встановлення зв’язку слів у реченні. Побудова схеми речення і розпізнавання речення за поданою схемою. Написання тексту про свої враження](https://drive.google.com/file/d/1Q7SclIC_kPLzITI9RkJrf0KL0MOo_tLT/view?usp=sharing)  
 **14.04** [І група. Тема: Утворюю словосполучення. Розрізнення граматичної основи речення і словосполучення. Розпізнавання головного і залежного слова у словосполученні](https://drive.google.com/file/d/1Haz42NMo4ks1bVTqW_ui8d3r31Z2Ib37/view?usp=sharing)  
 **14.04** [І група. Презентація. Тема: Утворюю словосполучення. Розрізнення граматичної основи речення і словосполучення. Розпізнавання головного і залежного слова у словосполученні](https://drive.google.com/file/d/1IdiIgxyBjDSrUUZZJA5fkxWQXdVT5JNC/view?usp=sharing)  
+**14.04** [ІІ група. Тема: Утворюю словосполучення. Розрізнення граматичної основи речення і словосполучення. Розпізнавання головного і залежного слова у словосполученні](https://drive.google.com/file/d/1ym7tr7mmideyNASADWhpWqYi1Uz2_78i/view?usp=sharing)  
+**14.04** [ІІ група. Презентація. Тема: Утворюю словосполучення. Розрізнення граматичної основи речення і словосполучення. Розпізнавання головного і залежного слова у словосполученні](https://drive.google.com/file/d/1btiHctaNazfA8E7XIoF3dYnM4hmPpGM9/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -1596,6 +1599,7 @@ export default function DistanceLearning() {
 **13.04** [І група. Тема: Спостереження за значенням дієслів на –ся у тексті.Утворення різних форм дієслів на –ся і вживання їх у реченнях, мовленні. Словниковий диктант](https://drive.google.com/file/d/19qZC3fq-TFafXegjet__NewBNK-njyHb/view?usp=sharing)  
 **13.04** [ІІ група. Тема: Спостереження за значенням дієслів на -ся у тексті. Утворення  (за зразком) різних форм дієслів на -ся і вживання їх у реченнях, мовленні. Словниковий диктант](https://drive.google.com/file/d/1ElBBKU4d3ss1X-jV7rVLMsqw5bfd_W1U/view?usp=sharing)  
 **14.04** [І група. Тема: Дієслова на –ся. Закріплення вивченого.  Контрольна робота  з мовної теми «Дієслово»](https://drive.google.com/file/d/17iOn9HV9z1ano2KS1k_fisd3Rx-PKxba/view?usp=sharing)  
+**14.04** [Тема: Дієслова на –ся. Закріплення вивченого.  Контрольна робота  з мовної теми «Дієслово»](https://drive.google.com/file/d/1o9DWmaP-F0MI61ytDJO_n2mNncDrvL1H/view?usp=sharing)  
 
 ** Я у світі **  
 **04.12** [Тема: Культура поведінки учня](https://drive.google.com/file/d/1uW5654jU6K1rkEnbTDFy_8sCJ2kafQLS/view?usp=sharing)  
@@ -2834,6 +2838,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Електризація. Електричний заряд](https://drive.google.com/file/d/1jgAI2QMnq0wL6_T1Qc5G4e1Op7hPX_RP/view?usp=sharing)  
 **20.01** [Тема: Закон Кулона](https://drive.google.com/file/d/17F7hnOY4f-mxVuFhytiva4qUtpoyAdaj/view?usp=sharing)  
 **31.03** [Тема: З'єднання провідників](https://drive.google.com/file/d/14bKnY3ggAVQuP2XgLMFt1sNobZgtd9n5/view?usp=sharing)  
+**14.04** [Тема: Робота та потужність струму](https://drive.google.com/file/d/1JwwUhBkFSx7R6aOxWMvQ4M8JuIIgvgtD/view?usp=sharing)  
 
 ** Зарубіжна література **  
 **12.01** [Тема: Епоха Відродження в Європі. Гуманізм. Культ античності. Характерні ознаки ренесансної культури і літератури](https://drive.google.com/file/d/1vbMlF-Ynn34DuybFY31ZAfQSuHiLDv2o/view?usp=sharing)  
@@ -3524,6 +3529,7 @@ export default function DistanceLearning() {
 **31.03** [Тема: Рівняння фотоефекту](https://drive.google.com/file/d/1Eu1rk_lD1lXPX15Lmi_OZtb6kjxSW8kB/view?usp=sharing)  
 **05.04** [Тема: Шкала електромагнітних хвиль](https://drive.google.com/file/d/12_IggAEvRWCEEzE8T0rsprL4x9KK9xE0/view?usp=sharing)  
 **12.04** [Тема: Квантові постулати Бора](https://drive.google.com/file/d/1aQdNfWmWG05ds1DJSeqrgGMVlyEfxTrk/view?usp=sharing)  
+**14.04** [Тема: https://drive.google.com/file/d/1qmAF_Gx4HyEHCg_Ay6AcsVMCqXV58UgH/view?usp=sharing](https://drive.google.com/file/d/1qmAF_Gx4HyEHCg_Ay6AcsVMCqXV58UgH/view?usp=sharing)  
 
 ** Хімія **  
 **08.12** [Тема: Поняття про гальванічний елемент як хімічне джерело електричного струму](https://drive.google.com/file/d/1-18C_qtNZmcyKNShpSVNgHdP_43NAkoS/view?usp=sharing)  
@@ -3594,6 +3600,7 @@ export default function DistanceLearning() {
 **13.01** [Тема: Планети-гіганти](https://drive.google.com/file/d/1ELiTkJtJebQ2sSuVQQT5vZ4a9rgadhbU/view?usp=sharing)  
 **20.01** [Тема: Планети-гіганти](https://drive.google.com/file/d/1JW5vCVxbg1KpraiPwld_qzBleG11FVGO/view?usp=sharing)  
 **31.03** [Тема: Еволюція зір](https://drive.google.com/file/d/1IkzJFvy8DGcbQulo2ihiqQV5bFWI2duZ/view?usp=sharing)  
+**14.04** [Тема: Наша галактика](https://drive.google.com/file/d/1Tfh6O_yMgli0kPIMOYeThx1plL0i7c9n/view?usp=sharing)  
 
 ** Технології **  
 **14.01** [Тема: Зовнішній вигляд людини. Складові культури зовнішнього вигляду. Косметологія](https://drive.google.com/file/d/17mcFv1pLc97qMEAacSgUtKcEv7ukOQTF/view?usp=sharing)  
