@@ -2368,6 +2368,7 @@ export default function DistanceLearning() {
 **05.04** [Тема: Виштовхувальна сила](https://drive.google.com/file/d/1HdVx2hCECF2Y_wPAZa9L-TNk-QvWQ731/view?usp=sharing)  
 **08.04** [Тема: Умови плавання тіл](https://drive.google.com/file/d/18QLM_gk6TGyHMcHzWqm5zROCfo0EmHHe/view?usp=sharing)  
 **12.04** [Тема: Повторення](https://drive.google.com/file/d/1G5hZLkcA9RxC-l-wYgXxbs83QXkP3TQE/view?usp=sharing)  
+**15.04** [Тема: Повторення](https://drive.google.com/file/d/1YIWzLQb2w92SbvzPvUFpSuDqu030dajJ/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)  
@@ -2801,6 +2802,9 @@ export default function DistanceLearning() {
 **13.04** [8-А. І група. Тема: Стиль життя молоді](https://drive.google.com/file/d/1fIA9Lg8EYXecpQxh1w6VvABsr_P7Ffx3/view?usp=sharing)  
 **13.04** [8-А. ІІ група. Тема: Стиль життя молоді](https://drive.google.com/file/d/1fIA9Lg8EYXecpQxh1w6VvABsr_P7Ffx3/view?usp=sharing)  
 **13.04** [8-Б. Тема: Стиль життя молоді](https://drive.google.com/file/d/1fbBJyDDhKK4lNpyQ6Pca3BN3jVYTQTZd/view?usp=sharing)  
+**15.04** [8-А. І група. Тема: Модальні дієслова](https://drive.google.com/file/d/1uflfCa3aDcaLQNGngkEdja0iTP80pFt_/view?usp=sharing)  
+**15.04** [8-А. ІІ група. Тема: Модальні дієслова](https://drive.google.com/file/d/1JJxLPfg-evvn6rIW5jVcC-3VAMfkpF83/view?usp=sharing)  
+**15.04** [8-Б. Тема: Модальні дієслова](https://drive.google.com/file/d/1uflfCa3aDcaLQNGngkEdja0iTP80pFt_/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -2927,6 +2931,7 @@ export default function DistanceLearning() {
 **07.04** [8-Б. Тема: Романтизм](https://drive.google.com/file/d/1YGgHyC6SSFW7sDlDFACapgkDAcjPOqFL/view?usp=sharing)  
 **08.04** [8-А. Тема: Романтизм](https://drive.google.com/file/d/1D5PQhCdwoDqW1K7rtkNQZqcArsn_KP26/view?usp=sharing)  
 **14.04** [8-Б. Тема: Реалізм. Живопис](https://drive.google.com/file/d/10UCtckFkDCpV0sP0zXoEvWgpFo4BvZ6I/view?usp=sharing)  
+**15.04** [8-А. Тема: Реалізм. Живопис](https://drive.google.com/file/d/1IRXU2-cSplHOYcg1Nxg5BwVnrl_XmgmU/view?usp=sharing)  
 
 ** Російська мова **  
 **13.01** [Тема: Параллельная связь между предложениями в тексте](https://drive.google.com/file/d/1kI1EqW4xoE3j_M4DUEWxgqBji3bQfjXp/view?usp=sharing)  
@@ -3116,6 +3121,7 @@ export default function DistanceLearning() {
 **14.04** [9-А. І група. Тема: Професія лікар](https://drive.google.com/file/d/1uR8ZdPJ749VS_Bl0EENOHNeWy-ym11zR/view?usp=sharing)  
 **14.04** [9-Б. Тема: Професія лікар](https://drive.google.com/file/d/1uR8ZdPJ749VS_Bl0EENOHNeWy-ym11zR/view?usp=sharing)  
 **15.04** [9-А. ІІ група. Тема: Граматика](https://drive.google.com/file/d/1XLpuztc-7C42iCQqwwyzwmP0ft_nkilt/view?usp=sharing)  
+**15.04** [9-Б. Тема: Граматика](https://drive.google.com/file/d/1YksJXrzaxZq0frjWbdkNlzAFUIZn280j/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
