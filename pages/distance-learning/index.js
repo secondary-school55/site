@@ -2890,7 +2890,7 @@ export default function DistanceLearning() {
 **06.04** [8-А. Тема: Метод площ. Площі многокутників. Самостійна робота](https://drive.google.com/file/d/1bEb-1c8WWoAVO7AsPXMK5GM9lflqHRHq/view?usp=sharing)  
 **06.04** [8-Б. Тема: Площа трапеції](https://drive.google.com/file/d/1tO79cGMsmnJ95h85efCTta7Q7iww1saW/view?usp=sharing)  
 **08.04** [8-Б. Тема: Площа ромба та трапеції](https://drive.google.com/file/d/1uFJ7HqH_Zm1ThesLNAEfx9nolP335Bjd/view?usp=sharing)  
-**13.04** [8-Б. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1SgOLsuJ669uViN3rN9ve0EFiGTfrHx1I/view?usp=sharing)  
+**13.04** [8-А. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1SgOLsuJ669uViN3rN9ve0EFiGTfrHx1I/view?usp=sharing)  
 **13.04** [8-Б. Тема: Розвязування вправ i задач](https://drive.google.com/file/d/1ge-g1lxFX8jXLdYLw6cXLENU-tl5Idm7/view?usp=sharing)  
 
 ** Інформатика **  
