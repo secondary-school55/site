@@ -29,22 +29,22 @@ export default function PublicInfo() {
    - [2017-2018 н.р.](/public-info/monitoring-the-quality-of-education/2017-2018.pdf)
 1. @6 Річний звіт про діяльність закладу освіти:
    - 2019-2020 н.р.
-     - [звіт директора за 2019-2020](/public-info/annual-report/2019-2020.pdf)
-     - [презентація до звіту директора за 2019-2020](https://www.slideshare.net/kzhkzh/20192020-237362489)
+     - [звіт директора за 2019-2020 н.р.](/public-info/annual-report/2019-2020.pdf)
+     - [презентація до звіту директора за 2019-2020 н.р.](https://www.slideshare.net/kzhkzh/20192020-237362489)
    - 2018-2019 н.р.
-     - [звіт директора за 2018-2019](/public-info/annual-report/2018-2019.pdf)
-     - [презентація до звіту директора за 2018-2019](https://drive.google.com/open?id=1vTFjujO0svPmltoqXhvGsqBtLBnXD5H6)
+     - [звіт директора за 2018-2019 н.р.](/public-info/annual-report/2018-2019.pdf)
+     - [презентація до звіту директора за 2018-2019 н.р.](https://drive.google.com/open?id=1vTFjujO0svPmltoqXhvGsqBtLBnXD5H6)
    - 2017-2018 н.р.
-     - [звіт директора за 2017-2018](/public-info/annual-report/2017-2018.pdf)
-     - [презентація до звіту директора за 2017-2018](https://drive.google.com/open?id=1LhsCU9SV8oY1ZHGkhkaP7S1rVSFY3N1U)
+     - [звіт директора за 2017-2018 н.р.](/public-info/annual-report/2017-2018.pdf)
+     - [презентація до звіту директора за 2017-2018 н.р.](https://drive.google.com/open?id=1LhsCU9SV8oY1ZHGkhkaP7S1rVSFY3N1U)
    - 2016-2017 н.р.
-     - [звіт директора за 2016-2017](/public-info/annual-report/2016-2017.pdf)
-     - [презентація до звіту директора за 2016-2017](https://drive.google.com/open?id=156j7FFLHIt0v_8QEbIx97DufTQfX7jjj)
+     - [звіт директора за 2016-2017 н.р.](/public-info/annual-report/2016-2017.pdf)
+     - [презентація до звіту директора за 2016-2017 н.р.](https://drive.google.com/open?id=156j7FFLHIt0v_8QEbIx97DufTQfX7jjj)
    - 2015-2016 н.р.
-     - [звіт директора за 2015-2016](/public-info/annual-report/2015-2016.pdf)
-     - [презентація до звіту директора за 2015-2016](https://drive.google.com/open?id=1R9010IqeDb0-PFTMnNTpZzymrg4-UYJ_)
+     - [звіт директора за 2015-2016 н.р.](/public-info/annual-report/2015-2016.pdf)
+     - [презентація до звіту директора за 2015-2016 н.р.](https://drive.google.com/open?id=1R9010IqeDb0-PFTMnNTpZzymrg4-UYJ_)
    - 2014-2015 н.р.
-     - [звіт директора за 2014-2015](/public-info/annual-report/2014-2015.pdf)
+     - [звіт директора за 2014-2015 н.р.](/public-info/annual-report/2014-2015.pdf)
 1. @7 Благоустрій та ремонт школи:
    - [2019-2020 н.р.](https://youtu.be/aiY5HHIYowU)
 1. @8 Пропозиції до проекту бюджету:

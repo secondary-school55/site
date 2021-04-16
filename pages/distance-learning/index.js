@@ -81,6 +81,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: Рослини рідного краю](https://drive.google.com/file/d/1VSsl1b-pyDBFNOsw9Z7gTx7bor6Ofxxm/view?usp=sharing)  
 **12.04** [Тема: Віртуальна екскурсія до водойми, розміщеної у рідному краї](https://drive.google.com/file/d/1PJrcBzXA22N4tRVOJILtkwpWMLG_5alP/view?usp=sharing)  
 **15.04** [Тема: Рослини рідного краю](https://drive.google.com/file/d/1EPoLQzMIMK_ksBHTLOZY_Ow3-k4QtKI2/view?usp=sharing)  
+**16.04** [Тема: Тварини рідного краю](https://drive.google.com/file/d/1qoj1yENLoZ8oj1clyz6agEtgQ_LOMLI3/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Переставний закон додавання](https://drive.google.com/file/d/1BLi2UtjK2pNwLTdsbZBZQpQnam1ixVsV/view?usp=sharing)  
@@ -103,6 +104,7 @@ export default function DistanceLearning() {
 **13.04** [Тема: Записуємо числа другого десятка. Розвязування задач](https://drive.google.com/file/d/1fW3sAqoF5CUoq0OJLiNDDtQVIOJB0x9u/view?usp=sharing)  
 **14.04** [Тема: Записуємо числа першої сотні. Обчислення ланцюжка дій. Читання і записування чисел у таблицю розрядів](https://drive.google.com/file/d/1icInUJHYUVCw00SyjdPdx1dEsca1WB7i/view?usp=sharing)  
 **15.04** [Тема: Порівнюємо числа в межах 100. Порівняння чисел за числовим променем](https://drive.google.com/file/d/12nqo7ZcRvWlf1iCV-m5uwdAVDGzsu8Yx/view?usp=sharing)  
+**16.04** [Тема: Додаємо і віднімаємо на основі складу чисел другого десятка. Робота з математичними матеріалами](https://drive.google.com/file/d/1QG7IQIG0fFCzAhKNRmf1iuXUZyKfZ_NL/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Переглянути відео](https://drive.google.com/file/d/1D2aar6UzW4Tfu4bdRX5yZWNcV_PluYtf/view?usp=sharing)  
@@ -177,6 +179,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: Ранкова зарядка](https://drive.google.com/file/d/1vITUhRcCv34TrJfUtSBj5PVUca6pJTyA/view?usp=sharing)  
 **13.04** [Тема: Ранкова зарядка](https://drive.google.com/file/d/18enlbeFnvHzAki_udSd4pQcgq4IOBiqY/view?usp=sharing)  
 **14.04** [Тема: Ранкова зарядка](https://drive.google.com/file/d/1FJwpLgi4vF0kcFYPJh44AfOx83Vrk7NE/view?usp=sharing)  
+**16.04** [Тема: Ранкова зарядка](https://drive.google.com/file/d/1yGiV9H27S312KAGUJ4JokybaIEcrlzv4/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Розумна сова](https://drive.google.com/file/d/1Ja33glOd8DLO8tlF8InGD6-KL2jBX0Fp/view?usp=sharing)  
@@ -228,6 +231,7 @@ export default function DistanceLearning() {
 **12.04** [Тема: Записуємо числа другого десятка. Одноцифрові і двоцифрові числа](https://drive.google.com/file/d/1I-lreNFoqfRYMtF-UKl2Dbm0iSBmgHO4/view?usp=sharing)  
 **13.04** [Тема: Записуємо числа другого десятка. Розв’язування задач](https://drive.google.com/file/d/1bTTotLXlaYgUDf-P0FpVf2HgRmDGX_XS/view?usp=sharing)  
 **15.04** [Тема: Записуємо числа першої сотні](https://drive.google.com/file/d/1fFo9Ln-ZtFvb9bmN1RM7kGD71Qtr3fOK/view?usp=sharing)  
+**16.04** [Тема: Порівнюємо числа в межах 100](https://drive.google.com/file/d/1QeWIBz6X2f9-8DzAf_leLhQGIh3xFQu-/view?usp=sharing)  
 
 ** Письмо **  
 **03.12** [Тема: Написання рядкової букви "т" (те), складів, слів з нею](https://drive.google.com/file/d/1gsIdnoi5dQYR7EUT3bzl3PpepuFbdQXk/view?usp=sharing)  
@@ -250,6 +254,7 @@ export default function DistanceLearning() {
 **13.04** [Тема: Написання слів із буквосполученням ьо. Написання речень. Формування уміння користуватися довідкою](https://drive.google.com/file/d/17h5jneYANOMIuZIFWYsVPq1Mvdvuz7AZ/view?usp=sharing)  
 **14.04** [Тема: Поділ слів на склади. Виконання мовних вправ. Вибіркове списування](https://drive.google.com/file/d/1NZ1VIlJX5z3PoS_qMQT4bKPyz7RAcKHG/view?usp=sharing)  
 **15.04** [Тема: Утворення нових слів шляхом зміни чи додавання букв. Удосконалення і записування тексту](https://drive.google.com/file/d/1hzAmrgjDuFfelgMPCOA24NZn0dCmJagO/view?usp=sharing)  
+**16.04** [Тема: Утворення слів шляхом додавання префікса чи суфікса (без уживання термінів). Складання і записування речень](https://drive.google.com/file/d/1eK14Bw2TL-oQ8izZrYUIyILhKS9sB28E/view?usp=sharing)  
 
 ** Фізична культура **  
 **03.12** [Тема: Постава як основа здоров’я. Танцювальеі кроки.](https://drive.google.com/file/d/1YmlLjjEr2r51vorkocbZ1-mCm6zB9eKs/view?usp=sharing)  
@@ -268,6 +273,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: Вправи на гнучкість](https://drive.google.com/file/d/1WRDIY3OvWOn-4nZ_xCD7u4Ehe265LasT/view?usp=sharing)  
 **12.04** [Тема: Підготовчі вправи. Організуючі ізагальнорозвивальні вправи](https://drive.google.com/file/d/1iWRdVl3Khc7g72zV6BnB9ghzWydp8avg/view?usp=sharing)  
 **15.04** [Тема: Загальнорозвивальні вправи. Вправи для розвитку швидкості](https://drive.google.com/file/d/1sfbWzTcrAt8q6Ok20asCjagWHIYLn_4T/view?usp=sharing)  
+**16.04** [Тема: Загальнорозвивальні вправи. Вправи для розвитку швидкості. Стрибки  у висоту](https://drive.google.com/file/d/1jXxYYIjGKyqe90ZTWEljGzrXvEHQdU7T/view?usp=sharing)  
 
 ** Читання **  
 **04.12** [Тема: Велика буква т. Читання слів, речень і тексту з вивченими літерами](https://drive.google.com/file/d/1-j7zPCcPLUsNpLGKPI9Z91e5oTld9ob8/view?usp=sharing)  
@@ -417,6 +423,8 @@ export default function DistanceLearning() {
 **13.04** [Тема: Поділ слів на склади. Виконання мовних вправ. Вибіркове списування](https://drive.google.com/file/d/1A1JTzP71oONzJrUnGGNhcphQ6B91LdBp/view?usp=sharing)  
 **14.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. М. Бабенко «Найкращий день»](https://drive.google.com/file/d/1gT_dVJ0KVasrscsOcLWcmwZhR8dLPsty/view?usp=sharing)  
 **14.04** [Тема: Утворення нових слів шляхом зміни чи додавання букв. Удосконалення і записування тексту.](https://drive.google.com/file/d/1DDJumHeRTBxl9q4fhguYLqT0Oov1hRJw/view?usp=sharing)  
+**16.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання.Н. Кир’ян «Хто жартує». Д. Чередниченко «Мурчик і Жмурчик»](https://drive.google.com/file/d/1JuhESM1WyRMXR4xC_Umx8uvk84hfNMhR/view?usp=sharing)  
+**16.04** [Тема: Утворення слів шляхом  додавання префікса чи суфікса (без уживання термінів). Складання і записування речень](https://drive.google.com/file/d/1am9qi7Oqiv2fK8M6y6ZfegJJC5fClGl6/view?usp=sharing)  
 
 ** Математика **  
 **04.12** [Тема: Досліджуємо таблиці додавання і віднімання числа 1](https://drive.google.com/file/d/1ske1rUW84RPzp16ulCeQlJJ8dPDdYZWf/view?usp=sharing)  
@@ -441,6 +449,7 @@ export default function DistanceLearning() {
 **12.04** [Тема: Записуємо числа другого десятка. Читання і записування чисел у таблицю розрядів](https://drive.google.com/file/d/1ulRDSBAnNhe55jrMrIB3PBjVHwCl3CZu/view?usp=sharing)  
 **13.04** [Тема: Записуємо числа другого десятка. Розв’язування задач](https://drive.google.com/file/d/1VIaxZccuQyeK2dkPOsSA0GvwszviVwya/view?usp=sharing)  
 **14.04** [Тема: Записуємо числа першої сотні. Обчислення ланцюжка дій. Читання і записування чисел у таблицю розрядів](https://drive.google.com/file/d/11BTsgIllj-z54HtXv3oiw3DqnM-dR-hV/view?usp=sharing)  
+**16.04** [Тема: Порівнюємо числа в межах 100. Порівняння чисел за числовим променем](https://drive.google.com/file/d/1UiBvM8BM_SRfN-RYTZ5QDh7rUt9lb0JT/view?usp=sharing)  
 
 ** Фізична культура **  
 **03.12** [Тема: Вправи для опанування навичок пересувань](https://drive.google.com/file/d/1tJ12GuU1ETqGGV3dHiag95-YTGcWnvkT/view?usp=sharing)  
@@ -460,6 +469,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: Організовуючі та загальнорозвивальні вправи](https://drive.google.com/file/d/16Lb5L1jNwgIwtpGFAZpdmR-ghgfz-ghp/view?usp=sharing)  
 **13.04** [Тема: Організовуючі та загальнорозвивальні вправи](https://drive.google.com/file/d/1PWe-2WiRgS2FjJiXqEqgnnaSVsfi56k5/view?usp=sharing)  
 **15.04** [Тема: Організовуючі та загальнорозвивальні вправи](https://drive.google.com/file/d/1XH4hf01c1LFuDI4PsGs122XNkJQofG1v/view?usp=sharing)  
+**16.04** [Тема: Організовуючі та загальнорозвивальні вправи](https://drive.google.com/file/d/19D8fHsVTiTZFBnV91WJ_JkfyyVFlVDBh/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Школа](https://drive.google.com/file/d/1ioY_Y8l-j2E4qXlL4MVnyRt9Z5ND_f4z/view?usp=sharing)  
@@ -599,6 +609,8 @@ export default function DistanceLearning() {
 **15.04** [ІІ група. Тема: Про одне по-різному. Марія Чумарна «Товар і покупець»](https://drive.google.com/file/d/1mWBaJuvWbb1oBAj1IfvWnwRgZ05UjKkh/view?usp=sharing)  
 **15.04** [І група. Тема: Про одне по-різному. Марія Чумарна «Товар і покупець»](https://drive.google.com/file/d/1zIuxSxHlaaiYXcMtk4wbWV02DC8SHGiC/view?usp=sharing)  
 **15.04** [І група. Презентація. Тема: Про одне по-різному. Марія Чумарна «Товар і покупець»](https://drive.google.com/file/d/1XfM-afpiCt6SKb1kiu8EmXhYpKiFSJv9/view?usp=sharing)  
+**16.04** [ІІ група. Тема: Наші мудрі друзі – енциклопедії. «Поклоніння вогню» (з популярної енциклопедії школяра «Дивосвіт»)](https://drive.google.com/file/d/1mLPzCNSCCG-6J8tpGhfFsoo9xBD-JGws/view?usp=sharing)  
+**16.04** [І група. Тема: Дитячі енциклопедії - джерело нових знань. Наші мудрі друзі - енциклопедії. Робота з дитячими енциклопедіями](https://drive.google.com/file/d/1MfIwVd8OyEggmD3kfi65pzJHHlqnHQi4/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)  
@@ -677,6 +689,7 @@ export default function DistanceLearning() {
 **12.04** [Тема: Таблиця ділення на 9. Вправи на використання таблиці ділення на 9. Розв’язування задач. Порівняння виразів на 2 дії](https://drive.google.com/file/d/1GR0WSWGo2UDfyrTVu8ghC8HJ_V7T6meL/view?usp=sharing)  
 **13.04** [Тема: Діагностична робота](https://drive.google.com/file/d/1LHM-m-ac9uksASbdN74TA1_5SbN2eAcF/view?usp=sharing)  
 **14.04** [Тема: Розширення задач через числове дане. Знаходження значень виразів зі змінною. Розв’язування задачі двома способами](https://drive.google.com/file/d/1LlE1PBlRE8cHxsl071hOBNAUPVBjIoYS/view?usp=sharing)  
+**16.04** [Тема: Розширення задач через числове дане. Знаходження значень виразів зі змінною. Розв’язування задачі двома способами](https://drive.google.com/file/d/1aaniQh5NR_eEhnvEk0SZimBts5RMpuex/view?usp=sharing)  
 
 ** Інформатика **  
 **11.01** [Тема: Правила безпечної роботи з цифровими ґаджетами](https://drive.google.com/file/d/1imDvg8zWf_m6OUAjHJrFWbh4t2qlk2p0/view?usp=drive_web)  
@@ -691,6 +704,7 @@ export default function DistanceLearning() {
 **22.01** [Тема: Виготовлення аплікації «Засніжені дерева». Природа взимку](https://drive.google.com/file/d/1sCJLRjv1q9LKi7NUCMJHoEAW5ZzMQsD8/view?usp=sharing)  
 **02.04** [Тема: Виготовлення ластівки з паперу](https://drive.google.com/file/d/1EermuiBZvefIzYy92MYgpexqwP5IjUw1/view?usp=sharing)  
 **09.04** [Тема: Виготовлення моделі транспортного засобу з підручних матеріалів]()  
+**16.04** [Тема: Аплікація Жаба - пустунка](https://drive.google.com/file/d/1nbXjh52ughZXwfGdCyMG09pBS-kA1KZ7/view?usp=sharing)  
 `}</Md>
           </Tab>
           <Tab title="2-Б">
@@ -738,6 +752,8 @@ export default function DistanceLearning() {
 **14.04** [Презентація. Тема: Таблиця множення на 9](https://drive.google.com/file/d/1qsi714Y7NVp2mKgWbgql7HWNSu2-ZQ33/view?usp=sharing)  
 **15.04** [Тема: Обчислення периметра трикутника](https://drive.google.com/file/d/1mvojxIXVy2A4A1v4P_udUKKqu2OLxstv/view?usp=sharing)  
 **15.04** [Презентація. Тема: Обчислення периметра трикутника](https://drive.google.com/file/d/14ZgAbm2KjvSGoTtGK0FnWbk0FnMV20Wl/view?usp=sharing)  
+**16.04** [Тема: Обчислення виразів та задач на використання таблиці множення 9](https://drive.google.com/file/d/1WJGWjINAt9X5Zllg1Ejv6eRDld2bwJPH/view?usp=sharing)  
+**16.04** [Презентація. Тема: Обчислення виразів та задач на використання таблиці множення 9](https://drive.google.com/file/d/1WHJVapekRThuW5B08iL5hJyDS6665uZL/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Ставлю питання до назв предметів. Розпізнаю слова — назви предметів за питаннями хто? що?](https://drive.google.com/file/d/1x-mt1ERC1wF1vB7K6oGvzZ8HFU79x8MZ/view?usp=sharing)  
@@ -799,6 +815,8 @@ export default function DistanceLearning() {
 **14.04** [Тема: О. Дерманський Чудо із чудес](https://drive.google.com/file/d/19FYtaEm2BX5abP7USHThrto8UDsIp_9N/view?usp=sharing)  
 **15.04** [Тема: Сторінками журналу Барвінок](https://drive.google.com/file/d/1NU2avCjptBVUOmvJK1smTixZSXsjcA8r/view?usp=sharing)  
 **15.04** [Презентація. Тема: Сторінками журналу Барвінок](https://drive.google.com/file/d/1Kpkyjn8FfA5mdkj9gtFcYEbSbOhxKprt/view?usp=sharing)  
+**16.04** [Тема: Медіавіконце дитячі журнали, енциклопедії](https://drive.google.com/file/d/14TvTEE1bz44h_f4xlOolw-MJqILE8T0r/view?usp=sharing)  
+**16.04** [Презентація. Тема: Медіавіконце дитячі журнали, енциклопедії](https://drive.google.com/file/d/1hwG7e6_5q7hNehsb4O-We6ya619FcGnw/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Дослідження сніжинок](https://drive.google.com/file/d/1iwAU41FzR28Lcm4x5twjg4NwG-tufv1g/view?usp=sharing)  
@@ -854,6 +872,7 @@ export default function DistanceLearning() {
 ** Дизайн і технології **  
 **15.01** [Тема: Виготовлення новорічної прикраси](https://drive.google.com/file/d/1FLM5RFfhrQBWmx9rxMiXcz1ZSLHnBPmH/view?usp=sharing)  
 **22.01** [Тема: Виготовлення сніговика](https://drive.google.com/file/d/1hIENnp35JbOvUHtCRf-uuVEiZ4j7goSS/view?usp=sharing)  
+**16.04** [Тема: Виготовлення моделі транспортного засобу](https://drive.google.com/file/d/1oip-DSkJPA1XNWz46gstQKKxCleAj2Jo/view?usp=sharing)  
 
 ** Інформатика **  
 **11.01** [Тема: Правила безпечної роботи з цифровими ґаджетами](https://drive.google.com/file/d/1imDvg8zWf_m6OUAjHJrFWbh4t2qlk2p0/view?usp=drive_web)  
@@ -956,6 +975,8 @@ export default function DistanceLearning() {
 **14.04** [Тема: Закріплення знань учнів. Вправи і задачі на застосування вивчених випадків арифметични дій. (№528-536)](https://drive.google.com/file/d/1kvyag24TDy_MwXpG1a9t_UWnGQIcPvz2/view?usp=sharing)  
 **14.04** [Презентація. Тема: Закріплення знань учнів. Вправи і задачі на застосування вивчених випадків арифметични дій. (№528-536)](https://drive.google.com/file/d/1MxClteheLeUh--wfBdz2EKw9NgWVWJkQ/view?usp=sharing)  
 **15.04** [Тема: Діагностична робота з теми Множення та ділення в межах 1000](https://drive.google.com/file/d/1750h9pOpOg0tzKlFuaCmxiJc-ZOJolGo/view?usp=sharing)  
+**16.04** [Тема: Аналіз діагностичної роботи. Робота над помилками](https://drive.google.com/file/d/1fmCWwnezJVFh5xnc-1qOCkc6CYLiIXVq/view?usp=sharing)  
+**16.04** [Презентація. Тема: Аналіз діагностичної роботи. Робота над помилками](https://drive.google.com/file/d/1xCaq8UITEeeLvZOvAuvCpuGXvxxJvMzh/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [Тема: Визначаю будову слова. Написання тексту про свої вподобання (с. 67 – 68)](https://drive.google.com/file/d/1CbxkNJHRP-O8TfHLE4mA0__Mu-56Ovd3/view?usp=sharing)  
@@ -1005,6 +1026,8 @@ export default function DistanceLearning() {
 **15.04** [І група. Тема: Побудова різних видів речень. Поширення речень за запитаннями. Складання речення за схемою](https://drive.google.com/file/d/1EgINbzQW9GJLQ1FOOalzrZz8V5NE7c_E/view?usp=sharing)  
 **15.04** [І група. Презентація. Тема: Побудова різних видів речень. Поширення речень за запитаннями. Складання речення за схемою](https://drive.google.com/file/d/1HvEr25OdvXKUipW4Kbfr3AThAQ5a6rkf/view?usp=sharing)  
 **15.04** [ІІ група. Тема: Побудова різних видів речень. Поширення речень за запитаннями. Складання речення за схемою](https://drive.google.com/file/d/1yWCGNi7oF4rJ5cmMBPAevhFShQMKq-mw/view?usp=sharing)  
+**16.04** [І група. Тема: Повторення і закріплення знань про речення. Діагностична робота. Списування](https://drive.google.com/file/d/1A2yu1IALp01mKL0ez05D4x5VPBPoJXtz/view?usp=sharing)  
+**16.04** [ІІ група. Тема: Повторення і закріплення знань про речення. Діагностична робота. Списування](https://drive.google.com/file/d/19fRcz73Z3uuCEEKC9CO5ysT1_ZnSd8ie/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -1071,6 +1094,8 @@ export default function DistanceLearning() {
 **13.04** [ІІ група. Аудіозапис. Тема: Чи були ви у парку вчора](https://drive.google.com/file/d/1hzChbQu0u4TcsOAJIYcTFHa3EgpZQsg0/view?usp=sharing)  
 **14.04** [І група. Тема: Чотири пори року у Великій Британії. Читання](https://drive.google.com/file/d/1tIm0k-ZWlPffyu2I6D5y_D_oGrL2qNrc/view?usp=sharing)  
 **14.04** [ІІ група. Тема: 4 пори року у Великій Британії](https://drive.google.com/file/d/1QwafgAykGwfyz77qdHsVu_PQL6TgQD2O/view?usp=sharing)  
+**16.04** [І група. Тема: Що ти знаєш про пори року в Україні? Письмо](https://drive.google.com/file/d/1UGgbMuFz9fjEIRTfXFu7fpkkHvLBHgXe/view?usp=sharing)  
+**16.04** [І група. Презентація. Тема: Що ти знаєш про пори року в Україні? Письмо](https://drive.google.com/file/d/1WPk5zOoui1B6NlF9rB2145ftk20v92Lp/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
@@ -1108,6 +1133,8 @@ export default function DistanceLearning() {
 **13.04** [ІІ група. Тема: Зрозуміти й підтримати інших. Н.Гербіш "Різні культури"](https://drive.google.com/file/d/18_ccGQkCOK8dWJOOIPepEzqgzYYUTNK_/view?usp=sharing)  
 **15.04** [І група. Тема: Зрозуміти й підтримати інших. Н.Гербіш "Різні культури"](https://drive.google.com/file/d/1Olm7VbLZ95RtPWZil0G6BaMRiTDHKwH-/view?usp=sharing)  
 **15.04** [ІІ група. Тема: Зрозуміти й підтримати інших. Н.Гербіш "Різні культури"](https://drive.google.com/file/d/1zynCbvr9hozxH3hi6X0wdXbFyjL7PjJn/view?usp=sharing)  
+**16.04** [І група. Тема: Про наших улюбленців. Н.Кирян "Ми з вамив цьому світі не самі..." М.Вітлер "Кошеня пропало"](https://drive.google.com/file/d/1NBOUXRrEqaIpCuw__omLVnJbA6pm477y/view?usp=sharing)  
+**16.04** [ІІ група. Тема: Про наших улюбленців. Н.Кирян "Ми з вамив цьому світі не самі..." М.Вітлер "Кошеня пропало"](https://drive.google.com/file/d/1kI84B9q4TE7J_FqkEGTJK8be5_1nJqmm/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -1125,6 +1152,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: ЗРВ. Різновиди ходьби та бігу. Стрибки у довжину](https://drive.google.com/file/d/1XUYTmD8ln1UZlrF1kBttBTqWjB4izsHX/view?usp=sharing)  
 **12.04** [Тема: Організовуючі вправи, ЗРВ. Різновиди ходьби та бігу. Стрибки у довжину з розбігу у 5-7 кроків](https://drive.google.com/file/d/1T00OLPtZ_5DftiPtqIx8tVedCy31ed6G/view?usp=sharing)  
 **13.04** [Тема: Правила безпеки на заняттях із застосуванням м'ячів. Вправи з малим м'ячем. Метання малого м'яча із-за спини через плече, на дальність](https://drive.google.com/file/d/1PRLMAT6swIyuJAr-4bi_YngKEmvQOlU5/view?usp=sharing)  
+**16.04** [Тема: Організовуючі вправи, ЗРВ . Різновиди ходьби та бігу. Вправи з малим м'ячем Метання малого м'яча із-за спини через плече, на дальність](https://drive.google.com/file/d/13VH7ZDviLdrq14zdFCrOdiE4Vmux7B11/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **11.01** [Тема: Композицiя "Полiт Карлсона над мiстом"](https://drive.google.com/file/d/1dhQA_ZrWUo6aZiE1XqG-YzOCjyXhezeo/view?usp=sharing)  
@@ -1220,6 +1248,9 @@ export default function DistanceLearning() {
 **15.04** [Тема: Утворення словосполучень. Розрізнення граматичної основи речення і словосполучень. Встановлення зв'язку слів у  словосполученні за питаннями. Розпізнавання головного і залежного слова в словосполученні. Написання розповіді за запитаннями. (с.134-136). Повторення. Синоніми.](https://drive.google.com/file/d/1-vtdN6u9BUlQeeZkXsgdMXjgYBvyhVD9/view?usp=drive_web)  
 **15.04** [І група. Презентація. Тема: Утворюю словосполучення](https://drive.google.com/file/d/1didDBx8YaTJ4EHA16MTgy7TOk9ZcG6fZ/view?usp=drive_web)  
 **15.04** [ІІ група. Тема: творення словосполучень. Розрізнення граматичної основи речення і словосполучень. Встановлення зв'язку слів у  словосполученні за питаннями. Розпізнавання головного і залежного слова в словосполученні. Написання розповіді за запитаннями. (с.134-136). Повторення. Синоніми.](https://drive.google.com/file/d/1fYZ7MvpcQF1EGAJbSiHRRV07p1vfOpwp/view?usp=sharing)  
+**16.04** [І група. Тема: Побудова різних видів речень. Поширення речень за запитаннями. Складання речення за схемою](https://drive.google.com/file/d/1Bj2B6EaPr_qcjRS-s4KQ65w083lyrLP9/view?usp=sharing)  
+**16.04** [І група. Презентація. Тема: Побудова різних видів речень. Поширення речень за запитаннями. Складання речення за схемою](https://drive.google.com/file/d/1Xq-P9GVyFwM_gpYPE8zXtUvoyPuW3WhK/view?usp=sharing)  
+**16.04** [ІІ група. Тема: Побудова різних видів речень. Поширення речень за запитаннями. Складання речень за схемою. Написання розгорнутої відповіді на запитання. (с. 137-138)](https://drive.google.com/file/d/1YIPs8F6SIHwkWuSUGQCyRnGimT0_EjjK/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
@@ -1257,6 +1288,7 @@ export default function DistanceLearning() {
 **13.04** [Тема: Залежність між дільником, діленим і часткою. Розв’язування задач](https://drive.google.com/file/d/1Dr0T78uVSXfljsOizj-kGgkRIB_mRrrB/view?usp=sharing)  
 **14.04** [Тема: Закріплення знань учнів. Вправи і задачі на застосування вивчених випадків арифметичних дій](https://drive.google.com/file/d/1FR7n3DXGCTFtXFWyoQc5maga6CuaWdpu/view?usp=sharing)  
 **15.04** [Тема: Діагностична робота з теми "Множення і ділення в межах 1000. Усне множення і ділення"](https://drive.google.com/file/d/1sV8_e0r9SIchFD6gvwhz0x0qZYNXesW1/view?usp=drive_web)  
+**16.04** [Тема: Аналіз діагностичної роботи. Робота над помилками](https://drive.google.com/file/d/1V9Xun809s9j2p_rfSXbfneHJxdaMZ10Q/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -1274,6 +1306,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: ЗРВ. Різновиди ходьби та бігу. Стрибки у довжину](https://drive.google.com/file/d/1zLn_qOxL0SJm2vBXpy5qqqw9Kxz4WnWB/view?usp=sharing)  
 **12.04** [Тема: ЗРВ. Різновиди ходьби та бігу. Стрибки у довжину](https://drive.google.com/file/d/1a_V-M1hr2fgzmr3PZGLQBFi1jvCDuiQo/view?usp=sharing)  
 **13.04** [Тема: Правила безпеки на заняттях із застосуванням м’ячів. Організуючі вправи, ЗРВ. Різновиди ходьби та бігу](https://drive.google.com/file/d/1VvRCPpmWWZ0WW85ltLsjRcbtjYZKJo2y/view?usp=sharing)  
+**16.04** [Тема: Організуючі вправи, ЗРВ. Різновиди ходьби та бігу. Вправи з малим м’ячем вправи з малим м’ячем «із-за спини через плече», на дальність із місця . Рухлива гра «Мисливці і качки»](https://drive.google.com/file/d/1ItsqQY4FqG-M2fPRr6t9-pLo877nkksl/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
@@ -1297,6 +1330,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: Цінність дружби. Я друзів не продаю](https://drive.google.com/file/d/1jdmb3khvxShmJQ_2ZYMIOzsznaRr2qRq/view?usp=sharing)  
 **13.04** [Тема: Зрозуміти й підтримати інших. Н. Гербіш «Різні культури»](https://drive.google.com/file/d/16yEfGoDO1ehUYuU-CnWzskGksV7VVj1T/view?usp=sharing)  
 **14.04** [Тема: Зрозуміти й підтримати інших. Н. Гербіш Різні культури](https://drive.google.com/file/d/16eea2Kj6WFtX9gEHm4PsaUAkK0FeW-0P/view?usp=sharing)  
+**16.04** [Тема: Про наших улюбленців. Н.Кирян "Ми з вамив цьому світі не самі..." М.Вітлер "Кошеня пропало"](https://drive.google.com/file/d/1WehSw477_6RwuHjrNWuV8wFQWqBZtr3r/view?usp=sharing)  
 
 ** Англійська мова **  
 **11.01** [Тема: Мандрівка у великий будинок](https://drive.google.com/file/d/1mDmTRC20f27VBAhPwomQs6pzHS9MPezV/view?usp=sharing)  
@@ -1325,6 +1359,8 @@ export default function DistanceLearning() {
 **12.04** [І група. Тема: Чи були ви у парку вчора. Аудіювання](https://drive.google.com/file/d/1R3o8Mt4SpfzMGrwMFqBQtzuLZeRBBWvq/view?usp=sharing)  
 **14.04** [ІІ група. Тема: Чотири пори року у Великій Британії](https://drive.google.com/file/d/1SqepUmdtEDffIp6pTPdWUhEnxvev30z4/view?usp=sharing)  
 **14.04** [І група. Тема: Чотири пори року у Великій Британії. Читання](https://drive.google.com/file/d/1tIm0k-ZWlPffyu2I6D5y_D_oGrL2qNrc/view?usp=sharing)  
+**16.04** [І група. Тема: Що ти знаєш про пори року в Україні? Письмо](https://drive.google.com/file/d/1s4whMztz2nFehMobNEynxhWPi9Jyse8-/view?usp=sharing)  
+**16.04** [І група. Презентація. Тема: Що ти знаєш про пори року в Україні? Письмо](https://drive.google.com/file/d/1WPk5zOoui1B6NlF9rB2145ftk20v92Lp/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
@@ -1394,6 +1430,7 @@ export default function DistanceLearning() {
 **12.04** [Тема: Знаходження значень виразів на сумісні дії різного ступе¬ня. Задачі на знаходження числа за двома різницями](https://drive.google.com/file/d/1vmgVkzj3DOybBWu7GWtDZSlehB3g1xuh/view?usp=sharing)  
 **14.04** [Тема: Письмове множення багатоцифрових чисел на трицифрові. Знаходження значень виразів на сумісні дії різного ступеня. Задачі на рух](https://drive.google.com/file/d/1DPCvwu5VaWOiiGEnHsADzLlB9gQ7pTLK/view?usp=sharing)  
 **15.04** [Тема: Письмове множення багатоцифрових чисел на трицифрові. Знаходження значень виразів на сумісні дії різного ступеня. Задачі на  рух. Задачі на знаходження](https://drive.google.com/file/d/1JyzXjgVG8L8uDq1Ph35fFy5zr2TFdkRk/view?usp=sharing)  
+**16.04** [Тема: Письмове ділення трицифрових чисел на двоцифрові числа без остачі та з остачею. Середнє арифметичне](https://drive.google.com/file/d/1InRzSaZWlAWK0fUZ4zhfxmHJw1cV7Cau/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **03.12** [Тема: Профілактика порушень зору, слуху, опорно-рухового апарату у школярів. Вправи для профілактики плоскостопості](https://drive.google.com/file/d/1qcNOK9BdFA-j7Fyo2JrNI_GEvJJfZ-46/view?usp=sharing)  
@@ -1460,6 +1497,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: Підготовчі вправи. ЗРВ. Стрибки у довжину з розбігу 7-9 кроків способом “зігнувши ноги”.  Рухливі ігри та естафети зі стрибками](https://drive.google.com/file/d/1NKi5-3k8ULYuISgX-UPTEYZN80MTrOud/view?usp=sharing)  
 **12.04** [Тема: Комплекс вправ ранкової гімнастики. Стрибки у довжину з розбігу 7-9 кроків способом “зігнувши ноги”. Рухливі ігри та естафети зі стрибками](https://drive.google.com/file/d/1z3VHY4kA7SoCuHUqyW8yoxNTJV3uTm5r/view?usp=sharing)  
 **13.04** [Тема: Правила безпеки на заняттях . Біг   із різних вихідних положень (сидячи спиною до напрямку бігу, лежачи на спині тощо). Біг з подоланням перешкод.  Рухливі  ігри «“Шишки, жолуді, горіхи”, “Виклик”, “Наступ”](https://drive.google.com/file/d/1uffxmJLFTxen6BTtFUQ1Wnf2WOQu2wPz/view?usp=sharing)  
+**16.04** [Тема: Різновиди ходьби та бігу. Біг по слабопересіченій місцевості до 1000 м. Танцювальні кроки «галоп», «полька на місці»](https://drive.google.com/file/d/1RH_9DN_YRPYI4xnD-vo2HX61OpSOI319/view?usp=sharing)  
 
 ** Я у світі **  
 **04.12** [Тема: Культура поведінки учня](https://drive.google.com/file/d/1VflWdiAssdcz5PqI46YjcYwF-ewod2FQ/view?usp=sharing)  
@@ -1467,6 +1505,7 @@ export default function DistanceLearning() {
 **22.01** [Тема: Культура спілкування. Як налагодити хороші взаємини Будьте дружелюбними!](https://drive.google.com/file/d/1b-TC02xZpq4jF42CEUBw3tDE3TsJ1gWu/view?usp=sharing)  
 **02.04** [Тема: Планета Земля – наш спільний дім](https://drive.google.com/file/d/1hcu4FKmrs9szRRwQbvAW96SXxmiLUpSu/view?usp=sharing)  
 **09.04** [Тема: Різноманітність культур та звичаїв. Практична робота Складання листа до ровесника - іноземця про свою країну](https://drive.google.com/file/d/1V4_C3pj28waCMFpBkjogYihA8xo3KD5b/view?usp=sharing)  
+**16.04** [Тема: Найближчі сусіди України. Запрошення до подорожі](https://drive.google.com/file/d/1llQ1aztZkaP8tmafY4TFkIGvgFrYslVN/view?usp=sharing)  
 
 ** Літературне читання **  
 **07.12** [Тема: Марко Вовчок «Літній ранок», Михайло Коцюбинський «Літній день»](https://drive.google.com/file/d/1Hcug_znkMSO2DtbPp1V1SVFXCAeuL6PJ/view?usp=sharing)  
@@ -1510,6 +1549,7 @@ export default function DistanceLearning() {
 **13.04** [Горевич Л. В. Тема: Володимир Рутківський. Угода ІІ частина](https://drive.google.com/file/d/1hCFMgM8_1NWf5nX3TBa5C4GNjxnn_mfF/view?usp=sharing)  
 **14.04** [Тема: Ірен Роздобудько «Я зніматимусь в кіно!»](https://drive.google.com/file/d/1C7Da-w6Wat3I_-W4VHUjPX5ocKovpKvm/view?usp=sharing)  
 **14.04** [Горевич Л. В. Тема: Ірен Роздобудько «Я зніматимусь в кіно!](https://drive.google.com/file/d/1Hz8CBNsdrTv-Z80PnlH6zDxw0eU_a7y3/view?usp=sharing)  
+**16.04** [Тема: Ірен Роздобудько «Підкидьок», «Як зрозуміти хлопців»](https://drive.google.com/file/d/1KQrU2PNe5ez4tHv_F5eZhzk8HMElJhXO/view?usp=sharing)  
 
 ** Природознавство **  
 **08.12** [Тема: Рослинний та тваринний світ Євразії](https://drive.google.com/file/d/12dq2cy7xWbmzcqgIBieKcuquvoJs3jDe/view?usp=sharing)  
@@ -1614,6 +1654,7 @@ export default function DistanceLearning() {
 **12.04** [Тема: Знаходження значень виразів на сумісні дії різного ступе¬ня. Задачі на знаходження числа за двома різницями](https://drive.google.com/file/d/1a79M2O2u9YIHN_N4MGoXCSSf63BZi6oU/view?usp=sharing)  
 **14.04** [Тема: Письмове множення багатоцифрових чисел на трицифрові. Знаходження значень виразів на сумісні дії різного ступеня. Задачі на рух](https://drive.google.com/file/d/1Ba3KVcYm2JMyho3fwkRQjEtunL9uOzvq/view?usp=sharing)  
 **15.04** [Тема: Письмове множення багатоцифрових чисел на трицифрові. Знаходження значень виразів на сумісні дії різного ступеня.  Задачі на знаходження сторони за відомою площею та стороною](https://drive.google.com/file/d/16yk6CQTg0myWjWybZ5K8HJzihXG6mdNr/view?usp=sharing)  
+**16.04** [Тема: Письмове ділення трицифрових чисел на двоцифрові числа без остачі та з остачею. Середнє арифметичне](https://drive.google.com/file/d/1eDfvVelVeRX5R2aznGbHCX9sDgi1BExn/view?usp=sharing)  
 
 ** Природознавство **  
 **03.12** [Тема: Рослинний і тваринний світ Євразії](https://drive.google.com/file/d/19B5F0TdlKF4LUvAQpcxKbDVSHyyTeqsP/view?usp=sharing)  
@@ -1666,6 +1707,7 @@ export default function DistanceLearning() {
 **22.01** [Тема: Культура спілкування. Як налагодити хороші взаємини. Будьте дружелюбними!](https://drive.google.com/file/d/18jQBENeXErGtSbc4aYgVd4ew9XDreCLQ/view?usp=sharing)  
 **02.04** [Тема: Планета Земля – наш спільний дім](https://drive.google.com/file/d/1YGS6M-zbLx0IDh_HSPokWOQYHDzY9uS7/view?usp=sharing)  
 **09.04** [Тема: Різноманітність культур та звичаїв. Практична робота. Складання листа до ровесника-іноземця про свою країну](https://drive.google.com/file/d/14En-JzT-r1NlVB7zdAIofPmumMzaA64B/view?usp=sharing)  
+**16.04** [Тема: Найближчі сусіди України. Запрошення до подорожі](https://drive.google.com/file/d/1687uV77mPsIx9KvA7KK03MuSPXLD4KcN/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Покупки](https://drive.google.com/file/d/1vJe5h3cSMsODOLKX_hlLazFw6AvQAr-L/view?usp=sharing)  
@@ -1740,6 +1782,7 @@ export default function DistanceLearning() {
 **13.04** [Горевич Л. В. Тема: Володимир Рутківський. Угода ІІ частина](https://drive.google.com/file/d/1hCFMgM8_1NWf5nX3TBa5C4GNjxnn_mfF/view?usp=sharing)  
 **14.04** [Тема: Ірен Роздобудько «Я зніматимусь в кіно!»](https://drive.google.com/file/d/16UXfJ6HHno3zvVei6dQGVeRyYAT39xdk/view?usp=sharing)  
 **14.04** [Горевич Л. В. Тема: Ірен Роздобудько «Я зніматимусь в кіно!](https://drive.google.com/file/d/1Hz8CBNsdrTv-Z80PnlH6zDxw0eU_a7y3/view?usp=sharing)  
+**16.04** [Тема: Ірен Роздобудько «Підкидьок», «Як зрозуміти хлопців](https://drive.google.com/file/d/1-TFNGju3IOlY0HX_briZTck7rHex6y3Y/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **08.12** [Тема: Дизайн годинника](https://drive.google.com/file/d/1gMGKFcVJS20q8y2uKGv8Y2kvwBbrkVJB/view?usp=sharing)  
@@ -1781,6 +1824,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: Комплекс вправ ранкової гімнастики. Стрибки у довжину з розбігу 7-9 кроків способом “зігнувши ноги”.  Рухливі ігри та естафети зі стрибками](https://drive.google.com/file/d/11VuMcgvyvQw6WDOkWEvQRK6I6WhGXUnO/view?usp=sharing)  
 **14.04** [Тема: Правила безпеки на заняттях. Біг із різних вихідних положень (сидячи спиною до напрямку бігу, лежачи на спині тощо). Біг з подоланням перешкод.  Рухливі  ігри «“Шишки, жолуді, горіхи”, “Виклик”, “Наступ”](https://drive.google.com/file/d/1_2C6mcu22ocPnuMSxl4HZWYZHOj-lQ8G/view?usp=sharing)  
 **15.04** [Тема: Різновиди ходьби та бігу. Біг по слабопересіченій місцевості до 1000 м.Танцювальні кроки «галоп», «полька на місці».Рухливі ігри «Дискотека»; «Танцювальна фігура, замри!»](https://drive.google.com/file/d/1qcOSsVFB7DysjhdfXDNWEVOh5HL5od9E/view?usp=sharing)  
+**16.04** [Тема: Підготовчі вправи. Різновиди ходьби та бігу. «Човниковий» біг 4х9 м.](https://drive.google.com/file/d/183FIaxznrK8tkkUVeTjPxnN2ibJ_Yadp/view?usp=sharing)  
 
 ** Інформатика **  
 **13.01** [Тема: Електронна пошта](https://drive.google.com/file/d/1KyFCawBMzLggZl_i87HzBarHmFnhAAoK/view?usp=drive_web)  
@@ -1922,6 +1966,7 @@ export default function DistanceLearning() {
 **07.04** [5-А. Тема: Симфонічна музика](https://drive.google.com/file/d/16T2-kN_dAO4uVkRt_QBMR_UEkun-68jU/view?usp=sharing)  
 **09.04** [5-Б. Тема: Симфонічна музика](https://drive.google.com/file/d/15_cuyaQQFAqSAE3-ahlSSOHyifGT-Lyc/view?usp=sharing)  
 **14.04** [5-А. Тема: У музичному театрі. Опера](https://drive.google.com/file/d/1pddTLXMMxYFLwqJKiSyf7ACSQoLQi67T/view?usp=sharing)  
+**16.04** [5-Б. Тема: У музичному театрі. Опера.](https://drive.google.com/file/d/1dwlGIRqGz58Eu_YCxYgzamlbADkWL0Uj/view?usp=sharing)  
 
 ** Математика **  
 **04.12** [Тема: Аналіз контрольної роботи. Види кутів. Вимірювання кутів](https://drive.google.com/file/d/1d8YTI_NUHB38Jtw7fLmJ7ZvtROh6ltEi/view?usp=sharing)  
@@ -2004,6 +2049,7 @@ export default function DistanceLearning() {
 **15.04** [5-А. І група. Тема: Подорожуючи Британією](https://drive.google.com/file/d/1_wgP2N8gVIzTjNazgJUwpNxjN97H0XiN/view?usp=sharing)  
 **15.04** [5-А. ІІ група. Тема: Подорожуючи Британією](https://drive.google.com/file/d/1_BJL6aUOsgm4I3Jb2S_MDsVmJ4UfsE6b/view?usp=sharing)  
 **15.04** [5-Б. Тема: Подорожуючи Британією](https://drive.google.com/file/d/1_BJL6aUOsgm4I3Jb2S_MDsVmJ4UfsE6b/view?usp=sharing)  
+**16.04** [5-Б. Тема: Подорожуючи Британією](https://drive.google.com/file/d/1Khgs8LWRophAONcYd0RBbwZqyidjnus6/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -2074,12 +2120,14 @@ export default function DistanceLearning() {
 **09.04** [5-А. Тема: Цікаві пригоди хлопчика Чарлі та його друзів на шоколадній фабриці](https://drive.google.com/file/d/1jjPefjGgU_XK4NFaYvrbuGtqchVob_TP/view?usp=sharing)  
 **13.04** [Тема: Доброта і щирість головного героя](https://drive.google.com/file/d/15gn9hNbUenb_bWmee28XwXLSGBtituUq/view?usp=sharing)  
 **15.04** [5-Б. Тема: РЗМ Твір - відгук на прочитаний твір](https://drive.google.com/file/d/1RUSpvEiEdWw_TnVXpS-48QR-3VyFTfSm/view?usp=sharing)  
+**16.04** [5-А. Тема: Твір - відгук про прочитаний твір](https://drive.google.com/file/d/1Mk-4fyj7SRoUtQQURnpbO3V_XMKtInPa/view?usp=sharing)  
 
 ** Історія **  
 **15.01** [Тема: Пам’ятки і пам’ятники історії](https://drive.google.com/file/d/1gF97W2MBDi0FNUAUUw8fytyNDAjAz01z/view?usp=sharing)  
 **22.01** [5-А,Б. Тема: Джерела, які зберігають память про історію княжої Русі - України](https://drive.google.com/file/d/1FacLUEdPcAWEJ-XdMe0r0zLeFMkuzTkF/view?usp=sharing)  
 **02.04** [5-А,Б. Тема: Практична робота: Розповідь про пам'ятку історії або пам'ятник, установлений у рідному краї ](https://drive.google.com/file/d/17q5ZbmdSNN9Ef__NKK35A5TR3ywZn7du/view?usp=sharing)  
 **09.04** [5-А,Б. Тема: Урок контролю і корекції навчальних досягнень](https://drive.google.com/file/d/1nAiD8Zc88Xfv7BxX8S6jjtPNsszuXlnh/view?usp=sharing)  
+**16.04** [5-А. Тема: Головні цілі пізнання минулого](https://drive.google.com/file/d/1OmVYd-3lhd7iP8d1hoYiY4kvBUUZAXJb/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="6 клас">
@@ -2142,6 +2190,8 @@ export default function DistanceLearning() {
 **09.04** [6-А. Тема: Сюїта](https://drive.google.com/file/d/1bbKS4fOXsTfQBqBxn7GjlvTQzQ6-3Dnc/view?usp=sharing)  
 **09.04** [6-Б. Тема: Сюїта](https://drive.google.com/file/d/1uqeYiPGRxpoZ4aCUeSPbCxUqghu8MkVX/view?usp=sharing)  
 **14.04** [6-В. Тема: Симфонія. Увертюра](https://drive.google.com/file/d/1nB1Vt8fQgrQmhZTVWg5Qt5cLzoa4pwxT/view?usp=sharing)  
+**16.04** [6-А. Тема: Симфонія. Увертюра](https://drive.google.com/file/d/11J8oEzhO_qLgetWNQAr7BiscJy0iB3as/view?usp=sharing)  
+**16.04** [6-Б. Тема: Симфонія. Увертюра](https://drive.google.com/file/d/194WqDy7vr_2LmmM4HaGBAS0nzww5cSSB/view?usp=sharing)  
 
 ** Математика **  
 **04.12** [Тема: Пряма та обернена пропорційна залежність](https://drive.google.com/file/d/1wvfb4nJOgeV9QnldpeYtGn2_kDzpbtmu/view?usp=sharing)  
@@ -2189,6 +2239,7 @@ export default function DistanceLearning() {
 **13.04** [6-А,В. Тема: Домашня робота підготовки до контрольної роботи](https://drive.google.com/file/d/1hoNOMbFU2qJAX972yvqgQA9jhhAJ7Nhj/view?usp=sharing)  
 **14.04** [6-В. Тема: Розв’язування задач за допомогою рівнянь](https://drive.google.com/file/d/1ZiIKwy9DGoJqQM1K8ANtPcfALiMKdcHQ/view?usp=sharing)  
 **14.04** [6-А,В. Тема: Контрольна робота. Рівняння](https://drive.google.com/file/d/1B9QrC3oOeT-EGZNtYmBkgbIsAAFd4Epj/view?usp=sharing)  
+**16.04** [6-А,В. Тема: Перпендикулярні та паралельні прямі](https://drive.google.com/file/d/1JuUC1kihv0w2MlnK12mUQPl4jPmiphDZ/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
@@ -2252,6 +2303,7 @@ export default function DistanceLearning() {
 **12.04** [6-А,Б,В. Тема: Лондон](https://drive.google.com/file/d/18AgDO4kFWD64SEadF7bFDxxcygCZqCON/view?usp=sharing)  
 **14.04** [6-А,Б,В. Тема: Київ](https://drive.google.com/file/d/1Oai5K5f5J8IBcBnAWwpqbkY2if0UZGHc/view?usp=sharing)  
 **15.04** [6-Б,В. Тема: Подорож навколо світу](https://drive.google.com/file/d/1kEqts_m-YfwuxIi0Sjbp41fSESXKs_lk/view?usp=sharing)  
+**16.04** [6-А. Тема: Подорож навколо світу](https://drive.google.com/file/d/11O8Av1QcjkFjpkjsOj2FY4itUk4_7QwP/view?usp=sharing)  
 
 ** Трудове навчання **  
 **11.01** [Тема: Правила БЖД та ОП Короткі історичні відомості про розвиток мистецтва штучних декоративних квітів. Види декоративних квітів](https://drive.google.com/file/d/16YUkvI89A0BiQETZdytpt_jrfWkzfgT8/view?usp=sharing)  
@@ -2289,6 +2341,7 @@ export default function DistanceLearning() {
 **09.04** [6-А,В. Тема: Гідросфера. Підсумковий урок](https://drive.google.com/file/d/1vELkPqD29Rg_lEP1RyGtd7trPmQtKiYv/view?usp=sharing)  
 **13.04** [6-А,Б,В. Тема: Природні комплекси](https://drive.google.com/file/d/1mcr4nbwws6-C2QOrJcd76zIM0-DGbW3U/view?usp=sharing)  
 **15.04** [6-В. Тема: Природні зони](https://drive.google.com/file/d/1rxaxHjrx35V9S67ehI5ezt0ELEZ-YMgY/view?usp=sharing)  
+**16.04** [6-А,Б. Тема: Природні зони](https://drive.google.com/file/d/1w6XG4AtYOYSkJmz9WHrA11pti66rSjPc/view?usp=sharing)  
 
 ** Історія **  
 **13.01** [6-А,Б. Тема: Історія Підкорення Греції Філіппом ІІ](https://drive.google.com/file/d/1vSz07K60HtR64gGO7ZCeYoDOXPyjHbey/view?usp=sharing)  
@@ -2309,6 +2362,7 @@ export default function DistanceLearning() {
 **09.04** [6-А,Б. Тема: Походження слов'янських народів](https://drive.google.com/file/d/1oAEFDOKgmuZ45akBJnAOSYCx4dUlxPBK/view?usp=sharing)  
 **14.04** [6-В. Тема: Суспільне та господарське життя і духовний світ слов'ян](https://drive.google.com/file/d/1xfyBj5K__6zJKzULlrdGlh4ASKyXM99p/view?usp=sharing)  
 **14.04** [6-А,Б. Тема: Суспільне та господарське життя і духовний світ слов'ян](https://drive.google.com/file/d/111Jf6K8H7Ebegjy-uVrmqB29ymbHYL6i/view?usp=sharing)  
+**16.04** [6-В. Тема: Тематичне оцінювання по темі Антична цивілізація](https://drive.google.com/file/d/13Yuz9cw6RTXbwh2uyQKJ01_qezzjkE_c/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **13.01** [Тема: Види рішень](https://drive.google.com/file/d/1Ic241cRLf0OHQiJDlEFwiHeGkWpJTBc9/view?usp=sharing)  
@@ -2381,7 +2435,8 @@ export default function DistanceLearning() {
 **02.04** [7-Б. Тема: Рок-опера](https://drive.google.com/file/d/1lM4Ipytug3WRa4epU7hfpRUFSAt8fMzM/view?usp=sharing)  
 **08.04** [7-А. Тема: Рок-опера](https://drive.google.com/file/d/1sFfGqMARzbOxUr8v4C3hWaQUDDrblQDt/view?usp=sharing)  
 **09.04** [7-Б. Тема: Рок-опера](https://drive.google.com/file/d/1Yq3lv8BmUnwlSHjdgKedGjFBG9IzyxjE/view?usp=sharing)  
-**15.04** [7-А. Тема: Самостійна робота по темі;Новаторство в музичному мистецттві](https://drive.google.com/file/d/1w20X8s19boEP8HzFLSNLOQkq17zf1PlE/view?usp=sharing)  
+**15.04** [7-А. Тема: Самостійна робота по темі "Новаторство в музичному мистецтві"](https://drive.google.com/file/d/1w20X8s19boEP8HzFLSNLOQkq17zf1PlE/view?usp=sharing)  
+**16.04** [7-Б. Тема: Самостійна робота по темі "Новаторство в музичному мистецтві"](https://drive.google.com/file/d/1O_3WDGR84dmLXNeSNsBBDb62cHHXrlLt/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **03.12** [Тема: Походи вікінгів та їх завоювання](https://drive.google.com/file/d/10SKWwFRat3yT2mp-XidaaXIqylc7hV62/view?usp=sharing)  
@@ -2409,6 +2464,7 @@ export default function DistanceLearning() {
 **08.04** [7-А,Б. Тема: Геометричне місце точок](https://drive.google.com/file/d/1j2hKA2QkVGUOUlROXmLBY3RE-271DR3x/view?usp=sharing)  
 **09.04** [7-А,Б. Тема: Основні задачі на побудову. Поділ відрізка навпіл. Побудова відрізка перпендикулярного даному](https://drive.google.com/file/d/12ZsmxUZFXLZW5VpvAQ7NlYIEfvhLxITS/view?usp=sharing)  
 **15.04** [7-А,Б. Тема: Розв'язування задач](https://drive.google.com/file/d/18MxE4MLd8U1_xwGQm6AWiEIW7P5eCwTI/view?usp=sharing)  
+**16.04** [7-А,Б. Тема: Коло, описане навколо трикутника. Коло, вписане в трикутник](https://drive.google.com/file/d/1BfFzLKrMiLchzAGB-P_HLrnEFU9v-I50/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Страви](https://drive.google.com/file/d/1yC2uOR3TM0u3iNRhyux5e6-eVAAwOQei/view?usp=sharing)  
@@ -2591,6 +2647,7 @@ export default function DistanceLearning() {
 **05.04** [7-А. І група. Презентація. Тема: Технологiчний процес виготовлення деталей скриньки стругання, обпилювання](https://drive.google.com/file/d/16B5XRnoUq2OppBMizKF0p2toahKWnK1q/view?usp=sharing)  
 **09.04** [7-Б. Тема: Технологічний процес виготовлення фоторамки,стругання, запилювання в стуслі](https://drive.google.com/file/d/1j_kNth5AkDe857bcocfaHXyiajJE5FKx/view?usp=sharing)  
 **12.04** [7-А. І група. Тема: Технологічний процес виготовлення фоторамки, стругання, запилювання в стуслі](https://drive.google.com/file/d/1qVT9eWHkdviiLGNMRlNH2NN4xkT3efad/view?usp=sharing)  
+**16.04** [7-Б. Тема: Технологічний процес виготовлення виробу,складання рамки](https://drive.google.com/file/d/11y7dKzuHZQNmWsh-JKBDTu1wjXvNg8T2/view?usp=sharing)  
 
 ** Обслуговуюча праця **  
 **18.01** [Тема: Блокнот. Технологічний етап проектування виробу. Процес виготовлення основи виробу](https://drive.google.com/file/d/1dm0ngdyFF0cEhVF6-5-5ansZG-2zaQ20/view?usp=sharing)  
@@ -2648,6 +2705,7 @@ export default function DistanceLearning() {
 **07.04** [Алтинбаєва Л. М. Тема: М.Павленко. «Русалонька із 7-В, або Прокляття роду Кулаківських»](https://drive.google.com/file/d/1jQESlseE-KE0unPG3LMnY61lV82ORmDY/view?usp=sharing)  
 **09.04** [Алтинбаєва Л. М. Тема: Любов Пономаренко. «Гер переможений». Наскрізний гуманістичний пафос новели. Художні засоби його втілення](https://drive.google.com/file/d/187c3EboOdhXD9PIU5tjbB8FlKu9bcWOt/view?usp=sharing)  
 **14.04** [Алтинбаєва Л. М. Тема: Контрольна робота](https://drive.google.com/file/d/1bCUEJhLdzgnSDeI3_rEkaXPuqwssTluT/view?usp=sharing)  
+**16.04** [Алтинбаєва Л. М. Тема: Олег Ольжич – поет національного героїзму](https://drive.google.com/file/d/1QUEx2YuEb0iakEXza73ig37i9_et6Gn3/view?usp=sharing)  
 
 ** Російська мова **  
 **12.01** [7-А. Тема: Наречие. Значение, вопросы, роль в предложении](https://drive.google.com/file/d/17WUW3pPf4_MoiIAr_Yl6k_R7OfcG-rsF/view?usp=sharing)  
@@ -2763,6 +2821,8 @@ export default function DistanceLearning() {
 **09.04** [8-Б. Тема: Узагальнення. Тематичне оцінювання](https://drive.google.com/file/d/1YlXvon1k5F41liuTpnMwWjrgrteMKwkB/view?usp=sharing)  
 **12.04** [Тема: Українські землі у сер. 18 ст. Гетьман П. Полуботок](https://drive.google.com/file/d/1A86yYIpHMemXdNDruxPdCVw35LMMvBfz/view?usp=sharing)  
 **15.04** [8-Б. Тема: Ліквідація гетьманства. К. Розумовський](https://drive.google.com/file/d/1C-bQJcDL2TWf139oXMuveWenDiSeYEUY/view?usp=sharing)  
+**16.04** [8-А. Тема: Ліквідація гетьманства. К. Розумовський](https://drive.google.com/file/d/1uieqVFz8j2bk22ur7ey8-P52r6ghlH9j/view?usp=sharing)  
+**16.04** [8-Б. Тема: Історичн значення Запорізької Січі](https://drive.google.com/file/d/1o8b6w-gkjpqR5hOUTmki3d2ypDoNUGxt/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Музика в нашому житті. Відомі українські виконавці.](https://drive.google.com/file/d/1vZrqAEL9AOaGZyKMNjDM_F2so579-b7m/view?usp=sharing)  
@@ -2840,6 +2900,7 @@ export default function DistanceLearning() {
 **07.04** [Тема: Етноси. Найпоширеніші мовні сім'ї](https://drive.google.com/file/d/10b1aUWkgd1DT6GtA2m5HSdw33jrvNkHY/view?usp=sharing)  
 **09.04** [Тема: Національний склад населення України](https://drive.google.com/file/d/1mGG9NP7MmGPsYzpkvzB9Avpf_LEDvGtO/view?usp=sharing)  
 **14.04** [Тема: Релігії світу](https://drive.google.com/file/d/1KEk5UMejigrgUV337SXd2RhbvZGHsij3/view?usp=sharing)  
+**16.04** [Тема: Трудові ресурси](https://drive.google.com/file/d/10D5_A0EN1eVJeuR74lAyf8tIKG1zWYKL/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [8-А. Тема: Розвиток сили та силової витривалості учнів](https://drive.google.com/file/d/1_7s0JREx_prAAOorgG0U9tFW_D6w5mlE/view?usp=sharing)  
@@ -2873,6 +2934,7 @@ export default function DistanceLearning() {
 **12.04** [8-А. Тема: Загальнорозвиваюі та спеціальні легкоатлетичні вправи. Човниковий біг. Стрибки у довжину](https://drive.google.com/file/d/1soZbj4DZB1g9iu0vxvLB2v8qJTMIPw9V/view?usp=sharing)  
 **14.04** [8-Б. Тема: Техніка метання малого м'яча та гранати. Розвиток спритності](https://drive.google.com/file/d/1wvuFXVWh2b3hOCHvZIjHTBirt7MZFYwu/view?usp=sharing)  
 **14.04** [8-А. Тема: Загальнорозвиваючі та спеціальні легкоатлетичні вправи. Повторити низький та високий старти, біг по повороту (техніка бігу). Метання м'яча в ціль. Біг в чергуванні з ходьбою](https://drive.google.com/file/d/1VW-FJR6oGq2Jp-V_rT1Q_juqbTzuuXCv/view?usp=sharing)  
+**16.04** [8-А. Тема: Теорія БЖД. Урок розвитку фізичних якостей або повторення пройденого матеріалу](https://drive.google.com/file/d/1kzWFJmttu7cmi_oJpf4ziRkBW4vgs0Iy/view?usp=sharing)  
 
 ** Біологія **  
 **04.12** [Тема: Значення дихання. Будови і функції органів дихання](https://drive.google.com/file/d/1h8oxnpA9mSto58NfYV2yjRUNRFcB1z3B/view?usp=sharing)  
@@ -2964,11 +3026,13 @@ export default function DistanceLearning() {
 **22.01** [Тема: Технологічний процес вирізання корпусу годинника](https://drive.google.com/file/d/1yZ--3kf_qZYgkNyrARYdzTVbGWNhs64e/view?usp=sharing)  
 **02.04** [Тема: Технологічний процес виготовлення деталей скриньки: стругання, обпилювання](https://drive.google.com/file/d/1Dd0MNiGD-d3e7lH07EN6sBAPuK8Q6S41/view?usp=sharing)  
 **09.04** [Тема: Технологічний процес виготовлення деталей скриньки шліфування, виготовлення елементів з’єднання](https://drive.google.com/file/d/1iw3xCtVrfUrl82EBpXrQoks5-W4mpdnI/view?usp=sharing)  
+**16.04** [Тема: Виготовлення деталей скриньки, різьблення](https://drive.google.com/file/d/1kFdF4TNYsPu3OiK3Nynkv1lDyANkto_7/view?usp=sharing)  
 
 ** Обслуговуюча праця **  
 **22.01** [8-А. Тема: Ознайомлення зі зразками виробів, виготовлених із старих речей. Види конструкційних матеріалів для їх виготовлення. Інструменти та пристосування для виготовлення](https://drive.google.com/file/d/1OS4RzsWOyuSN0C36eHSJONGlUciI7o9q/view?usp=sharing)  
 **02.04** [8-А. Тема: Нове життя старим речам](https://drive.google.com/file/d/1tpOapySa8zQPWiTk9IbVHpKSjIiwHpZr/view?usp=sharing)  
 **09.04** [Тема: Виконання технологічних операцій відповідно до обраного виробу](https://drive.google.com/file/d/1L-XW4V3FjEs5-_KRdw7cWH0_usA_5vQD/view?usp=sharing)  
+**16.04** [8-А. Тема: Виконання технологічних операцій, передбачених технологічним процесом](https://drive.google.com/file/d/1zW5QdgP0Zmb83taIv6I0h3enoqE3BIO1/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="9 клас">
@@ -3052,6 +3116,7 @@ export default function DistanceLearning() {
 **14.04** [9-А. Тема: Вплив модернізації на культурне життя українців](https://drive.google.com/file/d/1L7d0tRER_W2THjGg5BUkOei1C-cKKhqt/view?usp=sharing)  
 **14.04** [9-А. Тема: Узагальнення. Тематичне оцінювання](https://drive.google.com/file/d/1Wxz5hnGJInNoCJdMdVqds6l8Bc0Tmn2Q/view?usp=sharing)  
 **15.04** [9-Б. Тема: Розвиток освіти і науки на поч. 20ст](https://drive.google.com/file/d/1cnrIiMqXhNbv71DIffU_h9MeVU7ahrnc/view?usp=sharing)  
+**16.04** [9-Б. Тема: Розвиток літератури на поч. 20ст](https://drive.google.com/file/d/1x3Xcc1NWA1ejMO4kGdQtR-WzCgQyp1PY/view?usp=sharing)  
 
 ** Геометрія **  
 **03.12** [9-Б. Тема: Вектори. Розв’язування задач](https://drive.google.com/file/d/1ykrS5YhJf-ggic_8ad1LHgVjfAVZtKBF/view?usp=sharing)  
@@ -3076,6 +3141,8 @@ export default function DistanceLearning() {
 **14.04** [9-Б. Тема: Домашнє завдання](https://drive.google.com/file/d/1xspFTk2LednUfvf7gJyrZ2FSCOh1wPWg/view?usp=sharing)  
 **14.04** [9-А. Тема: Паралельне перенесення](https://drive.google.com/file/d/1pL_nVBeliwqT5GCrzbTMfVnZO7ec99u0/view?usp=sharing)  
 **15.04** [9-Б. Тема: Контрольна робота на тему Геометричні переміщення](https://drive.google.com/file/d/1qbvf9UhAdmmFvHXQLleY8PNlq0VvM3ad/view?usp=sharing)  
+**16.04** [9-А. Тема: Перетворення подібності. Подібність фігур](https://drive.google.com/file/d/1395_eV8N4wRy0LK2TxFEi5hdWYWC2uhm/view?usp=sharing)  
+**16.04** [9-Б. Тема: Початкові відомості про статистику](https://drive.google.com/file/d/1x0StSuwX9RK-im3j1md9gXrm2Eu1zgYX/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1_YPlRDOzxWAHMorqZAt9hTRsefrTjAo4/view?usp=sharing)  
@@ -3145,6 +3212,7 @@ export default function DistanceLearning() {
 **09.04** [9-Б. Тема: Світова велич українського поета Т. Г. Шевченка](https://drive.google.com/file/d/1DlBZhHNKMWIHMRDxasjekMv_U02Ucs0V/view?usp=sharing)  
 **13.04** [9-Б. Тема: Позакласне читання. Т. Шевченко. «Назар Стодоля»](https://drive.google.com/file/d/18-W_tDwnu2x7iStGTy9UnbnFrEtlMshZ/view?usp=sharing)  
 **13.04** [9-А. Тема: Контрольна робота Творчість Т. Шевченка](https://drive.google.com/file/d/1Hs8cJCqA4VYFFlcEMCSQZ5Br2373Mhi2/view?usp=sharing)  
+**16.04** [Тема: Контрольна робота Творчість Шевченка](https://drive.google.com/file/d/17ksBqOvfEn1UoMVg_ZEVUOLcVn_czrW6/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [9-А. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/10ODZR-UG7C9YAJv3bPb-eKqe7kwsjJA4/view?usp=sharing)  
@@ -3179,6 +3247,7 @@ export default function DistanceLearning() {
 **13.04** [9-Б. Тема: Спортивна ходьба](https://drive.google.com/file/d/1ulUYF8O4C3bOHQSrX-BdhYK9QUUOE74U/view?usp=sharing)  
 **14.04** [9-Б. Тема: Бігові вправи для розвитку витривалості. Техніка стрибка у довжину з місця](https://drive.google.com/file/d/15yqvaG1HKH7JMPkXjzkKJGkfzbqfBP8f/view?usp=sharing)  
 **14.04** [9-А. Тема: ТБ. Повільний біг Загальнорозвивальні та спеціальні легкоатлетичні вправи. Біг 260м. Біг по повороту 20-30м. Метання малого м'яча на дальність з місця в коридорі 10м](https://drive.google.com/file/d/1mahsUoND0f6lkN14Z8dgaISqz_tHoT-0/view?usp=sharing)  
+**16.04** [9-А. Тема: Теорія БЖД. Урок розвитку фізичних якостей або повторення пройденого матеріалу](https://drive.google.com/file/d/14MihgEW-2IlovqATv4oypPGP0QNcjQcS/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Розроблення програми. Виконання арифметичних обчислень. Уведення, виконання й налагодження програм](https://drive.google.com/file/d/1dpekkJgkf59EosU2y6jtD_cr9PnqzdpZ/view?usp=drive_web)  
@@ -3263,6 +3332,7 @@ export default function DistanceLearning() {
 **22.01** [Тема: Жанри кіномистецтва](https://drive.google.com/file/d/1u5JXUFCSTVlZqL2BBIA_7SS0ovzaJKfV/view?usp=sharing)  
 **02.04** [Тема: Поширення мистецтва: музеї, галереї, бібліотеки](https://drive.google.com/file/d/1gwVHZebIOGMLTDX8FvygRDOmk6eFEDxv/view?usp=sharing)  
 **09.04** [Тема: Фотомистецтво](https://drive.google.com/file/d/1h1QpwPXsNqxlLNR7u-Tg2OE560mucHcx/view?usp=sharing)  
+**16.04** [Тема: Реклама](https://drive.google.com/file/d/1V37TLJDuJfvfVr3G5RtrmxNUI0Ys2kHD/view?usp=sharing)  
 
 ** Алгебра **  
 **11.01** [Тема: Квадратні нерівності](https://drive.google.com/file/d/19Gm5ymTCuqJGr9_ikFVp8-WzoFccQtwD/view?usp=sharing)  
@@ -3299,6 +3369,7 @@ export default function DistanceLearning() {
 **01.04** [Тема: Тема: "Ляльковий дім" як соціально - психологічна драма. Особливості драматичного конфлікту та розвиток сценічної дії. Композиція п&#39;єси](https://drive.google.com/file/d/1Y3dYJmLPh47HNXhy2xcA0S6IeJk7rU4-/view?usp=sharing)  
 **08.04** [Тема: Бернард Шоу. Особливості світогляду Б. Шоу. Специфіка втілення античного міфу в п'єсі Пігмаліон](https://drive.google.com/file/d/1ovPTLo9bGQxKfHE4t-QEr0t6UpMkINwG/view?usp=sharing)  
 **12.04** [Тема: Динаміка Еліи Дулітл](https://drive.google.com/file/d/1X705c6RQEP2o1zCgacp_oXSeBCGYU88e/view?usp=sharing)  
+**16.04** [Тема: Ідеї одухотворення людини й життя засобами мистецтва, збереження національної культури,розвитку мови](https://drive.google.com/file/d/1hAtxcnYLtqDzFbrWKVASsXeyVwMVIjeX/view?usp=sharing)  
 
 ** Російська мова **  
 **11.01** [Тема: Наречие. Разнообразие значений наречий](https://drive.google.com/file/d/1Nwu87ha1mFSJoL72GbG5UDd7PnJ-ZWpl/view?usp=sharing)  
@@ -3352,6 +3423,7 @@ export default function DistanceLearning() {
 **14.04** [Добровольська В. Тема: Особливості семантики, Граматичні ознаки дієслів](https://drive.google.com/file/d/1aOfHkF-fhk7u8tPHq5UuF1L4rJeBLUzh/view?usp=sharing)  
 **15.04** [Добровольська В. Тема: Види дієслів](https://drive.google.com/file/d/15aRqDtV_slconHHKwafp39DJ1moOMaV_/view?usp=sharing)  
 **15.04** [Стрембицька Л.А. Тема: Види,часи і способи дієслів,творення їх](https://drive.google.com/file/d/1WZUxNzCanlOTtMw2SRe1iB_WuTgIVowK/view?usp=sharing)  
+**16.04** [Стрембицька Л.А. Тема: Особові,родові,часові форми дієслова](https://drive.google.com/file/d/1U0RkDrWU8waquSCgNv6591ekyvRfEUrD/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
@@ -3377,6 +3449,7 @@ export default function DistanceLearning() {
 **12.04** [Тема: Збірка «Сонячні кларнети». - подія європейського масштабу. Художнє осягнення ліричним героєм гармонії світу і дисонансів революційної дійсності в збірці «Сонячні кларнети». Єдність природи, почуттів людини й музики у поезіях «Арфами, арфами». «Ви знаєте, як липа шелестить»](https://drive.google.com/file/d/1c7NmbIsE4h0dS922jgnC_vSb7OiIM5O1/view?usp=sharing)  
 **13.04** [Тема: Єдність природи,почуттів людини й музики у поезіях «Арфами, арфами…»,  «О панно Інно…»](https://drive.google.com/file/d/1ZgoGbJEiP4BXaS0u3u_XBhYVO1Wn4TIh/view?usp=sharing)  
 **14.04** [Тема: Урок мовленевого розвитку Написання асоціативного етюду,викликаного певним художнім образом](https://drive.google.com/file/d/1si5OBZItGkeByDk0mB45r2BEsdRkcVfN/view?usp=sharing)  
+**16.04** [Тема: Глибина почуттів ліричного героя у поезії](https://drive.google.com/file/d/106ZE45ffrr38NYhW_q48QY23rjP9QNU8/view?usp=sharing)  
 
 ** Фізика **  
 **03.12** [Тема: Механічна робота. Потужність. Кінетична енергія.](https://drive.google.com/file/d/13ktDbpkU-YGMFOs3KRcYIqKot5LfswUQ/view?usp=sharing)  
@@ -3433,6 +3506,7 @@ export default function DistanceLearning() {
 **12.04** [І група. Тема: Загальнорозвиваючі та спеціальні легкоатлетичні вправи. Човниковий біг. Стрибки у довжину](https://drive.google.com/file/d/1CPsFF8OCUYq5ILzC7ucRUqmpxXkOVQY7/view?usp=sharing)  
 **14.04** [ІІ група. Тема: Розвиток спритності. Легка атлетика: "Метання - теорія"](https://drive.google.com/file/d/1JizcUdLfFwFwaA0G9vH9bAvlerDeXNcV/view?usp=sharing)  
 **14.04** [І група. Тема: Загальнорозвиваючі та спеціальні легкоатлетичні вправи. Повторити низький та високий старти , біг по повороту (техніка бігу). Метання м'яча в ціль](https://drive.google.com/file/d/1OfHidPBXc1F1y0YhQGvXVrIejYfewHXV/view?usp=sharing)  
+**16.04** [І група. Тема: Теорія БЖД. Урок розвитку фізичних якостей або повторення пройденого матеріалу](https://drive.google.com/file/d/1bPT0qac8LRVU5mv0ykf-we6WPe1X3pjZ/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Західноукраїнська Народна Республіка.](https://drive.google.com/file/d/1UX5pzPnYGVUlJs01kyXsn3UxARYrvB_5/view?usp=sharing)  
@@ -3447,6 +3521,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: Завершення Другої світової війни](https://drive.google.com/file/d/118vuxjuYEt8PoAD9-DVMIh818Mr_k-F5/view?usp=sharing)  
 **13.04** [Тема: Особливості культури в роки Другої світової війни](https://drive.google.com/file/d/1EAURCbgjQ65S_KugLrLNNERtjgTGihd6/view?usp=sharing)  
 **14.04** [Тема: Практичне заняття. Праведники народів світу](https://drive.google.com/file/d/1TiOMDoRpm7shxNUe5QnxLX3hi4EKyKvB/view?usp=sharing)  
+**16.04** [Тема: Узагальнення. Тематичне оцінювання](https://drive.google.com/file/d/12NwsneiitGu5i2kNwwbVYstTODwFThSf/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Reading](https://drive.google.com/file/d/1ks5tAkLDNz6WXJjOfcN97bWqpuTajWmp/view?usp=sharing)  
@@ -3518,6 +3593,7 @@ export default function DistanceLearning() {
 **05.04** [Тема: Фізичний і геометричний зміст похідної](https://drive.google.com/file/d/1Ac-GIv43Dv50K-FxL_PQ6iRJF8ZeNPwU/view?usp=sharing)  
 **09.04** [Тема: Правила диференціювання. Таблиця похідних](https://drive.google.com/file/d/1k6EzDE5tHNPoOpDUdUcL2LkH-g87rnPP/view?usp=sharing)  
 **12.04** [Тема: Ознаки сталості. Зростання і спадання функції](https://drive.google.com/file/d/1HtqoAQ1mcYvRmJcBfSWJKhZ_JnpPDcGd/view?usp=sharing)  
+**16.04** [Тема: Екстремуми функції](https://drive.google.com/file/d/1AnKmtjlVqFdFPxNvTWwk7Acs9RFNxvnc/view?usp=sharing)  
 
 ** Технології **  
 **12.01** [Тема: Український суванір](https://drive.google.com/file/d/1Qjysoxx4CbkF3hvpoWE8jhs9EKJ-HX7j/view?usp=sharing)  
@@ -3532,6 +3608,7 @@ export default function DistanceLearning() {
 **06.04** [Презентація. Тема: Технологія виготовлення виробу, обрання стилю](https://drive.google.com/file/d/1o31jXVym_CcufINbrbQWflPy34WWraxg/view?usp=sharing)  
 **09.04** [І група. Тема: Технологія виготовлення виробу, обрання стилю](https://drive.google.com/file/d/1HKJlTJFXTb_3O-FV3b0W1MDJp30oF7Xs/view?usp=sharing)  
 **13.04** [Тема: Технологія виготовлення виробу. Вибір декору, способи з'єднання. Кошик з газетних трубочок](https://drive.google.com/file/d/1WixYRx4te8Nh2pRE7mUfYpuaOd3Y0tDj/view?usp=sharing)  
+**16.04** [ІІ група. Тема: Технологія виготовлення виробу способи з’єднання. Корзинка своїми руками](https://drive.google.com/file/d/1xmrGwHWpPBTcpYx1g4qAX6Cd6I6rFpG4/view?usp=sharing)  
 
 ** Громадянська освіта **  
 **11.01** [Тема: Поява демократії](https://drive.google.com/file/d/1YA97w93ZHBb5qcSDRkOUixfJySWwWlCo/view?usp=sharing)  
@@ -3588,6 +3665,8 @@ export default function DistanceLearning() {
 **09.04** [Тема: Література соцреалізму та кримськотатарська](https://drive.google.com/file/d/1QkZ0d5I8qwYVSxtdMoaPtW0xSzhie32M/view?usp=sharing)  
 **15.04** [Тема: Василь Герасим юк -Аркан-](https://drive.google.com/file/d/1PbsWZMDTgLVZnjOQJKYvnNYHXhz-HrQP/view?usp=sharing)  
 **15.04** [Тема: Поезія.Ігор Римарук](https://drive.google.com/file/d/1wXnqOdudpAar5Bh6JStD6e-tyuphFl7T/view?usp=sharing)  
+**16.04** [Тема: Юрій Андрухович. Творчість](https://drive.google.com/file/d/1AQaXKtI-kgKhkmXQzR4kN5U66hG-EmEZ/view?usp=sharing)  
+**16.04** [Тема: Юрій Іздрик. Творчість](https://drive.google.com/file/d/1qeZbIKYS0ZZkOKMK3BlCW3IeVVE5teI9/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)  
@@ -3614,6 +3693,7 @@ export default function DistanceLearning() {
 **07.04** [Тема: Україна в перші повоєнні роки](https://drive.google.com/file/d/17_BT8Y7Iw7JgwEolQpYqiEeITylr17xV/view?usp=sharing)  
 **09.04** [Тема: Україна в умовах десталіізації](https://drive.google.com/file/d/1-P2FT_5UCCLiiCiWFn2kbHwd-LZc8_AV/view?usp=sharing)  
 **12.04** [Тема: Реформи М. Хрущова](https://drive.google.com/file/d/1uApfJFUBZ9hcDoZqmLDezgQGtu7TqcwS/view?usp=sharing)  
+**16.04** [Тема: Україна в 60-80 роках](https://drive.google.com/file/d/1CSzFwHJkUN8XyAE4H4iqMNPMMtEeue_h/view?usp=sharing)  
 
 ** Англійська мова **  
 **04.12** [Тема: Reading](https://drive.google.com/file/d/1clNCU8I-QMXLumrUeVrrPFrlUHCobR-z/view?usp=sharing)  
@@ -3744,6 +3824,7 @@ export default function DistanceLearning() {
 **02.04** [Тема: Профілактика плоскостопості](https://drive.google.com/file/d/1o2wN7rDzU8kpB0dFSYcHrl15V5Umxmce/view?usp=sharing)  
 **09.04** [Тема: Відпочинок для стоп. Деякі захворювання ніг набряк, пітливість, варикозне розширення вен](https://drive.google.com/file/d/1pxP32uyiOOwOSWpZKuaPj-hft5ZH1o_t/view?usp=sharing)  
 **15.04** [Тема: Зелена косметика. Натуральні продукти, різноманітні й ефективні сполуки, створені природою. Лікарські трави та косметика](https://drive.google.com/file/d/1fEwm-GCY_5mYwhti5TBRkSxk_o3AiiKp/view?usp=sharing)  
+**16.04** [Тема: Лікарські трави та косметика](https://drive.google.com/file/d/1UYexLghYmir30IyEQ2I0oEt_YMxh_J_M/view?usp=sharing)  
 
 ** Зарубіжна література **  
 **14.01** [Тема: Срібна доба російської поезії тенденції, здобутки,долі митців](https://drive.google.com/file/d/1bdigwZW9uVPUwn3_l4F0jiY8sCZPsh4K/view?usp=sharing)  
