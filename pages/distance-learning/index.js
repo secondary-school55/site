@@ -1874,6 +1874,7 @@ export default function DistanceLearning() {
 **09.04** [5-А. Тема: Водне середовище існування організмів](https://drive.google.com/file/d/1GCNTjL4CgWMjKn7uDwisQN5nefRVBJJO/view?usp=sharing)  
 **12.04** [5-Б. Тема: Угрупування організмів екосистеми](https://drive.google.com/file/d/1u9g3_dQyK2PHN_-rh_8JSurFsNEosuhX/view?usp=sharing)  
 **13.04** [5-А. Тема: Грунт як середовище життя організмів](https://drive.google.com/file/d/1L-YinWjPnDB5mvh99VXkuAdLgPzjlfyu/view?usp=sharing)  
+**16.04** [5-Б. Тема: Рослинний і тваринний світ місцевості](https://drive.google.com/file/d/1Uk8ciuQnBOTgk4gjpAOEM3EZ5wvL5hFW/view?usp=sharing)  
 **16.04** [5-А. Тема: Чинники живої природи. Угруповання організмів](https://drive.google.com/file/d/15ageiT1XTj2RFf03VxL6QGrdfEVH2x0V/view?usp=sharing)  
 
 ** Українська мова **  
@@ -2006,6 +2007,8 @@ export default function DistanceLearning() {
 **13.04** [5-Б. Тема: Знаходження відсотка від даного числа](https://drive.google.com/file/d/1x67IFu0PT_4HPcJYU6SRjx5Qyjhqgpgu/view?usp=sharing)  
 **14.04** [5-А. Тема: Знаходження числа за його відсотком](https://drive.google.com/file/d/1DrZRnLbdVVeoAEY5xwYts4EkiUJS5tfe/view?usp=sharing)  
 **14.04** [5-Б. Тема: Знаходження числа за його відсотком](https://drive.google.com/file/d/1jU9JIMIcsBCmGg4eapNmzmrr6VQ7SbpQ/view?usp=sharing)  
+**16.04** [5-А. Тема: Знаходження числа за його відсотками](https://drive.google.com/file/d/1Ouw4y0VovCO4yhWtFMkBl5CsNlgU1Orh/view?usp=sharing)  
+**16.04** [5-Б. Тема: Знаходження числа за його відсотками](https://drive.google.com/file/d/1I5l3ZlHUAbzg5fcfYyE-RbQSPOFvfoWA/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
