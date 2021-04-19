@@ -2073,6 +2073,8 @@ export default function DistanceLearning() {
 **14.04** [5-Б. Тема: Знаходження числа за його відсотком](https://drive.google.com/file/d/1jU9JIMIcsBCmGg4eapNmzmrr6VQ7SbpQ/view?usp=sharing)  
 **16.04** [5-А. Тема: Знаходження числа за його відсотками](https://drive.google.com/file/d/1Ouw4y0VovCO4yhWtFMkBl5CsNlgU1Orh/view?usp=sharing)  
 **16.04** [5-Б. Тема: Знаходження числа за його відсотками](https://drive.google.com/file/d/1I5l3ZlHUAbzg5fcfYyE-RbQSPOFvfoWA/view?usp=sharing)  
+**19.04** [5-А. Тема: Розв’язування задач на відсотки](https://drive.google.com/file/d/1Q_S0gEifht1qIBDoKpvqIwKvFOXFvQ_e/view?usp=sharing)  
+**19.04** [5-Б. Тема: Розв’язування задач на відсотки](https://drive.google.com/file/d/1p-cbGzkOUkbPh-UK25bQU-7KU_Iw7_67/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
