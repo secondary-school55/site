@@ -3512,6 +3512,7 @@ export default function DistanceLearning() {
 **12.04** [9-Б. Тема: Випадкова подія. Частота та ймовірність випадкової події](https://drive.google.com/file/d/1C3wwopaIL0hz5_yVaZ7ZNG5Tpil2QAyy/view?usp=sharing)  
 **13.04** [9-А. Тема: Випадкова подія. Частота та ймовірність випадкової події](https://drive.google.com/file/d/1XQ-bIFK0QruHSjte4s1CHcNIRIO0nArw/view?usp=sharing)  
 **15.04** [9-А. Тема: Початкові відомості про статистику](https://drive.google.com/file/d/1Nr78IuQD3qv8F2w65gXIsfcZi4ZBgVVG/view?usp=sharing)  
+**19.04** [9-Б. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1FYjED2G2oPdEqKbHj6Wy8N-4GtWGi2YP/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
@@ -3768,6 +3769,7 @@ export default function DistanceLearning() {
 **09.04** [Тема: Правила диференціювання. Таблиця похідних](https://drive.google.com/file/d/1k6EzDE5tHNPoOpDUdUcL2LkH-g87rnPP/view?usp=sharing)  
 **12.04** [Тема: Ознаки сталості. Зростання і спадання функції](https://drive.google.com/file/d/1HtqoAQ1mcYvRmJcBfSWJKhZ_JnpPDcGd/view?usp=sharing)  
 **16.04** [Тема: Екстремуми функції](https://drive.google.com/file/d/1AnKmtjlVqFdFPxNvTWwk7Acs9RFNxvnc/view?usp=sharing)  
+**19.04** [Тема: Застосування похідної до дослідження функції](https://drive.google.com/file/d/16P5159uiqo6EYokmOBrv1dRlwc-UrRvc/view?usp=sharing)  
 
 ** Технології **  
 **12.01** [Тема: Український суванір](https://drive.google.com/file/d/1Qjysoxx4CbkF3hvpoWE8jhs9EKJ-HX7j/view?usp=sharing)  
