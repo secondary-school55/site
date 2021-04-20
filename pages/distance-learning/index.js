@@ -3128,6 +3128,7 @@ export default function DistanceLearning() {
 **14.04** [8-А. Тема: Квадратне рівння, як математична модель текстової задачі](https://drive.google.com/file/d/10PgoGgP827nkvzBCczyCPYkSwRjZlLo8/view?usp=sharing)  
 **14.04** [8-Б. Тема: Розв'язування задач на рух](https://drive.google.com/file/d/13hfrHKzreWKMZ10zcGcTDZel2xGQXqim/view?usp=sharing)  
 **15.04** [8-А. Тема: Розв'язування задач за допомогою дробових раціональних рівнянь](https://drive.google.com/file/d/1VQet7qUxamH0Hv-OC3GfKLUx4RJBCVrb/view?usp=sharing)  
+**20.04** [8-Б. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/15K1oR9g7tn0XmLSHiMA9T5K4ILomwVhW/view?usp=sharing)  
 
 ** Географія **  
 **04.12** [Тема: Вплив погодно-кліматичних умов на здоров'я і господарську діяльність людини. Охорона атмосферного повітря. Кліматичні особливості своєї місцевості](https://drive.google.com/file/d/1vYAwfOrYGHF59NtP26e4W9X-6BdlSoxY/view?usp=sharing)
@@ -3217,6 +3218,7 @@ export default function DistanceLearning() {
 **13.04** [8-Б. Тема: Розвязування вправ i задач](https://drive.google.com/file/d/1ge-g1lxFX8jXLdYLw6cXLENU-tl5Idm7/view?usp=sharing)  
 **14.04** [8-Б. Тема: Розвязування задач](https://drive.google.com/file/d/1MVzwBDxHDKI1MA5JSupPyx8YTPF1lvWY/view?usp=sharing )  
 **20.04** [8-А. Тема: Чотирикутники. Вписані та описані кути. Теорема Фалеса. Сердня лінія трикутника та трапеції](https://drive.google.com/file/d/1d03RXiCx8OK_AwbJ_JC7IGf3jx-PQEmT/view?usp=sharing)  
+**20.04** [8-Б. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1oUoIEZ92ZHpQq1GXvuvrQ-9e2SLmWIgI/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Логічні вирази. Оператори розгалуження. Вкладені розгалуження](https://drive.google.com/file/d/1UIkiDcQ0uWpgiOSN8HPQe0On15gl7hh0/view?usp=sharing)  
@@ -3628,6 +3630,7 @@ export default function DistanceLearning() {
 **13.04** [9-А. Тема: Випадкова подія. Частота та ймовірність випадкової події](https://drive.google.com/file/d/1XQ-bIFK0QruHSjte4s1CHcNIRIO0nArw/view?usp=sharing)  
 **15.04** [9-А. Тема: Початкові відомості про статистику](https://drive.google.com/file/d/1Nr78IuQD3qv8F2w65gXIsfcZi4ZBgVVG/view?usp=sharing)  
 **19.04** [9-Б. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1FYjED2G2oPdEqKbHj6Wy8N-4GtWGi2YP/view?usp=sharing)  
+**20.04** [9-А. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1ME8BcpbV9gJ8IrWJG1jGBN4wqwc2puGK/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
