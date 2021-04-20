@@ -2209,7 +2209,8 @@ export default function DistanceLearning() {
 **19.04** [5-А. ІІ група. Тема: Теперішній доконаний час](https://drive.google.com/file/d/1blsR68lSun98KexV_y47s8SY7aFHF6iM/view?usp=sharing)  
 **19.04** [5-А. І група. Тема: Визначні місця світу](https://drive.google.com/file/d/13FglVy4XYjTsAVrh7ZUgn8nnm3JrKAr_/view?usp=sharing)  
 **20.04** [5-Б. Тема: Підсумковий урок Великобританія](https://drive.google.com/file/d/1vSszGM3ry_aCZuESGaCx-ERClXteIESw/view?usp=sharing)  
-**20.04** [5-А. Тема: Підсумковий урок Великобританія](https://drive.google.com/file/d/1i3LW-DGbWQRQRBjI4H5zyJcN1OQK7Czd/view?usp=sharing)  
+**20.04** [5-А. ІІ група. Тема: Підсумковий урок Великобританія](https://drive.google.com/file/d/1i3LW-DGbWQRQRBjI4H5zyJcN1OQK7Czd/view?usp=sharing)  
+**20.04** [5-А. І група. Тема: Підсумковий урок Великобританія](https://drive.google.com/file/d/1xTCcvcTyUoC7EOt9HK3Haetu1hIbbJNn/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -3103,6 +3104,7 @@ export default function DistanceLearning() {
 **19.04** [8-А. ІІ група. Тема: Стиль і життя молоді](https://drive.google.com/file/d/1hBPJI8bpiyxK4BfqqtzL8UgVW0GdUW0L/view?usp=sharing)  
 **20.04** [8-А. І група. Тема: Канікули молоді](https://drive.google.com/file/d/1G4dfG1ferM3nj_lYXo5Etowplfnky9pD/view?usp=sharing)  
 **20.04** [8-Б. Тема: Канікули молоді](https://drive.google.com/file/d/1G4dfG1ferM3nj_lYXo5Etowplfnky9pD/view?usp=sharing)  
+**20.04** [8-А. ІІ група. Тема: Канікули молоді](https://drive.google.com/file/d/1O3EEo67Zwj7NwZDo5p2ea2C64yusZjxG/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
