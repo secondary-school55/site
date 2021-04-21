@@ -3030,6 +3030,7 @@ export default function DistanceLearning() {
 **09.04** [Алтинбаєва Л. М. Тема: Любов Пономаренко. «Гер переможений». Наскрізний гуманістичний пафос новели. Художні засоби його втілення](https://drive.google.com/file/d/187c3EboOdhXD9PIU5tjbB8FlKu9bcWOt/view?usp=sharing)  
 **14.04** [Алтинбаєва Л. М. Тема: Контрольна робота](https://drive.google.com/file/d/1bCUEJhLdzgnSDeI3_rEkaXPuqwssTluT/view?usp=sharing)  
 **16.04** [Алтинбаєва Л. М. Тема: Олег Ольжич – поет національного героїзму](https://drive.google.com/file/d/1QUEx2YuEb0iakEXza73ig37i9_et6Gn3/view?usp=sharing)  
+**21.04** [Алтинбаєва Л. М. Тема: Олена Теліга. Поезія «Сучасникам» як моральний заповіт нащадкам](https://drive.google.com/file/d/1ToNAnqfYpI3Sqzx7ckC42SgZWFCFCIpO/view?usp=sharing)  
 
 ** Російська мова **  
 **12.01** [7-А. Тема: Наречие. Значение, вопросы, роль в предложении](https://drive.google.com/file/d/17WUW3pPf4_MoiIAr_Yl6k_R7OfcG-rsF/view?usp=sharing)  
