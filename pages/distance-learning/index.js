@@ -2655,6 +2655,7 @@ export default function DistanceLearning() {
 **31.03** [Тема: Підліткові компанії. Ознаки дружніх, недружніх і небезпечних компаній](https://drive.google.com/file/d/1DW_fwwmMop7BnK_aCto32CqBcwSkLoqW/view?usp=sharing)  
 **07.04** [Тема: Безпека в побуті. Правила користування газовими приладами, електроприладами, водогоном, тепловими мережами](https://drive.google.com/file/d/1TmZMO54hj-58H7gN2LM0vutqxuAhiztI/view?usp=sharing)  
 **14.04** [Тема: Безпека при користуванні засобами побутової хімії](https://drive.google.com/file/d/1hJL27e9yqzt6b6DGUsYFwNoPvugKgzbB/view?usp=sharing)  
+**21.04** [Тема: Пожежна безпека оселі](https://drive.google.com/file/d/1c2KzDjWCBKP9rXZgNAOTdBghMO4JMPf0/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **14.01** [Тема: Побутовий жанр. Історія виникнення та розвитку](https://drive.google.com/file/d/1XYvXwACQ4PgoG10yrkiNui7Ho97oaw35/view?usp=sharing)  
@@ -3564,6 +3565,8 @@ export default function DistanceLearning() {
 **19.04** [9-А. І група. Тема: Граматика](https://drive.google.com/file/d/1ouZQXasv9k6SP1LT4_nUwN8-lmzKmL05/view?usp=sharing)  
 **19.04** [9-Б. Тема: Граматика](https://drive.google.com/file/d/1ouZQXasv9k6SP1LT4_nUwN8-lmzKmL05/view?usp=sharing)  
 **21.04** [9-А. ІІ група. Тема: Різноманітність професій](https://drive.google.com/file/d/1pAlyca-OaUf9lVUO0LtMHV1w8rH6GEA8/view?usp=sharing)  
+**21.04** [9-А. І група. Тема: Різноманіття професій](https://drive.google.com/file/d/1GszpR6K3HhykNAvrLn3BwgR7Bt2fwhDB/view?usp=sharing)  
+**21.04** [9-Б. Тема: Різноманіття професій](https://drive.google.com/file/d/1GszpR6K3HhykNAvrLn3BwgR7Bt2fwhDB/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
@@ -3989,6 +3992,7 @@ export default function DistanceLearning() {
 **19.04** [Дівчата. Тема: Джерела небезпечних ситуацій у воєнний час](https://drive.google.com/file/d/1s1YFOWd2il4-UP4yNOQrnCpRIlUZttet/view?usp=sharing)  
 **19.04** [Хлопці. Тема: Надзвичайні ситуації воєнного характеру від дії зброї масового ураження  ядерна зброя. Прилади радіаційної розвідки. Їх кваліфікація, призначення, принцип дії та порядок використання](https://drive.google.com/file/d/1TVdqJrvBj8GuGG-9J2eu2VESdKPnlYNp/view?usp=sharing)  
 **21.04** [Хлопці. Тема: Надзвичайні ситуації воєнного характеру від дії зброї масового ураження хімічна та біологічна зброя. Особливості вражаючої дії. Засоби індивідуального захисту органів дихання](https://drive.google.com/file/d/17OUUjlGdFcg-5yWEMc_vas43OwJDU947/view?usp=sharing)  
+**21.04** [Дівчата. Тема: Надзвичайні ситуації, які характерні для регіону. Потенційно небезпечні об’єкти міста. Попередження виникнення надзвичайних ситуацій](https://drive.google.com/file/d/1DEtImYehPTWb6G_UwjTBsBj5JiZOo9hy/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Насичені одноатомні спирти](https://drive.google.com/file/d/1IfJ4cpMktmfYg7JKuCp4G7s1HGHH3NaY/view?usp=sharing)  
