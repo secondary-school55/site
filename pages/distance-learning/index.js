@@ -318,6 +318,7 @@ export default function DistanceLearning() {
 **14.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. Н. Кир’ян “Хто жартує”, Д. Чередниченко “Мурчик і Жмурчик”](https://drive.google.com/file/d/189y3YWhwGZ5sDiovQxCwELsivwgRwWeU/view?usp=sharing)  
 **19.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. Грицько Бойко “Здоровим будь”](https://drive.google.com/file/d/1mdSEHp6H8sWgZVrmXBuON9n1YIBhEPK4/view?usp=sharing)  
 **20.04** [Тема: Грицько Бойко “Здивувалось сонечко...”, за Т. Білецькою "корисна розмова"](https://drive.google.com/file/d/1BKMhpeK91GkSobnehlggg4XAA9oA0qN2/view?usp=sharing)  
+**21.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. В. Слепцов “Днів у тижні рівно сім...”. Загадка “Хто вони?”. С. Жупанін “Хто молодець?”. Доповнення вірша.](https://drive.google.com/file/d/137Pmb0LojxdkRRLIYjhVlNEXwXfkXHXV/view?usp=drive_web)  
 
 ** Дизайн і технологія **  
 **07.12** [Тема: Зимова мозаїка. «Сипле,сипле сніг…»](https://drive.google.com/file/d/1AERA7DfM5Lc708yBsknO2y1BMta2evIW/view?usp=sharing)  
@@ -1407,6 +1408,7 @@ export default function DistanceLearning() {
 **19.04** [Тема: Закріплення знань учнів. Вправи і задачі на застосування вивчених випадків арифметичних дій](https://drive.google.com/file/d/1xcwoHOaKkeCEW3yhwGdcIcLVd1qNC28R/view?usp=sharing)  
 **20.04** [Тема: Частини. Позначення частин числа цифрами. Розв’язання задач, що включають знаходження частини числа](https://drive.google.com/file/d/1IULJwY33Qol50idX_i1tcUn9pG0Sfe_B/view?usp=sharing)  
 **21.04** [Тема: Розв'язування задач на час. Ділення трицифрових чисел на двоцифрові](https://drive.google.com/file/d/1tndWgZI7zObHmmdkAwoYds_3GhF348is/view?usp=sharing)  
+**21.04** [Презентація. Тема: Розв'язування задач на час. Ділення трицифрових чисел на двоцифрові](https://drive.google.com/file/d/1WZGWzyIYwIHs-dpSNmGCzWy6wlCa-6Vz/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -1764,6 +1766,7 @@ export default function DistanceLearning() {
 **07.04** [Горевич Л. В. Тема: Парки, сквери, бульвари. Зв'язок архітектури з природним середовищем](https://drive.google.com/file/d/1g6SKPwaLeuYV26viSgdDjSqU_LuXxsbq/view?usp=sharing)  
 **14.04** [Горевич Л. В. Тема: Чарівні ліхтарі](https://drive.google.com/file/d/1Qzv-QTSuIFf3i5hgwmPUgxiXWmYvLB71/view?usp=sharing)  
 **14.04** [Горевич Л. В. Презентація. Тема: Чарівні ліхтарі](https://drive.google.com/file/d/139LulXxDbxcopeh4lhxjikVqO6QqMhNj/view?usp=sharing)  
+**21.04** [Горевич Л. В. Тема: Металеве мереживо. Різноманітність форм металевих виробів. Поняття про ковальське та ливарне мистецтво. Розвиток навичок створення ажурних витинанок](https://drive.google.com/file/d/1bfFIuP9M_YAd1jZvicPLLA7UDkEIxbCu/view?usp=sharing)  
 
 ** Інформатика **  
 **13.01** [Тема: Електронна пошта](https://drive.google.com/file/d/1KyFCawBMzLggZl_i87HzBarHmFnhAAoK/view?usp=drive_web)  
