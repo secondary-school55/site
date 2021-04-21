@@ -1283,7 +1283,7 @@ export default function DistanceLearning() {
 **18.01** [Тема: Чарівні дива. Композиція «Крижаний палац Снігової Королеви» (акварель, техніка набризку) або аплікація з витинанкою «Палац снігової королеви»](https://drive.google.com/file/d/1oANaIf8ztpOFNwx609oBJI-Z573JaEQv/view?usp=drive_web)  
 **29.03** [Тема: Гумор у мистецтві. Шарж "Веселий школяр або школярка" (кольорові олівці) (ст. 96-97)](https://drive.google.com/file/d/16f2OF67_qYxQRr11ghg8hn3UvshLyb4G/view?usp=sharing)  
 **05.04** [Тема: Гумор у мистецтві (продовження). Комікс. Створення коміксів до пісні  «Грицю, Грицю, до роботи»](https://drive.google.com/file/d/1y4Z8TT7qcDCpgeOGJqzsPx7iZyFTJTMT/view?usp=sharing)  
-**13.04** [Тема: Ляльки-іграшки в житті та мистецтві. Малювання Лялька ЛОЛ-сюрприз](https://drive.google.com/file/d/1nU57fcobBlrQS0b_6kTSVRpUHHID8n7D/view?usp=sharing)  
+**12.04** [Тема: Ляльки-іграшки в житті та мистецтві. Малювання Лялька ЛОЛ-сюрприз](https://drive.google.com/file/d/1nU57fcobBlrQS0b_6kTSVRpUHHID8n7D/view?usp=sharing)  
 **19.04** [Тема: Ляльки-іграшки в житті та мистецтві. Малювання улюбленої іграшки](https://drive.google.com/file/d/1qQ34DcfNJa23qAEa4_DXW117vMySpHX4/view?usp=sharing)  
 
 ** Дизайн і технології **  
