@@ -1255,7 +1255,8 @@ export default function DistanceLearning() {
 **15.04** [ІІ група. Тема: Зрозуміти й підтримати інших. Н.Гербіш "Різні культури"](https://drive.google.com/file/d/1zynCbvr9hozxH3hi6X0wdXbFyjL7PjJn/view?usp=sharing)  
 **16.04** [І група. Тема: Про наших улюбленців. Н.Кирян "Ми з вамив цьому світі не самі..." М.Вітлер "Кошеня пропало"](https://drive.google.com/file/d/1NBOUXRrEqaIpCuw__omLVnJbA6pm477y/view?usp=sharing)  
 **16.04** [ІІ група. Тема: Про наших улюбленців. Н.Кирян "Ми з вамив цьому світі не самі..." М.Вітлер "Кошеня пропало"](https://drive.google.com/file/d/1kI84B9q4TE7J_FqkEGTJK8be5_1nJqmm/view?usp=sharing)  
-**20.04** [ІІ група. Тема: Про наших улюбленців. Н.Кирян "Ми з вамив цьому світі не самі..." М.Вітлер "Кошеня пропало"](https://drive.google.com/file/d/1jmgv4HOE7ni_inRgKMQCuha1JhC9M9ek/view?usp=sharing)  
+**20.04** [І група. Тема: Про наших улюбленців. Н.Кирян "Ми з вамив цьому світі не самі..." М.Вітлер "Кошеня пропало"](https://drive.google.com/file/d/1jmgv4HOE7ni_inRgKMQCuha1JhC9M9ek/view?usp=sharing)  
+**20.04** [ІІ група. Тема: Про наших улюбленців. Н.Кирян "Ми з вамив цьому світі не самі..." М.Вітлер "Кошеня пропало"](https://drive.google.com/file/d/1r4cF0DiI4HLgM-pq2WH0OMHlUu6qYAjz/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
