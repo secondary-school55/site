@@ -2356,6 +2356,8 @@ export default function DistanceLearning() {
 **20.04** [5-А. ІІ група. Тема: Підсумковий урок Великобританія](https://drive.google.com/file/d/1i3LW-DGbWQRQRBjI4H5zyJcN1OQK7Czd/view?usp=sharing)  
 **20.04** [5-А. І група. Тема: Підсумковий урок Великобританія](https://drive.google.com/file/d/1xTCcvcTyUoC7EOt9HK3Haetu1hIbbJNn/view?usp=sharing)  
 **22.04** [5-А. ІІ група. Тема: Ми - українці](https://drive.google.com/file/d/1JAc9GV8GsbGH-a9ZQGEODTuikVNOZVA7/view?usp=sharing)  
+**22.04** [5-А. І група. Тема: Ми - українці](https://drive.google.com/file/d/1-xWL7VRXIW8qUOwDK6HXX0S1mGJSDJh_/view?usp=sharing)  
+**22.04** [5-Б. Тема: Визначні місця світу](https://drive.google.com/file/d/1gfJsiw5IXnFtgXCJ3WE7lsISUA97V_u3/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -2658,6 +2660,7 @@ export default function DistanceLearning() {
 **16.04** [6-А. Тема: Подорож навколо світу](https://drive.google.com/file/d/11O8Av1QcjkFjpkjsOj2FY4itUk4_7QwP/view?usp=sharing)  
 **19.04** [Тема: Цікаві місця світу](https://drive.google.com/file/d/1lXmOe5Va56HKIbidtRDk5OeYJn3rrRkZ/view?usp=sharing)  
 **21.04** [Тема: Подорож Україною і Великобританією](https://drive.google.com/file/d/17fYzNyVPepUszFMuAk-xZ6y8n1_5LNP3/view?usp=sharing)  
+**22.04** [6-Б,В. Тема: Подорож Україною і Великобританією](https://drive.google.com/file/d/10BiyVIE4DZQj7-GEcrVntlJNgmWARROI/view?usp=sharing)  
 
 ** Трудове навчання **  
 **11.01** [Тема: Правила БЖД та ОП Короткі історичні відомості про розвиток мистецтва штучних декоративних квітів. Види декоративних квітів](https://drive.google.com/file/d/16YUkvI89A0BiQETZdytpt_jrfWkzfgT8/view?usp=sharing)  
@@ -3304,6 +3307,9 @@ export default function DistanceLearning() {
 **20.04** [8-А. І група. Тема: Канікули молоді](https://drive.google.com/file/d/1G4dfG1ferM3nj_lYXo5Etowplfnky9pD/view?usp=sharing)  
 **20.04** [8-Б. Тема: Канікули молоді](https://drive.google.com/file/d/1G4dfG1ferM3nj_lYXo5Etowplfnky9pD/view?usp=sharing)  
 **20.04** [8-А. ІІ група. Тема: Канікули молоді](https://drive.google.com/file/d/1O3EEo67Zwj7NwZDo5p2ea2C64yusZjxG/view?usp=sharing)  
+**22.04** [8-А. ІІ група. Тема: Здоровий споcіб життя](https://drive.google.com/file/d/1Wq-6Q8bIbNLPWa8TQ1B97uPbagfqMm1N/view?usp=sharing)  
+**22.04** [8-А. І група. Тема: Здоровий споcіб життя](https://drive.google.com/file/d/11szvjE0RPM88Mf9sWt8CtAdYRe0_2UlP/view?usp=sharing)  
+**22.04** [8-Б. Тема: Здоровий споcіб життя](https://drive.google.com/file/d/11szvjE0RPM88Mf9sWt8CtAdYRe0_2UlP/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -3560,7 +3566,8 @@ export default function DistanceLearning() {
 **01.04** [Тема: Проєкт «Нове життя старим речам» 9 клас. Об'єкт діяльності – світильник.](https://drive.google.com/file/d/1KxhVFs3gYcIzgiaIfNgQeue8p-vJxow1/view?usp=drive_web)  
 **08.04** [Тема: Виготовлення проєктованого виробу](https://drive.google.com/file/d/1vTvAws-eaAw53T58TCHvvZDtFq4cLwBE/view?usp=sharing)  
 **15.04** [Тема: Виготовлення проєктованого виробу](https://drive.google.com/file/d/1GjhiW7y5eF6M8dgyBnKgDaWe-zwND2SD/view?usp=sharing)  
-**22.04** [Тема: Декорування виробу. Пейп-арт, Декупаж](https://drive.google.com/file/d/1zn_lXuCebPfRc0QB0HJeIGz0Qf-zqZp6/view?usp=sharing)  
+**22.04** [9-А. І група. Тема: Декорування виробу. Пейп-арт, Декупаж](https://drive.google.com/file/d/1zn_lXuCebPfRc0QB0HJeIGz0Qf-zqZp6/view?usp=sharing)  
+**22.04** [9-Б. Тема: Декорування виробу. Пейп-арт, Декупаж](https://drive.google.com/file/d/1zn_lXuCebPfRc0QB0HJeIGz0Qf-zqZp6/view?usp=sharing)  
 
 ** Обслуговуюча праця **  
 **21.01** [9-А. Тема: Технологія ниткографії](https://drive.google.com/file/d/18rfdNGgXAKdKIlXGFAK3QtrlyCRFJJly/view?usp=sharing)  
@@ -3677,6 +3684,7 @@ export default function DistanceLearning() {
 **21.04** [9-А. І група. Тема: Різноманіття професій](https://drive.google.com/file/d/1GszpR6K3HhykNAvrLn3BwgR7Bt2fwhDB/view?usp=sharing)  
 **21.04** [9-Б. Тема: Різноманіття професій](https://drive.google.com/file/d/1GszpR6K3HhykNAvrLn3BwgR7Bt2fwhDB/view?usp=sharing)  
 **22.04** [9-А. ІІ група. Тема: Будівельні професії](https://drive.google.com/file/d/1CDvum0rX5J5CoXpHZ0tGQF6-HJYM7XPP/view?usp=sharing)  
+**22.04** [9-А. І група. Тема: Будівельні професії](https://drive.google.com/file/d/12TvG53L2MFoO8IpoWif92HSA9epqyGzc/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
