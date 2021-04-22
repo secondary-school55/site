@@ -2239,6 +2239,7 @@ export default function DistanceLearning() {
 **15.04** [5-Б. І група. Тема: Роль електронного документообігу в сучасному суспільстві](https://drive.google.com/file/d/1-me5u1gr0yVWqNdIQxkMvv5s9lldssw_/view?usp=drive_web)  
 **15.04** [5-Б. ІІ група. Тема: Роль електронного документообігу в сучасному суспільстві](https://drive.google.com/file/d/1oDO3QIoWYKIOmutLdcdWimKDO29qNEqf/view?usp=sharing)  
 **16.04** [5-А. І група. Тема: Роль електронного документообігу в сучасному суспільстві](https://drive.google.com/file/d/1-me5u1gr0yVWqNdIQxkMvv5s9lldssw_/view?usp=drive_web)  
+**22.04** [5-Б. Тема: Додавання зображень із файлу та їх форматування](https://drive.google.com/file/d/1j08K1V2ut0O61k7QI8rPk9QNcIABQu36/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
@@ -2502,6 +2503,8 @@ export default function DistanceLearning() {
 **16.04** [6-В. ІІ група. Тема: Створення графічних об&#39;єктів засобами редактора презентацій](https://drive.google.com/file/d/1SfqaAD4cwU2WvCFs2lkQ8xX7GFkIf1N1/view?usp=drive_web)  
 **19.04** [6-Б. І група. Тема: Ефекти анімації в презентаціях](https://drive.google.com/file/d/1DDxkzI0aaVAiX-H7xhtKsOFuzmOpsPDI/view?usp=sharing)  
 **19.04** [6-Б. ІІ група. Тема: Додавання ефектів анімації до об’єктів слайда](https://drive.google.com/file/d/1NErNg6ABXgpCnElDVUIiuv87DxnN_C2y/view?usp=drive_web)  
+**22.04** [6-А. І група. Тема: Ефекти анімації в презентаціях](https://drive.google.com/file/d/1vRGL9tD7KXagE8uMAlkfPmZGoqh_PhiF/view?usp=sharing)  
+**22.04** [6-А. ІІ група. Тема: Додавання ефектів анімації до об’єктів слайда](https://drive.google.com/file/d/1NErNg6ABXgpCnElDVUIiuv87DxnN_C2y/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -3422,6 +3425,7 @@ export default function DistanceLearning() {
 **14.04** [8-Б. Тема: Розвязування задач](https://drive.google.com/file/d/1MVzwBDxHDKI1MA5JSupPyx8YTPF1lvWY/view?usp=sharing )  
 **20.04** [8-А. Тема: Чотирикутники. Вписані та описані кути. Теорема Фалеса. Сердня лінія трикутника та трапеції](https://drive.google.com/file/d/1d03RXiCx8OK_AwbJ_JC7IGf3jx-PQEmT/view?usp=sharing)  
 **20.04** [8-Б. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1oUoIEZ92ZHpQq1GXvuvrQ-9e2SLmWIgI/view?usp=sharing)  
+**22.04** [8-Б. Тема: Підсумковий урок з теми Многокутники. Площі многокутників](https://drive.google.com/file/d/1CbkX-5tTXtez5mnvY6phTT9_YCL2gA5f/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Логічні вирази. Оператори розгалуження. Вкладені розгалуження](https://drive.google.com/file/d/1UIkiDcQ0uWpgiOSN8HPQe0On15gl7hh0/view?usp=sharing)  
@@ -3863,6 +3867,7 @@ export default function DistanceLearning() {
 **15.04** [9-А. Тема: Початкові відомості про статистику](https://drive.google.com/file/d/1Nr78IuQD3qv8F2w65gXIsfcZi4ZBgVVG/view?usp=sharing)  
 **19.04** [9-Б. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1FYjED2G2oPdEqKbHj6Wy8N-4GtWGi2YP/view?usp=sharing)  
 **20.04** [9-А. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1ME8BcpbV9gJ8IrWJG1jGBN4wqwc2puGK/view?usp=sharing)  
+**22.04** [9-А. Тема: Підсумковий урок з теми Основи комбінаторики](https://drive.google.com/file/d/1IJ-pyhQXRVD3uvPiH9PRvi2LTcMgY8Lh/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
@@ -4001,6 +4006,8 @@ export default function DistanceLearning() {
 **08.04** [ІІ група. Тема: Засоби створення, зберігання, обробки, копіювання і транспортування документів](https://drive.google.com/file/d/1DKIcSS0cIUgQWYXa6urA1XbiTDp-lSBx/view?usp=drive_web)  
 **15.04** [І група. Тема: Програмні засоби обробки документів та інформації. Види систем обробки текстів. Комунікаційні технології](https://drive.google.com/file/d/13egPrI9_M0Mig48tkRMRarzVppteJ40p/view?usp=drive_web)  
 **15.04** [ІІ група. Тема: Програмні засоби обробки документів та інформації. Види систем обробки текстів. Комунікаційні технології](https://drive.google.com/file/d/17YjhZ6faxaOxdYhIyrOC6VAq6PL0dbeY/view?usp=drive_web)  
+**22.04** [І група. Тема: Використання технічних та програмних засобів для створення, редагування, друку та пересилання документів](https://drive.google.com/file/d/1SCsA1drcRx1kVbi9GFCOzKQmWXSKHWhx/view?usp=drive_web)  
+**22.04** [ІІ група. Тема: Використання технічних та програмних засобів для створення, редагування, друку та пересилання документів](https://drive.google.com/file/d/1U8BFanIoTXwAE4GJvkZ0mxHEoPQY2qNB/view?usp=drive_web)  
 
 ** Фізична культура **  
 **04.12** [І група. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1SBvvvI6L7-usEP0lkbxvVs85UtZqhjpJ/view?usp=sharing)  
@@ -4235,6 +4242,10 @@ export default function DistanceLearning() {
 **08.04** [ІІ група. Тема: Робота з векторними елементами](https://drive.google.com/file/d/1S-uUVo41bort9EZJPDv9j0Hrwg2z827d/view?usp=drive_web)  
 **15.04** [І група. Тема: Тонова корекція зображень. Робота з кольором](https://drive.google.com/file/d/165sHdXFzStRoMfTlqCP5vC2lD32FcCa7/view?usp=drive_web)  
 **15.04** [ІІ група. Тема: Тонова корекція зображень. Робота з кольором](https://drive.google.com/file/d/1grox099UqM0fiIto-heJqUqRDORIDjv5/view?usp=drive_web)  
+**22.04** [І група. Тема: Створення елементів для веб-сторінок](https://drive.google.com/file/d/1u1UdOrqRk_F6WdvLMdFcHTjcIbX1c4lw/view?usp=drive_web)  
+**22.04** [ІІ група. Тема: Створення елементів для веб-сторінок](https://drive.google.com/file/d/1NzmkJy4NhsSTlORf-xdZNIp0kWaOyHZ-/view?usp=drive_web)  
+**22.04** [І група. Тема: Анімація в растровому графічному редакторі](https://drive.google.com/file/d/1p-X0Q0opQz-XGoepByzkCMyS-4rwkFNO/view?usp=drive_web)  
+**22.04** [ІІ група. Тема: Анімація в растровому графічному редакторі](https://drive.google.com/file/d/1-P9_GH9VXQBhf9Jn3g4BnyJh77PQxZ4E/view?usp=drive_web)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Опозиційний рух в Україні 60-80-х рр. ХХ ст.](https://drive.google.com/file/d/1BRFbeZezM4EQBXfjdEyCgfPXCTltDMaR/view?usp=sharing)  
