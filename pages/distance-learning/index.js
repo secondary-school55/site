@@ -2132,7 +2132,8 @@ export default function DistanceLearning() {
 **16.04** [5-А. Тема: Чинники живої природи. Угруповання організмів](https://drive.google.com/file/d/15ageiT1XTj2RFf03VxL6QGrdfEVH2x0V/view?usp=sharing)  
 **19.04** [5-Б. Тема: Повторення](https://drive.google.com/file/d/1r1YPDVhqNW9FEa9rVrTvlxPQNQV2JSog/view?usp=sharing)  
 **20.04** [5-А. Тема: Екосистема](https://drive.google.com/file/d/1tNKT3MHq3Gfa_f1RzNVJ5HFI_A95zzHa/view?usp=sharing)  
-
+**22.04** [5-Б. Тема: Контрольна робота](https://drive.google.com/file/d/1fDsdYpY4D7jAARupyu5VmaRpH2Vf90xz/view?usp=sharing)  
+ 
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
 **03.12** [5-А. Тема: Есе (розмірковування в довільній формі) про красу й молозвучність української мови](https://drive.google.com/file/d/1_iDvQLwccro5qew0XzXPU9S6B_Sr_o5T/view?usp=sharing)  
@@ -2796,6 +2797,7 @@ export default function DistanceLearning() {
 **12.04** [Тема: Повторення](https://drive.google.com/file/d/1G5hZLkcA9RxC-l-wYgXxbs83QXkP3TQE/view?usp=sharing)  
 **15.04** [Тема: Повторення](https://drive.google.com/file/d/1YIWzLQb2w92SbvzPvUFpSuDqu030dajJ/view?usp=sharing)  
 **19.04** [Тема: Контрольна робота](https://drive.google.com/file/d/1EdmhwWj9qqAa_XpGkF9kuEZ1Vw7ln0p3/view?usp=sharing)  
+**22.04** [Тема: Механічна робота, потужність](https://drive.google.com/file/d/13_BS5z7J0ggbhx5IxAbKd-64C5Qw8q36/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)  
@@ -4004,6 +4006,7 @@ export default function DistanceLearning() {
 **13.04** [Тема: Внутрішня енергія. Кількість теплоти. Робота](https://drive.google.com/file/d/1Vo98GFy06z-ks5y3AfAY83HMA4HKEJUP/view?usp=sharing)  
 **15.04** [Тема: Перший закон термодинаміки](https://drive.google.com/file/d/1k9lxLTseIjuDrng9qbpydZNH8J7BanXS/view?usp=sharing)  
 **20.04** [Тема: Теплові машини](https://drive.google.com/file/d/1s8ehz8Vid-pOebSE2IJ3JFt9DeEeFo-E/view?usp=sharing)  
+**22.04** [Тема: Повторення](https://drive.google.com/file/d/1R-_b3W0Mh8OizMA7mff47S3ZV1tchMJt/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)  
