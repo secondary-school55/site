@@ -777,6 +777,7 @@ export default function DistanceLearning() {
 **21.04** [І група. Тема: Читаємо говоримо сприймаємо на слух](https://drive.google.com/file/d/1RN8EenYchQzvYgnimuD85y43hZ6VYgTB/view?usp=sharing)  
 **23.04** [І група. Тема: Давай пограємо. Проект](https://drive.google.com/file/d/1v8iSGQsFRBZmI5dPv8hz8j5W4Giq3GlR/view?usp=sharing)  
 **23.04** [І група. Аудіозапис. Тема: Давай пограємо. Проект](https://drive.google.com/file/d/1hdbBgU6Z0A9aYnEliwtjU9jOB-D2DhyN/view?usp=sharing)  
+**23.04** [ІІ група. Тема: Давай гратися](https://drive.google.com/file/d/1QVihMnzoXvWKLP8qp6pTRlS_Yofi3por/view?usp=sharing)  
 
 ** Математика **  
 **11.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1VwNtfF7VLfGyvNSDziU_iCztBpKSa4aZ/view?usp=sharing)  
@@ -1017,6 +1018,7 @@ export default function DistanceLearning() {
 **16.04** [Тема: Відвідування зоопарку](https://drive.google.com/file/d/1eSbqZfFR8p6RMFMOKeiFKn1j1-0mPcuW/view?usp=sharing)  
 **20.04** [Тема: Світ диких тварин](https://drive.google.com/file/d/1NVFWkt-HA11Tz3q4c-V81-ySddv9GrnQ/view?usp=sharing)  
 **21.04** [Тема: Читаємо говоримо сприймаємо на слух](https://drive.google.com/file/d/1RN8EenYchQzvYgnimuD85y43hZ6VYgTB/view?usp=sharing)  
+**23.04** [Тема: Давай гратися](https://drive.google.com/file/d/1QVihMnzoXvWKLP8qp6pTRlS_Yofi3por/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **15.01** [Тема: Виготовлення новорічної прикраси](https://drive.google.com/file/d/1FLM5RFfhrQBWmx9rxMiXcz1ZSLHnBPmH/view?usp=sharing)  
@@ -1594,7 +1596,8 @@ export default function DistanceLearning() {
 **19.04** [ІІ група. Тема: Давай пограємо](https://drive.google.com/file/d/1gIxevMPOS8pCl4-4QUGdVnhhJOX3u3qV/view?usp=sharing)  
 **21.04** [І група. Тема: Давай співати!](https://drive.google.com/file/d/1Wjo_JAbBCHnQz7EqwsXJgY8na9kCBbpO/view?usp=sharing)  
 **21.04** [ІІ група. Тема: Давай співати](https://drive.google.com/file/d/1rt879BV09hZmK9zHeDHluNtei5eT7mqg/view?usp=sharing)  
-**23.04** [Тема: Діагностична робота № 8. Проєкт](https://drive.google.com/file/d/1oCLaBYht5eyI0HzaOYLS6yiSTQLjlNEu/view?usp=sharing)  
+**23.04** [І група. Тема: Діагностична робота № 8. Проєкт](https://drive.google.com/file/d/1oCLaBYht5eyI0HzaOYLS6yiSTQLjlNEu/view?usp=sharing)  
+**23.04** [ІІ група. Тема: Мандрівка у парк розваг](https://drive.google.com/file/d/1mTT656i18AZNW4JdFwdFptIk3MBUNigW/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
@@ -2415,6 +2418,7 @@ export default function DistanceLearning() {
 **22.04** [5-А. ІІ група. Тема: Ми - українці](https://drive.google.com/file/d/1JAc9GV8GsbGH-a9ZQGEODTuikVNOZVA7/view?usp=sharing)  
 **22.04** [5-А. І група. Тема: Ми - українці](https://drive.google.com/file/d/1-xWL7VRXIW8qUOwDK6HXX0S1mGJSDJh_/view?usp=sharing)  
 **22.04** [5-Б. Тема: Визначні місця світу](https://drive.google.com/file/d/1gfJsiw5IXnFtgXCJ3WE7lsISUA97V_u3/view?usp=sharing)  
+**23.04** [5-Б. Тема: Ми - українці](https://drive.google.com/file/d/1iJHPBL1GZ_xEW_n4W91C5e93_jaBjuB4/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -2727,6 +2731,7 @@ export default function DistanceLearning() {
 **19.04** [Тема: Цікаві місця світу](https://drive.google.com/file/d/1lXmOe5Va56HKIbidtRDk5OeYJn3rrRkZ/view?usp=sharing)  
 **21.04** [Тема: Подорож Україною і Великобританією](https://drive.google.com/file/d/17fYzNyVPepUszFMuAk-xZ6y8n1_5LNP3/view?usp=sharing)  
 **22.04** [6-Б,В. Тема: Подорож Україною і Великобританією](https://drive.google.com/file/d/10BiyVIE4DZQj7-GEcrVntlJNgmWARROI/view?usp=sharing)  
+**23.04** [6-А. Тема: Подорож Україною і Великобританією](https://drive.google.com/file/d/1H4ivspD_Hwk-9Wpd1xkGYbkLRiYrF4mn/view?usp=sharing)  
 
 ** Трудове навчання **  
 **11.01** [Тема: Правила БЖД та ОП Короткі історичні відомості про розвиток мистецтва штучних декоративних квітів. Види декоративних квітів](https://drive.google.com/file/d/16YUkvI89A0BiQETZdytpt_jrfWkzfgT8/view?usp=sharing)  
@@ -4197,6 +4202,8 @@ export default function DistanceLearning() {
 **16.04** [ІІ група. Тема: Політична система України](https://drive.google.com/file/d/1QUlk61X2UvozMIYrhfXEfqz3O99-wV7i/view?usp=sharing)  
 **21.04** [І група. Тема: Державний устрій України](https://drive.google.com/file/d/1NBUJx29yUCNEYwUf5qTdqXK8WZIAkuyl/view?usp=sharing)  
 **21.04** [ІІ група. Тема: Державний устрій України](https://drive.google.com/file/d/1Yyd9A7YZN1-Rf982rhVoC5NvwA-c2B3R/view?usp=sharing)  
+**23.04** [І група. Тема: Політична система](https://drive.google.com/file/d/1wai78fWhhmBIyXVFrk14ML_wjEmyvS3u/view?usp=sharing)  
+**23.04** [ІІ група. Тема: Політична система](https://drive.google.com/file/d/1lDWEdPPz5GxQEpNkz4ticXKteIQ-oROp/view?usp=sharing)  
 
 ** Захист України**  
 **07.12** [Хлопці. Тема: Статути Збройних Сил України. Військові звання військовослужбовців Збройних Сил України](https://drive.google.com/file/d/1OzU2dwv875YIu-Owskc3Irad1zmIoqE9/view?usp=sharing)  
@@ -4390,6 +4397,7 @@ export default function DistanceLearning() {
 **13.04** [Тема: Людина у суспільстві](https://drive.google.com/file/d/1ei_BR3PWISYc2Rj6iTQYmkCwzHIUurzK/view?usp=sharing)  
 **16.04** [Тема: Державний устрій України](https://drive.google.com/file/d/1nT6i1DMJxhfF5l5OjzDJCRonZQUVS0M7/view?usp=sharing)  
 **20.04** [Тема: Політична система](https://drive.google.com/file/d/1Jj0Zhq4PJq7CyCfy5h16AaizsJNc_STT/view?usp=sharing)  
+**23.04** [Тема: Міжнародні організації](https://drive.google.com/file/d/1p1tnnJ20nc8GtC5zTs0-kbf2TW_Pdtsz/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Есе «Що робить мене щасливим (щасливою)»](https://drive.google.com/file/d/1xZaYEjnfrn1_BhqFqRKVKQHtugYFExs6/view?usp=sharing)  
