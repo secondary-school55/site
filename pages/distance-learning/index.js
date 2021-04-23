@@ -3723,6 +3723,7 @@ export default function DistanceLearning() {
 **21.04** [9-Б. Тема: Метод координат на площині](https://drive.google.com/file/d/1z7-hurTQhmcRrLmBdD7t3nxrEHuIufMT/view?usp=sharing)  
 **21.04** [9-А. Тема: Площі подібних фігур](https://drive.google.com/file/d/1xv1ycb4MYHF0sCOV1HgV0--eZLTDtahW/view?usp=sharing)  
 **22.04** [9-Б. Тема: Метод координат на площині](https://drive.google.com/file/d/1Z4NCMMsK0NXelsm08RUjT_pHRR4du9uK/view?usp=sharing)  
+**23.04** [9-А. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1YUV4gdtUnr1ByqrFTElOZxYkCSgbPC61/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1_YPlRDOzxWAHMorqZAt9hTRsefrTjAo4/view?usp=sharing)  
@@ -3975,6 +3976,7 @@ export default function DistanceLearning() {
 **19.04** [9-Б. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1FYjED2G2oPdEqKbHj6Wy8N-4GtWGi2YP/view?usp=sharing)  
 **20.04** [9-А. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1ME8BcpbV9gJ8IrWJG1jGBN4wqwc2puGK/view?usp=sharing)  
 **22.04** [9-А. Тема: Підсумковий урок з теми Основи комбінаторики](https://drive.google.com/file/d/1IJ-pyhQXRVD3uvPiH9PRvi2LTcMgY8Lh/view?usp=sharing)  
+**23.04** [9-Б. Тема: Підсумковий урок з теми Основи комбінаторики](https://drive.google.com/file/d/1SJx-mMTjXOPmkEDnq_LzFvJtiwgW3M1C/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
@@ -4263,6 +4265,7 @@ export default function DistanceLearning() {
 **12.04** [Тема: Ознаки сталості. Зростання і спадання функції](https://drive.google.com/file/d/1HtqoAQ1mcYvRmJcBfSWJKhZ_JnpPDcGd/view?usp=sharing)  
 **16.04** [Тема: Екстремуми функції](https://drive.google.com/file/d/1AnKmtjlVqFdFPxNvTWwk7Acs9RFNxvnc/view?usp=sharing)  
 **19.04** [Тема: Застосування похідної до дослідження функції](https://drive.google.com/file/d/16P5159uiqo6EYokmOBrv1dRlwc-UrRvc/view?usp=sharing)  
+**23.04** [Тема: Найбільше і найменше значення функції](https://drive.google.com/file/d/1iC9ABR70STMv57Df7mLiOnA-SXgVxYbu/view?usp=sharing)  
 
 ** Технології **  
 **12.01** [Тема: Український суванір](https://drive.google.com/file/d/1Qjysoxx4CbkF3hvpoWE8jhs9EKJ-HX7j/view?usp=sharing)  
