@@ -2296,6 +2296,8 @@ export default function DistanceLearning() {
 **15.04** [5-Б. ІІ група. Тема: Роль електронного документообігу в сучасному суспільстві](https://drive.google.com/file/d/1oDO3QIoWYKIOmutLdcdWimKDO29qNEqf/view?usp=sharing)  
 **16.04** [5-А. І група. Тема: Роль електронного документообігу в сучасному суспільстві](https://drive.google.com/file/d/1-me5u1gr0yVWqNdIQxkMvv5s9lldssw_/view?usp=drive_web)  
 **22.04** [5-Б. Тема: Додавання зображень із файлу та їх форматування](https://drive.google.com/file/d/1j08K1V2ut0O61k7QI8rPk9QNcIABQu36/view?usp=sharing)  
+**23.04** [5-А. І група. Тема: Додавання зображень із файлу та їх форматування](https://drive.google.com/file/d/1hx12bnJi_lRItCs7kt2sf5sNb-6U6S0I/view?usp=drive_web)  
+**23.04** [5-А. ІІ група. Тема: Додавання зображень із файлу та їх форматування](https://drive.google.com/file/d/1cKRBsbFDMTjfd-91HoNbKSQKCNax_8LP/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
@@ -2347,7 +2349,6 @@ export default function DistanceLearning() {
 **21.04** [5-Б. Тема: Середнє арифметичне. Середнє значення величини](https://drive.google.com/file/d/1A73dmJPOmFfg0ocqtnbZAgPcth_0AJao/view?usp=sharing)  
 **23.04** [5-А. Тема: Середнє арифметичне. Середнє значення величини](https://drive.google.com/file/d/1YQzHAQWh2oxrJP3qLcAIO93uTc4RZ9v3/view?usp=sharing)  
 **23.04** [5-Б. Тема: Середнє арифметичне. Середнє значення величини](https://drive.google.com/file/d/1BPRvNClCLPHmptkTrt142tchyBCp-voW/view?usp=sharing)  
-**23.04** [5-А. Тема: https://drive.google.com/file/d/1cKRBsbFDMTjfd-91HoNbKSQKCNax_8LP/view?usp=sharing](https://drive.google.com/file/d/1cKRBsbFDMTjfd-91HoNbKSQKCNax_8LP/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
@@ -2572,6 +2573,8 @@ export default function DistanceLearning() {
 **19.04** [6-Б. ІІ група. Тема: Додавання ефектів анімації до об’єктів слайда](https://drive.google.com/file/d/1NErNg6ABXgpCnElDVUIiuv87DxnN_C2y/view?usp=drive_web)  
 **22.04** [6-А. І група. Тема: Ефекти анімації в презентаціях](https://drive.google.com/file/d/1vRGL9tD7KXagE8uMAlkfPmZGoqh_PhiF/view?usp=sharing)  
 **22.04** [6-А. ІІ група. Тема: Додавання ефектів анімації до об’єктів слайда](https://drive.google.com/file/d/1NErNg6ABXgpCnElDVUIiuv87DxnN_C2y/view?usp=drive_web)  
+**23.04** [6-В. І група. Тема: Додавання ефектів анімації до об’єктів слайда](https://drive.google.com/file/d/1JdBpORKO4xPNc_IpC8i-jhOZac16dBrM/view?usp=drive_web)  
+**23.04** [6-В. ІІ група. Тема: Додавання ефектів анімації до об’єктів слайда](https://drive.google.com/file/d/1NErNg6ABXgpCnElDVUIiuv87DxnN_C2y/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -2996,6 +2999,8 @@ export default function DistanceLearning() {
 **16.04** [7-А. ІІ група. Тема: Копіювання та переміщення клітинок і діапазонів, зокрема тих, що містять формули.](https://drive.google.com/file/d/1suQBd1JSdxSAE2i-w-cYP3ksUnR6J4FD/view?usp=drive_web)  
 **21.04** [7-Б. І група. Тема: Використання вбудованих функцій](https://drive.google.com/file/d/1PXvZJmxtVu7h2CAYefxMRKYBNZvgchtO/view?usp=drive_web)  
 **21.04** [7-Б. ІІ група. Тема: Використання вбудованих функцій](https://drive.google.com/file/d/16w49Cw4fzC9Mo3FPKDGYmpYyCDITuXOA/view?usp=drive_web)  
+**23.04** [7-А. І група. Тема: Використання вбудованих функцій](https://drive.google.com/file/d/1PXvZJmxtVu7h2CAYefxMRKYBNZvgchtO/view?usp=drive_web)  
+**23.04** [7-А. ІІ група. Тема: Використання вбудованих функцій](https://drive.google.com/file/d/16w49Cw4fzC9Mo3FPKDGYmpYyCDITuXOA/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Різноманітність птахів, їх роль у природі та значення в житті людини](https://drive.google.com/file/d/1yE8Ay4YmvkBD_Dh23t4NCf8q2Jox4_Ou/view?usp=sharing)  
@@ -3869,6 +3874,8 @@ export default function DistanceLearning() {
 **16.04** [9-А. ІІ група. Тема: Екструдування форми об'єкта. Вершини, ребра, грані, графічні текстури](https://drive.google.com/file/d/1GPiVcQzWgbGOJaeGs1mcCYkeTMWD6LoF/view?usp=drive_web)  
 **21.04** [9-А. І група. Тема: Текстові об'єкти та їх редагування. Анімація. Переміщення по кадрах. Шкала часу](https://drive.google.com/file/d/1QNKIu2LiKecZUvHVLxcq4nQxEqvXnZYH/view?usp=drive_web)  
 **21.04** [9-А. ІІ група. Тема: Текстові об'єкти та їх редагування. Анімація. Переміщення по кадрах. Шкала часу](https://drive.google.com/file/d/1sk9vmX-zBSorBrj7oY-KbWuPUPEUB2OV/view?usp=drive_web)  
+**23.04** [9-А. І група. Тема: Текстові об'єкти та їх редагування. Анімація. Переміщення по кадрах. Шкала часу](https://drive.google.com/file/d/1QNKIu2LiKecZUvHVLxcq4nQxEqvXnZYH/view?usp=drive_web)  
+**23.04** [9-А. ІІ група. Тема: Текстові об'єкти та їх редагування. Анімація. Переміщення по кадрах. Шкала часу](https://drive.google.com/file/d/1sk9vmX-zBSorBrj7oY-KbWuPUPEUB2OV/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Фотосинтез: світлова та темнова фази](https://drive.google.com/file/d/1AP4SBbE-Wl8PoIH4LiQXBqO2b-ri70gl/view?usp=sharing)  
