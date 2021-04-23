@@ -2344,6 +2344,7 @@ export default function DistanceLearning() {
 **21.04** [5-Б. Тема: Середнє арифметичне. Середнє значення величини](https://drive.google.com/file/d/1A73dmJPOmFfg0ocqtnbZAgPcth_0AJao/view?usp=sharing)  
 **23.04** [5-А. Тема: Середнє арифметичне. Середнє значення величини](https://drive.google.com/file/d/1YQzHAQWh2oxrJP3qLcAIO93uTc4RZ9v3/view?usp=sharing)  
 **23.04** [5-Б. Тема: Середнє арифметичне. Середнє значення величини](https://drive.google.com/file/d/1BPRvNClCLPHmptkTrt142tchyBCp-voW/view?usp=sharing)  
+**23.04** [5-А. Тема: https://drive.google.com/file/d/1cKRBsbFDMTjfd-91HoNbKSQKCNax_8LP/view?usp=sharing](https://drive.google.com/file/d/1cKRBsbFDMTjfd-91HoNbKSQKCNax_8LP/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
@@ -2644,6 +2645,7 @@ export default function DistanceLearning() {
 **21.04** [6-А. Тема: Перпендикулярні прямі та паралельні прямі](https://drive.google.com/file/d/1rT5EMsWxSK-laot3WjaoBQEt7Dig1sdg/view?usp=sharing)  
 **21.04** [6-А,В. Тема: Координатна площина](https://drive.google.com/file/d/1W4kFIzBGlnw4xzq4p6BFltsZol8WdV3Y/view?usp=sharing)  
 **23.04** [6-А,В. Тема: Розв'язування вправ](https://drive.google.com/file/d/1Cx9TAOtNUSzPMVkrKFDfcoqKFU4VQ35D/view?usp=sharing)  
+**23.04** [6-Б. Тема: Перпендикулярні та паралельні прямі](https://drive.google.com/file/d/1XC6fQsFN3kd0j279NOjFLRVOPpHYmk8m/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
@@ -2795,6 +2797,7 @@ export default function DistanceLearning() {
 **21.04** [6-В. Тема: Причини зникнення стародавніх цивілізцій. Сучасні цивілізації на мапі світу](https://drive.google.com/file/d/1JZ6C2W3LiOICso0W_roeSn2JjsflIpKD/view?usp=sharing)  
 **21.04** [6-А,Ю. Тема: Причини зникнення стародавніх цивілізацій](https://drive.google.com/file/d/1P662JneKlA2bmfYNyquN5m5Z7agqFc74/view?usp=sharing)  
 **23.04** [6-В. Тема: Китайська цивілізація](https://drive.google.com/file/d/1A9cgZPu9vEFqWPO1717dYQX0A3hkanCI/view?usp=sharing)  
+**23.04** [6-А,Б. Тема: Китайська цивілізація](https://drive.google.com/file/d/1GDajnAVeJnuvJKad45s-nxKzxM41fS_N/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **13.01** [Тема: Види рішень](https://drive.google.com/file/d/1Ic241cRLf0OHQiJDlEFwiHeGkWpJTBc9/view?usp=sharing)  
@@ -2843,6 +2846,7 @@ export default function DistanceLearning() {
 **14.04** [6-Б. Тема: Полные и неполные предложения](https://drive.google.com/file/d/111dIp_Y4H1rgkCuHdvJOzxtUWQOK6g-k/view?usp=sharing)  
 **16.04** [6-Б,В. Тема: Полные и неполные предложения](https://drive.google.com/file/d/1LuRdGjW1237MegF0tIPoq4zM6G7CfyaL/view?usp=sharing)  
 **21.04** [6-А. Тема: Простые и сложные предложения](https://drive.google.com/file/d/18vtAHDEqBi1hIBxZFRE2Mpf41q1cbVXQ/view?usp=sharing)  
+**23.04** [Тема: Прості і складні речення](https://drive.google.com/file/d/15eQ5e7c5NGhkte2_9-vii9ixEP1CsYIU/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="7 клас">
@@ -3155,6 +3159,7 @@ export default function DistanceLearning() {
 **16.04** [7-А,Б. Тема: Розуміння сутності культури і освіти](https://drive.google.com/file/d/1mqw93COncKhjkxgk0wHiSRdhuIa-jUko/view?usp=sharing)  
 **19.04** [7-Б. Тема: Утвердження сили людського інтелекту, самостійності мислення, творчої уяви, моральних цінностей](https://drive.google.com/file/d/1WwTQ93-2GkJ5-0ip8rLjMWY2EZaSuKPW/view?usp=sharing)  
 **20.04** [7-А. Тема: Утвердження сили людського характеру](https://drive.google.com/file/d/1YKSwd7IaTpZVNTaKB6X8bIKTxZBEkhc1/view?usp=sharing)  
+**23.04** [Тема: РМ Складання психологічних портретів](https://drive.google.com/file/d/17tiMsmCeXCAq-6de64jroSOaHeNCvL4g/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1LYMqo8lKOm-bCK_MHTKKwk0WLaRKPTEK/view?usp=sharing)  
