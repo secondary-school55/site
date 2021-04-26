@@ -647,6 +647,7 @@ export default function DistanceLearning() {
 **22.04** [І група. Тема: Розрізняю текст-розповідь і текст-опис](https://drive.google.com/file/d/1NC2WDndY7WPthCnByU2w0XkDpJ9l--WK/view?usp=sharing)  
 **23.04** [ІІ група. Тема: Рорізняю текст-розповідь і текст-опис](https://drive.google.com/file/d/1zT7u6gNGlTwP7RUx9Pst3dUX2HDHSWol/view?usp=sharing)  
 **23.04** [І група. Тема: Розрізняю текст-розповідь і текст-опис](https://drive.google.com/file/d/1Cy3K-IfH_yO6whGgOjeMRQCuT7W_EC0X/view?usp=sharing)  
+**26.04** [Тема: Розвиток зв'язного мовлення. Малюю весняні квіти](https://drive.google.com/file/d/1RvftKxU2jdRTRBwwwHeoc1aZ40Njx8qk/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
@@ -677,6 +678,7 @@ export default function DistanceLearning() {
 **19.04** [Тема: Організовуючі вправи. Загальнорозвивальні вправи. Різновиди ходьби.Вправи для розвитку сили.  Танцювальні кроки. Рухлива гра](https://drive.google.com/file/d/13iTMwqvXa8RBeLZhY3P72LosDAEO1wMi/view?usp=sharing)  
 **21.04** [Тема: Організовуючі вправи. Загальнорозвивальні вправи. Різновиди ходьби.Вправи для розвитку сили.  Танцювальні кроки. Рухлива гра](https://drive.google.com/file/d/1pElGrkW5SP1zL0vAs5nUphlmyC7bJ4Mz/view?usp=sharing)  
 **22.04** [Тема: Організовуючі вправи. Загальнорозвивальні вправи. Різновиди ходьби.Вправи для розвитку сили.  Танцювальні кроки. Рухлива гра](https://drive.google.com/file/d/1F9UC6Btj2rq8YzSA2bTbFqH2m0jokegZ/view?usp=sharing)  
+**26.04** [Тема: Організовуючі вправи. Загальнорозвивальні вправи. Різновиди ходьби.Вправи для розвитку сили.  Танцювальні кроки. Рухлива гра](https://drive.google.com/file/d/11pO7AylhveD-dHnutq0Rwjgq5C5Hmhv0/view?usp=sharing)  
 
 ** Читання **  
 **03.12** [Тема: Досліджуємо текст. Василь Чухліб «Зимова казка» Зачарувала все зима...](https://drive.google.com/file/d/1lO76PM1u99sp3Ey7vKjtOBd5_zP2NEEX/view?usp=sharing)  
@@ -717,6 +719,7 @@ export default function DistanceLearning() {
 **20.04** [І група. Тема: Позакласне читання. Суниці для Наталі](https://drive.google.com/file/d/1-GOyk-fCI8sp3WpBYubKcOUyFJyJz-zb/view?usp=sharing)  
 **22.04** [ІІ група. Тема: Веселе слово.Чи легко складати вірші](https://drive.google.com/file/d/1ny19bXsrffIjv4W63pjhOM-sotUyUTG5/view?usp=sharing)  
 **22.04** [І група. Тема: Веселе слово.Чи легко складати вірші](https://drive.google.com/file/d/1ZSl1Okfvh35E9z-QwVb5cfLB4a5Xfnr-/view?usp=sharing)  
+**26.04** [Тема: Фантазуємо і створюємо казку. Ліна Костенко «Вербові сережки»](https://drive.google.com/file/d/1J6hobe98-EECkqEhPe_yk7mD6Icu4jmB/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)  
@@ -815,6 +818,7 @@ export default function DistanceLearning() {
 **20.04** [Тема: Розв'язання задач двома способами .Обчислення виразів](https://drive.google.com/file/d/1Ci29xypYOF5qNbuqAgEeGL8IJdAN6Zxk/view?usp=sharing)  
 **21.04** [Тема: Центнер. Порівняння складених іменованих чисел](https://drive.google.com/file/d/1QNr6aWL9I8U9BfbuJFU-4savXs3kN1Rw/view?usp=sharing)  
 **23.04** [Тема: Центнер. Порівняння складених іменованих чисел](https://drive.google.com/file/d/1Cj2oxX9jXStcVvrWrKKhrbr9BwfE52el/view?usp=sharing)  
+**26.04** [Тема: Множення чисел 1 та 0. Множення на 1 та 0. Розв’язування задач із запитанням «На скільки…»](https://drive.google.com/file/d/108BhFAFELRDEIu9Xwa1o8G2sjJgWs9n_/view?usp=sharing)  
 
 ** Інформатика **  
 **11.01** [Тема: Правила безпечної роботи з цифровими ґаджетами](https://drive.google.com/file/d/1imDvg8zWf_m6OUAjHJrFWbh4t2qlk2p0/view?usp=drive_web)  
@@ -3881,6 +3885,8 @@ export default function DistanceLearning() {
 **26.04** [9-А. ІІ група. Тема: Ким я бачу себе у майбутньому](https://drive.google.com/file/d/1VtxbiTFkkhF9oKiYCFQatB3xYIwQwxoQ/view?usp=sharing)  
 **26.04** [9-А. І група. Тема: Ключові слова в тексті й абзаці](https://drive.google.com/file/d/1HQgDYKDxuqn3NPahcdT9HAiGQtNZUhcK/view?usp=sharing)  
 **26.04** [9-Б. Тема: Ключові слова в тексті й абзаці](https://drive.google.com/file/d/1_1LIXCpoPQoTv7p0kKZ6QLH7J8snVFfb/view?usp=sharing)  
+**26.04** [9-А. І група. Тема: Ким я бачу себе у майбутньому](https://drive.google.com/file/d/1zm3a7BPqlEbONmCDRg789GXoYKRRerCB/view?usp=sharing)  
+**26.04** [9-Б. Тема: Ким я бачу себе у майбутньому](https://drive.google.com/file/d/1zm3a7BPqlEbONmCDRg789GXoYKRRerCB/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
