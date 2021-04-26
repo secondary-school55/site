@@ -2481,6 +2481,7 @@ export default function DistanceLearning() {
 **22.04** [5-Б. Тема: Визначні місця світу](https://drive.google.com/file/d/1gfJsiw5IXnFtgXCJ3WE7lsISUA97V_u3/view?usp=sharing)  
 **23.04** [5-Б. Тема: Ми - українці](https://drive.google.com/file/d/1iJHPBL1GZ_xEW_n4W91C5e93_jaBjuB4/view?usp=sharing)  
 **26.04** [5-А. ІІ група. Тема: Подорож містами України](https://drive.google.com/file/d/1nZORyXBSKNgW5fE3_DuTqBprtK6UnkLV/view?usp=sharing)  
+**26.04** [5-А. І група. Тема: Подорож містами України](https://drive.google.com/file/d/1Pyq9_VQkC6XiD9tM4rlkyCeZk9QVGPge/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -3490,6 +3491,7 @@ export default function DistanceLearning() {
 **22.04** [8-А. І група. Тема: Здоровий споcіб життя](https://drive.google.com/file/d/11szvjE0RPM88Mf9sWt8CtAdYRe0_2UlP/view?usp=sharing)  
 **22.04** [8-Б. Тема: Здоровий споcіб життя](https://drive.google.com/file/d/11szvjE0RPM88Mf9sWt8CtAdYRe0_2UlP/view?usp=sharing)  
 **26.04** [8-А. І група. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1yMLKeYpyYP4JG6VJ51dZE775gne7Qgqy/view?usp=sharing)  
+**26.04** [8-А. ІІ група. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1F15rEz4FRagWVKSc_spPdl0RLSktFjJL/view?usp=sharing)  
 **26.04** [8-Б. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1yMLKeYpyYP4JG6VJ51dZE775gne7Qgqy/view?usp=sharing)  
 
 ** Алгебра **  
