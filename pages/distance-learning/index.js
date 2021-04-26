@@ -647,7 +647,8 @@ export default function DistanceLearning() {
 **22.04** [І група. Тема: Розрізняю текст-розповідь і текст-опис](https://drive.google.com/file/d/1NC2WDndY7WPthCnByU2w0XkDpJ9l--WK/view?usp=sharing)  
 **23.04** [ІІ група. Тема: Рорізняю текст-розповідь і текст-опис](https://drive.google.com/file/d/1zT7u6gNGlTwP7RUx9Pst3dUX2HDHSWol/view?usp=sharing)  
 **23.04** [І група. Тема: Розрізняю текст-розповідь і текст-опис](https://drive.google.com/file/d/1Cy3K-IfH_yO6whGgOjeMRQCuT7W_EC0X/view?usp=sharing)  
-**26.04** [Тема: Розвиток зв'язного мовлення. Малюю весняні квіти](https://drive.google.com/file/d/1RvftKxU2jdRTRBwwwHeoc1aZ40Njx8qk/view?usp=sharing)  
+**26.04** [І група. Тема: РЗМ. Малюю весняні квіти](https://drive.google.com/file/d/1e30QzBC3bPQCbL0efBiXpMasf26F8dxH/view?usp=sharing)  
+**26.04** [ІІ група. Тема: Розвиток зв'язного мовлення. Малюю весняні квіти](https://drive.google.com/file/d/1RvftKxU2jdRTRBwwwHeoc1aZ40Njx8qk/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
@@ -719,7 +720,8 @@ export default function DistanceLearning() {
 **20.04** [І група. Тема: Позакласне читання. Суниці для Наталі](https://drive.google.com/file/d/1-GOyk-fCI8sp3WpBYubKcOUyFJyJz-zb/view?usp=sharing)  
 **22.04** [ІІ група. Тема: Веселе слово.Чи легко складати вірші](https://drive.google.com/file/d/1ny19bXsrffIjv4W63pjhOM-sotUyUTG5/view?usp=sharing)  
 **22.04** [І група. Тема: Веселе слово.Чи легко складати вірші](https://drive.google.com/file/d/1ZSl1Okfvh35E9z-QwVb5cfLB4a5Xfnr-/view?usp=sharing)  
-**26.04** [Тема: Фантазуємо і створюємо казку. Ліна Костенко «Вербові сережки»](https://drive.google.com/file/d/1J6hobe98-EECkqEhPe_yk7mD6Icu4jmB/view?usp=sharing)  
+**26.04** [І група. Тема: Фантазуємо і створюємо казку. Ліна Костенко «Вербові сережки»](https://drive.google.com/file/d/181jub9AimJQ6XctmL0W0sxy_9PbD6q-r/view?usp=sharing)  
+**26.04** [ІІ група. Тема: Фантазуємо і створюємо казку. Ліна Костенко «Вербові сережки»](https://drive.google.com/file/d/1J6hobe98-EECkqEhPe_yk7mD6Icu4jmB/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)  
@@ -2337,6 +2339,7 @@ export default function DistanceLearning() {
 **21.04** [5-Б. Тема: Технологія приготування закусочних бутербродів](https://drive.google.com/file/d/1CLoFocL6laTbIglKNjuC8O9gt7DpZs3b/view?usp=sharing)  
 **21.04** [5-Б. Тема: Технологія приготування гарячих бутербродів](https://drive.google.com/file/d/1iqw6uxkgE-tTsjom-X3IxNNkP5TQqhu5/view?usp=sharing)  
 **22.04** [Тема: Складання інструкційної картки «Приготування свого бутерброда »](https://drive.google.com/file/d/1Ojye0ruZCNOHhLksYvAvvlkD3C-skiSx/view?usp=sharing)  
+**26.04** [5-А. Тема: Сервірування стола до сніданку](https://drive.google.com/file/d/1mioGFv-p78aXiX4dkOtczWVRKx-jKMus/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Середовище описання і виконання алгоритмів](https://drive.google.com/file/d/1v4UkLcIBNjYTNAmYwho0KhV6vbkT7CCs/view?usp=sharing)  
@@ -2834,6 +2837,8 @@ export default function DistanceLearning() {
 **19.04** [6-В. Тема: Деревина як конструкційний матеріал. Породи деревини. Прийоми роботи з інструментами та пристосуваннями](https://drive.google.com/file/d/1Alv1NWgVia64qdD2HCMyU0qiMYV6OwoP/view?usp=sharing)  
 **20.04** [6-А,Б. Тема: Пришивання аплікації](https://drive.google.com/file/d/1k4xrVgWueIEwHvqJNyPyurv7Yg9_6hhC/view?usp=sharing)  
 **20.04** [6-А,Б. Тема: Урок узагальнення.Остаточна обробка виробу](https://drive.google.com/file/d/11FAJjDQKttFltq8pdgxNZQ8GqvJH-o4R/view?usp=sharing)  
+**26.04** [6-В. Тема: Виконання технологічних операцій відповідно до обраного виробу та технології його виготовлення обпилювання крайок, шліфування](https://drive.google.com/file/d/1R-BE93xw8NRZlU1eHFb-aO7hZeBDE65d/view?usp=sharing)  
+**26.04** [6-В. Тема: Оздоблення кухонного приладдя](https://drive.google.com/file/d/14LV9FKFOpqcTxd7pCovbOJXKVHe9Yx8v/view?usp=sharing)  
 
 ** Географія **  
 **12.01** [Тема: Кліматична карта. Теплові пояси землі практичне значення вимірювання температури повітря](https://drive.google.com/file/d/1MeFviw1kCIDcwHIRPY2YtcA80_L4Q7pQ/view?usp=sharing)  
@@ -3229,6 +3234,8 @@ export default function DistanceLearning() {
 **19.04** [7-А. Тема: Технологічний процес виготовлення виробу,складання рамки](https://drive.google.com/file/d/1cmI_6La5DMd2tqYbjRb_EC7AJlibMBDI/view?usp=sharing)  
 **23.04** [7-Б. Тема: Технологічний процес оздоблення рамки різьбленням](https://drive.google.com/file/d/1SSCiIc4GdX9lWEpQBdvlRpX_X1_-prpS/view?usp=sharing)  
 **23.04** [7-Б. Тема: Художнє різьблення по дереву](https://drive.google.com/file/d/1xYRtl4M_bJ2pV5RrLVS-zmXdc5PnXcpc/view?usp=sharing)  
+**26.04** [7-А. Тема: Художнє різьблення по дереву](https://drive.google.com/file/d/1R33m6JPKz9gc4T3yZpNzH0GBCfgm7pkw/view?usp=sharing)  
+**26.04** [7-А. Тема: Технологічний процес оздоблення рамки різьбленням](https://drive.google.com/file/d/1hnNQWC4Tj9LAGdIcyJSwMTGkr4SXZjY7/view?usp=sharing)  
 
 ** Обслуговуюча праця **  
 **18.01** [Тема: Блокнот. Технологічний етап проектування виробу. Процес виготовлення основи виробу](https://drive.google.com/file/d/1dm0ngdyFF0cEhVF6-5-5ansZG-2zaQ20/view?usp=sharing)  
