@@ -2315,6 +2315,7 @@ export default function DistanceLearning() {
 **22.04** [5-Б. Тема: Контрольна робота](https://drive.google.com/file/d/1fDsdYpY4D7jAARupyu5VmaRpH2Vf90xz/view?usp=sharing)  
 **23.04** [5-А. Тема: Контроль знань. Земля як середовище існування організмів](https://drive.google.com/file/d/18gD-GEakrCMR8SdaxiX1NrhPTUdojjA6/view?usp=sharing)  
 **26.04** [5-Б. Тема: Людина - частина природи](https://drive.google.com/file/d/16c0bmFxGjoLj54lHLMMXk9TnzjG5WmsM/view?usp=sharing)  
+**27.04** [5-А. Тема: Людина - частина природи](https://drive.google.com/file/d/12g3wUtOcWB8m8OusaBctcIwJBIiqfc_w/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
@@ -2561,6 +2562,8 @@ export default function DistanceLearning() {
 **26.04** [5-А. ІІ група. Тема: Подорож містами України](https://drive.google.com/file/d/1nZORyXBSKNgW5fE3_DuTqBprtK6UnkLV/view?usp=sharing)  
 **26.04** [5-А. І група. Тема: Подорож містами України](https://drive.google.com/file/d/1Pyq9_VQkC6XiD9tM4rlkyCeZk9QVGPge/view?usp=sharing)  
 **27.04** [5-А. ІІ група. Тема: Подорожуючи Україною](https://drive.google.com/file/d/1CRbn-KRWLt6ZMONZ5CaPao4VlpXnGnp7/view?usp=sharing)  
+**27.04** [5-А. І група. Тема: Подорожуючи Україною](https://drive.google.com/file/d/1MJQ7VZk2rBGbWKtDhRUS6siiJass1GY6/view?usp=sharing)  
+**27.04** [5-Б. Тема: Подорож містами України](https://drive.google.com/file/d/10GbYcwcXLzGOtF_IZFytCpaFg06zRB_A/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -2806,6 +2809,7 @@ export default function DistanceLearning() {
 **26.04** [6-Б. Тема: Координатна площина](https://drive.google.com/file/d/1KnJ7ytnnLmoe0aKLJy-vDJ8HCpG48Zv1/view?usp=sharing)  
 **26.04** [6-А,В. Тема: Приклади графіків залежності між величинами](https://drive.google.com/file/d/16yE8AgwVCHeVaunLfkrIXx7uxCT1eX2V/view?usp=sharing)  
 **27.04** [6-А,В. Тема: Приклади графіків залежності між величинами](https://drive.google.com/file/d/1qo1rLFdYvtD3H_fSk8Dz4Yp16YX6P7KH/view?usp=sharing)  
+**27.04** [6-Б. Тема: Координатна площина](https://drive.google.com/file/d/1Y_dMxYRPpY_7dx461XnPkQ8qvchdC0pE/view?usp=sharing)  
 
 ** Українська мова **  
 **04.12** [Тема: Відмінки іменників. Кличний відмінок](https://drive.google.com/file/d/1qknJdLvX6BUZIvZNErt0V8oxq7MI5UO3/view?usp=sharing)  
@@ -3187,6 +3191,7 @@ export default function DistanceLearning() {
 **16.04** [Тема: Практична робота. Визначення форм поведінки тварин](https://drive.google.com/file/d/1dIhwOee3jjjfsBxq9k_LS3TWPFxxNE4-/view?usp=sharing)  
 **20.04** [Тема: Розумова діяльність тварин. Еволюція поведінки](https://drive.google.com/file/d/15iehac93KX8m4sybOaQah_RtGXdovwv0/view?usp=sharing)  
 **23.04** [Тема: Контроль знань. Поведінка тварин](https://drive.google.com/file/d/1qCF4cr_dKPx1TaNBl5AFAOK6vWT7OF5a/view?usp=sharing)  
+**27.04** [Тема: Популяція. екосистеми, чинники середовища](https://drive.google.com/file/d/1qpu1GJy14tI06TDrKGuvE2F0VZsrfly3/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **04.12** [Тема: Показники фізичного розвитку підлітків. Способи покращення фізичної форми](https://drive.google.com/file/d/1RLib8JRvGgB4ChCpFRIzK3r3e9lClYCL/view?usp=sharing)  
@@ -3409,6 +3414,7 @@ export default function DistanceLearning() {
 **14.04** [7-Б. Тема: Односоставные предложения с главным членом в форме сказуемого](https://drive.google.com/file/d/19ojCE1HXCEbK3ORqXG9zvWFZlV7onXxJ/view?usp=sharing)  
 **20.04** [7-А. Тема: Односоставные предложения в форме подлежащего.Контрольное чтение молча](https://drive.google.com/file/d/1Js06SPpmCLFwTiZ0koRZvUhhcEcO_shm/view?usp=sharing)  
 **21.04** [7-Б. Тема: Односоставные предложения. Контрольное чтение молча](https://drive.google.com/file/d/1wioGVITEQuchBQJtkGD2Rxfu_gU71wyg/view?usp=sharing)  
+**27.04** [7-А. Тема: Контрольный диктант](https://drive.google.com/file/d/1y3EA3Lc1BrDSFm_a--gMVmwKmYrJDejD/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="8 клас">
@@ -3596,6 +3602,7 @@ export default function DistanceLearning() {
 **26.04** [8-Б. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1yMLKeYpyYP4JG6VJ51dZE775gne7Qgqy/view?usp=sharing)  
 **27.04** [8-А. І група. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1-9tSbmjMEnYIrN8nzsc-7KG7QGdikAkB/view?usp=sharing)  
 **27.04** [8-Б. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1-9tSbmjMEnYIrN8nzsc-7KG7QGdikAkB/view?usp=sharing)  
+**27.04** [8-А. ІІ група. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1XWUgScQx79oVSdJEIaPTAkVrymq5aJT9/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -4115,6 +4122,7 @@ export default function DistanceLearning() {
 **21.04** [9-А. Тема: Знань з теми. еволюція органічного світу](https://drive.google.com/file/d/1fs-jXRbIe6_dacYnlx52yU7k-tRFJuYY/view?usp=sharing)  
 **21.04** [9-Б. Тема: Прокаріотні організми. Бактерії та археї](https://drive.google.com/file/d/1SKdDhXlAmu_qo-Ag3vjjKMzKW-5_4O_X/view?usp=sharing)  
 **23.04** [9-А. Тема: Контроль знань з теми "Еволюція органічного світу"](https://drive.google.com/file/d/1anpyjhTEsl1RUNL5cuK2Hm-0wTaKll8l/view?usp=sharing)  
+**27.04** [9-А. Тема: Наука про довкілля](https://drive.google.com/file/d/1QbdfaRxCi5H78xzff08TCRajzCO2O5ak/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Усний твір-роздум у публіцистичному стилі мовлення на суспільну тему](https://drive.google.com/file/d/1B1Pj9K4LkO41bylzM2_PTvUpGMqRtovG/view?usp=sharing)  
