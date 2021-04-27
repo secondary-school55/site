@@ -1456,6 +1456,8 @@ export default function DistanceLearning() {
 **13.04** [ІІ група. Тема: Доповідач/доповідачка та презентація. Культура презентування. Слайд-шоу із зображень як вид презентування.](https://drive.google.com/file/d/1OeNAiucQ1RbrVkPPTwRAW3gYcSkbqNGj/view?usp=drive_web)  
 **20.04** [І група. Тема: Середовище створення презентацій](https://drive.google.com/file/d/18b2yQuFfUICBqxsIbx4sBVpQOnoWKIAE/view?usp=drive_web)  
 **20.04** [ІІ група. Тема: Середовище створення презентацій](https://drive.google.com/file/d/1VWibP9Cb6T5hjKNSV67DSRFyh7XJCElS/view?usp=drive_web)  
+**27.04** [І група. Тема: Доповнення презентації текстом, зображеннями, схемами](https://drive.google.com/file/d/1RGg25KkcsZInrtxryjeqxdZ5o1ITCHyz/view?usp=drive_web)  
+**27.04** [ІІ група. Тема: Доповнення презентації текстом, зображеннями, схемами](https://drive.google.com/file/d/1fFQimS-qtx0qVOd-7E49_P19iJyBIZ7D/view?usp=drive_web)  
 `}</Md>
           </Tab>
           <Tab title="3-Б">
@@ -1707,6 +1709,8 @@ export default function DistanceLearning() {
 **13.04** [ІІ група. Тема: Доповідач/доповідачка та презентація. Культура презентування. Слайд-шоу із зображень як вид презентування.](https://drive.google.com/file/d/1OeNAiucQ1RbrVkPPTwRAW3gYcSkbqNGj/view?usp=drive_web)  
 **20.04** [І група. Тема: Середовище створення презентацій](https://drive.google.com/file/d/18b2yQuFfUICBqxsIbx4sBVpQOnoWKIAE/view?usp=drive_web)  
 **20.04** [ІІ група. Тема: Середовище створення презентацій](https://drive.google.com/file/d/1VWibP9Cb6T5hjKNSV67DSRFyh7XJCElS/view?usp=drive_web)  
+**27.04** [І група. Тема: Доповнення презентації текстом, зображеннями, схемами](https://drive.google.com/file/d/1RGg25KkcsZInrtxryjeqxdZ5o1ITCHyz/view?usp=drive_web)  
+**27.04** [ІІ група. Тема: Доповнення презентації текстом, зображеннями, схемами](https://drive.google.com/file/d/1fFQimS-qtx0qVOd-7E49_P19iJyBIZ7D/view?usp=drive_web)  
 
 ** Образотворче мистецтво **  
 **13.01** [Тема: Мандрівка у світ фантастики. Композиція «Політ Карлсона над містом» (гуаш, акварельні фарби чи кольорові олівці й фломастери) або малювання «Фантастичний персонаж»](https://drive.google.com/file/d/1VG1op6Triu328N7wEyEzC_COIP3cxeAl/view?usp=drive_web)  
@@ -3750,6 +3754,8 @@ export default function DistanceLearning() {
 **20.04** [ІІ група. Тема: Створення, відтворення і сприйняття людиною мультимедійних об'єктів. Програмне забезпечення для опрацювання об&#39;єктів мультимедіа](https://drive.google.com/file/d/1TvovEBQWjf9vFObmF3yO0lVA7ZBZA8yN/view?usp=drive_web)  
 **20.04** [І група. Тема: Веб 2.0 і соціальні сервіси. соціальні мережі. Онлайнові спільноти](https://drive.google.com/file/d/1hWcMNpjzTrPORjxiMg14heUDxIybm9GH/view?usp=drive_web)  
 **20.04** [ІІ група. Тема: Веб 2.0 і соціальні сервіси. соціальні мережі. Онлайнові спільноти](https://drive.google.com/file/d/1HDtb968ajSKSVgSifQyl4CN12__G-62C/view?usp=drive_web)  
+**27.04** [І група. Тема: Кодування аудіо та відеоданих. Формати аудіо- та відеофайлів. Створення сценарію відеоролика. Захоплення аудіо і відео, створення аудіо і відеофрагментів.](https://drive.google.com/file/d/1hVNChL70lr4U-kxd48Vibm0BnnKojVO8/view?usp=drive_web)  
+**27.04** [ІІ група. Тема: Кодування аудіо та відеоданих. Формати аудіо- та відеофайлів. Створення сценарію відеоролика. Захоплення аудіо і відео, створення аудіо і відеофрагментів.](https://drive.google.com/file/d/1rAC5dgrYwyMvgNE8gA3CP3aH8Y7ROrSw/view?usp=drive_web)  
 
 ** Мистецтво **  
 **03.12** [Тема: Ідеали й образи Ренесансу](https://drive.google.com/file/d/1biA9w5C0Tq2_npKhtO7uwph7Jpz5Q6-g/view?usp=sharing)  
