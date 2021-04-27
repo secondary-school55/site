@@ -3836,6 +3836,7 @@ export default function DistanceLearning() {
 **15.04** [Тема: Роль хімії](https://drive.google.com/file/d/119eQ59gWa-JHOMjLrx7h9jD5B-52jmJZ/view?usp=sharing)  
 **20.04** [Тема: Характеристика розчинів](https://drive.google.com/file/d/1V-OKrqGJYQ2nm1yI5hkD04lJuGLW0KYc/view?usp=sharing)  
 **22.04** [Тема: Дисоціація електролітів](https://drive.google.com/file/d/1z9c7WKq_zqg3cG_iSHB8pnhQo_i5DuhC/view?usp=sharing)  
+**27.04** [Тема: Реакції йонного обміну](https://drive.google.com/file/d/18WJ4mp05pbq61ZbneTdo-QKUlHDzl6_h/view?usp=sharing)  
 
 ** Правознавство **  
 **03.12** [Тема: Конституційні права і свободи людини і громадянина](https://drive.google.com/file/d/15aef0Tzl_ip_KxMQal1xDjVIK8mWwNyg/view?usp=sharing)  
@@ -4198,6 +4199,7 @@ export default function DistanceLearning() {
 **05.04** [Тема: Школа майбутніх батьків](https://drive.google.com/file/d/1x3LM2UB3iQjQV-q6g800CSso9ZPe0l0W/view?usp=sharing)  
 **12.04** [Тема: ВІЛ(СНІД) проблема людини](https://drive.google.com/file/d/1XhEyENT_vSVaDhE5SEOUp-QRLjYCEKL2/view?usp=sharing)  
 **19.04** [Тема: ВІЛ,СНІД виклик людству](https://drive.google.com/file/d/1kE04RS7cPVNSyctUKKaYHVDX_NhWMJ-H/view?usp=sharing)  
+**26.04** [Тема: Безпека як потреба людини. Рівні, види і заходи безпеки](https://drive.google.com/file/d/1yThOZaSl6SRyuQFpoC1moschmbVtMarD/view?usp=sharing)  
 
 ** Зарубіжна література **  
 **11.01** [Тема: Новаторство М. Ю. Лермонтова в жанрі роману](https://drive.google.com/file/d/1O7MBHYMIcNsH9Y8VbzFlsfs0J1K0xx64/view?usp=sharing)  
@@ -4450,6 +4452,7 @@ export default function DistanceLearning() {
 **21.04** [Хлопці. Тема: Надзвичайні ситуації воєнного характеру від дії зброї масового ураження хімічна та біологічна зброя. Особливості вражаючої дії. Засоби індивідуального захисту органів дихання](https://drive.google.com/file/d/17OUUjlGdFcg-5yWEMc_vas43OwJDU947/view?usp=sharing)  
 **21.04** [Дівчата. Тема: Надзвичайні ситуації, які характерні для регіону. Потенційно небезпечні об’єкти міста. Попередження виникнення надзвичайних ситуацій](https://drive.google.com/file/d/1DEtImYehPTWb6G_UwjTBsBj5JiZOo9hy/view?usp=sharing)  
 **26.04** [Хлопці. Тема: Надзвичайні ситуації соціально-політичного характеру. Сучасний терорізм, як загроза людству XXI століття. Заходи,щодо попередження надзвичайних ситуацій терористичного походження](https://drive.google.com/file/d/1sqkM0cFG6W9YE2cc3GctMpQr6lNL6otZ/view?usp=sharing)  
+**26.04** [Дівчата. Тема: Соціальні надзвичайні ситуації. Тероризм](https://drive.google.com/file/d/1TLtn2sTQD6pTnJ4kF6nM9RFhzF1oNWij/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Насичені одноатомні спирти](https://drive.google.com/file/d/1IfJ4cpMktmfYg7JKuCp4G7s1HGHH3NaY/view?usp=sharing)  
@@ -4687,6 +4690,8 @@ export default function DistanceLearning() {
 **13.04** [Тема: Тренувальна контрольна робота](https://drive.google.com/file/d/1KavJVpOq8eYQ4DsJJd4qLI8z_jKVEu8v/view?usp=sharing)  
 **20.04** [Тема: Контрольна робота](https://drive.google.com/file/d/1cvCYAhH9Th7NHTr7aNiBUPXACknJSxl7/view?usp=sharing)  
 **20.04** [Тема: Загальна характеристика металів](https://drive.google.com/file/d/1co9GMzZXFsQNjoebnQsPSUDuxlHBdXTL/view?usp=sharing)  
+**27.04** [Тема: Лужні метали](https://drive.google.com/file/d/1aFmXAKttJ50_gcy7etHkLn6oOmULmZ4B/view?usp=sharing)  
+**27.04** [Тема: Застосування металів і сплавів](https://drive.google.com/file/d/1o2AsdQ9T273hhlf3mhYmxuA57kJSpKuc/view?usp=sharing)  
 
 ** Алгебра **  
 **11.01** [Тема: Первісна та її властивості](https://drive.google.com/file/d/1L324DYGv9LNfmQRPdS-EqyuIWCETnm6O/view?usp=sharing)  
@@ -4709,6 +4714,7 @@ export default function DistanceLearning() {
 **12.04** [Тема: Розшук уражених та способи рятування людей із завалених споруд](https://drive.google.com/file/d/1wqcQbqVpBXdj9SVXEQ2Db-mUyUZWdFD8/view?usp=sharing)  
 **14.04** [Тема: Медична допомога в разі порушення здоровя людини](https://drive.google.com/file/d/1iflG77_L9YfCGG-IqIaJE7JXPibCr0Dc/view?usp=sharing)  
 **19.04** [Тема: Гострі захворювання органів травлення](https://drive.google.com/file/d/1CXawwOFGv1i1gwuuZsBfB7947mgzpLQt/view?usp=sharing)  
+**26.04** [Тема: Надання екстреної психологічної допомоги (самодопомоги) під час перебування в екстремальних ситуаціях](https://drive.google.com/file/d/1xbuCe1DN0rxybROxmQFAo04KChseqX0n/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Комплекс ранкової гігієнічної гімнастики](https://drive.google.com/file/d/1jMHOn2adK6L881jeXPQpOB7TgJflIDGt/view?usp=sharing)  
