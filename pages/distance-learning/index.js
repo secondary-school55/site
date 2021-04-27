@@ -743,7 +743,7 @@ export default function DistanceLearning() {
 **26.04** [І група. Тема: Фантазуємо і створюємо казку. Ліна Костенко «Вербові сережки»](https://drive.google.com/file/d/181jub9AimJQ6XctmL0W0sxy_9PbD6q-r/view?usp=sharing)  
 **26.04** [ІІ група. Тема: Фантазуємо і створюємо казку. Ліна Костенко «Вербові сережки»](https://drive.google.com/file/d/1J6hobe98-EECkqEhPe_yk7mD6Icu4jmB/view?usp=sharing)  
 **27.04** [ІІ група. Тема: Конкурс дитячих авторських казок](https://drive.google.com/file/d/1tAjoAZDr29PKco9WDG98VBIQ0h-qqT9I/view?usp=sharing)  
-**27.04** [І група. Тема: Фантазуємо і створюємо казку. Ліна Костенко «Вербові сережки»](https://drive.google.com/file/d/1hHAWlmamqssvMdwIGIltZ3slhyaWYzqp/view?usp=sharing)  
+**27.04** [І група. Тема: Фантазуємо і створюємо казку. Ліна Костенко «Вербові сережки». Конкурс дитячих авторських казок](https://drive.google.com/file/d/1hHAWlmamqssvMdwIGIltZ3slhyaWYzqp/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)  
@@ -2482,6 +2482,8 @@ export default function DistanceLearning() {
 **23.04** [5-Б. Тема: Середнє арифметичне. Середнє значення величини](https://drive.google.com/file/d/1BPRvNClCLPHmptkTrt142tchyBCp-voW/view?usp=sharing)  
 **26.04** [5-Б. Тема: Розв’язування вправ. Самостійна робота](https://drive.google.com/file/d/12QBxGtd0KKH-Yix47nRMOrYsPVSlGRRa/view?usp=sharing)  
 **26.04** [5-А. Тема: Розв’язування вправ. Самостійна робота](https://drive.google.com/file/d/1-eCufEk49nOGLMXTzFcfh81UWcq8Rbot/view?usp=sharing)  
+**27.04** [5-А. Тема: Розв’язання задач і вправ](https://drive.google.com/file/d/10NDTCAZ2pz_5yKQ7holg3s-nEkLBmcK9/view?usp=sharing)  
+**27.04** [5-Б. Тема: Розв’язання задач і вправ](https://drive.google.com/file/d/1ql1R57bAqilnfXWDPqDTDvHtDZqz-lbc/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Принципи й методи загартовування. Рухова активність](https://drive.google.com/file/d/1V1D_tWdTDdtnDAvlQCNpFvMNngl0j9gZ/view?usp=sharing)  
@@ -2558,6 +2560,7 @@ export default function DistanceLearning() {
 **23.04** [5-Б. Тема: Ми - українці](https://drive.google.com/file/d/1iJHPBL1GZ_xEW_n4W91C5e93_jaBjuB4/view?usp=sharing)  
 **26.04** [5-А. ІІ група. Тема: Подорож містами України](https://drive.google.com/file/d/1nZORyXBSKNgW5fE3_DuTqBprtK6UnkLV/view?usp=sharing)  
 **26.04** [5-А. І група. Тема: Подорож містами України](https://drive.google.com/file/d/1Pyq9_VQkC6XiD9tM4rlkyCeZk9QVGPge/view?usp=sharing)  
+**27.04** [5-А. ІІ група. Тема: Подорожуючи Україною](https://drive.google.com/file/d/1CRbn-KRWLt6ZMONZ5CaPao4VlpXnGnp7/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -3145,6 +3148,8 @@ export default function DistanceLearning() {
 **26.04** [7-А. ІІ група. Тема: Ласкаво просимо до Києва](https://drive.google.com/file/d/1us9FWEtRS0Sm3BNzHojpUUJW4EV2WytI/view?usp=sharing)  
 **26.04** [7-А. І група. Тема: Ласкаво просимо до Києва](https://drive.google.com/file/d/1QRlD381X72xMpt3dlkvoB6lDLGAcodyt/view?usp=sharing)  
 **26.04** [7-А. І група. Презентація. Тема: Ласкаво просимо до Києва](https://drive.google.com/file/d/1-MLWZEdIhkVtiTlG_O6p7B0wVBJaPnQd/view?usp=sharing)  
+**27.04** [7-Б. Тема: Ласкаво просимо до Києва](https://drive.google.com/file/d/1HAKUNLkN6V9R43JSrxvoRsQQNepc-VAJ/view?usp=sharing)  
+**27.04** [7-Б. Презентація. Тема: Ласкаво просимо до Києва](https://drive.google.com/file/d/11Bu7P4Bb2MluPMBgu9e5FbEQ1T2rrgn4/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Створення моделей для розв’язування задач](https://drive.google.com/file/d/129xZiYVeZFgltMSzdCWdQEco6wnXtbuw/view?usp=drive_web)  
@@ -3589,6 +3594,8 @@ export default function DistanceLearning() {
 **26.04** [8-А. І група. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1yMLKeYpyYP4JG6VJ51dZE775gne7Qgqy/view?usp=sharing)  
 **26.04** [8-А. ІІ група. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1F15rEz4FRagWVKSc_spPdl0RLSktFjJL/view?usp=sharing)  
 **26.04** [8-Б. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1yMLKeYpyYP4JG6VJ51dZE775gne7Qgqy/view?usp=sharing)  
+**27.04** [8-А. І група. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1-9tSbmjMEnYIrN8nzsc-7KG7QGdikAkB/view?usp=sharing)  
+**27.04** [8-Б. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1-9tSbmjMEnYIrN8nzsc-7KG7QGdikAkB/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
