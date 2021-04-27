@@ -3616,6 +3616,7 @@ export default function DistanceLearning() {
 **21.04** [8-А. Тема: Розв'язування задач за допомогою квадратних рівнянь](https://drive.google.com/file/d/1NYE3BpK6O8NFzd3yFh4nUgZ1xYPgtSuA/view?usp=sharing)  
 **21.04** [8-Б. Тема: Підсумковий урок з теми Квадратний тричлен](https://drive.google.com/file/d/1Yemv8kPU5r5gIf4VtLj-qXiOuFBwJ1R5/view?usp=sharing)  
 **22.04** [8-А. Тема: Розв'язування задач і вправ](https://drive.google.com/file/d/184101wTkg4Fau9bXwJ42nu7N3XZPVHii/view?usp=sharing)  
+**27.04** [8-Б. Тема: Повторення. Додавання і віднімання дробів з різними знаменниками](https://drive.google.com/file/d/17h4oBwt5ULTfPqbsFmcQkEnCfSjh5sbY/view?usp=sharing)  
 
 ** Географія **  
 **04.12** [Тема: Вплив погодно-кліматичних умов на здоров'я і господарську діяльність людини. Охорона атмосферного повітря. Кліматичні особливості своєї місцевості](https://drive.google.com/file/d/1vYAwfOrYGHF59NtP26e4W9X-6BdlSoxY/view?usp=sharing)
@@ -3719,6 +3720,7 @@ export default function DistanceLearning() {
 **20.04** [8-Б. Тема: Підготовка до контрольної роботи](https://drive.google.com/file/d/1oUoIEZ92ZHpQq1GXvuvrQ-9e2SLmWIgI/view?usp=sharing)  
 **22.04** [8-Б. Тема: Підсумковий урок з теми Многокутники. Площі многокутників](https://drive.google.com/file/d/1CbkX-5tTXtez5mnvY6phTT9_YCL2gA5f/view?usp=sharing)  
 **27.04** [8-А. Тема: Подібність трикутників](https://drive.google.com/file/d/1zVsgtolCAytN-oJbPSU9vQ0UmUWBziDY/view?usp=sharing)  
+**27.04** [8-Б. Тема: Повторення. Паралелограм. Прямокутник. Ромб](https://drive.google.com/file/d/1Xy6ZqB_GV6fX5HtjWckcVPVQ-pzpQOW1/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Логічні вирази. Оператори розгалуження. Вкладені розгалуження](https://drive.google.com/file/d/1UIkiDcQ0uWpgiOSN8HPQe0On15gl7hh0/view?usp=sharing)  
@@ -4158,6 +4160,7 @@ export default function DistanceLearning() {
 **16.04** [Тема: Закон збереження імпульсу](https://drive.google.com/file/d/1D4rx3hUilqv8HaK9ZOyUjyXGPud3eO0T/view?usp=sharing)  
 **20.04** [Тема: Реактивний рух](https://drive.google.com/file/d/14q0Fqxp_zmWywa5T7tsExyyBvy0fy-6J/view?usp=sharing)  
 **23.04** [Тема: Закон збереження енергії](https://drive.google.com/file/d/1EfOsvr9Ei5vIrXAK_CukC2Km_AbXTHOw/view?usp=sharing)  
+**27.04** [Тема: Збереження енергії в механічних процесах](https://drive.google.com/file/d/1Ep7dRy-MX3UkoKRTbSk8vH8o8Bfve_9I/view?usp=sharing)  
 
 ** Мистецтво **  
 **04.12** [Тема: Сюрреалізм](https://drive.google.com/file/d/1NifrDQX_ktjFsE6qmEyUdO5CkcjpReOn/view?usp=sharing)  
@@ -4191,6 +4194,7 @@ export default function DistanceLearning() {
 **22.04** [9-А. Тема: Підсумковий урок з теми Основи комбінаторики](https://drive.google.com/file/d/1IJ-pyhQXRVD3uvPiH9PRvi2LTcMgY8Lh/view?usp=sharing)  
 **23.04** [9-Б. Тема: Підсумковий урок з теми Основи комбінаторики](https://drive.google.com/file/d/1SJx-mMTjXOPmkEDnq_LzFvJtiwgW3M1C/view?usp=sharing)  
 **26.04** [9-Б. Тема: Повторення. Нерівності](https://drive.google.com/file/d/1pmBcmYgFM7BX2bKnE4itv6V0HX64p51H/view?usp=sharing)  
+**27.04** [9-А. Тема: Повторення. Нерівності](https://drive.google.com/file/d/1mBtHgq0J-SZN0Feyga-WjSsC8GY2uXtF/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
@@ -4330,6 +4334,7 @@ export default function DistanceLearning() {
 **15.04** [Тема: Перший закон термодинаміки](https://drive.google.com/file/d/1k9lxLTseIjuDrng9qbpydZNH8J7BanXS/view?usp=sharing)  
 **20.04** [Тема: Теплові машини](https://drive.google.com/file/d/1s8ehz8Vid-pOebSE2IJ3JFt9DeEeFo-E/view?usp=sharing)  
 **22.04** [Тема: Повторення](https://drive.google.com/file/d/1R-_b3W0Mh8OizMA7mff47S3ZV1tchMJt/view?usp=sharing)  
+**27.04** [Тема: Контрольна робота](https://drive.google.com/file/d/1d2Gt-LCWS0PUFn75PhP8r1V4c9tcIdtz/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)  
@@ -4742,6 +4747,7 @@ export default function DistanceLearning() {
 **12.01** [Тема: Об'єм піраміди](https://drive.google.com/file/d/1UWQ8LaxxQqgKUAnUq2pLPtpH5B30dHy6/view?usp=sharing)  
 **06.04** [Тема: Підготовка до ЗНО. Повторенняя теми Трикутники](https://drive.google.com/file/d/1f23FR-yiCqZNnOWCma2HRqsu4zoSusEe/view?usp=sharing)  
 **13.04** [Тема: Пiдготовка до ЗНО. Тема трикутники](https://drive.google.com/file/d/1JuC35c8_k7RWqzVQJ1bfzZj8StWbuspS/view?usp=sharing)  
+**27.04** [Тема: Повторення. Чотирикутник. Многокутники](https://drive.google.com/file/d/1sr0HeHuiZogIZsnsQOjil1jJlc86zM_u/view?usp=sharing)  
 
 ** Географія **  
 **13.01** [Тема: Природні зони](https://drive.google.com/file/d/1PyrmX2ocO_VPPzR6-2RqG18M9pkSWBlH/view?usp=sharing)  
