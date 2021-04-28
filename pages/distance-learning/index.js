@@ -1488,7 +1488,7 @@ export default function DistanceLearning() {
 **07.04** [Тема: Виготовлення кеглів з пляшок](https://drive.google.com/file/d/1gG0etCbvV_gsGBxojM6ZD01aqg3rZ47W/view?usp=sharing)  
 **14.04** [Тема: Виготовлення кеглів з пляшок](https://drive.google.com/file/d/1dGYBu3y_z-LrDAXO3geLZZOQ9wU56hBq/view?usp=sharing)  
 **21.04** [Тема: Виготовлення чашки з пластичного матеріалу](https://drive.google.com/file/d/1ALVYMFjtrtRSuKLa7tltEPfXCKwxZCoS/view?usp=sharing)  
-**28.04** [Тема: Великодні писанки. Ознайомлення з писанкою – зернівкою. Виготовлення писанки – зернівки або іншого варіанта оздоблення поверхні яйця](https://drive.google.com/file/d/1oRc2ODriHHQgDrKSd-wSHkEY2SKqUYB2/view?usp=sharing)  
+**28.04** [Тема: Великодні писанки. Ознайомлення з писанкою – зернівкою. Виготовлення писанки – зернівки або іншого варіанта оздоблення поверхні яйця](https://drive.google.com/file/d/1t_hMcQ-I3bbc6NhKkZaP3ilEvyBTgHLi/view?usp=sharing)  
 
 ** Інформатика **  
 **12.01** [Тема: Ключові слова для пошуку](https://drive.google.com/file/d/1QlGE5KvyZa31pzE4sfqWeFZfbYDxUTQE/view?usp=drive_web)  
