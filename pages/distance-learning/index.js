@@ -3345,6 +3345,7 @@ export default function DistanceLearning() {
 **22.04** [7-А. Харенко Ю. А. І група. Тема: Контрольний докладний письмовий переказ тексту-роздуму дискусійного характеру у публіцистичному стилі](https://drive.google.com/file/d/1XAcnE46ggU7d4Hh2VALF5mCO_oXckNaY/view?usp=sharing)  
 **26.04** [7-А. Харенко Ю. А. І група. Тема: Правопис часток не і ні з різними частинами мови](https://drive.google.com/file/d/1WbBh7a4Cto0WKb7IIgXEjTe9tgTWAxdv/view?usp=sharing)  
 **26.04** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Докладний усний переказ тексту публіцистичного стилю з елементами роздуму](https://drive.google.com/file/d/1XpVT21yYVTfG5RFwGwV6rQcQAbjX-0hA/view?usp=sharing)  
+**28.04** [Тема: ](https://drive.google.com/file/d/16G4ZtC_LVlLlacJPd_E4Ciki4l3-upl0/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
