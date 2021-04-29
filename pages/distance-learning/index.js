@@ -2514,6 +2514,7 @@ export default function DistanceLearning() {
 **28.04** [5-А. І група. Тема: Пряма мова. Діалог](https://drive.google.com/file/d/1P8GYWIHE3aQPA2rq3dL7hM5pDIUztxRM/view?usp=sharing)  
 **29.04** [5-Б. Тема: Пряма мова Діалог](https://drive.google.com/file/d/15MvoRyPVYtD780Xkh1J5VkQloU5NZ4OP/view?usp=sharing)  
 **29.04** [5-А. ІІ група. Тема: Пряма мова Діалог](https://drive.google.com/file/d/1mjD2zP3ajYMRnpZ94HkX7CGUJVhkeCsm/view?usp=sharing)  
+**29.04** [5-А. І група. Тема: Пряма мова. Діалог. Тире при діалозі](https://drive.google.com/file/d/1xGOEGau1Ul8-FmTPNXUGEoCgg4mvO3s_/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -2845,6 +2846,7 @@ export default function DistanceLearning() {
 **23.04** [6-В. Тема: Письмовий твір «Безсмертя і добро, вічність і краса –основа життя людини на землі»(за вивченими творами)](https://drive.google.com/file/d/1CsuLSwQZVi--jR3__toWHfFmLrV3Z5pg/view?usp=sharing)  
 **27.04** [6-А,В. Тема: Гумористичне і сатиричне зображення. Жанрова різноманітність творів](https://drive.google.com/file/d/11fDJHnJXKOBP92P9z-UKaz0Gn1sdWK60/view?usp=sharing)  
 **28.04** [6-Б. Тема: Гумористичне і сатиричне зображення. Жанрова різноманітність творів](https://drive.google.com/file/d/1xHQM1evXF1oApFgtfGwGEqWmC5trS-SX/view?usp=sharing)  
+**29.04** [6-А,Б. Тема: Муха і Бджола. Зневага до надокучливих, ледачих людей, що живуть за рахунок інших. Викриття дурості і пихатості в байці Жаба і Віл.](https://drive.google.com/file/d/1W9uzav1_Y8Qjtk5FnONeobX00rSd2oMr/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/14u2a-Fbfs2UVhKlYPdZQYEyak9uKZs1T/view?usp=sharing)  
@@ -3427,6 +3429,7 @@ export default function DistanceLearning() {
 **28.04** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Написання частки НЕ з різними частинами мови](https://drive.google.com/file/d/16G4ZtC_LVlLlacJPd_E4Ciki4l3-upl0/view?usp=sharing)  
 **29.04** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Написання частки НЕ з різними частинами мови](https://drive.google.com/file/d/1DmSW4MPdy-uMxFqCU6Br5-W6Pa81hWBz/view?usp=sharing)  
 **29.04** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Правопис часток не і ні з різними частинами мови](https://drive.google.com/file/d/1hUsHIpwtLMOPwEAgiBsSyAuffDutuYhz/view?usp=sharing)  
+**29.04** [7-А. Харенко Ю. А. І група. Тема: Написання часток -бо, -но, -то, -от, -таки](https://drive.google.com/file/d/1n2BFM1ElWXVsMyY328jikAZw-FNcBM2A/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -5074,6 +5077,7 @@ export default function DistanceLearning() {
 **08.04** [Тема: Ф. Дюрренматт](https://drive.google.com/file/d/10BntL9Au_AToQCnTeWsP1fxvI4tvwNih/view?usp=sharing)  
 **15.04** [Тема: Постмодернізм](https://drive.google.com/file/d/1rgPxlBpBkbrpjdYdaORYCNFNTf3BGZ0P/view?usp=sharing)  
 **22.04** [Тема: М.Павич. Скляний равлик](https://drive.google.com/file/d/1_TcWk3jMRnLfPueEMjHYegNr4QjtSXkH/view?usp=sharing)  
+**29.04** [Тема: Сучасна література](https://drive.google.com/file/d/1zgTp-ZPoPmQa5-x9orD-u3XktsPEPNp8/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="Онлайн уроки">
