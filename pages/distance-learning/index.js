@@ -2444,6 +2444,7 @@ export default function DistanceLearning() {
 **23.04** [5-А. Тема: Контроль знань. Земля як середовище існування організмів](https://drive.google.com/file/d/18gD-GEakrCMR8SdaxiX1NrhPTUdojjA6/view?usp=sharing)  
 **26.04** [5-Б. Тема: Людина - частина природи](https://drive.google.com/file/d/16c0bmFxGjoLj54lHLMMXk9TnzjG5WmsM/view?usp=sharing)  
 **27.04** [5-А. Тема: Людина - частина природи](https://drive.google.com/file/d/12g3wUtOcWB8m8OusaBctcIwJBIiqfc_w/view?usp=sharing)  
+**29.04** [5-Б. Тема: Екологічні проблеми та їх розвязання](https://drive.google.com/file/d/1tTGuo0xdmCjzUWO5eZLtTEeLNHCQG707/view?usp=sharing)  
 
 ** Українська мова **  
 **03.12** [5-А. Тема: Склад. Наголос. Орфоепічний словник і словник наголосів](https://drive.google.com/file/d/11q7FSrqVxan8Y0BJ1_Xj9DnInzEiyFwU/view?usp=sharing)  
@@ -2882,6 +2883,7 @@ export default function DistanceLearning() {
 **26.04** [6-Б. І група. Тема: Планування представлення презентації та створення презентації](https://drive.google.com/file/d/1SdKCjPZQHHmVilFvHE19wrCJ4_--zVYT/view?usp=sharing)  
 **26.04** [6-Б. ІІ група. Тема: Планування представлення презентації та створення презентації](https://drive.google.com/file/d/1I2SfcN2gKMgkZ9uK49ifbujLQJ1Mwmwi/view?usp=drive_web)  
 **29.04** [6-А. ІІ група. Тема: Планування представлення презентації та створення презентації](https://drive.google.com/file/d/1I2SfcN2gKMgkZ9uK49ifbujLQJ1Mwmwi/view?usp=drive_web)  
+**29.04** [6-А. І група. Тема: Ефекти анімації в презентаціях](https://drive.google.com/file/d/1tPKBArhW3t1wdD3V18wPc-aCQ4hOfqVc/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -3209,6 +3211,7 @@ export default function DistanceLearning() {
 **19.04** [Тема: Контрольна робота](https://drive.google.com/file/d/1EdmhwWj9qqAa_XpGkF9kuEZ1Vw7ln0p3/view?usp=sharing)  
 **22.04** [Тема: Механічна робота, потужність](https://drive.google.com/file/d/13_BS5z7J0ggbhx5IxAbKd-64C5Qw8q36/view?usp=sharing)  
 **26.04** [Тема: Механічна енергія](https://drive.google.com/file/d/13eIOSSD2dnVwloAc1gmGOCiKVNdlfG5P/view?usp=sharing)  
+**29.04** [7-Б. Тема: Прості механізми](https://drive.google.com/file/d/1cJCrsJWk6w_DfnFEGfVPUXDkU1-YHIHX/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)  
@@ -3799,6 +3802,7 @@ export default function DistanceLearning() {
 **27.04** [8-А. І група. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1-9tSbmjMEnYIrN8nzsc-7KG7QGdikAkB/view?usp=sharing)  
 **27.04** [8-Б. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1-9tSbmjMEnYIrN8nzsc-7KG7QGdikAkB/view?usp=sharing)  
 **27.04** [8-А. ІІ група. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1XWUgScQx79oVSdJEIaPTAkVrymq5aJT9/view?usp=sharing)  
+**29.04** [8-А. ІІ група. Тема: Улюблені радіопрограми для підлітків](https://drive.google.com/file/d/1dhVcyBPVth7G3GhUxQVamiZz4GbQIzrS/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -3938,6 +3942,7 @@ export default function DistanceLearning() {
 **22.04** [8-Б. Тема: Підсумковий урок з теми Многокутники. Площі многокутників](https://drive.google.com/file/d/1CbkX-5tTXtez5mnvY6phTT9_YCL2gA5f/view?usp=sharing)  
 **27.04** [8-А. Тема: Подібність трикутників](https://drive.google.com/file/d/1zVsgtolCAytN-oJbPSU9vQ0UmUWBziDY/view?usp=sharing)  
 **27.04** [8-Б. Тема: Повторення. Паралелограм. Прямокутник. Ромб](https://drive.google.com/file/d/1Xy6ZqB_GV6fX5HtjWckcVPVQ-pzpQOW1/view?usp=sharing)  
+**29.04** [8-Б. Тема: Повторення Вписані та описані кути. Теорема Фалеса](https://drive.google.com/file/d/1BBZfVsQYGE302MyWpyW4gxOvo0CI1Zg_/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Логічні вирази. Оператори розгалуження. Вкладені розгалуження](https://drive.google.com/file/d/1UIkiDcQ0uWpgiOSN8HPQe0On15gl7hh0/view?usp=sharing)  
@@ -4444,6 +4449,7 @@ export default function DistanceLearning() {
 **23.04** [9-Б. Тема: Підсумковий урок з теми Основи комбінаторики](https://drive.google.com/file/d/1SJx-mMTjXOPmkEDnq_LzFvJtiwgW3M1C/view?usp=sharing)  
 **26.04** [9-Б. Тема: Повторення. Нерівності](https://drive.google.com/file/d/1pmBcmYgFM7BX2bKnE4itv6V0HX64p51H/view?usp=sharing)  
 **27.04** [9-А. Тема: Повторення. Нерівності](https://drive.google.com/file/d/1mBtHgq0J-SZN0Feyga-WjSsC8GY2uXtF/view?usp=sharing)  
+**29.04** [9-А. Тема: Повторення. Квадратична функція](https://drive.google.com/file/d/1JCx2CdqWQSCaLkRjpdQUN0yU3AGY7Pq7/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
@@ -4590,6 +4596,7 @@ export default function DistanceLearning() {
 **20.04** [Тема: Теплові машини](https://drive.google.com/file/d/1s8ehz8Vid-pOebSE2IJ3JFt9DeEeFo-E/view?usp=sharing)  
 **22.04** [Тема: Повторення](https://drive.google.com/file/d/1R-_b3W0Mh8OizMA7mff47S3ZV1tchMJt/view?usp=sharing)  
 **27.04** [Тема: Контрольна робота](https://drive.google.com/file/d/1d2Gt-LCWS0PUFn75PhP8r1V4c9tcIdtz/view?usp=sharing)  
+**29.04** [Тема: Електричне поле](https://drive.google.com/file/d/1lWCM7QSI5cuu9Sm8MurQVg-nNcqLALqf/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Введення і редагування даних різних типів. Впорядкування, пошук і фільтрування даних. Робота з запитами на вибірку](https://drive.google.com/file/d/1qwSHNz8AwKcfXYKGDlvibJ_amV3Qd4KE/view?usp=drive_web)  
@@ -4982,6 +4989,7 @@ export default function DistanceLearning() {
 **12.04** [Тема: Повторення. Раціональні числа. Відношення. Пропорції. Відсотки. Степінь з натуральним і цілим показником](https://drive.google.com/file/d/1FTiu8Tkbu352kv3HFrq9iG6i3TSqorsc/view?usp=sharing)  
 **15.04** [Тема: Повторення. Підготовка до ЗНО](https://drive.google.com/file/d/1-9ATP5Ha5M87hwbsVM6F20qBx2Btovdr/view?usp=sharing)  
 **26.04** [Тема: Повторення. Підготовка до ЗНО. Логарифми](https://drive.google.com/file/d/1e3aSqdSK3g78gAq_Oj2sR_fsVIxGaD_2/view?usp=sharing)  
+**29.04** [Тема: Повторення. Підготовка до ЗНО. Тригонометричні функції](https://drive.google.com/file/d/18HGzcSP_6TwrC2hkqQVCHJWXakDLCDoj/view?usp=sharing)  
 
 ** Захист України **  
 **11.01** [Тема: Повний огляд пораненого, зупинка всіх інших видів кровотеч](https://drive.google.com/file/d/1vGeJ4yYdwbxW2fG2x-JbPlzplwwwZNlL/view?usp=sharing)  
