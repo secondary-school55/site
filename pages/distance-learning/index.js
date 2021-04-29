@@ -3803,6 +3803,8 @@ export default function DistanceLearning() {
 **27.04** [8-Б. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1-9tSbmjMEnYIrN8nzsc-7KG7QGdikAkB/view?usp=sharing)  
 **27.04** [8-А. ІІ група. Тема: Спорт у житті молоді](https://drive.google.com/file/d/1XWUgScQx79oVSdJEIaPTAkVrymq5aJT9/view?usp=sharing)  
 **29.04** [8-А. ІІ група. Тема: Улюблені радіопрограми для підлітків](https://drive.google.com/file/d/1dhVcyBPVth7G3GhUxQVamiZz4GbQIzrS/view?usp=sharing)  
+**29.04** [8-А. І група. Тема: Улюблені радіопрограми для підлітків](https://drive.google.com/file/d/13teyplC72hKc3a65nfwkP43u8Fzcblzp/view?usp=sharing)  
+**29.04** [8-Б. Тема: Улюблені радіопрограми для підлітків](https://drive.google.com/file/d/13teyplC72hKc3a65nfwkP43u8Fzcblzp/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -4230,6 +4232,7 @@ export default function DistanceLearning() {
 **28.04** [9-А. І група. Тема: Робота для підлітків улітку](https://drive.google.com/file/d/1ejDAD6ZtFCPn6-2RK5mpUrQbn-fxr8cF/view?usp=sharing)  
 **28.04** [9-Б. Тема: Робота для підлітків улітку](https://drive.google.com/file/d/1ejDAD6ZtFCPn6-2RK5mpUrQbn-fxr8cF/view?usp=sharing)  
 **29.04** [9-А. Тема: Фактори впливу на вибір професії](https://drive.google.com/file/d/1yNLrjc4VCzTBymj_KT3Cc80onO4Gpq7P/view?usp=sharing)  
+**29.04** [9-А. Тема: Фактори впливу на вибір професії](https://drive.google.com/file/d/1XY4g36rexhAYmSKHfUeHKCHeieU0zf-H/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
