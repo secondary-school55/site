@@ -1467,6 +1467,8 @@ export default function DistanceLearning() {
 **28.04** [ІІ група. Аудіозапис. Тема: Подивись,як багато атракціонів](https://drive.google.com/file/d/1C61tyMJhWOuKoMFsVZHjzleVJ5eA37qq/view?usp=sharing)  
 **30.04** [ІІ група. Тема: На яку вечірку ти збираєшся піти](https://drive.google.com/file/d/1o7pJW6nELcExQqRNGDL7r5W44D0Sw8NY/view?usp=sharing)  
 **30.04** [ІІ група. Аудіозапис. Тема: На яку вечірку ти збираєшся піти](https://drive.google.com/file/d/1WH4FqzZeRZkxocWM3jf9RggJqXbJ7I_5/view?usp=sharing)  
+**30.04** [І група. Тема: На яку вечірку ти збираєшся піти](https://drive.google.com/file/d/1xQtfYRYlarUZaHDSJ3To3Xl0jv6v9Y4Q/view?usp=sharing)  
+**30.04** [І група. Аудіозапис. Тема: На яку вечірку ти збираєшся піти](https://drive.google.com/file/d/1tSw381-vgEhxJjFjXgNzMSDJWfIoo1C4/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
@@ -1676,6 +1678,7 @@ export default function DistanceLearning() {
 **29.04** [І група. Тема: Ознайомлення з будовою тексту-міркування. Складання тексту-міркування за поданим твердженням і висновком. Написання тексту про власний вибір з обгрунтуванням своєї думки](https://drive.google.com/file/d/1ASoh926SKoWrSUG6x6Pe1Spork2XtRSP/view?usp=sharing)  
 **29.04** [І група. Презентація. Тема: Ознайомлення з будовою тексту-міркування. Складання тексту-міркування за поданим твердженням і висновком. Написання тексту про власний вибір з обгрунтуванням своєї думки](https://drive.google.com/file/d/1nimks-wzdLuYrRMJ5y8cmbhR7rHfUjo_/view?usp=sharing)  
 **30.04** [І група. Тема: Складання тексту міркування за поданими твердженням і висновком. Написання тексту про власний вибір з обгрунтуванням своєї думки](https://drive.google.com/file/d/1dJFrDz9OpEuReJrw3jpZk43miD27NOfB/view?usp=sharing)  
+**30.04** [ІІ група. Тема: Складання тексту міркування за поданими твердженням і висновком. Написання тексту про власний вибір з обгрунтуванням своєї думки](https://drive.google.com/file/d/1ebgRgXLDmLZOjXguZRCj6sgPyOG5QiQx/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
@@ -1826,6 +1829,7 @@ export default function DistanceLearning() {
 **28.04** [І група. Тема: Подивись як багато атракціонів](https://drive.google.com/file/d/1YHk4IKyQvku9O0udO6jZ-gFj-_Kw9Hk5/view?usp=sharing)  
 **28.04** [ІІ група. Тема: Подивись як багато атракціонів](https://drive.google.com/file/d/1eWLTTKght1kkf1KQ1ext6YTrl7vGjGKp/view?usp=sharing)  
 **30.04** [ІІ група. Тема: На яку вечірку ти збираєшся піти](https://drive.google.com/file/d/1TjeuszDN02LOAFyNI6oAUsyoYkJopWqN/view?usp=sharing)  
+**30.04** [І група. Тема: На яку вечірку ти збираєшся піти](https://drive.google.com/file/d/1Jj2hfYsO-qTGsQ7jco_UECimUEFJcBz5/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
