@@ -3290,6 +3290,7 @@ export default function DistanceLearning() {
 **22.04** [Тема: Механічна робота, потужність](https://drive.google.com/file/d/13_BS5z7J0ggbhx5IxAbKd-64C5Qw8q36/view?usp=sharing)  
 **26.04** [Тема: Механічна енергія](https://drive.google.com/file/d/13eIOSSD2dnVwloAc1gmGOCiKVNdlfG5P/view?usp=sharing)  
 **29.04** [7-Б. Тема: Прості механізми](https://drive.google.com/file/d/1cJCrsJWk6w_DfnFEGfVPUXDkU1-YHIHX/view?usp=sharing)  
+**30.04** [7-А. Тема: Прості механізми]()  
 
 ** Музичне мистецтво **  
 **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)  
@@ -3743,6 +3744,7 @@ export default function DistanceLearning() {
 **27.04** [8-Б. Тема: Уточн. члени речення](https://drive.google.com/file/d/1kV2axtH5m4N2y0XwHqYvQ3QA5gQ51n5e/view?usp=sharing)  
 **29.04** [8-А. Тема: Узагальнення  й  систематизація  вивченого  про  відокремлені члени речення](https://drive.google.com/file/d/1sRoX0mUJWucROmtdsTZg2v-1U3xWb2ya/view?usp=sharing)  
 **29.04** [8-А. І група. Тема: Узагальнення і систематизація вивченого](https://drive.google.com/file/d/1dXC1PmBM3XUxTV0eIm9mkSA5YC0gmAsN/view?usp=sharing)  
+**30.04** [8-Б. Тема: Узагальнення і систематизація вивченого](https://drive.google.com/file/d/1z2kpO2XX2TYa1hZN2fphyilPGKT94akC/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1Q8mIXGFf9Qrm1fqus0UoNSE-0gA4qN9q/view?usp=sharing)  
@@ -3776,6 +3778,7 @@ export default function DistanceLearning() {
 **26.04** [8-Б. Тема: Вітька+Галя](https://drive.google.com/file/d/1eIA-9_C_hfW0KjCci3H3GJe2ZY41MSyi/view?usp=sharing)  
 **27.04** [8-А. Тема: Вітька+Галя](https://drive.google.com/file/d/1XPQvpaCUd_jdzJVgTuTKG-XkGGTAbHz4/view?usp=sharing)  
 **29.04** [8-Б. Тема: Дитячі проблеми в дорослому  житті](https://drive.google.com/file/d/1R-4DJbmvv6bFqW4R3ty00b3yQAUffqHO/view?usp=sharing)  
+**30.04** [8-А. Тема: Дитячі проблеми в дорослому  житті](https://drive.google.com/file/d/10F3RMOarj1CGmwenecyTGp2Z2hqZ1x3a/view?usp=sharing)  
 
 ** Хімія **  
 **03.12** [Тема: Кількість речовини. Моль – одиниця кількості речовини. Число Авогадро.](https://drive.google.com/file/d/1Xza-GsZgxJa88JxRQB42fENhbGkA2hPj/view?usp=sharing)  
@@ -4360,6 +4363,7 @@ export default function DistanceLearning() {
 **27.04** [9-А. Тема: Чорна рада](https://drive.google.com/file/d/1imxvSj4CPTPiffrKx9Vnl9Rx3ZY94hqv/view?usp=sharing)  
 **27.04** [9-Б. Тема: Непросте життя та романтичні пригоди головних героїв Чорної ради](https://drive.google.com/file/d/1SZErD9imE_TMWec5lT-FShObi8j3xYjV/view?usp=sharing)  
 **30.04** [9-Б. Тема: Порівняльна характеристика Сомка та Брюховецького](https://drive.google.com/file/d/15BwyycPmm3BxgoLHyfh8bP42d0JsbwcA/view?usp=sharing)  
+**30.04** [9-А. Тема: Порівняльна характеристика](https://drive.google.com/file/d/1uS7UvWIdXMgEgEZUntRm7FhIUWzr_RzI/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [9-А. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/10ODZR-UG7C9YAJv3bPb-eKqe7kwsjJA4/view?usp=sharing)  
@@ -4409,6 +4413,7 @@ export default function DistanceLearning() {
 **28.04** [9-А. Тема: Загальнорозвивальні та спеціальні легкоатлетичні вправи. Біг у чергуванні з ходьбою](https://drive.google.com/file/d/1qBv2ZnBysjxu4NVuC8EZ0qa1xJgIOW_z/view?usp=sharing)  
 **30.04** [9-Б. Тема: ЗФП.Розвиток витривалості.Біг та правила змагань](https://drive.google.com/file/d/1dV_6xGkMcS7c5ZQxh842k_f3Csxb7NEN/view?usp=sharing)  
 **30.04** [9-А. Тема: Теорія БЖД. Урок розвитку фізичних якостей або урок повторення пройденого матеріалу](https://drive.google.com/file/d/1x--gdjGvH0Ljda7-E5VtGeTYa2VH6RcS/view?usp=sharing)  
+**30.04** [Тема: Збереження енергії в механічних процесах](https://drive.google.com/file/d/1x1S-ScH9uu3N9tkzZSmi50cL9LGm52aE/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Розроблення програми. Виконання арифметичних обчислень. Уведення, виконання й налагодження програм](https://drive.google.com/file/d/1dpekkJgkf59EosU2y6jtD_cr9PnqzdpZ/view?usp=drive_web)  
@@ -4653,6 +4658,7 @@ export default function DistanceLearning() {
 **29.04** [Стрембицька Л.А. Тема: Дієприслівниковий зворот](https://drive.google.com/file/d/1PGEWdda_L8rpKdkF59tr4AkM4zwpuEB_/view?usp=sharing)  
 **29.04** [Добровольська В. Тема: Дієприслівниковий зворот](https://drive.google.com/file/d/1s_SXk08lIAblFr8T4eTo_o-QXeIyAl0O/view?usp=sharing)  
 **30.04** [Стрембицька Л.А. Тема: Прислівник як частина мови](https://drive.google.com/file/d/1dkRcghXHs4rVhyG0VY4_Z_HwuSJNNRvx/view?usp=sharing)  
+**30.04** [Добровольська В. Тема: Прислівник як частина мови](https://drive.google.com/file/d/1S0HpFEiBVYQgC-aoPS7DmxQTaz1E6RKk/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
