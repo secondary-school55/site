@@ -3290,7 +3290,7 @@ export default function DistanceLearning() {
 **22.04** [Тема: Механічна робота, потужність](https://drive.google.com/file/d/13_BS5z7J0ggbhx5IxAbKd-64C5Qw8q36/view?usp=sharing)  
 **26.04** [Тема: Механічна енергія](https://drive.google.com/file/d/13eIOSSD2dnVwloAc1gmGOCiKVNdlfG5P/view?usp=sharing)  
 **29.04** [7-Б. Тема: Прості механізми](https://drive.google.com/file/d/1cJCrsJWk6w_DfnFEGfVPUXDkU1-YHIHX/view?usp=sharing)  
-**30.04** [7-А. Тема: Прості механізми]()  
+**30.04** [7-А. Тема: Прості механізми](https://drive.google.com/file/d/1tGuIh_71vArXs1pPW4LZOosKEH06QlQm/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)  
