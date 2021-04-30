@@ -2617,6 +2617,7 @@ export default function DistanceLearning() {
 **23.04** [5-А. І група. Тема: Додавання зображень із файлу та їх форматування](https://drive.google.com/file/d/1hx12bnJi_lRItCs7kt2sf5sNb-6U6S0I/view?usp=drive_web)  
 **23.04** [5-А. ІІ група. Тема: Додавання зображень із файлу та їх форматування](https://drive.google.com/file/d/1cKRBsbFDMTjfd-91HoNbKSQKCNax_8LP/view?usp=sharing)  
 **29.04** [5-Б. І група. Тема: Додавання, редагування та форматування списків](https://drive.google.com/file/d/1133uXFDRJiTB1t_HjfXbyn-kAwbTGl_W/view?usp=drive_web)  
+**30.04** [5-А. І група. Тема: Додавання, редагування та форматування списків](https://drive.google.com/file/d/1133uXFDRJiTB1t_HjfXbyn-kAwbTGl_W/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
@@ -2937,6 +2938,8 @@ export default function DistanceLearning() {
 **26.04** [6-Б. ІІ група. Тема: Планування представлення презентації та створення презентації](https://drive.google.com/file/d/1I2SfcN2gKMgkZ9uK49ifbujLQJ1Mwmwi/view?usp=drive_web)  
 **29.04** [6-А. ІІ група. Тема: Планування представлення презентації та створення презентації](https://drive.google.com/file/d/1I2SfcN2gKMgkZ9uK49ifbujLQJ1Mwmwi/view?usp=drive_web)  
 **29.04** [6-А. І група. Тема: Ефекти анімації в презентаціях](https://drive.google.com/file/d/1tPKBArhW3t1wdD3V18wPc-aCQ4hOfqVc/view?usp=sharing)  
+**30.04** [6-В. І група. Тема: Додавання ефектів анімації до об’єктів слайда](https://drive.google.com/file/d/1PKI-SYyjYuIdV5v2CNteLTQEj1-1QAjJ/view?usp=drive_web)  
+**30.04** [6-В. ІІ група. Тема: Додавання ефектів анімації до об’єктів слайда](https://drive.google.com/file/d/1Fx51BeEUdVtr0OpHd0a5BzkRL9apud9T/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -3417,6 +3420,8 @@ export default function DistanceLearning() {
 **23.04** [7-А. ІІ група. Тема: Використання вбудованих функцій](https://drive.google.com/file/d/16w49Cw4fzC9Mo3FPKDGYmpYyCDITuXOA/view?usp=drive_web)  
 **28.04** [7-Б. І група. Тема: Відносні, абсолютні, мішані посилання](https://drive.google.com/file/d/1tsHeIi_hI19h_6k1m6KyodjrUy9LpcWt/view?usp=drive_web)  
 **28.04** [7-Б. ІІ група. Тема: Відносні, абсолютні, мішані посилання](https://drive.google.com/file/d/1rgui43-gqOnMocXSIEtM6IhJpkPKEgYW/view?usp=drive_web)  
+**30.04** [7-А. І група. Тема: Відносні, абсолютні, мішані посилання](https://drive.google.com/file/d/1tsHeIi_hI19h_6k1m6KyodjrUy9LpcWt/view?usp=drive_web)  
+**30.04** [7-А. ІІ група. Тема: Відносні, абсолютні, мішані посилання](https://drive.google.com/file/d/1rgui43-gqOnMocXSIEtM6IhJpkPKEgYW/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Різноманітність птахів, їх роль у природі та значення в житті людини](https://drive.google.com/file/d/1yE8Ay4YmvkBD_Dh23t4NCf8q2Jox4_Ou/view?usp=sharing)  
@@ -4240,6 +4245,7 @@ export default function DistanceLearning() {
 **28.04** [9-Б. Тема: Вектори на площині](https://drive.google.com/file/d/1pMtm3XCs4OsvBa5KEyuzlbMznxcDIkQE/view?usp=sharing)  
 **28.04** [9-Б. Тема: Підсумковий урок з теми Геометричні переміщення](https://drive.google.com/file/d/1cqvTbPxkOgEvArnaKm_yXObD7ewYAEZL/view?usp=sharing)  
 **29.04** [9-Б. Тема: Вектори на площині.](https://drive.google.com/file/d/1614rUMtJfSAhQYw5bskBjOoW0gyOpVA1/view?usp=sharing)  
+**30.04** [9-А. Тема: Повторення. Декартові координати на площині](https://drive.google.com/file/d/18qQ7lzmjJe3kXTI0R2u69SM5G7kPHes0/view?usp=sharing)  
 
 ** Англійська мова **  
 **03.12** [Тема: Винаходи та винахідники](https://drive.google.com/file/d/1_YPlRDOzxWAHMorqZAt9hTRsefrTjAo4/view?usp=sharing)  
@@ -4408,6 +4414,8 @@ export default function DistanceLearning() {
 **23.04** [9-А. ІІ група. Тема: Текстові об'єкти та їх редагування. Анімація. Переміщення по кадрах. Шкала часу](https://drive.google.com/file/d/1sk9vmX-zBSorBrj7oY-KbWuPUPEUB2OV/view?usp=drive_web)  
 **28.04** [9-Б. І група. Тема: Рендеринг тривимірної Сцени. Поняття про 3D друк](https://drive.google.com/file/d/1odsdbsf17KlbH3_Rtu4SGfwhUklhG1h-/view?usp=drive_web)  
 **28.04** [9-Б. ІІ група. Тема: Рендеринг тривимірної Сцени. Поняття про 3D друк](https://drive.google.com/file/d/1R9jJ5-NL8EfzN5_DlQAZMSSiKcbCaYpH/view?usp=drive_web)  
+**30.04** [9-А. І група. Тема: Рендеринг тривимірної Сцени. Поняття про 3D друк](https://drive.google.com/file/d/1odsdbsf17KlbH3_Rtu4SGfwhUklhG1h-/view?usp=drive_web)  
+**30.04** [9-А. ІІ група. Тема: Рендеринг тривимірної Сцени. Поняття про 3D друк](https://drive.google.com/file/d/1R9jJ5-NL8EfzN5_DlQAZMSSiKcbCaYpH/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Фотосинтез: світлова та темнова фази](https://drive.google.com/file/d/1AP4SBbE-Wl8PoIH4LiQXBqO2b-ri70gl/view?usp=sharing)  
@@ -4528,6 +4536,7 @@ export default function DistanceLearning() {
 **26.04** [9-Б. Тема: Повторення. Нерівності](https://drive.google.com/file/d/1pmBcmYgFM7BX2bKnE4itv6V0HX64p51H/view?usp=sharing)  
 **27.04** [9-А. Тема: Повторення. Нерівності](https://drive.google.com/file/d/1mBtHgq0J-SZN0Feyga-WjSsC8GY2uXtF/view?usp=sharing)  
 **29.04** [9-А. Тема: Повторення. Квадратична функція](https://drive.google.com/file/d/1JCx2CdqWQSCaLkRjpdQUN0yU3AGY7Pq7/view?usp=sharing)  
+**30.04** [9-Б. Тема: Повторення. Квадратична фунція](https://drive.google.com/file/d/1sBLkDEltxFWpz5NgwtP9TsbQwkp97AH5/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
@@ -4855,6 +4864,7 @@ export default function DistanceLearning() {
 **19.04** [Тема: Застосування похідної до дослідження функції](https://drive.google.com/file/d/16P5159uiqo6EYokmOBrv1dRlwc-UrRvc/view?usp=sharing)  
 **23.04** [Тема: Найбільше і найменше значення функції](https://drive.google.com/file/d/1iC9ABR70STMv57Df7mLiOnA-SXgVxYbu/view?usp=sharing)  
 **26.04** [Тема: Підготовка до контрольної роботи з теми Похідна](https://drive.google.com/file/d/1uunuD8NO-Phu1EZwVvSh_IZCfh2fAgvF/view?usp=sharing)  
+**30.04** [Тема: Підсумковий урок з теми Похідна та її застосування](https://drive.google.com/file/d/1BWnZPZ1grq9yiGv16Wxf_2zqIe6ZHdUJ/view?usp=sharing)  
 
 ** Технології **  
 **12.01** [Тема: Український суванір](https://drive.google.com/file/d/1Qjysoxx4CbkF3hvpoWE8jhs9EKJ-HX7j/view?usp=sharing)  
