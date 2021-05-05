@@ -4197,6 +4197,7 @@ export default function DistanceLearning() {
 **14.04** [Тема: Робота та потужність струму](https://drive.google.com/file/d/1JwwUhBkFSx7R6aOxWMvQ4M8JuIIgvgtD/view?usp=sharing)  
 **21.04** [Тема: Закон Джоуля Ленца](https://drive.google.com/file/d/1-sLSDtjKFM58LH1uXUmeMXqmHvEb6Y8y/view?usp=sharing)  
 **28.04** [Тема: Струм у газах](https://drive.google.com/file/d/1sY6V4VxSlWP1nuPHjBYPqGEcRH1PvZRj/view?usp=sharing)  
+**05.05** [Тема: Струм в електролітах](https://drive.google.com/file/d/14IGKauQX4d-CO0wINY9FPEjeVCQ9sVkz/view?usp=sharing)  
 
 ** Зарубіжна література **  
 **12.01** [Тема: Епоха Відродження в Європі. Гуманізм. Культ античності. Характерні ознаки ренесансної культури і літератури](https://drive.google.com/file/d/1vbMlF-Ynn34DuybFY31ZAfQSuHiLDv2o/view?usp=sharing)  
@@ -5222,6 +5223,7 @@ export default function DistanceLearning() {
 **21.04** [Тема: Радіоактивність](https://drive.google.com/file/d/1daf1hWvGgSWHHgJ1a45RK0Z5YWDU8nCO/view?usp=sharing)  
 **26.04** [Тема: Ядерні реакції](https://drive.google.com/file/d/166kzOBT0_aXNFoRVb5t77fP4qh0PTZPb/view?usp=sharing)  
 **28.04** [Тема: Лабораторна робота № 8](https://drive.google.com/file/d/1yP6VmhCkMrNwynobiK2r-sbULzDdkVjv/view?usp=sharing)  
+**05.05** [Тема: Ланцюгова ядерна реакція](https://drive.google.com/file/d/1rVj0yuKzG0ZtN0hYVCPEhh2b_YC5apF_/view?usp=sharing)  
 
 ** Хімія **  
 **08.12** [Тема: Поняття про гальванічний елемент як хімічне джерело електричного струму](https://drive.google.com/file/d/1-18C_qtNZmcyKNShpSVNgHdP_43NAkoS/view?usp=sharing)  
@@ -5327,6 +5329,7 @@ export default function DistanceLearning() {
 **14.04** [Тема: Наша галактика](https://drive.google.com/file/d/1Tfh6O_yMgli0kPIMOYeThx1plL0i7c9n/view?usp=sharing)  
 **21.04** [Тема: Наша Галактика](https://drive.google.com/file/d/1fJB6zvIOTK3BMTlo1vxXFVpRDevcSqL6/view?usp=sharing)  
 **28.04** [Тема: Будова та еволюція Всесвіту](https://drive.google.com/file/d/18s_DkL1sBwcCL2jHmfy3qvyUed-gzA3d/view?usp=sharing)  
+**05.05** [Тема: Життя у Всесвіті](https://drive.google.com/file/d/1xh4ZxYw_c4UTQE6YUrTmYO68FIic1s3E/view?usp=sharing)  
 
 ** Технології **  
 **14.01** [Тема: Зовнішній вигляд людини. Складові культури зовнішнього вигляду. Косметологія](https://drive.google.com/file/d/17mcFv1pLc97qMEAacSgUtKcEv7ukOQTF/view?usp=sharing)  
