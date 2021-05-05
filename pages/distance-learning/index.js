@@ -1507,7 +1507,6 @@ export default function DistanceLearning() {
 **30.04** [І група. Тема: На яку вечірку ти збираєшся піти](https://drive.google.com/file/d/1xQtfYRYlarUZaHDSJ3To3Xl0jv6v9Y4Q/view?usp=sharing)  
 **30.04** [І група. Аудіозапис. Тема: На яку вечірку ти збираєшся піти](https://drive.google.com/file/d/1tSw381-vgEhxJjFjXgNzMSDJWfIoo1C4/view?usp=sharing)  
 **05.05** [І група. Тема: Чим ти захоплюєшся](https://drive.google.com/file/d/16KB8hepRWe_QD3mE5I-Cbe5cmW5L53Dn/view?usp=sharing)  
-**05.05** [І група. Тема: Чим ти захоплюєшся](https://drive.google.com/file/d/16KB8hepRWe_QD3mE5I-Cbe5cmW5L53Dn/view?usp=sharing)  
 **05.05** [І група. Аудіозапис. Тема: Чим ти захоплюєшся](https://drive.google.com/file/d/10IkKRISyonTrWWwlLCiRHfTbwQBYjqWy/view?usp=sharing)  
 **05.05** [ІІ група. Тема: Чим ти захоплюєшся](https://drive.google.com/file/d/1LpiSzZQCF6reAVdlsLEo8zC1EiLPsITU/view?usp=sharing)  
 **05.05** [ІІ група. Аудіозапис. Тема: Чим ти захоплюєшся](https://drive.google.com/file/d/105YncahP-DQmZN54b4CEkAJZe-vHcCEK/view?usp=sharing)  
@@ -1724,6 +1723,7 @@ export default function DistanceLearning() {
 **30.04** [ІІ група. Тема: Складання тексту міркування за поданими твердженням і висновком. Написання тексту про власний вибір з обгрунтуванням своєї думки](https://drive.google.com/file/d/1ebgRgXLDmLZOjXguZRCj6sgPyOG5QiQx/view?usp=sharing)  
 **05.05** [І група. Тема: Формування уявлення про есе. Розпізнавання і складання есе. Написання есе на основі прочитаного тексту](https://drive.google.com/file/d/1xMGg-VDboS-ETXpMA9Ufx4ykMUs8MiSM/view?usp=sharing)  
 **05.05** [І група. Презентація. Тема: Формування уявлення про есе. Розпізнавання і складання есе. Написання есе на основі прочитаного тексту](https://drive.google.com/file/d/1MizDLESXHnf5jHL6qfCSyd7DNeBifirv/view?usp=sharing)  
+**05.05** [ІІ група. Тема: Формування уявлення про есе. Розпізнавання і складання есе. Написання есе на основі прочитаного тексту](https://drive.google.com/file/d/1KuChHaE9_BffDJLK9BnGn6FPLkZcXLxo/view?usp=sharing)  
 
 ** Математика **  
 **03.12** [Тема: Усне додавання трицифрових круглих чисел. Розв’язування ускладнених задач на четверте пропорційне (№589-599)](https://drive.google.com/file/d/1xsCI0XQlmD11tPhs-8qVLr2WRYYXOtIv/view?usp=sharing)  
@@ -1878,6 +1878,7 @@ export default function DistanceLearning() {
 **30.04** [ІІ група. Тема: На яку вечірку ти збираєшся піти](https://drive.google.com/file/d/1TjeuszDN02LOAFyNI6oAUsyoYkJopWqN/view?usp=sharing)  
 **30.04** [І група. Тема: На яку вечірку ти збираєшся піти](https://drive.google.com/file/d/1Jj2hfYsO-qTGsQ7jco_UECimUEFJcBz5/view?usp=sharing)  
 **05.05** [ІІ група. Тема: Вечірки. Контроль читання](https://drive.google.com/file/d/13lyWQrekfiG6jZPCTA90RSPvjDjDyXV2/view?usp=sharing)  
+**05.05** [І група. Тема: Вечірки. Контроль читання](https://drive.google.com/file/d/1hyRTofVBaMfpjyRGLjZ2iNca8SJrdew0/view?usp=sharing)  
 
 ** Дизайн і технології **  
 **14.01** [Тема: Виготовлення лепбука «Моє тіло»](https://drive.google.com/file/d/1IA7arqorxt5apzLTNMWtRhPfBdmWCLfX/view?usp=sharing)  
