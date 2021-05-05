@@ -2637,6 +2637,8 @@ export default function DistanceLearning() {
 **29.04** [5-А. ІІ група. Тема: Пряма мова Діалог](https://drive.google.com/file/d/1mjD2zP3ajYMRnpZ94HkX7CGUJVhkeCsm/view?usp=sharing)  
 **29.04** [5-А. І група. Тема: Пряма мова. Діалог. Тире при діалозі](https://drive.google.com/file/d/1xGOEGau1Ul8-FmTPNXUGEoCgg4mvO3s_/view?usp=sharing)  
 **05.05** [5-А. І група. Тема: РМ. Письмовий твір-роздум у художньому стилі](https://drive.google.com/file/d/1cFAOMtbSJS_pNDjXqyXSy-iLZFFDxhhf/view?usp=sharing)  
+**05.05** [5-А. ІІ група. Тема: РМ. Письмовий твір-роздум у художньому стилі](https://drive.google.com/file/d/1-2Bo9gySF4QWXgue5DcmfeuSs4i5IZNg/view?usp=sharing)  
+**05.05** [5-Б. Тема: РМ. Письмовий твір-роздум у художньому стилі](https://drive.google.com/file/d/1l9ex2MQM5v1T3niMRLRYJKQr2dpcuMZk/view?usp=sharing  )  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -4440,6 +4442,8 @@ export default function DistanceLearning() {
 **29.04** [9-А. ІІ група. Тема: Фактори впливу на вибір професії](https://drive.google.com/file/d/1yNLrjc4VCzTBymj_KT3Cc80onO4Gpq7P/view?usp=sharing)  
 **29.04** [9-А. І група. Тема: Фактори впливу на вибір професії](https://drive.google.com/file/d/1XY4g36rexhAYmSKHfUeHKCHeieU0zf-H/view?usp=sharing)  
 **05.05** [9-А. ІІ група. Тема: Лондон](https://drive.google.com/file/d/1dfWm_zjcKRV1DcIASCOaXzeCBnrcLNHs/view?usp=sharing)  
+**05.05** [9-А. І група. Тема: Фактори впливу на вибір професії](https://drive.google.com/file/d/19tbkfX39bAVlgAeylMToKEZeyGFuZ6bT/view?usp=sharing)  
+**05.05** [9-Б. Тема: Фактори впливу на вибір професії](https://drive.google.com/file/d/19tbkfX39bAVlgAeylMToKEZeyGFuZ6bT/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
@@ -4622,6 +4626,7 @@ export default function DistanceLearning() {
 **28.04** [9-А. І група. Тема: Зрізовий диктант Українська вишивка](https://drive.google.com/file/d/1TmuaVvu41VxjUNJ2K4SON6CzEq-FdgeF/view?usp=sharing)  
 **05.05** [9-А. Тема: Повторення вивчених розділових знаків у простому і складному реченнях](https://drive.google.com/file/d/1hiwz01k3ngBbrt7MPD3aDFrvhanowKf8/view?usp=sharing)  
 **05.05** [9-Б. Тема: Повторення вивчених розділових знаків у простому і складному реченнях](https://drive.google.com/file/d/1rdNbh7t1I5iPkkRimRWAnafNp9GnCXWO/view?usp=sharing)  
+**05.05** [9-А. І група. Тема: Повторення вивчених розділових знаків](https://drive.google.com/file/d/1YAzQ3NuH7M0tpb044S7F9y3OMgMOh8nz/view?usp=sharing)  
 
 ** Фізика **  
 **04.12** [Тема: Механічні хвилі](https://drive.google.com/file/d/1gFUenJvZoiJfbG2dXxl35x6LtqAUs2RB/view?usp=sharing)  
@@ -4776,6 +4781,7 @@ export default function DistanceLearning() {
 **30.04** [Стрембицька Л.А. Тема: Прислівник як частина мови](https://drive.google.com/file/d/1dkRcghXHs4rVhyG0VY4_Z_HwuSJNNRvx/view?usp=sharing)  
 **30.04** [Добровольська В. Тема: Прислівник як частина мови](https://drive.google.com/file/d/1S0HpFEiBVYQgC-aoPS7DmxQTaz1E6RKk/view?usp=sharing)  
 **05.05** [Стрембицька Л.А. Тема: Ступені порівняння означальних прислівників. Правопис прислівників і прислівникових сполучень](https://drive.google.com/file/d/1cVeby7vvENz1zzAvN248hnV19_I6V5iN/view?usp=sharing)  
+**05.05** [Добровольська В. Тема: Прислівники за походженням](https://drive.google.com/file/d/1w9iCFLUjfG7wsNPVXE37uS-bSBxOTMiB/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
