@@ -3698,6 +3698,7 @@ export default function DistanceLearning() {
 **05.05** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Написання часток -бо, -но, -то, -от, -таки](https://drive.google.com/file/d/1TlWWmzItAJJwE1xzR19PyfabfzBSGf6Z/view?usp=sharing)  
 **06.05** [7-Б. Алтинбаєва Л. М. Тема: Написання часток -бо, -но, -то, -от, -таки](https://drive.google.com/file/d/1VngUL8NGhwUYwrJQgVLaZ9SHdb1D0cUn/view?usp=sharing)  
 **06.05** [7-А. Харенко Ю. А. І група. Тема: Вигук як особлива частина мови. Групи вигуків. Кома і знак оклику при вигуках](https://drive.google.com/file/d/1ZMK6d3FmK7szKFI4gr3IVTrTNUf7ikZa/view?usp=sharing)  
+**06.05** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Вигук як особлива  частина мови. Кома і знак оклику при вигуках. Дефіс у вигуках](https://drive.google.com/file/d/12qGpyJxq_B2ULd3WJolJ6tz8JuES1RKA/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
