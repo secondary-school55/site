@@ -3095,8 +3095,8 @@ export default function DistanceLearning() {
 **29.04** [6-А. І група. Тема: Ефекти анімації в презентаціях](https://drive.google.com/file/d/1tPKBArhW3t1wdD3V18wPc-aCQ4hOfqVc/view?usp=sharing)  
 **30.04** [6-В. І група. Тема: Додавання ефектів анімації до об’єктів слайда](https://drive.google.com/file/d/1PKI-SYyjYuIdV5v2CNteLTQEj1-1QAjJ/view?usp=drive_web)  
 **30.04** [6-В. ІІ група. Тема: Додавання ефектів анімації до об’єктів слайда](https://drive.google.com/file/d/1Fx51BeEUdVtr0OpHd0a5BzkRL9apud9T/view?usp=drive_web)  
-**06.05** [6-А. Тема: Планування представлення презентації та створення презентації](https://drive.google.com/file/d/19la5JGmguThxAY2Jp13FFMLCfaOCD-n1/view?usp=sharing)  
-**06.05** [Тема: Планування представлення презентації та налаштування показу презентації](https://drive.google.com/file/d/1I2SfcN2gKMgkZ9uK49ifbujLQJ1Mwmwi/view?usp=drive_web)  
+**06.05** [6-А. І група. Тема: Планування представлення презентації та створення презентації](https://drive.google.com/file/d/19la5JGmguThxAY2Jp13FFMLCfaOCD-n1/view?usp=sharing)  
+**06.05** [6-А. ІІ група. Тема: Планування представлення презентації та налаштування показу презентації](https://drive.google.com/file/d/1I2SfcN2gKMgkZ9uK49ifbujLQJ1Mwmwi/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -4549,6 +4549,7 @@ export default function DistanceLearning() {
 **05.05** [9-А. І група. Тема: Фактори впливу на вибір професії](https://drive.google.com/file/d/19tbkfX39bAVlgAeylMToKEZeyGFuZ6bT/view?usp=sharing)  
 **05.05** [9-Б. Тема: Фактори впливу на вибір професії](https://drive.google.com/file/d/19tbkfX39bAVlgAeylMToKEZeyGFuZ6bT/view?usp=sharing)  
 **06.05** [9-А. ІІ група. Тема: Единбург](https://drive.google.com/file/d/1Zl2Eo2wichNWDgeEX1PQPU4-1mBE2_Sf/view?usp=sharing)  
+**06.05** [Тема: Лондон](https://drive.google.com/file/d/1ppMTzAdEOcf37yHB6H1Syjf5Mt2K_FJE/view?usp=sharing)  
 
 ** Українська література **  
 **04.12** [Тема: Григорій Квітка-Основ’яненко. Соціально-побутова сентиментально-реалістична повість «Маруся» - перший прозовий твір в українській літературі](https://drive.google.com/file/d/1IctRSEVhbQKuR7w9WLmBvh9_H6rR7KY7/view?usp=sharing)  
@@ -5472,6 +5473,7 @@ export default function DistanceLearning() {
 **15.04** [Тема: Постмодернізм](https://drive.google.com/file/d/1rgPxlBpBkbrpjdYdaORYCNFNTf3BGZ0P/view?usp=sharing)  
 **22.04** [Тема: М.Павич. Скляний равлик](https://drive.google.com/file/d/1_TcWk3jMRnLfPueEMjHYegNr4QjtSXkH/view?usp=sharing)  
 **29.04** [Тема: Сучасна література](https://drive.google.com/file/d/1zgTp-ZPoPmQa5-x9orD-u3XktsPEPNp8/view?usp=sharing)  
+**06.05** [Тема: М. Зузак.Крадійка книжок. Ідеї людяності, добра, порятунку життя й культури](https://drive.google.com/file/d/1R1I89FaZALlE3pKrHtF-Dz-K_hM2yXgg/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="Онлайн уроки">
