@@ -2695,6 +2695,7 @@ export default function DistanceLearning() {
 **05.05** [5-А. І група. Тема: РМ. Письмовий твір-роздум у художньому стилі](https://drive.google.com/file/d/1cFAOMtbSJS_pNDjXqyXSy-iLZFFDxhhf/view?usp=sharing)  
 **05.05** [5-А. ІІ група. Тема: РМ. Письмовий твір-роздум у художньому стилі](https://drive.google.com/file/d/1-2Bo9gySF4QWXgue5DcmfeuSs4i5IZNg/view?usp=sharing)  
 **05.05** [5-Б. Тема: РМ. Письмовий твір-роздум у художньому стилі](https://drive.google.com/file/d/1l9ex2MQM5v1T3niMRLRYJKQr2dpcuMZk/view?usp=sharing  )  
+**06.05** [5-А. І група. Тема: Пряма мова. Діалог. Тренувальні вправи](https://drive.google.com/file/d/19dnqg2IzB1429yAt2fyy7R-yJJ9V_5gC/view?usp=sharing)  
 
 ** Трудове навчання **  
 **03.12** [Тема: Виконання ялинкової прикраси з паперу (техніка торцювання)](https://drive.google.com/file/d/160AecYyYSB489pv8RIwh7WzL1zbmSA9t/view?usp=sharing)  
@@ -2754,7 +2755,8 @@ export default function DistanceLearning() {
 **29.04** [5-Б. І група. Тема: Додавання, редагування та форматування списків](https://drive.google.com/file/d/1133uXFDRJiTB1t_HjfXbyn-kAwbTGl_W/view?usp=drive_web)  
 **30.04** [5-А. І група. Тема: Додавання, редагування та форматування списків](https://drive.google.com/file/d/1133uXFDRJiTB1t_HjfXbyn-kAwbTGl_W/view?usp=drive_web)  
 **30.04** [5-А. ІІ група. Тема: Додавання, редагування та форматування списків](https://drive.google.com/file/d/14GnyynY_yE5EWuyrHWl7I4gpGNdegtsm/view?usp=sharing)  
-**06.05** [5-Б. Тема: Додавання, редагування та форматування таблиць](https://drive.google.com/file/d/15QsHp7qLC2YYrlfKFRhv5WJa8a2ivAAK/view?usp=sharing)  
+**06.05** [5-Б. ІІ група. Тема: Додавання, редагування та форматування таблиць](https://drive.google.com/file/d/15QsHp7qLC2YYrlfKFRhv5WJa8a2ivAAK/view?usp=sharing)  
+**06.05** [5-Б. І група. Тема: Додавання редагування та форматування таблиць](https://drive.google.com/file/d/1K4uN8LzyWjjMdxMoeGhYODIQOSAGTtyR/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
@@ -3053,6 +3055,8 @@ export default function DistanceLearning() {
 **29.04** [6-А,Б. Тема: Муха і Бджола. Зневага до надокучливих, ледачих людей, що живуть за рахунок інших. Викриття дурості і пихатості в байці Жаба і Віл.](https://drive.google.com/file/d/1W9uzav1_Y8Qjtk5FnONeobX00rSd2oMr/view?usp=sharing)  
 **30.04** [6-В. Тема: Муха і Бджола. Зневага до надокучливих, ледачих людей, що живуть за рахунок інших. Викриття дурості і пихатості в байці Жаба і Віл](https://drive.google.com/file/d/1BnhdWCCjj9vKBJaMc0ff5PLgSGAu5y_C/view?usp=sharing)  
 **05.05** [6-Б. Тема: Степан Руданський як український майстер слова. Співомовки Степана Руданського — унікальне явище у світовій культурі. «Добре торгувалось»](https://drive.google.com/file/d/1CXFJhwiuSncjvbLuNgwQ7rwdjJIYCK8K/view?usp=sharing)  
+**06.05** [6-А. Тема: Степан Руданський як український майстер слова. Співомовки Степана Руданського — унікальне явище у світовій культурі. «Добре торгувалось»](https://drive.google.com/file/d/17eqJiWigQc0SSQNGHTyV5I-dWfNaG0ZK/view?usp=sharing)  
+**06.05** [6-Б. Тема: «Степан Руданський. «Запорожці у короля»](https://drive.google.com/file/d/1DG-74_sNUfsjSZgmqMJv56CzOJkb8IKh/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Редагування програмних об’єктів](https://drive.google.com/file/d/14u2a-Fbfs2UVhKlYPdZQYEyak9uKZs1T/view?usp=sharing)  
@@ -3092,6 +3096,7 @@ export default function DistanceLearning() {
 **30.04** [6-В. І група. Тема: Додавання ефектів анімації до об’єктів слайда](https://drive.google.com/file/d/1PKI-SYyjYuIdV5v2CNteLTQEj1-1QAjJ/view?usp=drive_web)  
 **30.04** [6-В. ІІ група. Тема: Додавання ефектів анімації до об’єктів слайда](https://drive.google.com/file/d/1Fx51BeEUdVtr0OpHd0a5BzkRL9apud9T/view?usp=drive_web)  
 **06.05** [6-А. Тема: Планування представлення презентації та створення презентації](https://drive.google.com/file/d/19la5JGmguThxAY2Jp13FFMLCfaOCD-n1/view?usp=sharing)  
+**06.05** [Тема: Планування представлення презентації та налаштування показу презентації](https://drive.google.com/file/d/1I2SfcN2gKMgkZ9uK49ifbujLQJ1Mwmwi/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -3230,6 +3235,7 @@ export default function DistanceLearning() {
 **30.04** [6-А,В. Тема: Відмінювання та написання займенників усіх розрядів](https://drive.google.com/file/d/1uFbC3xwUj-ejlk97ke9Z8s_1Y3aJbQPq/view?usp=sharing)  
 **30.04** [6-Б. Тема: Відмінювання займенників усіх розрядів](https://drive.google.com/file/d/1xABg9LLnExqbop5lRoOBn320QwFtpRjE/view?usp=sharing)  
 **05.05** [6-А. Тема: Відмінювання займенників усіх розрядів](https://drive.google.com/file/d/1Chn-Blfab1sTPJYl1_22FRTKVmHkfHdD/view?usp=sharing)  
+**06.05** [6-В. Тема: Відмінювання займенників усіх розрядів](https://drive.google.com/file/d/1jUyXGyaTLoDQbtuqGMgk8cQLwvhrmi7F/view?usp=sharing)  
 
 ** Біологія **  
 **11.01** [Тема: Різноманітність та видозміни пагона](https://drive.google.com/file/d/1-QyLP9rc_OE-yPg9YZ7I6EDa7FmKktvz/view?usp=sharing)  
@@ -3247,6 +3253,7 @@ export default function DistanceLearning() {
 **22.04** [Тема: Макроскопічні гриби. особливості живлення](https://drive.google.com/file/d/10d-5yatiK13W-KIiacWH3HzlMEs2ymvi/view?usp=sharing)  
 **26.04** [Тема: Отруйні гриби](https://drive.google.com/file/d/1BQYyKtewYkeMefBfmc9FMxfwkwdhKQVl/view?usp=sharing)  
 **29.04** [Тема: Мікроскопічні гриби](https://drive.google.com/file/d/1eeIvBjftWq2Osg4SO3QU0ruTwxQQfgXn/view?usp=sharing)  
+**06.05** [Тема: Лишайники](https://drive.google.com/file/d/1HfLZVYGNShWV0OaRxj9iIPqxUfVWMCOb/view?usp=sharing)  
 
 ** Англійська мова **  
 **11.01** [Тема: Продукти харчування](https://drive.google.com/file/d/1d3TbAEysdcGIIGHnMnE1Pt-076Fx2xcB/view?usp=sharing)  
@@ -3685,6 +3692,7 @@ export default function DistanceLearning() {
 **05.05** [7-А. Харенко Ю. А. І група. Тема: РМ. Аналіз письмового переказу](https://drive.google.com/file/d/1Z3_vHJ2e5w64AjPYeyYePzRAHr-_Jrq0/view?usp=sharing)  
 **05.05** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Написання часток -бо, -но, -то, -от, -таки](https://drive.google.com/file/d/1TlWWmzItAJJwE1xzR19PyfabfzBSGf6Z/view?usp=sharing)  
 **06.05** [7-Б. Алтинбаєва Л. М. Тема: Написання часток -бо, -но, -то, -от, -таки](https://drive.google.com/file/d/1VngUL8NGhwUYwrJQgVLaZ9SHdb1D0cUn/view?usp=sharing)  
+**06.05** [7-А. Харенко Ю. А. І група. Тема: Вигук як особлива частина мови. Групи вигуків. Кома і знак оклику при вигуках](https://drive.google.com/file/d/1ZMK6d3FmK7szKFI4gr3IVTrTNUf7ikZa/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -4077,6 +4085,8 @@ export default function DistanceLearning() {
 **29.04** [8-А. І група. Тема: Улюблені радіопрограми для підлітків](https://drive.google.com/file/d/13teyplC72hKc3a65nfwkP43u8Fzcblzp/view?usp=sharing)  
 **29.04** [8-Б. Тема: Улюблені радіопрограми для підлітків](https://drive.google.com/file/d/13teyplC72hKc3a65nfwkP43u8Fzcblzp/view?usp=sharing)  
 **06.05** [8-А. ІІ група. Тема: Літо чекає](https://drive.google.com/file/d/1pohXl8L4L1zdc_M4f0uTboF5C3AGFmS8/view?usp=sharing)  
+**06.05** [8-А. І група. Тема: Подорож із сім'єю](https://drive.google.com/file/d/1W7f8GQQjtlmUSJUEBuEPHbR_ifVoyDPX/view?usp=sharing)  
+**06.05** [8-Б. Тема: Подорож із сім'єю](https://drive.google.com/file/d/1W7f8GQQjtlmUSJUEBuEPHbR_ifVoyDPX/view?usp=sharing)  
 
 ** Алгебра **  
 **03.12** [Тема: Степінь із цілим показником](https://drive.google.com/file/d/1bTPiJE5il-PKaAeDk_o2SmSDULHcrHSZ/view?usp=sharing)  
@@ -4949,6 +4959,8 @@ export default function DistanceLearning() {
 **29.04** [ІІ група. Тема: Створення простих текстових документів, введення даних](https://drive.google.com/file/d/1tdQZXFNJDJgGtj1TssUdyqxYKEm09Dxg/view?usp=drive_web)  
 **29.04** [І група. Тема: Електронний документ, його ознаки та правовий статус. Електронний документообіг](https://drive.google.com/file/d/1gpcvqkwm6Plsi0qm6LrVfI9BOpZskC1L/view?usp=drive_web)  
 **29.04** [ІІ група. Тема: Електронний документ, його ознаки та правовий статус. Електронний документообіг](https://drive.google.com/file/d/15jf2Z48Kj2m_gGZqDVmrYD3R0xwviDLM/view?usp=drive_web)  
+**06.05** [І група. Тема: Електронний цифровий підпис. Особистий та відкритий ключі. Сертифікат відкритого ключа](https://drive.google.com/file/d/1uQZ1tApolyJou-vaNmCHOXJLDapXQju5/view?usp=drive_web)  
+**06.05** [ІІ група. Тема: Електронний цифровий підпис. Особистий та відкритий ключі. Сертифікат відкритого ключа](https://drive.google.com/file/d/1sDh3wcjVDOA3LneHIGosZjDk55x6xceu/view?usp=drive_web)  
 
 ** Фізична культура **  
 **04.12** [І група. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/1SBvvvI6L7-usEP0lkbxvVs85UtZqhjpJ/view?usp=sharing)  
@@ -5190,6 +5202,8 @@ export default function DistanceLearning() {
 **22.04** [Тема: Особливості процесів регенерації у людини](https://drive.google.com/file/d/1tp3g2bIrXmWGR7f80sqKv0MYsXc5w-Xj/view?usp=sharing)  
 **29.04** [Тема: Ріст і розвиток клітин](https://drive.google.com/file/d/1bnhZGnfbEJ4dVlywCkRkp4noafFPxXLc/view?usp=sharing)  
 **29.04** [Тема: Способи розмноження клітин](https://drive.google.com/file/d/1Ro97YHNAOqlS_-qvZhxkqvHEn40P_FUm/view?usp=sharing)  
+**06.05** [Тема: Ембріогенез людини](https://drive.google.com/file/d/19eMr1G3kgX_br5kDWE7m1KM8XXGcM8-l/view?usp=sharing)  
+**06.05** [Тема: Статеві клітини. Гаметогенез](https://drive.google.com/file/d/1SKGFz9T7ydqfzvPfaH6l4Tx-o1Pa01Wu/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="11 клас">
@@ -5239,6 +5253,10 @@ export default function DistanceLearning() {
 **22.04** [ІІ група. Тема: Анімація в растровому графічному редакторі](https://drive.google.com/file/d/1-P9_GH9VXQBhf9Jn3g4BnyJh77PQxZ4E/view?usp=drive_web)  
 **29.04** [І група. Тема: Основи теорії дизайну. Розробка дизайну та створення графічних проектів](https://drive.google.com/file/d/1GAx63qHYs5SAfg6KUVAQ3yQTNCgNlgDM/view?usp=drive_web)  
 **29.04** [ІІ група. Тема: Основи теорії дизайну. Розробка дизайну та створення графічних проектів](https://drive.google.com/file/d/1gyh0Jw4tMEhwIv_19bTTHZ0yiTyjR2Zp/view?usp=drive_web)  
+**06.05** [І група. Тема: Стиль та композиція в дизайні](https://drive.google.com/file/d/15hs-Zcm5Vr0cpjlbA9DMFR-VpCLCLDbL/view?usp=drive_web)  
+**06.05** [ІІ група. Тема: Стиль та композиція в дизайні](https://drive.google.com/file/d/11_eG6KhOSpDDf1b6oFG-3AknDX_34NXp/view?usp=drive_web)  
+**06.05** [І група. Тема: Символи та образи. Художній образ](https://drive.google.com/file/d/16InI92mcYTJh-AWUCjigXp4o5Dk4VGLw/view?usp=drive_web)  
+**06.05** [ІІ група. Тема: Символи та образи. Художній образ](https://drive.google.com/file/d/1Ez4iYKVgIN55LosV6_FRWgo9mX4AAwsf/view?usp=drive_web)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Опозиційний рух в Україні 60-80-х рр. ХХ ст.](https://drive.google.com/file/d/1BRFbeZezM4EQBXfjdEyCgfPXCTltDMaR/view?usp=sharing)  
