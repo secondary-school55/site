@@ -747,7 +747,8 @@ export default function DistanceLearning() {
 **30.04** [І група. Тема: Удосконалюю текст. Інтервю за поданими запитаннями. Написсання тексту за поданим початком. Навчальна презентація](https://drive.google.com/file/d/1X3L_l0HOd38Zp5fgj4kAD5lLbbBpiJvX/view?usp=sharing)  
 **05.05** [І група. Тема: Удосконалюю текст](https://drive.google.com/file/d/1V1vte8PrqdqUHun796M0OJ62zwwQMIKO/view?usp=sharing)  
 **05.05** [І група. Тема: Удосконалюю текст. Інтервю за поданими запитаннями. Написсання тексту за поданим початком. Навчальна презентація](https://drive.google.com/file/d/14EQhSMJeY6mI3jT9nQAVe4XL-jBB9N4k/view?usp=sharing)  
-**06.05** [Тема: Повторення, закріплення і застосування знань про текст](https://drive.google.com/file/d/1n5ldndvE-HwUt1B9s7qwcI3QayyvdPsu/view?usp=sharing)  
+**06.05** [ІІ група. Тема: Повторення, закріплення і застосування знань про текст](https://drive.google.com/file/d/1n5ldndvE-HwUt1B9s7qwcI3QayyvdPsu/view?usp=sharing)  
+**06.05** [І група. Тема: Повторення, закріплення і застосування знань про текст](https://drive.google.com/file/d/1hBbXeBFlagbS9lLwHKAXYpKpLDAgb8-B/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **03.12** [Тема: Витинанка як вид народних ремесел України. Створення декоративних образів.« Паперовий янгол»](https://drive.google.com/file/d/1AyUivaWXvXaVhOjzNywr4df9LnY1BqsK/view?usp=sharing)  
@@ -833,7 +834,8 @@ export default function DistanceLearning() {
 **29.04** [І група. Тема: "Великдень" Р.Завидович, К.Перелісна  "Писанка"](https://drive.google.com/file/d/1NRed9vujwkcsbJtIoGG-FSaU_qJkweQ1/view?usp=sharing)  
 **30.04** [ІІ група. Тема: Як здійснити мрію. Микола Снаговський «Про пасажирський лайнер і паперовий літачок»](https://drive.google.com/file/d/1-74q8YG3iAaFe3TAo5EeXiJA7dJgz4V7/view?usp=sharing)  
 **30.04** [І група. Тема: Як здійснити мрію. Микола Снаговський «Про пасажирський лайнер і паперовий літачок»](https://drive.google.com/file/d/1VbpTDlk5QJswk94cHDQqTX26czDNqdZB/view?usp=sharing)  
-**06.05** [Тема: Як здійснити мрію. Микола Снаговський «Про пасажирський лайнер і паперовий літачок»](https://drive.google.com/file/d/12wMSp-VodA1QpDfubmQycXI_2f4sHrYK/view?usp=sharing)  
+**06.05** [ІІ група. Тема: Як здійснити мрію. Микола Снаговський «Про пасажирський лайнер і паперовий літачок»](https://drive.google.com/file/d/12wMSp-VodA1QpDfubmQycXI_2f4sHrYK/view?usp=sharing)  
+**06.05** [І група. Тема: Як здійснити мрію. Микола Снаговський «Про пасажирський лайнер і паперовий літачок»](https://drive.google.com/file/d/1yRRThEPLLSAopd92RsXVuam5hykKg-C0/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Які ознаки в зими. Зимові місяці. Природа взимку](https://drive.google.com/file/d/11KQTK4SiuGeuN6_TPKJE_ZUvAUNohijr/view?usp=sharing)  
@@ -1438,6 +1440,7 @@ export default function DistanceLearning() {
 **05.05** [І група. Презентація. Тема: Формування уявлення про есе. Розпізнавання і складання есе. Написання есе на основі прочитаного тексту](https://drive.google.com/file/d/1OBHyEmIQkfvJFsCPEC-eOwQwsORJRlh9/view?usp=sharing)  
 **05.05** [ІІ група. Тема: Формування уявлення про есе. Розпізнавання і складання есе. Написання есе на основі прочитаного тексту](https://drive.google.com/file/d/18Wauo9w5NBp5vNyrtC73rIxDuEtGYtqy/view?usp=sharing)  
 **06.05** [І група. Тема: Розвиток зв'язного мовлення.Написання переказу Дружні шпаки](https://drive.google.com/file/d/1M7K91cqAymwaQ-UUjBcD9lLYLPKkgqX3/view?usp=sharing)  
+**06.05** [ІІ група. Тема: Розвиток зв_язного мовлення.Написання переказу Дружні шпаки](https://drive.google.com/file/d/1FVO5Qx9Vge8_KJIBNN8XdeCGIQF-Nd6w/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -1595,6 +1598,7 @@ export default function DistanceLearning() {
 **30.04** [І група. Тема: Підсумок за розділом "Все добре переймай, а недобре - виправляй"](https://drive.google.com/file/d/1W1PpSRfh9Gu8N-6EKrcYzJ2bWdQAhmzx/view?usp=sharing)  
 **30.04** [ІІ група. Тема: Перевіряю свої досягнення. Підсумок за розділом "Все добре переймай, а недобре - виправляй"](https://drive.google.com/file/d/13zeDBZB3RGrBsbpo7-JW6W4r5Z27EHNT/view?usp=sharing)  
 **06.05** [І група. Тема: Фантазуй і створюй! В. Коломієць «Ліс і Лис». Складання вірша](https://drive.google.com/file/d/1yN5VpJuTIVaqLd5P-_4qNJNvTbMQkeST/view?usp=sharing)  
+**06.05** [ІІ група. Тема: Фантазуй і створюй! В. Коломієць «Ліс і Лис». Складання вірша](https://drive.google.com/file/d/1CihYTcQn8cu73WahdpL0qyx0jphUbod0/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
@@ -2444,6 +2448,7 @@ export default function DistanceLearning() {
 **29.04** [І група. Тема: Мандруємо Києвом](https://drive.google.com/file/d/1BHCoQOkzLLMVcH1fYsKqD7K0htW1e7j7/view?usp=sharing)  
 **06.05** [ІІ група. Тема: Лондон - Київ](https://drive.google.com/file/d/15K8wFKSV5ur0zovTeXnVnWOZF2_Q8B9w/view?usp=sharing)  
 **06.05** [ІІ група. Аудіозапис. Тема: Лондон - Київ](https://drive.google.com/file/d/1aDVwY29o269SWlyE0aTfkQmLd8UBtREj/view?usp=sharing)  
+**06.05** [І група. Тема: Підсумковий урок з теми «Подорожування. Лондон. Київ»](https://drive.google.com/file/d/11H6w2yFyIlbZFkZjN8qKGuV4_9JteoKF/view?usp=sharing)  
 
 ** Літературне читання **  
 **07.12** [Тема: Марко Вовчок «Літній ранок», Михайло Коцюбинський «Літній день»](https://drive.google.com/file/d/1XgJrjALeSBPNQ_Qy5nIsx0yLyZXI39WL/view?usp=sharing)  
@@ -3679,6 +3684,7 @@ export default function DistanceLearning() {
 **29.04** [7-А. Харенко Ю. А. І група. Тема: Написання часток -бо, -но, -то, -от, -таки](https://drive.google.com/file/d/1n2BFM1ElWXVsMyY328jikAZw-FNcBM2A/view?usp=sharing)  
 **05.05** [7-А. Харенко Ю. А. І група. Тема: РМ. Аналіз письмового переказу](https://drive.google.com/file/d/1Z3_vHJ2e5w64AjPYeyYePzRAHr-_Jrq0/view?usp=sharing)  
 **05.05** [7-А. Алтинбаєва Л. М. ІІ група. Тема: Написання часток -бо, -но, -то, -от, -таки](https://drive.google.com/file/d/1TlWWmzItAJJwE1xzR19PyfabfzBSGf6Z/view?usp=sharing)  
+**06.05** [7-Б. Алтинбаєва Л. М. Тема: Написання часток -бо, -но, -то, -от, -таки](https://drive.google.com/file/d/1VngUL8NGhwUYwrJQgVLaZ9SHdb1D0cUn/view?usp=sharing)  
 
 ** Хімія **  
 **07.12** [Тема: Фізичні та хімічні явища](https://drive.google.com/file/d/1vDn2GcA1M_iqktbjVpByURwMEJyEv4vQ/view?usp=sharing)  
@@ -4220,6 +4226,7 @@ export default function DistanceLearning() {
 **27.04** [8-А. Тема: Подібність трикутників](https://drive.google.com/file/d/1zVsgtolCAytN-oJbPSU9vQ0UmUWBziDY/view?usp=sharing)  
 **27.04** [8-Б. Тема: Повторення. Паралелограм. Прямокутник. Ромб](https://drive.google.com/file/d/1Xy6ZqB_GV6fX5HtjWckcVPVQ-pzpQOW1/view?usp=sharing)  
 **29.04** [8-Б. Тема: Повторення Вписані та описані кути. Теорема Фалеса](https://drive.google.com/file/d/1BBZfVsQYGE302MyWpyW4gxOvo0CI1Zg_/view?usp=sharing)  
+**06.05** [8-Б. Тема: Повторення. Подібність трикутників](https://drive.google.com/file/d/1fT4aKKIMwfRFtYOM70w7FPzofp8N94rg/view?usp=sharing)  
 
 ** Інформатика **  
 **08.12** [Тема: Логічні вирази. Оператори розгалуження. Вкладені розгалуження](https://drive.google.com/file/d/1UIkiDcQ0uWpgiOSN8HPQe0On15gl7hh0/view?usp=sharing)  
@@ -4770,6 +4777,7 @@ export default function DistanceLearning() {
 **27.04** [9-А. Тема: Повторення. Нерівності](https://drive.google.com/file/d/1mBtHgq0J-SZN0Feyga-WjSsC8GY2uXtF/view?usp=sharing)  
 **29.04** [9-А. Тема: Повторення. Квадратична функція](https://drive.google.com/file/d/1JCx2CdqWQSCaLkRjpdQUN0yU3AGY7Pq7/view?usp=sharing)  
 **30.04** [9-Б. Тема: Повторення. Квадратична функція](https://drive.google.com/file/d/1sBLkDEltxFWpz5NgwtP9TsbQwkp97AH5/view?usp=sharing)  
+**06.05** [9-А. Тема: Повторення Розвязування квадратних нерівностей](https://drive.google.com/file/d/1-THqwNZ5PvU1rlxrToWz2NtLyntSNctt/view?usp=sharing)  
 
 ** Основи здоров'я **  
 **11.01** [Тема: Емоційна саморегуляція](https://drive.google.com/file/d/11Rz5-2DvjMIYc5RphYWrrLeAr6mJ3TVv/view?usp=sharing)  
@@ -4871,7 +4879,7 @@ export default function DistanceLearning() {
 **30.04** [Добровольська В. Тема: Прислівник як частина мови](https://drive.google.com/file/d/1S0HpFEiBVYQgC-aoPS7DmxQTaz1E6RKk/view?usp=sharing)  
 **05.05** [Стрембицька Л.А. Тема: Ступені порівняння означальних прислівників. Правопис прислівників і прислівникових сполучень](https://drive.google.com/file/d/1cVeby7vvENz1zzAvN248hnV19_I6V5iN/view?usp=sharing)  
 **05.05** [Добровольська В. Тема: Прислівники за походженням](https://drive.google.com/file/d/1w9iCFLUjfG7wsNPVXE37uS-bSBxOTMiB/view?usp=sharing)  
-**06.05** [Тема: ](https://drive.google.com/file/d/1m_sY5-T-h2GYvV5MF4iaVLKlLzpGNJxz/view?usp=sharing)  
+**06.05** [Стрембицька Л.А. Тема: УМР.Виступ на зборах,семінарах,конференції](https://drive.google.com/file/d/1m_sY5-T-h2GYvV5MF4iaVLKlLzpGNJxz/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
@@ -5342,6 +5350,7 @@ export default function DistanceLearning() {
 **15.04** [Тема: Повторення. Підготовка до ЗНО](https://drive.google.com/file/d/1-9ATP5Ha5M87hwbsVM6F20qBx2Btovdr/view?usp=sharing)  
 **26.04** [Тема: Повторення. Підготовка до ЗНО. Логарифми](https://drive.google.com/file/d/1e3aSqdSK3g78gAq_Oj2sR_fsVIxGaD_2/view?usp=sharing)  
 **29.04** [Тема: Повторення. Підготовка до ЗНО. Тригонометричні функції](https://drive.google.com/file/d/18HGzcSP_6TwrC2hkqQVCHJWXakDLCDoj/view?usp=sharing)  
+**06.05** [Тема: Повторення. Підготовка до ЗНО. Застосування похідної до дослідження функції](https://drive.google.com/file/d/1oPhZPwyJWWRrm9GpdIlmBTKVjVrCqybR/view?usp=sharing)  
 
 ** Захист України **  
 **11.01** [Тема: Повний огляд пораненого, зупинка всіх інших видів кровотеч](https://drive.google.com/file/d/1vGeJ4yYdwbxW2fG2x-JbPlzplwwwZNlL/view?usp=sharing)  
