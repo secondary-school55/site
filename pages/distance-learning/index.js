@@ -4221,7 +4221,7 @@ export default function DistanceLearning() {
 **22.04** [Тема: Проблема чистої Землі.](https://drive.google.com/file/d/1OUAGERgdpg7warQZ6v-_U1Uf8RHVXNaI/view?usp=sharing)  
 **29.04** [Тема: Закони і правоохоронні органи України](https://drive.google.com/file/d/113dbtJ12CLturGPa1yOCJ1DU3Fa0N93F/view?usp=sharing)  
 **06.05** [Тема: Правова відповідальність неповнолітніх](https://drive.google.com/file/d/1Q_wqwAtpswHuyqQAHB30fgN4j-RPiqB7/view?usp=sharing)  
-**06.05** [Тема: ]()  
+**06.05** [Тема: ВІЛ(СНІД) і права людини](https://drive.google.com/file/d/19B2nWkS3fU5sTJGAts7Pt-HZhPXcVTF3/view?usp=sharing)  
 
 ** Геометрія **  
 **08.12** [Тема: Подібність прямокутних трикутників. Властивість бісектриси. Метричні співвідношення](https://drive.google.com/file/d/1P4n2CeJ0hOGemlmT2Z8di8FAmWrYIIhI/view?usp=sharing)  
