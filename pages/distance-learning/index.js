@@ -43,6 +43,46 @@ export default function DistanceLearning() {
 1.  [Про запровадження карантинних обмежень](https://drive.google.com/file/d/1HmaH-2SeIwVYnFidmX4VMxskvdbiHYsW/view?usp=sharing)
 `}</Md>
       </Tab>
+      <Tab title="Індивідуальні заняття (1-А)">
+        <Md>{`
+**Англійська мова**  
+**09.04** [Тема: Мій вільний час. Вдома](https://drive.google.com/file/d/1JiDLKfD4cqhGHTzKS_Kk55MTBmol-By7/view?usp=sharing)  
+
+**Математика**  
+**01.04** [Тема: Короткий запис задач. Порівнюємо, додаємо і віднімаємо десятки. Робота з математичними матеріалами](https://drive.google.com/file/d/1kmHCx1sGS9SNI023fNqrOnvhZ1O6JUAL/view?usp=sharing)  
+**08.04** [Тема: Досліджуємо одиницю вимірювання довжини дециметр. Утворення числа другого десятка. Одноцифрові і двоцифрові числа](https://drive.google.com/file/d/1CmTYC2Bv5ODOFuhkhwUP2YXZ5ZPCkGNf/view?usp=sharing)  
+**15.04** [Тема: Записуємо числа другого десятка. Порівнюємо числа в межах 100. Порівняння чисел за числовим променем](https://drive.google.com/file/d/1k4VKG5XzouxC6a40mwHrV_4MKsoG_tsm/view?usp=sharing)  
+**22.04** [Тема: Додаємо і віднімаємо на основі складу чисел першої сотні. Додаємо і віднімаємо число 1. Складене іменоване число. Визначення довжини відрізків](https://drive.google.com/file/d/1eQBK_VH17iChsIdiFwgUtm66QktUq2hw/view?usp=sharing)  
+**29.04** [Тема: Додаємо і віднімаємо числа. Перетворення одиниць вимірювання довжини](https://drive.google.com/file/d/1hI9fPxC8s0yTreovMOYFimSI2rx5syvx/view?usp=sharing)  
+**06.05** [Тема: Досліджуємо задачі](https://drive.google.com/file/d/1Zg0mBxZx_MI_p3N8f7V7o3drAkSNcLYI/view?usp=sharing)  
+
+**Я досліджую світ**  
+**02.04** [Тема: Мій рідний край](https://drive.google.com/file/d/1Hfahh8A-VaRN1gA_iSbvIMPQjiHHbHC6/view?usp=sharing)  
+**07.05** [Тема: Символи моєї країни](https://drive.google.com/file/d/142XRW7mf_QvTHQ73STwPjm2h9xKhuMdC/view?usp=sharing)  
+
+**Навчання грамоти (письмо)**  
+**30.03** [Тема: Засвоєння правил мовленнєвого етикету під час знайомства. Написання слів із буквою ґ. Складання і записування речень](https://drive.google.com/file/d/1mZ5U27ReasZQo_MSxNgWFrsYhJ35tE3k/view?usp=sharing)  
+**06.04** [Тема: Написання слів із буквосполученнями дж, дз, буквою щ. Складання і записування слів із вивчених букв. Написання речень](https://drive.google.com/file/d/1mEH5dZjKKImU_qQbMR4T39achzyQO270/view?usp=sharing)  
+**08.04** [Тема: Апостроф. Правопис слів із буквосполученням йо. Списування слів, поданих друкованим шрифтом](https://drive.google.com/file/d/1dkor1OfJOFmZ1D6p9b5o83-0s4to-jhK/view?usp=sharing)  
+**13.04** [Тема: Поділ слів на склади. Виконання мовних вправ](https://drive.google.com/file/d/1CUQh-EuYQUrmRJEF9SsHWXPzokZQ3tG2/view?usp=sharing)  
+**20.04** [Тема: Утворення слів шляхом додавання префікса чи суфікса. Багатозначні слова. Складання і записування речень із ними](https://drive.google.com/file/d/1HUDbql6yYb5aJvoOirdB1JiM69-ppR7L/view?usp=sharing)  
+**22.04** [Тема: Слова, протилежні за значенням. Слова, близькі за значенням. Добирання слів, близьких за значенням](https://drive.google.com/file/d/1ng_A-1MNi6IX_fSis_QU14cVREO0ycxD/view?usp=sharing)  
+**27.04** [Тема: Слова - назви предметів. Розрізнення слів-назв предметів за питаннями хто,що. Слова-ознаки предметів](https://drive.google.com/file/d/1b0r6LD_OGCVDDpiEkGa4u4POWkhBXrAc/view?usp=sharing)  
+**05.05** [Тема: Слова-назви дії предметів. Добір слів, які відповідають на питання що робить, що роблять](https://drive.google.com/file/d/1eXCBJagzfJ2UpctNzi7BzdREBqJwDT5w/view?usp=sharing)  
+**06.04** [Тема: Розпізнавання слів, які відповідають на питання скільки. Вправляння у читанні числових виразів](https://drive.google.com/file/d/1m_jA_ZsXZB2jdvyrxeBEe2pJ7RQdDGFw/view?usp=sharing)  
+
+**Навчання грамоти (читання)**  
+**30.03** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. Загадка. За Л.Борщевською Папужка](https://drive.google.com/file/d/1FyhqRD7cAnupWlBExuDbhGlkgo66wseT/view?usp=sharing)  
+**01.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. Й. Курлат Добрий, О.Мітта У гостях і вдома](https://drive.google.com/file/d/1-XZwUxdlAUKAmcen9kPkGuPjFyPZnKtP/view?usp=sharing)  
+**06.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. Загадка. За Д.Чередниченком Фокус-мокус](https://drive.google.com/file/d/1qykPZt38FMQXt3NIkpztF44Qtk6XLR-t/view?usp=sharing)  
+**13.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. Н.Поклад Киця-друг. М.Пригара Сварка](https://drive.google.com/file/d/1NE8K6fM7YEug6MOi-94_R-qM3lT_5hqc/view?usp=sharing)  
+**15.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. Н.Кирян Хто жартує. Д.Чередниченко Мурчик і Жмурчик](https://drive.google.com/file/d/1hUclLNmvOJ2_qeeV4lciRS9MCHhSh48S/view?usp=sharing)  
+**20.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. Г.Бойко Задивилось сонечко. За Т.Білецькою Корисна розмова](https://drive.google.com/file/d/1eyjfTTtgFE9laDVuC_-xRSUHZUKHPKd0/view?usp=sharing)  
+**27.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. А.Костецький Що зробити. В.Карасьова Чий апельсин більший](https://drive.google.com/file/d/1HC6HkQpoNqquuYmsS7n_HvLEnz-WZgSe/view?usp=sharing)  
+**29.04** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання](https://drive.google.com/file/d/1pMd3PzibPLc6KxodphpdDmRzJ7QQmons/view?usp=sharing)  
+**05.05** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. С.Шаповалов Їду, їду на коні.В.Шкляр Маленька мураха](https://drive.google.com/file/d/1vjDyrqVEjkNUgci28a0iGj-hg8EmfSyF/view?usp=sharing)  
+`}</Md>
+      </Tab>
       <Tab title="1 клас">
         <Tabs>
           <Tab title="1 клас">
@@ -1468,6 +1508,7 @@ export default function DistanceLearning() {
 **06.05** [ІІ група. Тема: Розвиток зв'язного мовлення.Написання переказу Дружні шпаки](https://drive.google.com/file/d/1FVO5Qx9Vge8_KJIBNN8XdeCGIQF-Nd6w/view?usp=sharing)  
 **07.05** [І група. Тема: Визначення теми і мети тексту. Добір заголовка до тексту. Написання розгорнутої відповіді на запитання](https://drive.google.com/file/d/1UuA1PUrh6pjsn-OrtOIBiV_8jg4811wZ/view?usp=drive_web)  
 **07.05** [І група. Презентація. Тема: Визначення теми і мети тексту. Добір заголовка до тексту. Написання розгорнутої відповіді на запитання](https://drive.google.com/file/d/1qTI6wHZxYFu2oT0agbVz1L179C_mD_gV/view?usp=drive_web)  
+**07.05** [ІІ група. Тема: Визначення теми і мети тексту. Добір заголовка до тексту. Написання розгорнутої відповіді на запитання](https://drive.google.com/file/d/1QfbbnTKS74xawRIsZdPxvmgnmndZrHBm/view?usp=sharing)  
 
 ** Я досліджую світ **  
 **03.12** [Тема: Різноманітність культурних рослин. Значення рослин. (ст.139 – 141)](https://drive.google.com/file/d/1ObgOvkNELCuD7z2EJDMIhYqQQ8LbObDi/view?usp=sharing)  
@@ -1631,6 +1672,7 @@ export default function DistanceLearning() {
 **06.05** [І група. Тема: Фантазуй і створюй! В. Коломієць «Ліс і Лис». Складання вірша](https://drive.google.com/file/d/1yN5VpJuTIVaqLd5P-_4qNJNvTbMQkeST/view?usp=sharing)  
 **06.05** [ІІ група. Тема: Фантазуй і створюй! В. Коломієць «Ліс і Лис». Складання вірша](https://drive.google.com/file/d/1CihYTcQn8cu73WahdpL0qyx0jphUbod0/view?usp=sharing)  
 **07.05** [І група. Тема: Медіавіконце: мініпроєкт-колаж &quot;Про мене&quot;](https://drive.google.com/file/d/1ieU4YixBjdE1mO6p1LiNHQ5UmEcNVAaN/view?usp=drive_web)  
+**07.05** [ІІ група. Тема: Фантазуй і створюй! В. Коломієць «Ліс і Лис». Складання вірша](https://drive.google.com/file/d/1qhG0abNu-tuMRAbMvQ_LOtU2mLtbdfKw/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [Тема: Загально-розвивальні вправи](https://drive.google.com/file/d/1JgQ4VPp15hH2Rg_XeTkgB2WMHAKD-_Je/view?usp=sharing)  
