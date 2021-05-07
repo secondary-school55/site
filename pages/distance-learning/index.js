@@ -69,7 +69,7 @@ export default function DistanceLearning() {
 **22.04** [Тема: Слова, протилежні за значенням. Слова, близькі за значенням. Добирання слів, близьких за значенням](https://drive.google.com/file/d/1ng_A-1MNi6IX_fSis_QU14cVREO0ycxD/view?usp=sharing)  
 **27.04** [Тема: Слова - назви предметів. Розрізнення слів-назв предметів за питаннями хто,що. Слова-ознаки предметів](https://drive.google.com/file/d/1b0r6LD_OGCVDDpiEkGa4u4POWkhBXrAc/view?usp=sharing)  
 **05.05** [Тема: Слова-назви дії предметів. Добір слів, які відповідають на питання що робить, що роблять](https://drive.google.com/file/d/1eXCBJagzfJ2UpctNzi7BzdREBqJwDT5w/view?usp=sharing)  
-**06.04** [Тема: Розпізнавання слів, які відповідають на питання скільки. Вправляння у читанні числових виразів](https://drive.google.com/file/d/1m_jA_ZsXZB2jdvyrxeBEe2pJ7RQdDGFw/view?usp=sharing)  
+**06.05** [Тема: Розпізнавання слів, які відповідають на питання скільки. Вправляння у читанні числових виразів](https://drive.google.com/file/d/1m_jA_ZsXZB2jdvyrxeBEe2pJ7RQdDGFw/view?usp=sharing)  
 
 **Навчання грамоти (читання)**  
 **30.03** [Тема: Читаю і розповідаю. Вправи для розвитку навички читання. Загадка. За Л.Борщевською Папужка](https://drive.google.com/file/d/1FyhqRD7cAnupWlBExuDbhGlkgo66wseT/view?usp=sharing)  
