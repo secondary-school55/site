@@ -11,7 +11,7 @@
     "disqus-react": "^1.0.10",
     "flickity": "^2.2.1",
     "glob": "^7.1.6",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "next": "^10.0.0",
     "next-plugin-yaml": "^1.0.1",
     "react": "^17.0.1",
