@@ -4053,6 +4053,7 @@ export default function DistanceLearning() {
 **30.04** [8-Б. Тема: Узагальнення і систематизація вивченого](https://drive.google.com/file/d/1z2kpO2XX2TYa1hZN2fphyilPGKT94akC/view?usp=sharing)  
 **06.05** [8-А. Тема: Контрольна робота.Речення з відокремленими членами (тестування)](https://drive.google.com/file/d/1pyIizp7WulcIZOhifE2HDMnXfg4_HepZ/view?usp=sharing)  
 **06.05** [8-А. І група. Тема: Контрольна робота](https://drive.google.com/file/d/1unOfJm4gdFrkb6znuWXT7EXeHMbpMnqb/view?usp=sharing)  
+**07.05** [8-Б. Тема: Контрольна робота](https://drive.google.com/file/d/1mATVClulD4SKIUxZnCLq1HjzdA_3yiAp/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Володимир Підпалий. «Бачиш: між трав зелених…» Ідея людяності, бережливого ставлення до природи](https://drive.google.com/file/d/1Q8mIXGFf9Qrm1fqus0UoNSE-0gA4qN9q/view?usp=sharing)  
@@ -4088,6 +4089,7 @@ export default function DistanceLearning() {
 **29.04** [8-Б. Тема: Дитячі проблеми в дорослому  житті](https://drive.google.com/file/d/1R-4DJbmvv6bFqW4R3ty00b3yQAUffqHO/view?usp=sharing)  
 **30.04** [8-А. Тема: Дитячі проблеми в дорослому  житті](https://drive.google.com/file/d/10F3RMOarj1CGmwenecyTGp2Z2hqZ1x3a/view?usp=sharing)  
 **06.05** [8-Б. Тема: Характеристика образів Вітька, Федька, Галі](https://drive.google.com/file/d/1GZoNcFnjU4HMxBhBZURk37ETmjSMYJkx/view?usp=sharing)  
+**07.05** [8-А. Тема: Характеристика образів Вітька, Федька, Галі](https://drive.google.com/file/d/1208xapIhL1TFacTJ5ejR-VTaWnoKIFqR/view?usp=sharing)  
 
 ** Хімія **  
 **03.12** [Тема: Кількість речовини. Моль – одиниця кількості речовини. Число Авогадро.](https://drive.google.com/file/d/1Xza-GsZgxJa88JxRQB42fENhbGkA2hPj/view?usp=sharing)  
@@ -5034,6 +5036,7 @@ export default function DistanceLearning() {
 **06.05** [Стрембицька Л.А. Тема: УМР.Виступ на зборах,семінарах,конференції](https://drive.google.com/file/d/1m_sY5-T-h2GYvV5MF4iaVLKlLzpGNJxz/view?usp=sharing)  
 **06.05** [Добровольська В. Тема: РМ Виступ на зборах, конференціях](https://drive.google.com/file/d/1glHu5oF2v7bpZIBvTqlYh2F0oZ9z-KZW/view?usp=sharing)  
 **07.05** [Стрембицька Л.А. Тема: Прийменник,його особливості](https://drive.google.com/file/d/1QT2pq0hKFuiEYJm4wQN_tlgt_aNheOHe/view?usp=sharing)  
+**07.05** [Добровольська В. Тема: Прийменник як частина мови](https://drive.google.com/file/d/1XZo_6Fb1GqfON5jxzkRW_I2Rq4HGVhrJ/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
