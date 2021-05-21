@@ -49,6 +49,10 @@ title: КЗШ №55 КМР ДО відзначає День вишиванки �
 
 <slideshow id="*4b"></slideshow>
 
+5-А клас
+
+<slideshow id="*5a"></slideshow>
+
 5-Б клас
 
 <slideshow id="*5b"></slideshow>
