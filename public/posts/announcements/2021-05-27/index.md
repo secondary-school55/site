@@ -2,4 +2,6 @@
 title: БЖД під час літніх канікул
 ---
 
-<slideshow></slideshow>
+![](1.jpg)
+![](2.jpg)
+![](3.jpg)
