@@ -62,6 +62,10 @@ title: Останній дзвоник 2021
 
 <slideshow id="*6b"></slideshow>
 
+Клас 6-В
+
+<slideshow id="*6v"></slideshow>
+
 Клас 8-А
 
 <slideshow id="*8a"></slideshow>
