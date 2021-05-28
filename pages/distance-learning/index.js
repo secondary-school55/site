@@ -225,6 +225,7 @@ export default function DistanceLearning() {
 **30.04** [Аудіозапис. Тема: Весняні квіти](https://drive.google.com/file/d/12muTesiWIzM8k35q9MM_Mt3sZ0aTxxlK/view?usp=sharing)  
 **07.05** [Тема: День Землі](https://drive.google.com/file/d/1cJg-C5QVTfHVDkxh6WRTYIait5HEalRc/view?usp=sharing)  
 **07.05** [Аудіозапис. Тема: День Землі](https://drive.google.com/file/d/1n6G1F0eqRDxrUFt_R169Wh0clzPRwZDd/view?usp=sharing)  
+**28.05** [Тема: Повторення. Весна](https://drive.google.com/file/d/1y5roGjOqtMqNR9ZecTBL_C1CPnDrUE06/view?usp=sharing)  
 
 ** Навчання грамоти **  
 **04.12** [Тема: Звуки д, д’, позначення їх буквою «де». Практичне засвоєння дзвін-кої вимови звуків у кінці складів і слів. Словниково-логічні вправи](https://drive.google.com/file/d/1ZAOClYQ8HSOzVHbQ4qSlFuvsrc27sgkS/view?usp=sharing)  
@@ -507,6 +508,7 @@ export default function DistanceLearning() {
 **05.05** [Аудіозапис. Тема: Допомога в саду](https://drive.google.com/file/d/1SHaYyIv7DdklGqFQ6jSsWYCWYPH03fov/view?usp=sharing)  
 **07.05** [Тема: День Землі](https://drive.google.com/file/d/136aK5UtuAuu9Jo-NX7TnI9XGnN6S70BX/view?usp=sharing)  
 **07.05** [Аудіозапис. Тема: День Землі](https://drive.google.com/file/d/1xj9Uc_9VNMgvix0iKUZl8mbUAxUrlDiu/view?usp=sharing)  
+**28.05** [Тема: Повторення. Весна](https://drive.google.com/file/d/1KuhC1LBTXj0CBfnj1d6hc1IRqQG9DLXR/view?usp=sharing)  
 
 ** Образотворче мистецтво **  
 **20.01** [Тема: Зустріч з театром. Ляльковий театр. Театральна лялька. Виготовлення ляльки до казки «Лисичка, Котик і Півник»](https://drive.google.com/file/d/1uoe6p-AZBDpvoAjYlrICChgVPHkDhoko/view?usp=sharing)  
@@ -987,6 +989,7 @@ export default function DistanceLearning() {
 **07.05** [І група. Тема: Читаємо,говоримо,сприймаємо на слух разом](https://drive.google.com/file/d/1RiGzlqemb_OB0JW_VKaqwtSm8ApCrSvW/view?usp=sharing)  
 **07.05** [І група. Аудіозапис. Тема: Читаємо,говоримо,сприймаємо на слух разом](https://drive.google.com/file/d/1ZkDsbyF_C2Zg3ywDigraJH-0MZKya0tD/view?usp=sharing)  
 **07.05** [ІІ група. Тема: Читаємо,говоримо,сприймаємо на слух разом](https://drive.google.com/file/d/1PNOh4uFBWvRnIIlH4_P10dULjFmKaolt/view?usp=sharing)  
+**28.05** [І група. Тема: Підсумковий урок](https://drive.google.com/file/d/1npJWxRNqRBU4UrvJ53E0Zn7v_5AY9WxE/view?usp=sharing)  
 
 ** Математика **  
 **11.01** [Тема: Задачі і вирази на дії різного ступеня для засвоєння опрацьованих таблиць](https://drive.google.com/file/d/1VwNtfF7VLfGyvNSDziU_iCztBpKSa4aZ/view?usp=sharing)  
@@ -1631,6 +1634,7 @@ export default function DistanceLearning() {
 **07.05** [І група. Аудіозапис. Тема: Яке хобі мають ці діти](https://drive.google.com/file/d/16uMhsZsaamZwseIGeDhLYZAxMvQNWb-d/view?usp=sharing)  
 **07.05** [ІІ група. Тема: Яке хобі мають ці діти](https://drive.google.com/file/d/1WHO_AWxhqOlEaebBSv_hGM2yFzeLVCY0/view?usp=sharing)  
 **07.05** [ІІ група. Аудіозапис. Тема: Яке хобі мають ці діти](https://drive.google.com/file/d/1C-FiUi6zP2cmGTqVo1FP7SPnOP38zfxV/view?usp=sharing)  
+**28.05** [ІІ група. Тема: Цікава казка](https://drive.google.com/file/d/1Rd-KM38-vyCQGqhRVFqkECGWKKXO666u/view?usp=sharing)  
 
 ** Літературне читання **  
 **04.12** [Тема: Різдвяне чудо. Найкращий песик на світі. Досліджуємо текст. М.Морозенко "Руде цуценятко і різдвяний ангел" (продовження). Словесне малювання епізоду казки. Придумування продовження казки (с.72-74)](https://drive.google.com/file/d/1P9PYRpe3MujbYrASGAAjP1QHwFm3ZpU7/view?usp=sharing)  
@@ -2888,6 +2892,7 @@ export default function DistanceLearning() {
 **06.05** [5-Б. І група. Тема: Додавання редагування та форматування таблиць](https://drive.google.com/file/d/1K4uN8LzyWjjMdxMoeGhYODIQOSAGTtyR/view?usp=drive_web)  
 **07.05** [5-А. І група. Тема: Додавання редагування та форматування таблиць](https://drive.google.com/file/d/1K4uN8LzyWjjMdxMoeGhYODIQOSAGTtyR/view?usp=drive_web)  
 **07.05** [5-А. ІІ група. Тема: Додавання, редагування та форматування таблиць](https://drive.google.com/file/d/101YYqrt8qqyojLTdbLj2XJD17UbxCH4h/view?usp=sharing)  
+**28.05** [5-А. І група. Тема: Повторення матеріалу за рік](https://drive.google.com/file/d/1m5_ASVitDYvoIFNl_c28DGK6o7SWgOOu/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Музика і хореографія](https://drive.google.com/file/d/1PBuwP5xPJCP1aZy49dCWZpE4B5NvjRSX/view?usp=sharing)  
@@ -3042,6 +3047,7 @@ export default function DistanceLearning() {
 **06.05** [5-А. І група. Тема: Туризм в Україні. Плануємо подорож](https://drive.google.com/file/d/1KZOMQbM4Jcis--dvoHDiKPwJBPjT1CPh/view?usp=sharing)  
 **06.05** [5-Б. Тема: Туризм в Україні. Плануємо подорож](https://drive.google.com/file/d/1JuYHQ7Y5_2T00SkV3Djxi_ioIK1AaKP8/view?usp=sharing)  
 **06.05** [5-Б. Тема: Українські традиції](https://drive.google.com/file/d/18Wi7ceab4qP7I_IfVbYesC1Bf0GMchAe/view?usp=sharing)  
+**28.05** [5-Б. Тема: Незвичайні хобі](https://drive.google.com/file/d/1Y-Ybrg68dJon4Ub2H88ThvZR9cBSRY9Q/view?usp=sharing)  
 
 ** Фізична культура **  
 **11.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1XhCtlyYjAKVl9AIRPem4FPnj3raJbyH6/view?usp=sharing)  
@@ -3238,6 +3244,8 @@ export default function DistanceLearning() {
 **06.05** [6-А. ІІ група. Тема: Планування представлення презентації та налаштування показу презентації](https://drive.google.com/file/d/1I2SfcN2gKMgkZ9uK49ifbujLQJ1Mwmwi/view?usp=drive_web)  
 **07.05** [6-В. І група. Тема: Планування представлення презентації та налаштування показу презентації](https://drive.google.com/file/d/1kPVgy6JJ9PZXBH8AklvMhRbkUcJeKELI/view?usp=drive_web)  
 **07.05** [6-В. ІІ група. Тема: Планування представлення презентації та налаштування показу презентації](https://drive.google.com/file/d/1iamswn5uJnNot1_W7Fwi-m-gRG5wg2aP/view?usp=drive_web)  
+**28.05** [6-В. І група. Тема: Повторення матеріалу за рік](https://drive.google.com/file/d/1osHE4F4N4E18W0VDnXm-T53w8PK8TMpc/view?usp=drive_web)  
+**28.05** [6-В. ІІ група. Тема: Повторення матеріалу за рік](https://drive.google.com/file/d/1V81O31saj9n8RgUyXAa_6Ull7uIXRHzk/view?usp=drive_web)  
 
 ** Музичне мистецтво **  
 **04.12** [Тема: Українська симфонічна поема](https://drive.google.com/file/d/1HIqvp7YHpcBXXhV9D5TZGJ86eHBwwJxu/view?usp=sharing)  
@@ -3381,6 +3389,7 @@ export default function DistanceLearning() {
 **05.05** [6-А. Тема: Відмінювання займенників усіх розрядів](https://drive.google.com/file/d/1Chn-Blfab1sTPJYl1_22FRTKVmHkfHdD/view?usp=sharing)  
 **06.05** [6-В. Тема: Відмінювання займенників усіх розрядів](https://drive.google.com/file/d/1jUyXGyaTLoDQbtuqGMgk8cQLwvhrmi7F/view?usp=sharing)  
 **07.05** [Тема: Узагальнення та систематизація вивченого з теми «Займенник». Контрольна робота](https://drive.google.com/file/d/1AkQIDV_nUHyqCfuzjnZazeNtEuyuRB3g/view?usp=sharing)  
+**28.05** [Тема: Повторення. Словотвір та орфографія. Підсумковий урок](https://drive.google.com/file/d/1oFuUtz-qk48C52SZuCdr2hNG5JNI0sAr/view?usp=sharing)  
 
 ** Біологія **  
 **11.01** [Тема: Різноманітність та видозміни пагона](https://drive.google.com/file/d/1-QyLP9rc_OE-yPg9YZ7I6EDa7FmKktvz/view?usp=sharing)  
@@ -3430,6 +3439,7 @@ export default function DistanceLearning() {
 **05.05** [Тема: https://drive.google.com/file/d/1UJJQVbW6y52IojlRt1s0ErZc27ODfCMU/view?usp=sharing](https://drive.google.com/file/d/1UJJQVbW6y52IojlRt1s0ErZc27ODfCMU/view?usp=sharing)  
 **06.05** [6-А. Тема: Мої майбутні літні канікули. Розвиток граматичних навичок](https://drive.google.com/file/d/17I5mqXhsPzxUzijGqX-g6cJ7mS_bn7LE/view?usp=sharing)  
 **06.05** [6-Б,В. Тема: Мої майбутні літні канікули. Розвиток граматичних навичок](https://drive.google.com/file/d/1aKkIk6c45gfil7j4ZVD51TodWyfpyeqV/view?usp=sharing)  
+**28.05** [6-А. Тема: Повторення граматичного матеріалу](https://drive.google.com/file/d/1TnJ7QGsbEJL0DaOqb9w2QNEBXq2Ktydz/view?usp=sharing)  
 
 ** Трудове навчання **  
 **11.01** [Тема: Правила БЖД та ОП Короткі історичні відомості про розвиток мистецтва штучних декоративних квітів. Види декоративних квітів](https://drive.google.com/file/d/16YUkvI89A0BiQETZdytpt_jrfWkzfgT8/view?usp=sharing)  
@@ -3765,6 +3775,8 @@ export default function DistanceLearning() {
 **05.05** [7-Б. ІІ група. Тема: Розв'язування задач засобами табличного процесора](https://drive.google.com/file/d/1R5pzIPu8YpZ0RPRM2dCyR6Bf6mNNJiyt/view?usp=drive_web)  
 **07.05** [7-А. І група. Тема: Розв'язування задач засобами табличного процесора](https://drive.google.com/file/d/1c8qk4eo73HOFIx9sdgQB9UT0kp2eeuL7/view?usp=drive_web)  
 **07.05** [7-А. ІІ група. Тема: Розв'язування задач засобами табличного процесора](https://drive.google.com/file/d/1R5pzIPu8YpZ0RPRM2dCyR6Bf6mNNJiyt/view?usp=drive_web)  
+**28.05** [7-А. І група. Тема: Повторення і систематизація матеріалу за рік](https://drive.google.com/file/d/13v-qNq891p7Fyi8iL6vyKZJzGe6Sw5TA/view?usp=drive_web)  
+**28.05** [7-А. І група. Тема: Повторення і систематизація матеріалу за рік](https://drive.google.com/file/d/1XA1pkL_AN7KcQkueh6cZH47r0JYCFBD9/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Різноманітність птахів, їх роль у природі та значення в житті людини](https://drive.google.com/file/d/1yE8Ay4YmvkBD_Dh23t4NCf8q2Jox4_Ou/view?usp=sharing)  
@@ -3784,6 +3796,7 @@ export default function DistanceLearning() {
 **27.04** [Тема: Популяція. екосистеми, чинники середовища](https://drive.google.com/file/d/1qpu1GJy14tI06TDrKGuvE2F0VZsrfly3/view?usp=sharing)  
 **30.04** [Тема: Екосистема. Ланцюги живлення](https://drive.google.com/file/d/1rBIcnWyLOFOlqdycKAHMXRu5rZG6u9Wi/view?usp=sharing)  
 **07.05** [Тема: Співіснування організмів в угрупованнях](https://drive.google.com/file/d/16lOxbDdaDOSY7ZQM5Qb8n64SJRnNn4_P/view?usp=sharing)  
+**28.05** [Тема: Повторення. Особливості життєдіяльності живих організмів](https://drive.google.com/file/d/1OAD8QwCU6tDqhaEp9VB3SPt9p_Objwn1/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **04.12** [Тема: Показники фізичного розвитку підлітків. Способи покращення фізичної форми](https://drive.google.com/file/d/1RLib8JRvGgB4ChCpFRIzK3r3e9lClYCL/view?usp=sharing)  
@@ -4358,7 +4371,8 @@ export default function DistanceLearning() {
 **05.05** [8-Б. Тема: Підготовка до тестування.Історія л.а.Біг.Правила змагань](https://drive.google.com/file/d/1MgRTucojfuUUsMn1vYBN4rlzzSjMZfAX/view?usp=sharing)  
 **05.05** [8-А. Тема: Загальнорозвиваючі та спеціальні легкоатлетичні вправи. Біг у чергуванні з ходою до 18 хв](https://drive.google.com/file/d/1YpRzMJlEN-OySKSldLR6GbpQAMJqt4eL/view?usp=sharing)  
 **07.05** [8-Б. Тема: Стрибки та метання](https://drive.google.com/file/d/1GU3ieeFMfvRHw2PaYgXLXmh6fQS23dcM/view?usp=sharing)  
-**28.05** [Тема: Комплексн. дистанційний урок](https://drive.google.com/file/d/1qGJbZ3FMMP7pAsuHi7ci796PTES-CY1U/view?usp=sharing)  
+**28.05** [8-Б. Тема: Комплексн. дистанційний урок](https://drive.google.com/file/d/1qGJbZ3FMMP7pAsuHi7ci796PTES-CY1U/view?usp=sharing)  
+**28.05** [8-А. Тема: Теорія БЖД. Урок розвитку фізичних якостей або повторення пройденого матеріалу](https://drive.google.com/file/d/1EUr7nJv29WR21nXtjSfVZPuQJUC82mCv/view?usp=sharing)  
 
 ** Біологія **  
 **04.12** [Тема: Значення дихання. Будови і функції органів дихання](https://drive.google.com/file/d/1h8oxnpA9mSto58NfYV2yjRUNRFcB1z3B/view?usp=sharing)  
@@ -4377,6 +4391,7 @@ export default function DistanceLearning() {
 **26.04** [Тема: Біоритми людини. Сон](https://drive.google.com/file/d/1L7NQhEdOjy7EKrAdTHKHXV8EF8z5lKXg/view?usp=sharing)  
 **30.04** [Тема: Гуморальна регуляція функцій організму](https://drive.google.com/file/d/1g1oNS8s4hhkrXDQdc4inV9dyZPMC-ZxE/view?usp=sharing)  
 **07.05** [Тема: Будова та функції репродуктивної системи](https://drive.google.com/file/d/1gPNXGVtsxlCgLiOGKh4QFTpZNSa0tZ_O/view?usp=sharing)  
+**28.05** [Тема: Повторення. Організм людини цілісна система](https://drive.google.com/file/d/1Fv7mybCi6krBxyva6u7loao3ra8sMMSO/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **07.12** [Тема: Становлення особистості](https://drive.google.com/file/d/1XiqqH2rvbGD9PSbehbUFOjgN9d6ssUI8/view?usp=sharing)  
@@ -4818,7 +4833,8 @@ export default function DistanceLearning() {
 **05.05** [9-Б. Тема: Підготовка до тестування.Історія л.а.Біг.Правила змагань](https://drive.google.com/file/d/1xlINWGCSxQH-xQfr0pUXfS0eALhJs56K/view?usp=sharing)  
 **05.05** [9-А. Тема: Повільний біг. Загальнорозвивальні та спеціальні легкоатлетичні вправи. Біг у чергуванні з ходьбою до 10-15 хв](https://drive.google.com/file/d/1hzKCWHEsywrKrwpuD7oKjfKA6FW4A2sg/view?usp=sharing)  
 **07.05** [9-Б. Тема: Стрибки та метання](https://drive.google.com/file/d/137lY7YVQCpRXjVC47sljNyViAzKnsGai/view?usp=sharing)  
-**28.05** [Тема: Тренування ЗФП середнього рівня](https://drive.google.com/file/d/1Bvn91gPDRgNcxbtQ-NiqPYVztX4ulYXG/view?usp=sharing)  
+**28.05** [9-Б. Тема: Тренування ЗФП середнього рівня](https://drive.google.com/file/d/1Bvn91gPDRgNcxbtQ-NiqPYVztX4ulYXG/view?usp=sharing)  
+**28.05** [9-А. Тема: Теорія БЖД. Урок розвитку фізичних якостей або повторення пройденого матеріалу](https://drive.google.com/file/d/1-sS1UO5NRUJF60QANo406zXvrbbMERqD/view?usp=sharing)  
 
 ** Інформатика **  
 **04.12** [Тема: Розроблення програми. Виконання арифметичних обчислень. Уведення, виконання й налагодження програм](https://drive.google.com/file/d/1dpekkJgkf59EosU2y6jtD_cr9PnqzdpZ/view?usp=drive_web)  
@@ -4848,6 +4864,8 @@ export default function DistanceLearning() {
 **05.05** [9-Б. ІІ група. Тема: Планування проекту, збір та аналіз даних. Підготовка прототипу](https://drive.google.com/file/d/1jE7zyJH1N0PrtWvzqr6HVlgiXC2j2Tct/view?usp=drive_web)  
 **07.05** [9-А. І група. Тема: Планування проекту, збір та аналіз даних. Підготовка прототипу](https://drive.google.com/file/d/1D6gMOfMkeJlvM2m0B1EOGJW8VwkUfddC/view?usp=drive_web)  
 **07.05** [9-А. ІІ група. Тема: Планування проекту, збір та аналіз даних. Підготовка прототипу](https://drive.google.com/file/d/1jE7zyJH1N0PrtWvzqr6HVlgiXC2j2Tct/view?usp=drive_web)  
+**28.05** [9-А. І група. Тема: Роль інформаційних технологій для розвитку науки і суспільства. Повторення та узагальнення матеріалу, вивченого за рік](https://drive.google.com/file/d/1AE5BDtDbnUqTu27J-cMaoLK-eje3WHKz/view?usp=drive_web)  
+**28.05** [9-А. ІІ група. Тема: Роль інформаційних технологій для розвитку науки і суспільства. Повторення та узагальнення матеріалу, вивченого за рік](https://drive.google.com/file/d/1l6l9ZScZ7rEpP3nWRGmPMJ2snQ1prxS9/view?usp=drive_web)  
 
 ** Біологія **  
 **04.12** [Тема: Фотосинтез: світлова та темнова фази](https://drive.google.com/file/d/1AP4SBbE-Wl8PoIH4LiQXBqO2b-ri70gl/view?usp=sharing)  
@@ -4879,6 +4897,7 @@ export default function DistanceLearning() {
 **30.04** [9-Б. Тема: Екологічні фактори та їх дія на живі організми](https://drive.google.com/file/d/1YOkQ1lrJyI0Xs7p8SESpfDEeM181QwAn/view?usp=sharing)  
 **05.05** [Тема: Популяція та її властивості](https://drive.google.com/file/d/1QlH7SQdGvwGyBkouq6LgUolc0G68ljLT/view?usp=sharing)  
 **07.05** [Тема: Різноманітність екосистем](https://drive.google.com/file/d/19z2W7E3kDWK4Stq0CX0KeHPWp0OqlUqN/view?usp=sharing)  
+**28.05** [Тема: Повторення. Біологія - основа біотехнології та медицини](https://drive.google.com/file/d/1e2xqevMUlhstu8YEvasPyZ7K6FAAebSd/view?usp=sharing)  
 
 ** Українська мова **  
 **07.12** [Тема: Усний твір-роздум у публіцистичному стилі мовлення на суспільну тему](https://drive.google.com/file/d/1B1Pj9K4LkO41bylzM2_PTvUpGMqRtovG/view?usp=sharing)  
@@ -5206,7 +5225,8 @@ export default function DistanceLearning() {
 **05.05** [ІІ група. Тема: Підготовка до тестування.Історія л.а.Біг.Правила змагань](https://drive.google.com/file/d/1R92CG37Ijk6OHZI9IdyXF7jfW0Vmz9NZ/view?usp=sharing)  
 **05.05** [І група. Тема: Загальнорозвиваючі та спеціальні легкоатлетичні вправи. Біг у чергуванні з ходою до 18 хв](https://drive.google.com/file/d/11cFZyXwDjD6hsph7fCNkm5xRvz4YPfNF/view?usp=sharing)  
 **07.05** [ІІ група. Тема: Стрибки та метання](https://drive.google.com/file/d/1M4xENvUdaT1zstjIUzZ6eTH27pPxqgxH/view?usp=sharing)  
-**28.05** [Тема: Олімпійські ігри Стародавньої Греції](https://drive.google.com/file/d/148v2arQIbz9sxWVlvJro_ifNBMuBQG8c/view?usp=sharing)  
+**28.05** [ІІ група. Тема: Олімпійські ігри Стародавньої Греції](https://drive.google.com/file/d/148v2arQIbz9sxWVlvJro_ifNBMuBQG8c/view?usp=sharing)  
+**28.05** [І група. Тема: Теорія БЖД. Урок розвитку фізичних якостей або повторення пройденого матеріалу](https://drive.google.com/file/d/175p3TdTDlXQ1ezVNQ4Vyc6ew-0T3Vt46/view?usp=sharing)  
 
 ** Історія України. Всесвітня історія **  
 **04.12** [Тема: Західноукраїнська Народна Республіка.](https://drive.google.com/file/d/1UX5pzPnYGVUlJs01kyXsn3UxARYrvB_5/view?usp=sharing)  
@@ -5263,6 +5283,7 @@ export default function DistanceLearning() {
 **05.05** [І група. Тема: Політична система](https://drive.google.com/file/d/1AQ2w_Z7VJFiYMx-_daMfTu2qanozn6xo/view?usp=sharing)  
 **05.05** [ІІ група. Тема: Політична система](https://drive.google.com/file/d/1yG8_bvpebQPbQhT_p3-Bjq1hp0FpkSF5/view?usp=sharing)  
 **07.05** [І група. Тема: Підсумкова контрольна робота](https://drive.google.com/file/d/1oLcfkn3W5bWFZek9KHqZ5SDv2knbC9nB/view?usp=sharing)  
+**28.05** [ІІ група. Тема: Як написати хороше есе](https://drive.google.com/file/d/11bGestbF_RZbK-0pDM9CgnedR4BPl2dQ/view?usp=sharing)  
 
 ** Захист України**  
 **07.12** [Хлопці. Тема: Статути Збройних Сил України. Військові звання військовослужбовців Збройних Сил України](https://drive.google.com/file/d/1OzU2dwv875YIu-Owskc3Irad1zmIoqE9/view?usp=sharing)  
