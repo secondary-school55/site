@@ -3147,6 +3147,7 @@ export default function DistanceLearning() {
 **29.04** [5-Б. Тема: Елементи фольклору (казки) та їх значення для розкриття головної ідеї - реалізації мрій, бажань, прагнень особистості](https://drive.google.com/file/d/1xxFrbPTEfor0y4ib5tKZJuVfSTt_O8Pc/view?usp=sharing)  
 **30.04** [5-А. Тема: Елементи фольклору (казки) та їх значення для розкриття головної ідеї - реалізації мрій, бажань і прагнень особистості](https://drive.google.com/file/d/1pTxws_fvtFl0MYKjimx7kfNLwtfsME2i/view?usp=sharing)  
 **06.05** [5-Б. Тема: Туве Янсон. Життя та творчість. Комета прилітає](https://drive.google.com/file/d/1LzoYcDAD8p6xuLYeO-dOFAQus8MyoZYq/view?usp=sharing)  
+**28.05** [5-А. Тема: Подорож у світ літератури](https://drive.google.com/file/d/1QArZG4INAQI5XCIF6GmzmJzzQC4AvzXe/view?usp=sharing)  
 
 ** Історія **  
 **15.01** [Тема: Пам’ятки і пам’ятники історії](https://drive.google.com/file/d/1gF97W2MBDi0FNUAUUw8fytyNDAjAz01z/view?usp=sharing)  
@@ -3156,6 +3157,7 @@ export default function DistanceLearning() {
 **16.04** [5-А. Тема: Головні цілі пізнання минулого](https://drive.google.com/file/d/1OmVYd-3lhd7iP8d1hoYiY4kvBUUZAXJb/view?usp=sharing)  
 **23.04** [Тема: історія Історія, історики, письменники та поети](https://drive.google.com/file/d/1LzKykjl0BqJrXz0P6WIwSPcjHibfMuDR/view?usp=sharing)  
 **30.04** [Тема: Повідомлення з історії родини, презентація родового дерева](https://drive.google.com/file/d/1RB7kgY8fHgEEEXwH9gElFaQZtAT1lxtk/view?usp=sharing)  
+**28.05** [Тема: Сторінками історії України. Урок - гра](https://drive.google.com/file/d/1uvOxr9XN0L3HfeltKqrVcZWeuyVqey6a/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="6 клас">
@@ -3516,6 +3518,7 @@ export default function DistanceLearning() {
 **05.05** [6-В. Тема: Індійська цивілізація](https://drive.google.com/file/d/1aJCdrZMhLovID9WvfU53lc0sqRU0mspf/view?usp=sharing)  
 **05.05** [Тема: Індійська цивілізація](https://drive.google.com/file/d/16x16n-E-UIitiKk2uGBZUnaUt5Vye1fp/view?usp=sharing)  
 **07.05** [6-А,Б. Тема: Індійська цивілізація](https://drive.google.com/file/d/1CetQ4ObCFBQg-njFjVZyUlJmqnryeYjI/view?usp=sharing)  
+**28.05** [Тема:  Узагальнюючий урок по Індії. Китаю](https://drive.google.com/file/d/1WL0M1cCxyRhMDQDpciNJlPSq3uusd7zv/view?usp=sharing)  
 
 ** Основи здоров’я **  
 **13.01** [Тема: Види рішень](https://drive.google.com/file/d/1Ic241cRLf0OHQiJDlEFwiHeGkWpJTBc9/view?usp=sharing)  
