@@ -4780,6 +4780,7 @@ export default function DistanceLearning() {
 **30.04** [9-А. Тема: Порівняльна характеристика](https://drive.google.com/file/d/1uS7UvWIdXMgEgEZUntRm7FhIUWzr_RzI/view?usp=sharing)  
 **07.05** [9-Б. Тема: Марко Вовчок.Життя і творча діяльність](https://drive.google.com/file/d/1GKFQTHANp5DbZ1C8MBa_ZFvjG6wQnmOe/view?usp=sharing)  
 **28.05** [9-А. Тема: Повторення](https://drive.google.com/file/d/1NNgiEWMr0nWiQEFC-pvTOjwNzXvp-WL4/view?usp=sharing)  
+**28.05** [9-Б. Тема: Узагальнення вивченого в 9 класі](https://drive.google.com/file/d/1i6xdWQ5miOzht8rstzrsFMrpD2JtKI-M/view?usp=sharing)  
 
 ** Фізична культура **  
 **04.12** [9-А. Тема: Розвиток сили та силової витривалості учнів.](https://drive.google.com/file/d/10ODZR-UG7C9YAJv3bPb-eKqe7kwsjJA4/view?usp=sharing)  
@@ -5103,6 +5104,7 @@ export default function DistanceLearning() {
 **07.05** [Стрембицька Л.А. Тема: Прийменник,його особливості](https://drive.google.com/file/d/1QT2pq0hKFuiEYJm4wQN_tlgt_aNheOHe/view?usp=sharing)  
 **07.05** [Добровольська В. Тема: Прийменник як частина мови](https://drive.google.com/file/d/1XZo_6Fb1GqfON5jxzkRW_I2Rq4HGVhrJ/view?usp=sharing)  
 **28.05** [Добровольська В. Тема: Повторення](https://drive.google.com/file/d/1yRiVL9tjYi3kMs5hBIc87hyaZz0Flsqw/view?usp=sharing)  
+**28.05** [Стрембицька Л.А. Тема: Узагальнення та систематизація вивченого](https://drive.google.com/file/d/1p9ISN16IRgcMOl6Rr5o1mXzmS-_QWVYV/view?usp=sharing)  
 
 ** Українська література **  
 **03.12** [Тема: Лексична помилка. Найпоширеніші випадки порушення лексичної норми. Кальки з інших мов, недоречне вживання  українських слів у невластивому їм значенні](https://drive.google.com/file/d/1CfxzHg5xSZsuiWSIreHnKZphpaHdrocv/view?usp=sharing)  
@@ -5138,6 +5140,7 @@ export default function DistanceLearning() {
 **30.04** [Тема: Трилогія про Івана Мазепу](https://drive.google.com/file/d/1LjbG-GjcExYe7n-yvaOChn31AWalss3e/view?usp=sharing)  
 **05.05** [Тема: Історичні факти і художній вимисел у трилогії](https://drive.google.com/file/d/1g7YwjNvfuv8Bwkcw2RMQ-f884srJojUb/view?usp=sharing)  
 **07.05** [Тема: Історичне оповідання- Арслан -киз](https://drive.google.com/file/d/160zaQ6SLHvRFMaVPQBpWZCudZ0C-4TWz/view?usp=sharing)  
+**28.05** [Тема: Узагальнення та систематизація вивченого в 10 класі](https://drive.google.com/file/d/1S_h_c_n4JKmFcyBCThT4gIPdHmzll9em/view?usp=sharing)  
 
 ** Фізика **  
 **03.12** [Тема: Механічна робота. Потужність. Кінетична енергія.](https://drive.google.com/file/d/13ktDbpkU-YGMFOs3KRcYIqKot5LfswUQ/view?usp=sharing)  
@@ -5459,6 +5462,7 @@ export default function DistanceLearning() {
 **30.04** [Тема: Сергій Жадан - Ворошиловград](https://drive.google.com/file/d/1I2fCJDiQPjVXgD7PoK7G-aTcyVG6-MkG/view?usp=sharing)  
 **06.05** [Тема: Драматургія.Софія Андрухович,Олександр Ірванець](https://drive.google.com/file/d/1Kwz-QqfKVY-E_wovuxCv7tcXWYhxsCrj/view?usp=sharing)  
 **07.05** [Тема: Читацький практикум.Читання творів сучасної актуальної літератури](https://drive.google.com/file/d/1nECpRezXe5UgS08jFYXEwkkrzb7h4hSr/view?usp=sharing)  
+**28.05** [Тема: Узагальнення вивченого в 11 класі](https://drive.google.com/file/d/14NtyOj5mMcMr7cCno8IqvB34UGK1xkJ4/view?usp=sharing)  
 
 ** Інформатика **  
 **03.12** [Тема: Поняття про мови веб-скриптів та спосіб використання скриптів у гіпертекстових документах](https://drive.google.com/file/d/1jMc7DGcKCgnaUjGwBOw1DKgZov0jVr9k/view?usp=drive_web)  
