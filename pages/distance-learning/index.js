@@ -3589,6 +3589,7 @@ export default function DistanceLearning() {
 **30.04** [6-Б,В. Тема: Контрольне списування](https://drive.google.com/file/d/1wP80O9OwRJRVe89U6GT7fKqtI9_3_nNp/view?usp=sharing)  
 **05.05** [6-А. Тема: Сложные предложения с союзной и бессоюзной связью](https://drive.google.com/file/d/13xEV7CL-kDEPxKF6mAVUBRWXj5C3Gg8d/view?usp=sharing)  
 **07.05** [6-Б,В. Тема: Союзные и бессоюзные сложные предложения](https://drive.google.com/file/d/1e2ZQGpYa1ZRSDw_00MH-JQB8nEW41-j-/view?usp=sharing)  
+**28.05** [6-Б,В. Тема: Словари. Работа с книгой. Повторение](https://drive.google.com/file/d/1LqPTt9dOo5Yam7PsSpZrN506IWLkjlZO/view?usp=sharing)  
 `}</Md>
       </Tab>
       <Tab title="7 клас">
@@ -3614,6 +3615,7 @@ export default function DistanceLearning() {
 **30.04** [7-А. Тема: Прості механізми](https://drive.google.com/file/d/1tGuIh_71vArXs1pPW4LZOosKEH06QlQm/view?usp=sharing)  
 **06.05** [7-А. Тема: ККД механізмів](https://drive.google.com/file/d/1NIInZXfrw_hdZV9wlwE3vJ-Jb4T6BGJQ/view?usp=sharing)  
 **07.05** [7-Б. Тема: ККД механізмів](https://drive.google.com/file/d/1L8Sb8FV8rNgN5mJV9UE_r67bs_lUzJfd/view?usp=sharing)  
+**28.05** [7-А. Тема: Повторення, узагальнення знань](https://drive.google.com/file/d/1MM5BOy2s0d_BZxOTr_SEAsiu1LzBlEow/view?usp=sharing)  
 
 ** Музичне мистецтво **  
 **03.12** [Тема: «Електронна музика та її інструменти. Жанри і напрями електронної музики»](https://drive.google.com/file/d/1ZNwUMDGIqB9I96Nj55TvWZmcg5LEIKc9/view?usp=sharing)  
@@ -3984,6 +3986,7 @@ export default function DistanceLearning() {
 **27.04** [7-А. Тема: Д.В. Джонс. Мандрівний замок Хаула](https://drive.google.com/file/d/1YGJtBf_H_f4D815YLT9DOJ8ohkzVY87r/view?usp=sharing)  
 **30.04** [Тема: Поєднання елементів казки і детективу у творі](https://drive.google.com/file/d/1ffLBt0EagSJ5_1chlwvW2xGMxvWjti9M/view?usp=sharing)  
 **07.05** [Тема: Образ Софі, світ її мрій, бажань, жахів](https://drive.google.com/file/d/1a970LduxfKaI2Nc3JtN_uWPByCZD_ZBg/view?usp=sharing)  
+**28.05** [7-А,Б. Тема: Літературний калейдоскоп. Узагальнення і систематизація навчального матеріалу](https://drive.google.com/file/d/1S5G0XsAp6-Civg9c5vrRTizG3A0bRS_f/view?usp=sharing)  
 
 ** Фізична культура **  
 **12.01** [Тема: Загальна фізична підготовка](https://drive.google.com/file/d/1LYMqo8lKOm-bCK_MHTKKwk0WLaRKPTEK/view?usp=sharing)  
@@ -4959,6 +4962,7 @@ export default function DistanceLearning() {
 **23.04** [Тема: Закон збереження енергії](https://drive.google.com/file/d/1EfOsvr9Ei5vIrXAK_CukC2Km_AbXTHOw/view?usp=sharing)  
 **27.04** [Тема: Збереження енергії в механічних процесах](https://drive.google.com/file/d/1Ep7dRy-MX3UkoKRTbSk8vH8o8Bfve_9I/view?usp=sharing)  
 **07.05** [Тема: Фундаментальні взаємодії в природі](https://drive.google.com/file/d/1kI3-yWoyZ8yxiYJ2AXIhyUF1-HtxtX8j/view?usp=sharing)  
+**28.05** [Тема: Фізика та екологія](https://drive.google.com/file/d/1uvdZVnzW1Kox1vYV28QbSfd7aAwYmPQ8/view?usp=sharing)  
 
 ** Мистецтво **  
 **04.12** [Тема: Сюрреалізм](https://drive.google.com/file/d/1NifrDQX_ktjFsE6qmEyUdO5CkcjpReOn/view?usp=sharing)  
