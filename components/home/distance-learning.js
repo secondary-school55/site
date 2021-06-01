@@ -111,6 +111,10 @@ const items = [
     ],
   },
   {
+    url: "/distance-learning/organization-educational-process",
+    image: "organization-educational-process",
+  },
+  {
     url: "/distance-learning/#2",
     image: "1",
   },
