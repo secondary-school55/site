@@ -28,6 +28,8 @@ export default function PublicInfo() {
    - [2018-2019 н.р.](/public-info/monitoring-the-quality-of-education/2018-2019.pdf)
    - [2017-2018 н.р.](/public-info/monitoring-the-quality-of-education/2017-2018.pdf)
 1. @6 Річний звіт про діяльність закладу освіти:
+   - 2020-2021 н.р.
+     - [звіт директора за 2020-2021 н.р.](/public-info/annual-report/2020-2021.pdf)
    - 2019-2020 н.р.
      - [звіт директора за 2019-2020 н.р.](/public-info/annual-report/2019-2020.pdf)
      - [презентація до звіту директора за 2019-2020 н.р.](https://www.slideshare.net/kzhkzh/20192020-237362489)
